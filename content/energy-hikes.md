@@ -56,25 +56,7 @@ Residential heat loss in cold climates is governed by buoyant convective flow, c
 
 That pressurized warm air aggressively searches for every unsealed opening into the cold attic space. It escapes through top plate gaps along partition walls, wire penetrations drilled for Romex, unsealed drywall cuts around plumbing vents, and non-airtight recessed can lights.
 
-```
-                   [ Warm Air Escapes Out Attic Ceiling ]
-                   ▲          ▲          ▲          ▲
-                   │          │          │          │
-             ┌──────────────────────────────────────────────┐
-             │                 Attic Floor                  │
-             │   (Recessed cans, top plates, chase gaps)    │
-             ├──────────────────────────────────────────────┤
-             │                                              │
-             │               Living Space                   │
-             │           (Neutral Pressure Plane)           │
-             │                                              │
-             ├──────────────────────────────────────────────┤
-             │              Basement Rim Joist              │
-             │  (Mud sill gaps, uninsulated band joists)    │
-             └──────────────────────────────────────────────┘
-                   ▲          ▲          ▲          ▲
-                   [ Sub-Zero Air Pulled In at Foundation ]
-```
+![Technical Cross-Section: Stack-Effect Air Dynamics and Neutral Pressure Plane in a Midwest Home in Winter](images/stack-effect-diagram.jpg)
 
 Under fundamental laws of mass balance, every cubic foot of heated air pushed into the attic forces an equal cubic foot of freezing outdoor air into the bottom of the home. This creates a severe negative pressure zone across the basement foundation and rim joists. 
 

@@ -57,6 +57,20 @@ function markdownToHtml(md) {
   for (let i = 0; i < lines.length; i++) {
     let line = lines[i].trim();
 
+    // Image parsing (![alt](src))
+    if (line.startsWith('![')) {
+      const match = line.match(/^!\[(.*?)\]\((.*?)\)$/);
+      if (match) {
+        const alt = match[1];
+        let src = match[2];
+        if (src.startsWith('images/')) {
+          src = '../' + src;
+        }
+        html += `<figure class="my-8 rounded-2xl overflow-hidden border border-slate-200 bg-white shadow-sm">\n  <img src="${src}" alt="${alt}" class="w-full h-auto object-cover" loading="lazy" />\n  ${alt ? `<figcaption class="p-3 bg-slate-50 text-xs font-mono text-slate-500 border-t border-slate-200 text-center">${alt}</figcaption>` : ''}\n</figure>\n`;
+        continue;
+      }
+    }
+
     // Table parsing
     if (line.startsWith('|') && line.endsWith('|')) {
       if (!inTable) {
@@ -71,9 +85,9 @@ function markdownToHtml(md) {
       }
       const cells = line.split('|').slice(1, -1).map(c => c.trim());
       if (!tableHeaderDone) {
-        html += '<thead class="bg-steel-50 text-navy font-bold"><tr>' + cells.map(c => `<th class="p-3 border border-slate-200">${c}</th>`).join('') + '</tr></thead>\n<tbody>\n';
+        html += '<thead class="bg-steel-50 text-navy font-bold"><tr>' + cells.map(c => `<th class="p-3 border border-slate-200">${formatInline(c)}</th>`).join('') + '</tr></thead>\n<tbody>\n';
       } else {
-        html += '<tr class="border-b border-slate-100 hover:bg-slate-50/50">' + cells.map(c => `<td class="p-3 border border-slate-200 text-slate-700">${c}</td>`).join('') + '</tr>\n';
+        html += '<tr class="border-b border-slate-100 hover:bg-slate-50/50">' + cells.map(c => `<td class="p-3 border border-slate-200 text-slate-700">${formatInline(c)}</td>`).join('') + '</tr>\n';
       }
       continue;
     } else if (inTable) {

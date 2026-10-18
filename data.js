@@ -123,9 +123,9 @@ var miaecData = [
   },
   {
     "title": "Can a Heat Pump Actually Handle -15°F in a Midwest Winter? Cold-Climate Inverters Explained",
-    "subtitle": "",
-    "format": "Feature",
-    "leadType": "",
+    "subtitle": "Why low-ambient vapor flash-injection compressors maintain 100% heating capacity below zero, how dual-fuel balance points work, and how to avoid the summer humidity trap.",
+    "format": "Report",
+    "leadType": "Fact-First",
     "category": "Heating & Cooling",
     "catSlug": "heating-cooling",
     "cities": [
@@ -159,9 +159,9 @@ var miaecData = [
       "SD",
       "WI"
     ],
-    "summary": "Teardown of low-ambient flash-injection compressors down to -15°F, and why pairing with whole-home dehumidification solves the damp basement trap.",
-    "codeTag": "NEEP Cold-Climate Certified",
-    "type": "Article",
+    "summary": "A technical teardown of inverter-driven flash-injection heat pumps operating at -15°F, real-world COP curves vs natural gas furnaces, thermal balance points, and Manual J sizing rules.",
+    "codeTag": "NEEP ccASHP / AHRI 210/240 / ASHRAE 90.1",
+    "type": "Report",
     "url": "articles/cold-climate-heat-pumps.html"
   },
   {

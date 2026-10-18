@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About MIAEC | Midwest Building Science Journal & Directory</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,400&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            serif: ['"Newsreader"', 'Georgia', 'serif'],
+            sans: ['"Plus Jakarta Sans"', 'sans-serif'],
+            mono: ['"JetBrains Mono"', 'monospace'],
+          },
+          colors: {
+            navy: {
+              DEFAULT: '#161F83',
+              dark: '#0e1458',
+              text: '#111863',
+              50: '#eef2ff',
+            },
+            steel: {
+              DEFAULT: '#3274AE',
+              dark: '#225582',
+              100: '#e8f2fa',
+              50: '#f4f8fc',
+              border: '#d0e1f0',
+            },
+            crimson: {
+              DEFAULT: '#C42927',
+              hover: '#a8211f',
+            }
+          }
+        }
+      }
+    }
+  </script>
+</head>
+<body class="bg-[#FBFBFC] text-slate-800 font-sans antialiased selection:bg-navy selection:text-white min-h-screen flex flex-col">
+
+  <!-- Header -->
+  <header class="border-b border-slate-200 bg-white/95 backdrop-blur sticky top-0 z-50">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 h-18 py-3.5 flex items-center justify-between">
+      <div class="flex items-center gap-3">
+        <div class="w-10 h-10 rounded-lg bg-navy flex items-center justify-center font-bold text-white text-base tracking-wider font-mono shadow-sm">
+          <span>M</span><span class="text-crimson">I</span>
+        </div>
+        <div>
+          <a href="index.html" class="text-xl font-bold tracking-tight text-navy flex items-center gap-1 font-serif">
+            MI<span class="text-steel">AEC</span>
+          </a>
+          <p class="text-[10px] font-mono text-slate-500 uppercase tracking-widest">Midwest Building Science Journal</p>
+        </div>
+      </div>
+
+      <nav class="flex items-center gap-6 text-xs font-mono uppercase tracking-wider text-slate-600">
+        <a href="index.html" class="hover:text-navy transition font-medium">Browse All Articles</a>
+        <a href="index.html?cat=manufacturers" class="hover:text-navy transition font-medium">Manufacturer Directory</a>
+        <a href="about.html" class="text-navy font-bold border-b-2 border-crimson pb-0.5">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- About Content -->
+  <main class="flex-1 max-w-3xl mx-auto px-4 sm:px-6 py-16">
+    <div class="text-xs font-mono text-crimson font-bold uppercase tracking-widest mb-3">About MIAEC</div>
+    <h1 class="text-3xl sm:text-5xl font-bold text-navy font-serif tracking-tight leading-tight mb-8">
+      Engineering Standards for the Midwest Envelope
+    </h1>
+
+    <div class="space-y-6 text-slate-700 text-base leading-relaxed font-sans">
+      <p class="text-lg text-slate-800 font-medium leading-relaxed font-serif">
+        MIAEC (Midwest AEC) was established to solve a critical regional problem: generic, national building advice does not survive a Midwestern winter followed by a Midwestern summer.
+      </p>
+
+      <h2 class="text-2xl font-bold text-navy font-serif pt-4">Why Climate Zones 4 & 5 Require Different Physics</h2>
+      <p>
+        In hot-humid Florida, moisture always pushes into the home. In arctic Canada, moisture always pushes out. But across the American Midwest—spanning Missouri, Illinois, Indiana, Ohio, Iowa, Michigan, Wisconsin, and Kansas—the vapor drive completely reverses every six months.
+      </p>
+      <p>
+        Installing an impermeable 6-mil poly vapor barrier behind drywall in a Chicago or St. Louis home causes inward summer moisture to condense and breed mold. Conversely, failing to install continuous exterior insulation causes interior sheathing temperatures to drop below 45°F during January polar vortexes, rotting wall framing.
+      </p>
+
+      <h2 class="text-2xl font-bold text-navy font-serif pt-4">Our Focus: Remodels, R-Value & Energy Resilience</h2>
+      <p>
+        Midwest cities contain tens of thousands of historic brick bungalows, post-war ranches, and aging housing stock. With utility rates climbing dramatically, homeowners, flippers, and trades need practical, field-verified answers to:
+      </p>
+      <ul class="list-disc pl-6 space-y-2 text-slate-700">
+        <li><strong>Insulating Mass Brick Masonry:</strong> How to insulate 100-year-old brick from the inside without causing destructive winter freeze/thaw spalling.</li>
+        <li><strong>High-ROI Thermal Retrofits:</strong> Why dense-pack attic air-sealing and rim joist spray foam deliver 5x the energy savings of expensive replacement windows.</li>
+        <li><strong>Cold-Climate Inverter Mechanicals:</strong> How modern variable-speed heat pumps maintain 100% heating capacity down to -15°F while continuously managing summer humidity.</li>
+      </ul>
+
+      <h2 class="text-2xl font-bold text-navy font-serif pt-4">Specification Standards & Independence</h2>
+      <p>
+        MIAEC is an independent technical publisher. Every specification published on this platform is benchmarked against recognized consensus testing standards:
+      </p>
+      <div class="p-4 rounded-xl bg-steel-50 border border-steel-border font-mono text-xs text-steel-dark space-y-1">
+        <div>&bull; <strong>ASTM E1745:</strong> Under-Slab Water Vapor Retarders</div>
+        <div>&bull; <strong>ASTM C518:</strong> Steady-State Thermal Transmission (True R-Value)</div>
+        <div>&bull; <strong>ASTM E96:</strong> Water Vapor Permeance of Materials</div>
+        <div>&bull; <strong>ASTM E779 / E1827:</strong> Blower Door Air Leakage Standards</div>
+        <div>&bull; <strong>IECC 2024 / ASHRAE 90.1:</strong> Energy Conservation Building Codes</div>
+      </div>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="border-t border-slate-200 bg-white py-10 text-xs text-slate-500 font-mono mt-auto">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-4">
+      <div>MIAEC &bull; Midwest Building Science, Systems & Assemblies Directory</div>
+      <div>&copy; 2026 MIAEC Media LLC. All rights reserved.</div>
+    </div>
+  </footer>
+</body>
+</html>

@@ -23,7 +23,7 @@ All MIAEC content is written through a clearly defined editorial perspective:
 
 Every article on MIAEC must strictly follow one of four standardized structural formats:
 
-> **Strictly No Emojis:** MIAEC maintains a clean, architectural whitepaper aesthetic. Never use emojis (no pointing fingers, thumbs, or decorative symbols in text or links). Always use clean typographical arrows (`&rarr;` or `→`) and understated styling.
+> **Strictly No Emojis & Arrow Link Placement:** MIAEC maintains a clean, architectural whitepaper aesthetic. Never use emojis (no pointing fingers, thumbs, or decorative symbols in text or links). For callouts and cross-references, always place a clean typographical arrow *before* the link pointing directly at it (e.g., `&rarr; [Guide Title](url)`), never trailing after the link text.
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐

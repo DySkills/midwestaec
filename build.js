@@ -220,8 +220,10 @@ function markdownToHtml(md) {
             bqHtml += '  </ul>\n';
             inBqList = false;
           }
-          let cleanText = bLine.replace(/^\*\*Quick Summary:\*\*\s*/i, '');
-          bqHtml += `  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">${formatInline(cleanText)}</p>\n`;
+          let cleanText = bLine.replace(/^\*\*(?:Quick Summary|Executive Summary):?\*\*\s*/i, '');
+          if (cleanText.trim()) {
+            bqHtml += `  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">${formatInline(cleanText)}</p>\n`;
+          }
         }
       }
       if (inBqList) bqHtml += '  </ul>\n';
@@ -291,7 +293,13 @@ function formatInline(str) {
   return str
     .replace(/\*\*(.*?)\*\*/g, '<strong class="text-navy font-bold">$1</strong>')
     .replace(/\*(.*?)\*/g, '<em class="italic text-slate-800">$1</em>')
-    .replace(/\[(.*?)\]\((.*?)\)/g, '<a href="$2" class="text-crimson font-medium underline hover:text-crimson-hover">$1</a>');
+    .replace(/\[(.*?)\]\((.*?)\)/g, (match, text, href) => {
+      let finalHref = href;
+      if (finalHref.startsWith('articles/')) {
+        finalHref = finalHref.replace(/^articles\//, '');
+      }
+      return `<a href="${finalHref}" class="text-crimson font-medium underline hover:text-crimson-hover">${text}</a>`;
+    });
 }
 
 // Generate complete HTML page

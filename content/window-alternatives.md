@@ -98,7 +98,7 @@ While 85% of Midwest homes with sound frames should choose Low-E storms and air 
 If your window sills are structurally rotted, glass seals have permanently failed with internal moisture haze, or you are remediating hazardous chipping lead paint, new windows may be required. 
 
 Before shopping, understand what engineering specifications to demand:  
-**[Read the Buyer's Guide: When Replacing Windows Actually Makes Sense (And What Specifications to Demand) &rarr;](articles/when-to-replace-windows.html)**
+&rarr; **[Read the Buyer's Guide: When Replacing Windows Actually Makes Sense (And What Specifications to Demand)](articles/when-to-replace-windows.html)**
 
 ---
 

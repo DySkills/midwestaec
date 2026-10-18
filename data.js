@@ -397,10 +397,10 @@ var miaecData = [
     "url": "articles/insulating-brick.html"
   },
   {
-    "title": "Rockwool Stone Wool vs. Pink Fiberglass Batts: Real-World R-Value, Moisture & Fire Resistance",
-    "subtitle": "",
-    "format": "Feature",
-    "leadType": "",
+    "title": "Rockwool vs. Fiberglass in Midwest Walls: The 5 Physical Differences That Matter",
+    "subtitle": "Why low-density glass fibers allow convective loops at -10°F while stone mineral wool maintains true rated thermal resistance and zero water absorption.",
+    "format": "Listicle",
+    "leadType": "Contrast",
     "category": "Material Specifications",
     "catSlug": "materials",
     "cities": [
@@ -434,9 +434,9 @@ var miaecData = [
       "SD",
       "WI"
     ],
-    "summary": "Why fiberglass loses up to 30% of its insulating power when air moves through it or moisture touches it, while hydrophobic stone wool maintains true rated R-value.",
-    "codeTag": "ASTM C665 vs. ASTM C612",
-    "type": "Article",
+    "summary": "A head-to-head building science breakdown of density, convective air looping, moisture hydrophobicity, fire endurance, and acoustic mass between stone wool and fiberglass in Climate Zones 4 and 5.",
+    "codeTag": "ASTM C665 / ASTM C612 / ASTM C518",
+    "type": "Listicle",
     "url": "articles/rockwool-vs-fiberglass.html"
   },
   {

@@ -101,11 +101,11 @@ Before signing a five-figure window contract, determine which path matches your 
 
 1. **If Your Windows Are Structurally Sound (Just Drafty):**  
    Save $18,000. Installing AERC-certified low-E storm windows, packing weight cavities, and sealing the ceiling plane delivers over 80% of new window thermal performance for one-tenth the cost.  
-   **[Read the Field Guide: Window Replacement Alternatives: How Low-E Storms and Air Sealing Cut Heating Bills at 1/10th the Cost &rarr;](articles/window-alternatives.html)**
+   &rarr; **[Read the Field Guide: Window Replacement Alternatives: How Low-E Storms and Air Sealing Cut Heating Bills at 1/10th the Cost](articles/window-alternatives.html)**
 
 2. **If Your Frames Are Truly Beyond Repair:**  
    If your window sills are rotted, sash cords are broken, or double-pane seals have failed with permanent fogging, replacement is warranted—but only if you demand strict airtightness and installation standards so you don't get taken for a ride.  
-   **[Read the Buyer's Guide: When Replacing Windows Actually Makes Sense (And What Specifications to Demand) &rarr;](articles/when-to-replace-windows.html)**
+   &rarr; **[Read the Buyer's Guide: When Replacing Windows Actually Makes Sense (And What Specifications to Demand)](articles/when-to-replace-windows.html)**
 
 ---
 

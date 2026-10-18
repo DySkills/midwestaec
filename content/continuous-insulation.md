@@ -131,6 +131,6 @@ Third, confirm that the contractor leaves a 3/8-inch screened ventilation gap at
 ---
 
 ### Related Building Science Guides
-- **Winter Utility Tariffs & Thermal Chimneys:** **[Read: Winter Tariff Hikes: Why $20k on Windows Doesn't Hold Up &rarr;](articles/energy-hikes.html)**
-- **Wall Cavity Insulation Comparison:** **[Read: Rockwool vs. Fiberglass in Midwest Walls: The 5 Physical Differences That Matter &rarr;](articles/rockwool-vs-fiberglass.html)**
-- **Interior Vapor Control in Cold Climates:** **[Read: Smart Vapor Retarders: How Variable-Permeance Membranes Function in Climate Zone 5 &rarr;](articles/smart-vapor-retarders.html)**
+- **Winter Utility Tariffs & Thermal Chimneys:** &rarr; **[Read: Winter Tariff Hikes: Why $20k on Windows Doesn't Hold Up](articles/energy-hikes.html)**
+- **Wall Cavity Insulation Comparison:** &rarr; **[Read: Rockwool vs. Fiberglass in Midwest Walls: The 5 Physical Differences That Matter](articles/rockwool-vs-fiberglass.html)**
+- **Interior Vapor Control in Cold Climates:** &rarr; **[Read: Smart Vapor Retarders: How Variable-Permeance Membranes Function in Climate Zone 5](articles/smart-vapor-retarders.html)**

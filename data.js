@@ -244,8 +244,8 @@ var miaecData = [
     "url": "articles/crawlspace-encapsulation.html"
   },
   {
-    "title": "Winter Tariff Hikes: Why $20,000 Window Replacements Fail (And Better Options)",
-    "subtitle": "An investigative teardown of Midwest seasonal rate spikes, why salesmen push $20,000 replacement windows with 28-year paybacks, and the high-ROI building science alternatives that actually cut bills.",
+    "title": "Winter Tariff Hikes: Why $20k on Windows Doesn't Hold Up",
+    "subtitle": "An investigative teardown of Midwest seasonal rate spikes, the stack-effect chimney, and why $20,000 window replacements fail the math.",
     "format": "Feature",
     "leadType": "Descriptive",
     "category": "Energy Efficiency & R-Value",
@@ -282,7 +282,7 @@ var miaecData = [
       "WI"
     ],
     "summary": "Every winter gas and electric bills increase across the Midwest, but they are rarely caused by failing furnaces. The cost is driven by approved tariff hikes colliding with the stack effect: an instance of hot air rising through unsealed ceilings which pulls cold air into lower portions of a building.",
-    "codeTag": "IECC R-60 / ASTM E779 / AERC Low-E",
+    "codeTag": "IECC R-60 / ASTM E779",
     "type": "Feature",
     "url": "articles/energy-hikes.html"
   },
@@ -618,5 +618,91 @@ var miaecData = [
     "codeTag": "AHRI Dehumidification & SEER2",
     "type": "Article",
     "url": "articles/summer-humidity-ac.html"
+  },
+  {
+    "title": "When Replacing Windows Actually Makes Sense (And What Specifications to Demand)",
+    "subtitle": "An objective building science buyer's guide detailing the 4 conditions that warrant full replacement, and the strict NFRC and installation standards to demand.",
+    "format": "Report",
+    "leadType": "Fact-First",
+    "category": "Energy Efficiency & R-Value",
+    "catSlug": "energy-efficiency",
+    "cities": [
+      "Chicago",
+      "Cincinnati",
+      "Cleveland",
+      "Columbus",
+      "Des Moines",
+      "Detroit",
+      "Fargo",
+      "Indianapolis",
+      "Kansas City",
+      "Milwaukee",
+      "Minneapolis",
+      "Omaha",
+      "Rapid City",
+      "Sioux Falls",
+      "St. Louis"
+    ],
+    "states": [
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "MI",
+      "MN",
+      "MO",
+      "ND",
+      "NE",
+      "OH",
+      "SD",
+      "WI"
+    ],
+    "summary": "Full window replacement rarely pays back on energy savings alone, but severe wood rot, lead paint hazards, failed IGU seals, or deep envelope retrofits make new assemblies necessary. Here are the exact engineering specs to require.",
+    "codeTag": "Energy Star v7.0 / ASTM E2112 / NFRC",
+    "type": "Report",
+    "url": "articles/when-to-replace-windows.html"
+  },
+  {
+    "title": "Window Replacement Alternatives: How Low-E Storms & Air Sealing Deliver 80% Performance at 1/10th the Cost",
+    "subtitle": "A building science field specification for stopping drafts, air-sealing weight pockets, and installing AERC-rated storm panels before spending $20,000 on full-frame replacements.",
+    "format": "Report",
+    "leadType": "Fact-First",
+    "category": "Energy Efficiency & R-Value",
+    "catSlug": "energy-efficiency",
+    "cities": [
+      "Chicago",
+      "Cincinnati",
+      "Cleveland",
+      "Columbus",
+      "Des Moines",
+      "Detroit",
+      "Fargo",
+      "Indianapolis",
+      "Kansas City",
+      "Milwaukee",
+      "Minneapolis",
+      "Omaha",
+      "Rapid City",
+      "Sioux Falls",
+      "St. Louis"
+    ],
+    "states": [
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "MI",
+      "MN",
+      "MO",
+      "ND",
+      "NE",
+      "OH",
+      "SD",
+      "WI"
+    ],
+    "summary": "If your window frames are structurally sound, spending $20,000 on full replacements is an economic trap. Low-E storm panels combined with weight-pocket air sealing deliver over 80% of new window thermal efficiency for less than $2,500.",
+    "codeTag": "AERC Low-E / PNNL Field Data",
+    "type": "Report",
+    "url": "articles/window-alternatives.html"
   }
 ];

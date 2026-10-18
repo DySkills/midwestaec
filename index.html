@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>MIAEC | Guide to Midwest Building Science & Systems</title>
+  <title>MIAEC | Midwest Architecture, Engineering & Construction</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -25,7 +25,6 @@
               deep: '#0a0e3f',
               text: '#111863',
               50: '#eef2ff',
-              100: '#e0e7ff',
             },
             // 30% Secondary: Steel Blue (#3274AE)
             steel: {
@@ -41,7 +40,6 @@
               DEFAULT: '#C42927',
               hover: '#a8211f',
               light: '#fdf2f2',
-              border: '#f8b4b3',
             }
           }
         }
@@ -49,24 +47,25 @@
     }
   </script>
   <style>
-    /* guidetouxr clean category boxes with simplified 60-30-10 styling */
-    .uxr-box {
+    /* guidetouxr clean category boxes */
+    .category-box {
       transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
-      cursor: pointer;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      height: 160px;
+      text-decoration: none;
     }
-    .uxr-box:hover {
-      transform: translateY(-3px);
-      box-shadow: 0 10px 25px -5px rgba(22, 31, 131, 0.12);
-    }
-    .uxr-box.active {
-      outline: 3px solid #C42927;
-      outline-offset: 2px;
+    .category-box:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 12px 28px -6px rgba(22, 31, 131, 0.12);
+      border-color: #3274AE !important;
     }
   </style>
 </head>
 <body class="bg-[#FBFBFC] text-slate-800 font-sans antialiased selection:bg-navy selection:text-white min-h-screen flex flex-col">
 
-  <!-- Header (Browse All Articles, Manufacturer Directory, About) -->
+  <!-- Header (Clean & Spacious) -->
   <header class="border-b border-slate-200 bg-white/95 backdrop-blur sticky top-0 z-50">
     <div class="max-w-6xl mx-auto px-4 sm:px-6 h-18 py-3.5 flex items-center justify-between">
       <div class="flex items-center gap-3">
@@ -84,175 +83,142 @@
       </div>
 
       <nav class="flex items-center gap-6 sm:gap-8 text-xs font-mono uppercase tracking-wider text-slate-600">
-        <a href="#database" onclick="resetFilters();" class="hover:text-navy transition font-medium">Browse All Articles</a>
-        <a href="#database" onclick="filterBySlug('manufacturers');" class="hover:text-navy transition font-medium">Manufacturer Directory</a>
+        <a href="browse.html?cat=all" class="hover:text-navy transition font-medium">Browse All Articles</a>
+        <a href="browse.html?cat=manufacturers" class="hover:text-navy transition font-medium">Manufacturer Directory</a>
         <a href="about.html" class="hover:text-navy transition font-medium">About</a>
       </nav>
     </div>
   </header>
 
   <!-- Hero Section (guidetouxr style: Title + 1-sentence intro) -->
-  <section class="pt-14 pb-10 max-w-4xl mx-auto px-4 sm:px-6 text-center">
-    <h1 class="text-3xl sm:text-5xl font-bold text-navy font-serif tracking-tight leading-tight">
-      Guide to Midwest Building Science (MIAEC)
+  <section class="pt-16 pb-12 max-w-4xl mx-auto px-4 sm:px-6 text-center">
+    <h1 class="text-4xl sm:text-5xl font-bold text-navy font-serif tracking-tight leading-tight">
+      MIAEC
     </h1>
-    <p class="mt-4 text-base sm:text-lg text-slate-600 leading-relaxed max-w-2xl mx-auto">
-      A curated collection of specifications, envelope assemblies, and engineering teardowns for building in ASHRAE Climate Zones 4 & 5.
+    <p class="text-sm font-mono uppercase tracking-widest text-steel mt-2 font-bold">
+      Midwest Architecture, Engineering & Construction
     </p>
-
-    <!-- Search & Filter Console (City/State/Zone + Keyword Search) -->
-    <div class="mt-8 max-w-2xl mx-auto bg-white p-3 rounded-2xl border border-slate-200 shadow-sm flex flex-col sm:flex-row gap-2.5">
-      <div class="relative flex-1">
-        <input 
-          type="text" 
-          id="search-input" 
-          oninput="handleSearch()"
-          placeholder="Search specs, assemblies, or materials (e.g. vapor barrier, heat pump, brick)..." 
-          class="w-full bg-slate-50 border border-slate-200 rounded-xl px-4 py-2.5 text-sm text-navy placeholder-slate-400 focus:outline-none focus:border-steel focus:bg-white transition"
-        >
-      </div>
-
-      <div class="w-full sm:w-52">
-        <select 
-          id="zone-select" 
-          onchange="handleZoneFilter()"
-          class="w-full bg-slate-50 border border-slate-200 rounded-xl px-3 py-2.5 text-xs font-mono text-slate-700 focus:outline-none focus:border-steel focus:bg-white transition"
-        >
-          <option value="all">All Midwest (Zones 4 & 5)</option>
-          <option value="Zone 4">Zone 4 (MO, S. IL, S. IN, S. OH, KS)</option>
-          <option value="Zone 5">Zone 5 (N. IL, N. IN, N. OH, IA, MI, WI)</option>
-        </select>
-      </div>
-    </div>
+    <p class="mt-4 text-base sm:text-lg text-slate-600 leading-relaxed max-w-2xl mx-auto font-sans">
+      A curated collection of building science specifications, envelope assemblies, and trade engineering for Climate Zones 4 & 5.
+    </p>
   </section>
 
-  <!-- CONTENT CATEGORIES BLOCKS (guidetouxr 1:1 box grid with simplified 60-30-10 palette) -->
-  <section class="max-w-6xl mx-auto px-4 sm:px-6 pb-12">
-    <div class="text-xs font-mono uppercase tracking-widest text-slate-400 mb-3 text-center sm:text-left">
-      Systems Directory
-    </div>
-
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4" id="category-boxes">
+  <!-- CATEGORY BLOCKS GRID (Pure guidetouxr 1:1 architecture) -->
+  <main class="max-w-6xl mx-auto px-4 sm:px-6 pb-20 flex-1 w-full">
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
       
-      <!-- Box 1: Air Barriers -->
-      <div onclick="filterBySlug('air-barriers')" class="uxr-box p-6 rounded-2xl bg-white border-2 border-steel-border hover:border-steel text-left flex flex-col justify-between h-40 shadow-xs" data-slug="air-barriers">
+      <!-- Box 1: All Guides & Specifications (Master Category Block) -->
+      <a href="browse.html?cat=all" class="category-box p-6 rounded-2xl bg-navy text-white shadow-sm border-2 border-navy">
         <div class="flex items-center justify-between">
-          <span class="text-xs font-mono text-steel font-bold">01 &bull; AIR</span>
-          <span class="w-2 h-2 rounded-full bg-steel"></span>
+          <span class="text-xs font-mono text-steel-100 font-bold tracking-wider">DIRECTORY</span>
+          <span class="w-2.5 h-2.5 rounded-full bg-crimson animate-pulse"></span>
         </div>
         <div>
-          <h3 class="text-xl font-bold text-navy font-serif leading-snug">Air Barriers</h3>
-          <p class="text-xs text-slate-500 mt-1 font-sans">Airtightness & Blower Door Testing</p>
+          <h3 class="text-2xl font-bold text-white font-serif leading-snug">All Guides & Specifications</h3>
+          <p class="text-xs text-steel-100 mt-1 font-sans">Browse the complete regional library &rarr;</p>
         </div>
-      </div>
+      </a>
 
-      <!-- Box 2: Water Barriers -->
-      <div onclick="filterBySlug('water-barriers')" class="uxr-box p-6 rounded-2xl bg-white border-2 border-steel-border hover:border-steel text-left flex flex-col justify-between h-40 shadow-xs" data-slug="water-barriers">
+      <!-- Box 2: Energy & R-Value -->
+      <a href="browse.html?cat=energy-efficiency" class="category-box p-6 rounded-2xl bg-white border-2 border-steel-border shadow-xs">
         <div class="flex items-center justify-between">
-          <span class="text-xs font-mono text-steel font-bold">02 &bull; WATER</span>
-          <span class="w-2 h-2 rounded-full bg-steel"></span>
+          <span class="text-xs font-mono text-steel font-bold">THERMAL</span>
+          <span class="text-xs font-mono text-slate-400">R-Value</span>
         </div>
         <div>
-          <h3 class="text-xl font-bold text-navy font-serif leading-snug">Water Barriers</h3>
-          <p class="text-xs text-slate-500 mt-1 font-sans">WRB & Below-Slab Retarders</p>
+          <h3 class="text-2xl font-bold text-navy font-serif leading-snug">Energy Efficiency & R-Value</h3>
+          <p class="text-xs text-slate-500 mt-1 font-sans">Continuous exterior insulation & price hikes</p>
         </div>
-      </div>
+      </a>
 
-      <!-- Box 3: Energy & R-Value -->
-      <div onclick="filterBySlug('energy-efficiency')" class="uxr-box p-6 rounded-2xl bg-white border-2 border-steel-border hover:border-steel text-left flex flex-col justify-between h-40 shadow-xs" data-slug="energy-efficiency">
+      <!-- Box 3: Urban Remodels -->
+      <a href="browse.html?cat=urban-remodels" class="category-box p-6 rounded-2xl bg-white border-2 border-steel-border shadow-xs">
         <div class="flex items-center justify-between">
-          <span class="text-xs font-mono text-steel font-bold">03 &bull; THERMAL</span>
-          <span class="w-2 h-2 rounded-full bg-steel"></span>
+          <span class="text-xs font-mono text-crimson font-bold">CITIES</span>
+          <span class="text-xs font-mono text-slate-400">Historic Stock</span>
         </div>
         <div>
-          <h3 class="text-xl font-bold text-navy font-serif leading-snug">Energy & R-Value</h3>
-          <p class="text-xs text-slate-500 mt-1 font-sans">Continuous Insulation & Price Hikes</p>
+          <h3 class="text-2xl font-bold text-navy font-serif leading-snug">Urban Remodels</h3>
+          <p class="text-xs text-slate-500 mt-1 font-sans">100-year brick masonry & balloon framing</p>
         </div>
-      </div>
+      </a>
 
-      <!-- Box 4: Heating & Cooling -->
-      <div onclick="filterBySlug('heating-cooling')" class="uxr-box p-6 rounded-2xl bg-white border-2 border-steel-border hover:border-steel text-left flex flex-col justify-between h-40 shadow-xs" data-slug="heating-cooling">
+      <!-- Box 4: Water & Moisture Barriers -->
+      <a href="browse.html?cat=water-barriers" class="category-box p-6 rounded-2xl bg-white border-2 border-steel-border shadow-xs">
         <div class="flex items-center justify-between">
-          <span class="text-xs font-mono text-steel font-bold">04 &bull; MEP</span>
-          <span class="w-2 h-2 rounded-full bg-steel"></span>
+          <span class="text-xs font-mono text-steel font-bold">WATER</span>
+          <span class="text-xs font-mono text-slate-400">Moisture</span>
         </div>
         <div>
-          <h3 class="text-xl font-bold text-navy font-serif leading-snug">Heating & Cooling</h3>
-          <p class="text-xs text-slate-500 mt-1 font-sans">Inverter Heat Pumps & Humidity</p>
+          <h3 class="text-2xl font-bold text-navy font-serif leading-snug">Water Barriers</h3>
+          <p class="text-xs text-slate-500 mt-1 font-sans">WRBs, self-adhered membranes & slab poly</p>
         </div>
-      </div>
+      </a>
 
-      <!-- Box 5: Roofing Assemblies -->
-      <div onclick="filterBySlug('roofing')" class="uxr-box p-6 rounded-2xl bg-white border-2 border-steel-border hover:border-steel text-left flex flex-col justify-between h-40 shadow-xs" data-slug="roofing">
+      <!-- Box 5: Air Barriers -->
+      <a href="browse.html?cat=air-barriers" class="category-box p-6 rounded-2xl bg-white border-2 border-steel-border shadow-xs">
         <div class="flex items-center justify-between">
-          <span class="text-xs font-mono text-steel font-bold">05 &bull; ROOF</span>
-          <span class="w-2 h-2 rounded-full bg-steel"></span>
+          <span class="text-xs font-mono text-steel font-bold">AIR</span>
+          <span class="text-xs font-mono text-slate-400">Airtightness</span>
         </div>
         <div>
-          <h3 class="text-xl font-bold text-navy font-serif leading-snug">Roofing Assemblies</h3>
-          <p class="text-xs text-slate-500 mt-1 font-sans">Cold Roofs, Attics & Ice Dams</p>
+          <h3 class="text-2xl font-bold text-navy font-serif leading-snug">Air Barriers</h3>
+          <p class="text-xs text-slate-500 mt-1 font-sans">Blower door testing & smart vapor retarders</p>
         </div>
-      </div>
+      </a>
 
-      <!-- Box 6: Prefab Envelopes -->
-      <div onclick="filterBySlug('prefab')" class="uxr-box p-6 rounded-2xl bg-white border-2 border-steel-border hover:border-steel text-left flex flex-col justify-between h-40 shadow-xs" data-slug="prefab">
+      <!-- Box 6: Heating & Cooling (MEP) -->
+      <a href="browse.html?cat=heating-cooling" class="category-box p-6 rounded-2xl bg-white border-2 border-steel-border shadow-xs">
         <div class="flex items-center justify-between">
-          <span class="text-xs font-mono text-steel font-bold">06 &bull; PREFAB</span>
-          <span class="w-2 h-2 rounded-full bg-steel"></span>
+          <span class="text-xs font-mono text-steel font-bold">MEP</span>
+          <span class="text-xs font-mono text-slate-400">HVAC</span>
         </div>
         <div>
-          <h3 class="text-xl font-bold text-navy font-serif leading-snug">Prefab Envelopes</h3>
-          <p class="text-xs text-slate-500 mt-1 font-sans">SIPs, ICF & Offsite Panels</p>
+          <h3 class="text-2xl font-bold text-navy font-serif leading-snug">Heating & Cooling</h3>
+          <p class="text-xs text-slate-500 mt-1 font-sans">Inverter heat pumps (-15°F) & ERVs</p>
         </div>
-      </div>
+      </a>
 
-      <!-- Box 7: Material Manufacturers -->
-      <div onclick="filterBySlug('manufacturers')" class="uxr-box p-6 rounded-2xl bg-navy text-white text-left flex flex-col justify-between h-40 shadow-sm" data-slug="manufacturers">
+      <!-- Box 7: Roofing Assemblies -->
+      <a href="browse.html?cat=roofing" class="category-box p-6 rounded-2xl bg-white border-2 border-steel-border shadow-xs">
         <div class="flex items-center justify-between">
-          <span class="text-xs font-mono text-steel-200 font-bold">07 &bull; SPECS</span>
-          <span class="w-2 h-2 rounded-full bg-crimson"></span>
+          <span class="text-xs font-mono text-steel font-bold">ROOF</span>
+          <span class="text-xs font-mono text-slate-400">Attics</span>
         </div>
         <div>
-          <h3 class="text-xl font-bold text-white font-serif leading-snug">Manufacturer Directory</h3>
-          <p class="text-xs text-steel-100 mt-1 font-sans">Certified ASTM Product Cut Sheets</p>
+          <h3 class="text-2xl font-bold text-navy font-serif leading-snug">Roofing Assemblies</h3>
+          <p class="text-xs text-slate-500 mt-1 font-sans">Cold roofs, ventilation & ice dam prevention</p>
         </div>
-      </div>
+      </a>
 
-      <!-- Box 8: Urban Remodels Quick Filter -->
-      <div onclick="filterBySearch('Brick')" class="uxr-box p-6 rounded-2xl bg-steel-50 border-2 border-dashed border-steel-border hover:border-steel text-left flex flex-col justify-between h-40" data-slug="remodels">
+      <!-- Box 8: Prefab Envelopes -->
+      <a href="browse.html?cat=prefab" class="category-box p-6 rounded-2xl bg-white border-2 border-steel-border shadow-xs">
         <div class="flex items-center justify-between">
-          <span class="text-xs font-mono text-crimson font-bold">SPOTLIGHT</span>
-          <span class="text-xs font-mono text-slate-400">Cities</span>
+          <span class="text-xs font-mono text-steel font-bold">PREFAB</span>
+          <span class="text-xs font-mono text-slate-400">Offsite</span>
         </div>
         <div>
-          <h3 class="text-xl font-bold text-navy font-serif leading-snug">Urban Remodels</h3>
-          <p class="text-xs text-slate-500 mt-1 font-sans">100-Year Brick & Historic Stock</p>
+          <h3 class="text-2xl font-bold text-navy font-serif leading-snug">Prefab Envelopes</h3>
+          <p class="text-xs text-slate-500 mt-1 font-sans">SIPs, ICF & panelized assemblies</p>
         </div>
-      </div>
+      </a>
+
+      <!-- Box 9: Material Manufacturers Directory -->
+      <a href="browse.html?cat=manufacturers" class="category-box p-6 rounded-2xl bg-steel-50 border-2 border-steel-border shadow-xs">
+        <div class="flex items-center justify-between">
+          <span class="text-xs font-mono text-steel-dark font-bold">PRODUCTS</span>
+          <span class="text-xs font-mono text-crimson font-bold">ASTM Specs</span>
+        </div>
+        <div>
+          <h3 class="text-2xl font-bold text-navy font-serif leading-snug">Manufacturer Directory</h3>
+          <p class="text-xs text-slate-500 mt-1 font-sans">Verified ASTM specifications & cut sheets</p>
+        </div>
+      </a>
 
     </div>
-  </section>
+  </main>
 
-  <!-- MODULAR DATABASE RESULTS SECTION -->
-  <section id="database" class="max-w-6xl mx-auto px-4 sm:px-6 py-10 border-t border-slate-200 flex-1">
-    <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between mb-6 gap-3">
-      <div>
-        <h2 class="text-2xl font-bold text-navy font-serif" id="results-heading">All Guides & Specifications</h2>
-        <p class="text-xs font-mono text-slate-500 mt-1" id="results-count-text">Loading database...</p>
-      </div>
-
-      <button onclick="resetFilters()" id="reset-btn" class="hidden text-xs font-mono text-crimson hover:underline font-bold">
-        &times; Clear All Filters
-      </button>
-    </div>
-
-    <!-- Modular Database Cards Grid -->
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5" id="results-container">
-      <!-- Injected via JavaScript from data.js -->
-    </div>
-  </section>
-
-  <!-- Suggest a Resource & Newsletter (Exact guidetouxr bottom layout) -->
+  <!-- Suggest a Resource & Newsletter (guidetouxr exact bottom layout) -->
   <section class="border-t border-slate-200 bg-white py-14">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 text-center">
       <h3 class="text-2xl font-bold text-navy font-serif">Something missing or have a material to spec?</h3>
@@ -286,7 +252,7 @@
       <div class="flex items-center gap-2">
         <span class="font-bold text-navy">MIAEC</span>
         <span>&bull;</span>
-        <span>Guide to Midwest Building Science & Systems</span>
+        <span>Midwest Architecture, Engineering & Construction</span>
       </div>
       <div>
         <a href="about.html" class="hover:text-navy">About MIAEC</a>
@@ -296,174 +262,5 @@
     </div>
   </footer>
 
-  <!-- Include data.js -->
-  <script src="data.js"></script>
-
-  <!-- Database & Search Controller -->
-  <script>
-    let activeCategory = 'all';
-    let activeZone = 'all';
-    let searchQuery = '';
-
-    document.addEventListener('DOMContentLoaded', () => {
-      // Check URL query parameter (e.g. index.html?cat=manufacturers)
-      const urlParams = new URLSearchParams(window.location.search);
-      const catParam = urlParams.get('cat');
-      if (catParam) {
-        filterBySlug(catParam);
-      } else {
-        renderDatabase();
-      }
-    });
-
-    function handleSearch() {
-      searchQuery = document.getElementById('search-input').value.toLowerCase().trim();
-      renderDatabase();
-    }
-
-    function handleZoneFilter() {
-      activeZone = document.getElementById('zone-select').value;
-      renderDatabase();
-    }
-
-    function filterBySlug(slug) {
-      activeCategory = slug;
-      searchQuery = '';
-      document.getElementById('search-input').value = '';
-      
-      // Update UI state on boxes
-      document.querySelectorAll('.uxr-box').forEach(box => {
-        if (box.getAttribute('data-slug') === slug) {
-          box.classList.add('active');
-        } else {
-          box.classList.remove('active');
-        }
-      });
-
-      renderDatabase();
-
-      // Smooth scroll to database section
-      document.getElementById('database').scrollIntoView({ behavior: 'smooth' });
-    }
-
-    function filterBySearch(term) {
-      document.getElementById('search-input').value = term;
-      searchQuery = term.toLowerCase();
-      renderDatabase();
-      document.getElementById('database').scrollIntoView({ behavior: 'smooth' });
-    }
-
-    function resetFilters() {
-      activeCategory = 'all';
-      activeZone = 'all';
-      searchQuery = '';
-      document.getElementById('search-input').value = '';
-      document.getElementById('zone-select').value = 'all';
-      
-      document.querySelectorAll('.uxr-box').forEach(box => box.classList.remove('active'));
-      renderDatabase();
-    }
-
-    function renderDatabase() {
-      const container = document.getElementById('results-container');
-      const countText = document.getElementById('results-count-text');
-      const heading = document.getElementById('results-heading');
-      const resetBtn = document.getElementById('reset-btn');
-
-      // Filter data
-      const filtered = miaecData.filter(item => {
-        const matchesCategory = (activeCategory === 'all') || (item.catSlug === activeCategory);
-        
-        let matchesZone = true;
-        if (activeZone !== 'all') {
-          matchesZone = item.zone.includes(activeZone) || item.zone === 'All Zones' || item.zone === 'Zones 4 & 5';
-        }
-
-        let matchesSearch = true;
-        if (searchQuery) {
-          const haystack = (item.title + ' ' + item.summary + ' ' + item.category + ' ' + item.codeTag).toLowerCase();
-          matchesSearch = haystack.includes(searchQuery);
-        }
-
-        return matchesCategory && matchesZone && matchesSearch;
-      });
-
-      // Show/Hide reset button
-      if (activeCategory !== 'all' || activeZone !== 'all' || searchQuery) {
-        resetBtn.classList.remove('hidden');
-      } else {
-        resetBtn.classList.add('hidden');
-      }
-
-      // Update heading
-      if (activeCategory !== 'all') {
-        heading.textContent = 'Category: ' + getCategoryName(activeCategory);
-      } else if (searchQuery) {
-        heading.textContent = 'Search Results for "' + searchQuery + '"';
-      } else {
-        heading.textContent = 'All Guides & Specifications';
-      }
-
-      countText.textContent = `Showing ${filtered.length} technical specifications & teardowns`;
-
-      // Render cards
-      if (filtered.length === 0) {
-        container.innerHTML = `
-          <div class="col-span-full p-12 text-center bg-white rounded-2xl border border-slate-200">
-            <div class="text-sm font-mono text-slate-500">No matching specifications found.</div>
-            <button onclick="resetFilters()" class="mt-3 text-xs font-mono text-crimson font-bold underline">
-              Reset search and view all specifications &rarr;
-            </button>
-          </div>
-        `;
-        return;
-      }
-
-      container.innerHTML = filtered.map(item => `
-        <div class="bg-white rounded-2xl border border-slate-200 hover:border-steel p-6 flex flex-col justify-between shadow-xs transition hover:shadow-md">
-          <div>
-            <div class="flex items-center justify-between gap-2 mb-3">
-              <span class="text-[10px] font-mono px-2 py-0.5 rounded bg-steel-50 text-steel-dark border border-steel-border font-semibold">
-                ${item.category}
-              </span>
-              <span class="text-[10px] font-mono text-slate-400">
-                ${item.zone}
-              </span>
-            </div>
-
-            <h3 class="text-lg font-bold text-navy font-serif leading-snug">
-              <a href="${item.url}" class="hover:text-steel transition">${item.title}</a>
-            </h3>
-
-            <p class="text-slate-600 text-xs mt-2.5 leading-relaxed font-sans">
-              ${item.summary}
-            </p>
-          </div>
-
-          <div class="mt-6 pt-4 border-t border-slate-100 flex items-center justify-between text-xs font-mono">
-            <span class="text-[11px] text-slate-500 truncate max-w-[65%]" title="${item.codeTag}">
-              &bull; ${item.codeTag}
-            </span>
-            <a href="${item.url}" class="text-crimson hover:text-crimson-hover font-bold shrink-0">
-              Read Spec &rarr;
-            </a>
-          </div>
-        </div>
-      `).join('');
-    }
-
-    function getCategoryName(slug) {
-      const map = {
-        'air-barriers': 'Air Barriers',
-        'water-barriers': 'Water Barriers',
-        'energy-efficiency': 'Energy & R-Value',
-        'heating-cooling': 'Heating & Cooling',
-        'roofing': 'Roofing Assemblies',
-        'prefab': 'Prefab Envelopes',
-        'manufacturers': 'Material Manufacturers'
-      };
-      return map[slug] || slug;
-    }
-  </script>
 </body>
 </html>

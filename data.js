@@ -4,6 +4,9 @@
 var miaecData = [
   {
     "title": "Balloon Framing Air Leaks: How to Firestop and Seal the Chimney Effect in Pre-1940s Homes",
+    "subtitle": "",
+    "format": "Feature",
+    "leadType": "",
     "category": "Urban Remodels",
     "catSlug": "urban-remodels",
     "cities": [
@@ -34,6 +37,9 @@ var miaecData = [
   },
   {
     "title": "Why Water Enters Midwest Basements After Heavy Rain (And Why 6-Mil Poly Fails)",
+    "subtitle": "",
+    "format": "Feature",
+    "leadType": "",
     "category": "Water Barriers",
     "catSlug": "water-barriers",
     "cities": [
@@ -74,6 +80,9 @@ var miaecData = [
   },
   {
     "title": "How to Pass the Blower Door Test (< 3.0 ACH50) on a Midwest Flip or Remodel",
+    "subtitle": "",
+    "format": "Feature",
+    "leadType": "",
     "category": "Air Barriers",
     "catSlug": "air-barriers",
     "cities": [
@@ -114,6 +123,9 @@ var miaecData = [
   },
   {
     "title": "Can a Heat Pump Actually Handle -15°F in a Midwest Winter? Cold-Climate Inverters Explained",
+    "subtitle": "",
+    "format": "Feature",
+    "leadType": "",
     "category": "Heating & Cooling",
     "catSlug": "heating-cooling",
     "cities": [
@@ -154,6 +166,9 @@ var miaecData = [
   },
   {
     "title": "Continuous Exterior Insulation: Why R-5 Outboard Beats R-20 Cavity in Freeze-Thaw Climates",
+    "subtitle": "",
+    "format": "Feature",
+    "leadType": "",
     "category": "Energy Efficiency & R-Value",
     "catSlug": "energy-efficiency",
     "cities": [
@@ -187,6 +202,9 @@ var miaecData = [
   },
   {
     "title": "Crawlspace Encapsulation vs. Open Venting in the Midwest: Mold, Odors & Heating Costs",
+    "subtitle": "",
+    "format": "Feature",
+    "leadType": "",
     "category": "Water Barriers",
     "catSlug": "water-barriers",
     "cities": [
@@ -227,6 +245,9 @@ var miaecData = [
   },
   {
     "title": "Why Your Midwest Electric & Gas Bill Doubled (And the 2 Fixes That Actually Cut It)",
+    "subtitle": "An investigative analysis of winter tariff hikes, why $20,000 window replacements fail the math, and the two attic retrofits that pay back in two heating seasons.",
+    "format": "Feature",
+    "leadType": "Descriptive",
     "category": "Energy Efficiency & R-Value",
     "catSlug": "energy-efficiency",
     "cities": [
@@ -260,13 +281,16 @@ var miaecData = [
       "SD",
       "WI"
     ],
-    "summary": "An engineering-grounded breakdown of why Midwest utility bills are climbing, why window replacements yield marginal returns, and the two air-sealing and insulation retrofits with proven sub-3-year paybacks.",
+    "summary": "An investigative analysis of winter tariff hikes, why $20,000 window replacements fail the math, and the two attic retrofits that pay back in two heating seasons.",
     "codeTag": "IECC R-60 / ASTM E779",
-    "type": "Article",
+    "type": "Feature",
     "url": "articles/energy-hikes.html"
   },
   {
     "title": "Why Do Midwest Roofs Get Ice Dams? The Real Fix (And Why Heat Cables Don't Work)",
+    "subtitle": "",
+    "format": "Feature",
+    "leadType": "",
     "category": "Roofing",
     "catSlug": "roofing",
     "cities": [
@@ -300,6 +324,9 @@ var miaecData = [
   },
   {
     "title": "ICF (Insulated Concrete Forms) for Midwest Basements: Eliminating Moisture & Freezing Walls",
+    "subtitle": "",
+    "format": "Feature",
+    "leadType": "",
     "category": "Prefab Envelopes",
     "catSlug": "prefab",
     "cities": [
@@ -333,6 +360,9 @@ var miaecData = [
   },
   {
     "title": "Insulating 100-Year-Old Brick in St. Louis & Chicago: How to Avoid Winter Spalling & Rot",
+    "subtitle": "",
+    "format": "Feature",
+    "leadType": "",
     "category": "Urban Remodels",
     "catSlug": "urban-remodels",
     "cities": [
@@ -361,6 +391,9 @@ var miaecData = [
   },
   {
     "title": "Rockwool Stone Wool vs. Pink Fiberglass Batts: Real-World R-Value, Moisture & Fire Resistance",
+    "subtitle": "",
+    "format": "Feature",
+    "leadType": "",
     "category": "Material Specifications",
     "catSlug": "materials",
     "cities": [
@@ -401,6 +434,9 @@ var miaecData = [
   },
   {
     "title": "Adding Continuous Insulation When Replacing Your Roof: Over-Sheathing Cathedral Ceilings",
+    "subtitle": "",
+    "format": "Feature",
+    "leadType": "",
     "category": "Roofing",
     "catSlug": "roofing",
     "cities": [
@@ -434,6 +470,9 @@ var miaecData = [
   },
   {
     "title": "SIPs (Structural Insulated Panels) in Zone 5: Total Cost vs. Traditional Stick Framing",
+    "subtitle": "",
+    "format": "Feature",
+    "leadType": "",
     "category": "Prefab Envelopes",
     "catSlug": "prefab",
     "cities": [
@@ -467,6 +506,9 @@ var miaecData = [
   },
   {
     "title": "Smart Vapor Retarders vs. 6-Mil Plastic: Why Polyethylene Traps Mold in Midwest Summers",
+    "subtitle": "",
+    "format": "Feature",
+    "leadType": "",
     "category": "Air Barriers",
     "catSlug": "air-barriers",
     "cities": [
@@ -493,6 +535,9 @@ var miaecData = [
   },
   {
     "title": "Below-Slab & Rim Joist Foam Specs: XPS vs. EPS vs. Closed-Cell Spray Foam",
+    "subtitle": "",
+    "format": "Feature",
+    "leadType": "",
     "category": "Material Specifications",
     "catSlug": "materials",
     "cities": [
@@ -533,6 +578,9 @@ var miaecData = [
   },
   {
     "title": "The Midwest Summer Humidity Trap: Why High-Efficiency AC Leaves Your Basement Cold & Clammy",
+    "subtitle": "",
+    "format": "Feature",
+    "leadType": "",
     "category": "Heating & Cooling",
     "catSlug": "heating-cooling",
     "cities": [

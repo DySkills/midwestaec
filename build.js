@@ -81,6 +81,60 @@ function markdownToHtml(md) {
       inTable = false;
     }
 
+    // Code / Diagram block parsing (```)
+    if (line.startsWith('```')) {
+      let codeLines = [];
+      i++;
+      while (i < lines.length && !lines[i].trim().startsWith('```')) {
+        codeLines.push(lines[i]);
+        i++;
+      }
+      html += `<pre class="my-6 p-4 rounded-xl bg-slate-900 text-slate-100 text-xs sm:text-sm font-mono overflow-x-auto leading-relaxed border border-slate-800"><code>${codeLines.join('\n')}</code></pre>\n`;
+      continue;
+    }
+
+    // Blockquote & Quick Summary parser
+    if (line.startsWith('>')) {
+      let bqLines = [];
+      while (i < lines.length && lines[i].trim().startsWith('>')) {
+        bqLines.push(lines[i].trim().replace(/^>\s?/, ''));
+        i++;
+      }
+      i--; // rewind one step for main loop
+
+      let bqHtml = '<div class="my-8 p-6 sm:p-7 rounded-2xl bg-steel-50/80 border-l-4 border-crimson border border-steel-border/60 shadow-sm">\n';
+      bqHtml += '  <div class="flex items-center gap-2 text-xs font-mono font-bold uppercase tracking-wider text-crimson mb-3">\n';
+      bqHtml += '    <svg class="w-4 h-4 text-crimson" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>\n';
+      bqHtml += '    <span>Quick Summary & Essential Takeaways</span>\n';
+      bqHtml += '  </div>\n';
+
+      let inBqList = false;
+      for (let b = 0; b < bqLines.length; b++) {
+        let bLine = bqLines[b].trim();
+        if (!bLine) continue;
+
+        if (bLine.startsWith('- ') || bLine.startsWith('* ')) {
+          if (!inBqList) {
+            bqHtml += '  <ul class="mt-4 pt-4 border-t border-slate-200/80 space-y-2.5 text-sm text-slate-700 font-sans">\n';
+            inBqList = true;
+          }
+          bqHtml += `    <li class="flex items-start gap-2.5"><span class="w-4 h-4 rounded-full bg-emerald-600 text-white flex items-center justify-center text-[10px] font-bold shrink-0 mt-0.5">✓</span><span>${formatInline(bLine.slice(2).trim())}</span></li>\n`;
+        } else {
+          if (inBqList) {
+            bqHtml += '  </ul>\n';
+            inBqList = false;
+          }
+          let cleanText = bLine.replace(/^\*\*Quick Summary:\*\*\s*/i, '');
+          bqHtml += `  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">${formatInline(cleanText)}</p>\n`;
+        }
+      }
+      if (inBqList) bqHtml += '  </ul>\n';
+      bqHtml += '</div>\n';
+
+      html += bqHtml;
+      continue;
+    }
+
     // List parsing
     if (line.startsWith('- ') || line.startsWith('* ')) {
       if (!inList) {
@@ -95,9 +149,16 @@ function markdownToHtml(md) {
       inList = false;
     }
 
-    // Blockquote
-    if (line.startsWith('> ')) {
-      html += `<blockquote class="p-4 rounded-xl bg-steel-50 border-l-4 border-crimson text-sm text-navy my-6 font-medium font-serif leading-relaxed">${formatInline(line.slice(2))}</blockquote>\n`;
+    // Numbered List parsing (e.g. "1. ")
+    if (/^\d+\.\s/.test(line)) {
+      const itemContent = line.replace(/^\d+\.\s/, '').trim();
+      html += `<div class="flex items-start gap-3 my-3 text-slate-700 text-base leading-relaxed pl-1"><span class="w-6 h-6 rounded-full bg-navy/10 text-navy font-mono font-bold text-xs flex items-center justify-center shrink-0 mt-0.5">${line.match(/^\d+/)[0]}</span><div>${formatInline(itemContent)}</div></div>\n`;
+      continue;
+    }
+
+    // Horizontal Rule
+    if (line === '---') {
+      html += '<hr class="my-8 border-slate-200" />\n';
       continue;
     }
 
@@ -111,7 +172,7 @@ function markdownToHtml(md) {
       continue;
     }
     if (line.startsWith('# ')) {
-      // Main H1 skipped in body if placed in template header, or render once:
+      // Main H1 skipped in body if placed in template header
       continue;
     }
 
@@ -120,7 +181,7 @@ function markdownToHtml(md) {
       continue;
     }
 
-    // Standard Paragraph
+    // Standard Paragraph (Tight 2-3 sentences)
     html += `<p class="text-slate-700 text-base leading-relaxed my-4">${formatInline(line)}</p>\n`;
   }
 
@@ -141,6 +202,8 @@ function formatInline(str) {
 function buildArticleHtml(frontmatter, htmlBody) {
   const citiesStr = Array.isArray(frontmatter.cities) ? frontmatter.cities.slice(0, 5).join(', ') + '...' : frontmatter.cities || 'Midwest';
   const statesStr = Array.isArray(frontmatter.states) ? frontmatter.states.join(', ') : frontmatter.states || 'All Midwest';
+  const formatBadge = frontmatter.format ? frontmatter.format.toUpperCase() : 'FEATURE';
+  const leadTag = frontmatter.leadType ? ` &bull; ${frontmatter.leadType.toUpperCase()} LEAD` : '';
 
   return `<!DOCTYPE html>
 <html lang="en">
@@ -209,8 +272,11 @@ function buildArticleHtml(frontmatter, htmlBody) {
 
   <!-- Focused Single-Column Monograph -->
   <main class="max-w-3xl mx-auto px-4 sm:px-6 py-12 flex-1 w-full">
-    <!-- Breadcrumb & Metadata -->
+    <!-- Format Badge, Category & Metadata -->
     <div class="flex flex-wrap items-center gap-2 text-xs font-mono text-slate-500 mb-4">
+      <span class="px-2.5 py-0.5 rounded-full bg-navy text-white font-bold tracking-wider uppercase text-[10px]">
+        ${formatBadge}${leadTag}
+      </span>
       <span class="px-2.5 py-0.5 rounded bg-steel-50 text-steel-dark border border-steel-border font-semibold">
         ${frontmatter.category}
       </span>
@@ -221,9 +287,15 @@ function buildArticleHtml(frontmatter, htmlBody) {
     </div>
 
     <!-- Article Title -->
-    <h1 class="text-3xl sm:text-4xl lg:text-5xl font-bold text-navy font-serif tracking-tight leading-tight mb-4">
+    <h1 class="text-3xl sm:text-4xl lg:text-5xl font-bold text-navy font-serif tracking-tight leading-tight mb-3">
       ${frontmatter.title}
     </h1>
+
+    ${frontmatter.subtitle ? `
+    <!-- Description Subtitle -->
+    <p class="text-lg sm:text-xl text-slate-600 font-serif leading-relaxed mb-6 font-normal">
+      ${frontmatter.subtitle}
+    </p>` : ''}
 
     <div class="flex items-center gap-3 text-xs font-mono text-slate-500 border-b border-slate-200 pb-6 mb-8">
       <span>By ${frontmatter.author || 'MIAEC Building Science'}</span>
@@ -295,13 +367,16 @@ function build() {
 
     databaseRecords.push({
       title: frontmatter.title,
+      subtitle: frontmatter.subtitle || '',
+      format: frontmatter.format || 'Feature',
+      leadType: frontmatter.leadType || '',
       category: frontmatter.category,
       catSlug: frontmatter.catSlug,
       cities: frontmatter.cities || ["All Midwest"],
       states: frontmatter.states || ["All Midwest"],
-      summary: frontmatter.summary,
+      summary: frontmatter.summary || '',
       codeTag: frontmatter.codeTag || "Building Science Spec",
-      type: frontmatter.type || "Article",
+      type: frontmatter.format || "Article",
       url: `articles/${slug}.html`
     });
   });

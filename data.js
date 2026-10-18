@@ -260,8 +260,8 @@ var miaecData = [
       "SD",
       "WI"
     ],
-    "summary": "Why utility rates are climbing 30-50% across Ameren, ComEd, and Duke—and why dense-pack attic air sealing outperforms expensive window replacements on heating reduction.",
-    "codeTag": "IECC R-60 Attic Standard",
+    "summary": "A northern Missouri architect breaks down why Midwest utility bills are exploding, why replacement windows are an economic trap, and the two building science fixes that pay back in 2 winters.",
+    "codeTag": "IECC R-60 / ASTM E779",
     "type": "Article",
     "url": "articles/energy-hikes.html"
   },

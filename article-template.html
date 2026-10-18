@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>[Article Title] | MIAEC</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['"Plus Jakarta Sans"', 'sans-serif'],
+            mono: ['"JetBrains Mono"', 'monospace'],
+          },
+          colors: {
+            brand: {
+              500: '#0284c7',
+              600: '#0369a1',
+            }
+          }
+        }
+      }
+    }
+  </script>
+</head>
+<body class="bg-slate-950 text-slate-200 font-sans antialiased selection:bg-brand-500 selection:text-white">
+
+  <!-- Header -->
+  <header class="border-b border-slate-800 bg-slate-950 sticky top-0 z-50">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
+      <a href="index.html" class="flex items-center gap-2 text-white font-bold tracking-tight">
+        <span class="w-8 h-8 rounded bg-brand-600 flex items-center justify-center text-xs font-mono">MI</span>
+        <span>MI<span class="text-brand-500">AEC</span></span>
+      </a>
+      <div class="flex items-center gap-4 text-xs font-mono text-slate-400">
+        <a href="index.html" class="hover:text-white">&larr; Back to Home</a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Article Container -->
+  <main class="max-w-4xl mx-auto px-4 sm:px-6 py-12">
+    <!-- Category & Metadata -->
+    <div class="flex items-center gap-2 text-xs font-mono text-brand-400 mb-4">
+      <span class="px-2.5 py-0.5 rounded bg-brand-500/10 border border-brand-500/30">[Category / Topic]</span>
+      <span>&bull;</span>
+      <span>Climate Zone [4 / 5]</span>
+    </div>
+
+    <!-- Title -->
+    <h1 class="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-white tracking-tight leading-tight">
+      [Your Article Headline Here]
+    </h1>
+
+    <div class="mt-4 flex items-center gap-4 text-xs font-mono text-slate-400 border-b border-slate-800 pb-6">
+      <span>By [Your Name]</span>
+      <span>&bull;</span>
+      <span>[Date]</span>
+      <span>&bull;</span>
+      <span>[X] Min Read</span>
+    </div>
+
+    <!-- Article Body -->
+    <article class="mt-8 space-y-6 text-slate-300 text-base leading-relaxed">
+      <!-- Callout Summary Box -->
+      <div class="p-4 rounded-xl bg-slate-900 border-l-4 border-brand-500 text-sm">
+        <strong class="text-white">Executive Summary / Key Finding:</strong> 
+        [Write your core takeaway or thesis here.]
+      </div>
+
+      <h2 class="text-2xl font-bold text-white pt-4">1. [Section Heading]</h2>
+      <p>
+        [Write your technical explanation, field observations, or engineering specs here.]
+      </p>
+
+      <!-- Reusable Spec / Data Table Template -->
+      <div class="my-6 overflow-x-auto">
+        <table class="w-full text-left border-collapse border border-slate-800 text-sm font-mono">
+          <thead>
+            <tr class="bg-slate-900 text-slate-300">
+              <th class="p-3 border border-slate-800">Specification</th>
+              <th class="p-3 border border-slate-800">Standard / Baseline</th>
+              <th class="p-3 border border-slate-800 text-brand-400">High-Performance Spec</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="p-3 border border-slate-800 text-slate-400">[Metric A]</td>
+              <td class="p-3 border border-slate-800">[Value]</td>
+              <td class="p-3 border border-slate-800 text-emerald-400 font-bold">[Value]</td>
+            </tr>
+            <tr>
+              <td class="p-3 border border-slate-800 text-slate-400">[Metric B]</td>
+              <td class="p-3 border border-slate-800">[Value]</td>
+              <td class="p-3 border border-slate-800 text-emerald-400 font-bold">[Value]</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h2 class="text-2xl font-bold text-white pt-4">2. [Section Heading]</h2>
+      <p>
+        [Continue your teardown, product comparison, or climate-specific details.]
+      </p>
+
+      <!-- Optional Lead Gen / Call to Action Hook -->
+      <div class="mt-12 bg-slate-900 border-2 border-brand-500/40 rounded-2xl p-6 sm:p-8">
+        <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+          <div>
+            <h3 class="text-lg font-bold text-white">Looking for Vetted Midwest Specialists?</h3>
+            <p class="text-xs text-slate-400 mt-1">Connect with building-science trained contractors in Climate Zones 4 & 5.</p>
+          </div>
+          <a href="index.html#quote-modal" class="px-5 py-2.5 rounded-lg bg-brand-600 hover:bg-brand-500 text-white font-semibold text-xs tracking-wide shrink-0 transition">
+            Request Vetted Quotes &rarr;
+          </a>
+        </div>
+      </div>
+    </article>
+  </main>
+</body>
+</html>

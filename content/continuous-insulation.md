@@ -45,22 +45,7 @@ The most dangerous consequence of cavity-only insulation in Midwest winters is n
 
 Indoor winter air at 70°F and 35% relative humidity carries a dew point of approximately 41°F. When indoor humidity naturally migrates through drywall, electrical outlets, and framing joints, it travels outward toward the cold exterior sheathing.
 
-```
-       [ Warm Living Space: 70°F / 35% RH ] ── Dew Point: 41°F
-                         │
-                         ▼ (Water vapor migrates outward)
-      ┌─────────────────────────────────────────────────────────┐
-      │  Cavity-Only Wall:                                      │
-      │  Interior Drywall ──> R-20 Batt ──> Cold OSB at 24°F   │
-      │                                       ▲                 │
-      │                               [ CONDENSATION & ROT ]    │
-      ├─────────────────────────────────────────────────────────┤
-      │  Continuous Outboard Wall:                              │
-      │  Drywall ──> R-13 Batt ──> WARM OSB (50°F) ──> R-5 CI   │
-      │                                       ▲                 │
-      │                               [ DRY / SAFE SHEATHING ]  │
-      └─────────────────────────────────────────────────────────┘
-```
+![Technical Cross-Section: Wall Thermal Bridging vs. Continuous Exterior Insulation in Winter](images/continuous-insulation-diagram.jpg)
 
 In a wall with insulation only inside the stud cavity, the exterior OSB or plywood sheathing is thermally isolated from interior heat. On a 5°F January night in Des Moines or Minneapolis, the temperature on the inside face of that exterior OSB drops to **22°F to 26°F**.
 

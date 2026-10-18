@@ -260,7 +260,7 @@ var miaecData = [
       "SD",
       "WI"
     ],
-    "summary": "A northern Missouri architect breaks down why Midwest utility bills are exploding, why replacement windows are an economic trap, and the two building science fixes that pay back in 2 winters.",
+    "summary": "An engineering-grounded breakdown of why Midwest utility bills are climbing, why window replacements yield marginal returns, and the two air-sealing and insulation retrofits with proven sub-3-year paybacks.",
     "codeTag": "IECC R-60 / ASTM E779",
     "type": "Article",
     "url": "articles/energy-hikes.html"

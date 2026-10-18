@@ -6,7 +6,7 @@
   <title>MIAEC | Midwest Building Science & Envelope Systems Directory</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
   <script>
     tailwind.config = {
@@ -17,17 +17,34 @@
             mono: ['"JetBrains Mono"', 'monospace'],
           },
           colors: {
-            brand: {
-              50: '#f0f9ff',
-              100: '#e0f2fe',
-              500: '#0284c7',
-              600: '#0369a1',
-              700: '#075985',
-              900: '#0c4a6e',
+            // 60% Dominant: Deep Navy (#161F83)
+            navy: {
+              950: '#080c30',
+              900: '#0d1449',
+              850: '#111a62',
+              800: '#161F83',
+              700: '#1e2ba3',
+              600: '#2738c6',
             },
-            slate: {
-              850: '#141d2e',
-              950: '#080c14',
+            // 30% Secondary: Steel Blue (#3274AE)
+            steel: {
+              900: '#193a57',
+              800: '#24537c',
+              700: '#2b6596',
+              DEFAULT: '#3274AE',
+              400: '#4a8bc4',
+              300: '#6ea3d3',
+              200: '#9ec1e3',
+              100: '#d0e1f2',
+            },
+            // 10% Accent: Crimson Red (#C42927)
+            crimson: {
+              900: '#521010',
+              800: '#7a1918',
+              DEFAULT: '#C42927',
+              hover: '#a8211f',
+              light: '#e04240',
+              glow: 'rgba(196, 41, 39, 0.25)',
             }
           }
         }
@@ -36,155 +53,160 @@
   </script>
   <style>
     .topic-card {
-      transition: all 0.2s ease-in-out;
+      transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
     }
     .topic-card:hover {
       transform: translateY(-3px);
+      border-color: #3274AE;
     }
     .topic-card.active {
-      border-color: #0284c7;
-      background: rgba(2, 132, 199, 0.12);
+      border-color: #C42927 !important;
+      background: rgba(196, 41, 39, 0.12) !important;
+      box-shadow: 0 0 20px rgba(196, 41, 39, 0.2);
     }
   </style>
 </head>
-<body class="bg-slate-950 text-slate-100 font-sans antialiased selection:bg-brand-500 selection:text-white">
+<body class="bg-navy-950 text-slate-100 font-sans antialiased selection:bg-crimson selection:text-white min-h-screen">
 
-  <!-- Top Regional Bar -->
-  <div class="bg-gradient-to-r from-brand-900 via-slate-900 to-brand-900 border-b border-brand-500/20 px-4 py-2 text-xs font-mono text-center text-brand-100 flex items-center justify-center gap-3">
-    <span class="inline-flex items-center px-2 py-0.5 rounded-full text-[10px] font-semibold bg-brand-500/20 text-brand-300 border border-brand-500/30">
+  <!-- Top Regional Bar (Navy + Crimson Accent) -->
+  <div class="bg-navy-900 border-b border-steel-800 px-4 py-2 text-xs font-mono text-center text-steel-200 flex items-center justify-center gap-3">
+    <span class="inline-flex items-center px-2 py-0.5 rounded-full text-[10px] font-semibold bg-crimson/20 text-crimson-light border border-crimson/40">
       Midwest Zones 4 & 5
     </span>
-    <span>Building Science for Extreme Freezes, Heat Waves, and Subtropical Humidity</span>
+    <span>Building Science for Sub-Zero Freezes, Heat Waves, and Severe Humidity</span>
   </div>
 
   <!-- Header -->
-  <header class="border-b border-slate-800 bg-slate-950/90 backdrop-blur sticky top-0 z-50">
+  <header class="border-b border-steel-900 bg-navy-950/90 backdrop-blur sticky top-0 z-50">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
       <div class="flex items-center gap-3">
-        <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-brand-500 to-cyan-600 flex items-center justify-center font-black text-white text-base tracking-wider shadow-lg shadow-brand-500/20 font-mono">
-          MI
+        <!-- Logo Badge with 60-30-10 palette -->
+        <div class="w-10 h-10 rounded-xl bg-navy-800 border border-steel-700 flex items-center justify-center font-black text-white text-base tracking-wider font-mono shadow-lg shadow-navy-900">
+          <span class="text-white">M</span><span class="text-crimson">I</span>
         </div>
         <div>
           <a href="index.html" class="text-lg font-bold tracking-tight text-white flex items-center gap-1">
-            MI<span class="text-brand-500">AEC</span>
+            MI<span class="text-steel-400">AEC</span>
           </a>
-          <p class="text-[10px] font-mono text-slate-400 uppercase tracking-widest">Building Science & Systems</p>
+          <p class="text-[10px] font-mono text-steel-300 uppercase tracking-widest">Building Science & Systems</p>
         </div>
       </div>
 
-      <nav class="hidden md:flex items-center gap-6 text-xs font-mono uppercase tracking-wider text-slate-300">
-        <a href="#topics" class="hover:text-brand-400 transition">Systems</a>
-        <a href="#articles" class="hover:text-brand-400 transition">Articles & Guides</a>
-        <a href="#manufacturers" class="hover:text-brand-400 transition">Manufacturers</a>
-        <a href="#quote-match" class="text-emerald-400 hover:text-emerald-300 transition">Find Pro</a>
+      <nav class="hidden md:flex items-center gap-6 text-xs font-mono uppercase tracking-wider text-steel-200">
+        <a href="#topics" class="hover:text-white transition">Systems</a>
+        <a href="#articles" class="hover:text-white transition">Articles & Guides</a>
+        <a href="#manufacturers" class="hover:text-white transition">Manufacturers</a>
+        <a href="#quote-match" class="text-crimson-light hover:text-white transition">Find Pro</a>
       </nav>
 
       <div class="flex items-center gap-3">
-        <a href="#manufacturers" class="hidden sm:inline-flex px-3 py-1.5 rounded-lg border border-slate-700 hover:border-slate-500 text-slate-300 text-xs font-mono transition">
+        <a href="#manufacturers" class="hidden sm:inline-flex px-3 py-1.5 rounded-lg border border-steel-700 hover:border-steel-400 text-steel-200 text-xs font-mono transition bg-navy-900">
           Manufacturer Directory
         </a>
-        <a href="article-template.html" class="px-3.5 py-1.5 rounded-lg bg-brand-600 hover:bg-brand-500 text-white text-xs font-semibold tracking-wide shadow-md shadow-brand-600/30 transition">
+        <a href="article-template.html" class="px-3.5 py-1.5 rounded-lg bg-crimson hover:bg-crimson-hover text-white text-xs font-semibold tracking-wide shadow-md shadow-crimson/30 transition">
           + Draft New Article
         </a>
       </div>
     </div>
   </header>
 
-  <!-- Hero (Clean, Curated Guide Style inspired by guidetouxr) -->
-  <section class="pt-16 pb-12 border-b border-slate-800/80 bg-gradient-to-b from-slate-900/40 to-slate-950">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center max-w-4xl">
-      <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-mono text-brand-300 bg-brand-500/10 border border-brand-500/25 mb-4">
+  <!-- Hero Section -->
+  <section class="pt-16 pb-12 border-b border-steel-900 bg-gradient-to-b from-navy-900 via-navy-950 to-navy-950 relative overflow-hidden">
+    <div class="absolute inset-0 bg-[radial-gradient(#3274AE_1px,transparent_1px)] [background-size:24px_24px] opacity-10 pointer-events-none"></div>
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center max-w-4xl relative">
+      <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-mono text-steel-200 bg-navy-800 border border-steel-700 mb-4">
+        <span class="w-2 h-2 rounded-full bg-crimson animate-pulse"></span>
         <span>The Definitive Midwest Field Manual</span>
       </div>
       <h1 class="text-3xl sm:text-5xl font-extrabold text-white tracking-tight leading-tight">
-        Midwest Building Science, Assemblies & Product Specs
+        Midwest Building Science, Assemblies & <span class="text-transparent bg-clip-text bg-gradient-to-r from-steel-300 via-steel-400 to-white">Product Specs</span>
       </h1>
-      <p class="mt-4 text-base sm:text-lg text-slate-300 leading-relaxed">
+      <p class="mt-4 text-base sm:text-lg text-steel-200 leading-relaxed">
         A curated technical resource on moisture barriers, insulation R-values, cold-climate heating/cooling, roofing, and assemblies built specifically for ASHRAE Climate Zones 4 & 5.
       </p>
 
       <!-- Quick Action Jump Buttons -->
       <div class="mt-6 flex flex-wrap items-center justify-center gap-3 text-xs font-mono">
-        <a href="#articles" class="px-4 py-2 rounded-lg bg-slate-900 border border-slate-800 text-slate-300 hover:text-white hover:border-brand-500 transition">
+        <a href="#articles" class="px-4 py-2 rounded-lg bg-navy-900 border border-steel-800 text-steel-200 hover:text-white hover:border-steel-400 transition">
           &darr; Browse All Technical Articles
         </a>
-        <a href="#manufacturers" class="px-4 py-2 rounded-lg bg-slate-900 border border-slate-800 text-slate-300 hover:text-white hover:border-brand-500 transition">
+        <a href="#manufacturers" class="px-4 py-2 rounded-lg bg-navy-900 border border-steel-800 text-steel-200 hover:text-white hover:border-steel-400 transition">
           &darr; Material Manufacturers Directory
         </a>
       </div>
     </div>
   </section>
 
-  <!-- TOPIC CATEGORIES GRID (The guidetouxr user flow) -->
-  <section id="topics" class="py-12 border-b border-slate-800/80 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+  <!-- TOPIC CATEGORIES GRID (guidetouxr style user flow) -->
+  <section id="topics" class="py-12 border-b border-steel-900 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="text-center mb-8">
-      <span class="text-xs font-mono uppercase tracking-widest text-brand-400">Core Systems</span>
+      <span class="text-xs font-mono uppercase tracking-widest text-crimson-light">Core Systems</span>
       <h2 class="text-2xl font-bold text-white mt-1">Select a Building Science Category</h2>
-      <p class="text-slate-400 text-xs mt-1">Filter articles and manufacturer specifications by system.</p>
+      <p class="text-steel-300 text-xs mt-1">Filter articles and manufacturer specifications by system.</p>
     </div>
 
     <!-- 7 System Cards -->
     <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-7 gap-3" id="category-cards">
       <!-- 1. Air Barriers -->
-      <button onclick="filterCategory('air-barriers')" class="topic-card active p-4 rounded-xl bg-slate-900 border border-slate-800 text-left flex flex-col justify-between" data-category="air-barriers">
-        <div class="w-7 h-7 rounded-lg bg-sky-500/20 text-sky-400 flex items-center justify-center font-mono text-xs font-bold mb-3">01</div>
+      <button onclick="filterCategory('air-barriers')" class="topic-card active p-4 rounded-xl bg-navy-900 border border-steel-800 text-left flex flex-col justify-between" data-category="air-barriers">
+        <div class="w-7 h-7 rounded-lg bg-steel-800 text-steel-200 flex items-center justify-center font-mono text-xs font-bold mb-3 border border-steel-700">01</div>
         <div>
           <div class="font-bold text-sm text-white leading-snug">Air Barriers</div>
-          <div class="text-[11px] text-slate-400 mt-1">Airtightness & Blower Door</div>
+          <div class="text-[11px] text-steel-300 mt-1">Airtightness & Blower Door</div>
         </div>
       </button>
 
       <!-- 2. Water Barriers -->
-      <button onclick="filterCategory('water-barriers')" class="topic-card p-4 rounded-xl bg-slate-900 border border-slate-800 text-left flex flex-col justify-between" data-category="water-barriers">
-        <div class="w-7 h-7 rounded-lg bg-blue-500/20 text-blue-400 flex items-center justify-center font-mono text-xs font-bold mb-3">02</div>
+      <button onclick="filterCategory('water-barriers')" class="topic-card p-4 rounded-xl bg-navy-900 border border-steel-800 text-left flex flex-col justify-between" data-category="water-barriers">
+        <div class="w-7 h-7 rounded-lg bg-steel-800 text-steel-200 flex items-center justify-center font-mono text-xs font-bold mb-3 border border-steel-700">02</div>
         <div>
           <div class="font-bold text-sm text-white leading-snug">Water Barriers</div>
-          <div class="text-[11px] text-slate-400 mt-1">WRB & Vapor Retarders</div>
+          <div class="text-[11px] text-steel-300 mt-1">WRB & Vapor Retarders</div>
         </div>
       </button>
 
       <!-- 3. Energy Efficiency / R-Value -->
-      <button onclick="filterCategory('energy-efficiency')" class="topic-card p-4 rounded-xl bg-slate-900 border border-slate-800 text-left flex flex-col justify-between" data-category="energy-efficiency">
-        <div class="w-7 h-7 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center font-mono text-xs font-bold mb-3">03</div>
+      <button onclick="filterCategory('energy-efficiency')" class="topic-card p-4 rounded-xl bg-navy-900 border border-steel-800 text-left flex flex-col justify-between" data-category="energy-efficiency">
+        <div class="w-7 h-7 rounded-lg bg-steel-800 text-steel-200 flex items-center justify-center font-mono text-xs font-bold mb-3 border border-steel-700">03</div>
         <div>
           <div class="font-bold text-sm text-white leading-snug">Energy & R-Value</div>
-          <div class="text-[11px] text-slate-400 mt-1">Continuous Insulation</div>
+          <div class="text-[11px] text-steel-300 mt-1">Continuous Insulation</div>
         </div>
       </button>
 
       <!-- 4. Heating & Cooling -->
-      <button onclick="filterCategory('heating-cooling')" class="topic-card p-4 rounded-xl bg-slate-900 border border-slate-800 text-left flex flex-col justify-between" data-category="heating-cooling">
-        <div class="w-7 h-7 rounded-lg bg-amber-500/20 text-amber-400 flex items-center justify-center font-mono text-xs font-bold mb-3">04</div>
+      <button onclick="filterCategory('heating-cooling')" class="topic-card p-4 rounded-xl bg-navy-900 border border-steel-800 text-left flex flex-col justify-between" data-category="heating-cooling">
+        <div class="w-7 h-7 rounded-lg bg-steel-800 text-steel-200 flex items-center justify-center font-mono text-xs font-bold mb-3 border border-steel-700">04</div>
         <div>
           <div class="font-bold text-sm text-white leading-snug">Heating & Cooling</div>
-          <div class="text-[11px] text-slate-400 mt-1">Inverter Heat Pumps & ERVs</div>
+          <div class="text-[11px] text-steel-300 mt-1">Inverter Heat Pumps & ERVs</div>
         </div>
       </button>
 
       <!-- 5. Roofing Assemblies -->
-      <button onclick="filterCategory('roofing')" class="topic-card p-4 rounded-xl bg-slate-900 border border-slate-800 text-left flex flex-col justify-between" data-category="roofing">
-        <div class="w-7 h-7 rounded-lg bg-purple-500/20 text-purple-400 flex items-center justify-center font-mono text-xs font-bold mb-3">05</div>
+      <button onclick="filterCategory('roofing')" class="topic-card p-4 rounded-xl bg-navy-900 border border-steel-800 text-left flex flex-col justify-between" data-category="roofing">
+        <div class="w-7 h-7 rounded-lg bg-steel-800 text-steel-200 flex items-center justify-center font-mono text-xs font-bold mb-3 border border-steel-700">05</div>
         <div>
           <div class="font-bold text-sm text-white leading-snug">Roofing</div>
-          <div class="text-[11px] text-slate-400 mt-1">Cold Roofs & Ice Dams</div>
+          <div class="text-[11px] text-steel-300 mt-1">Cold Roofs & Ice Dams</div>
         </div>
       </button>
 
       <!-- 6. Prefab Assemblies -->
-      <button onclick="filterCategory('prefab')" class="topic-card p-4 rounded-xl bg-slate-900 border border-slate-800 text-left flex flex-col justify-between" data-category="prefab">
-        <div class="w-7 h-7 rounded-lg bg-cyan-500/20 text-cyan-400 flex items-center justify-center font-mono text-xs font-bold mb-3">06</div>
+      <button onclick="filterCategory('prefab')" class="topic-card p-4 rounded-xl bg-navy-900 border border-steel-800 text-left flex flex-col justify-between" data-category="prefab">
+        <div class="w-7 h-7 rounded-lg bg-steel-800 text-steel-200 flex items-center justify-center font-mono text-xs font-bold mb-3 border border-steel-700">06</div>
         <div>
           <div class="font-bold text-sm text-white leading-snug">Prefab Envelopes</div>
-          <div class="text-[11px] text-slate-400 mt-1">SIPs, ICF & Panels</div>
+          <div class="text-[11px] text-steel-300 mt-1">SIPs, ICF & Panels</div>
         </div>
       </button>
 
       <!-- 7. Manufacturers -->
-      <button onclick="filterCategory('manufacturers')" class="topic-card p-4 rounded-xl bg-slate-900 border border-slate-800 text-left flex flex-col justify-between" data-category="manufacturers">
-        <div class="w-7 h-7 rounded-lg bg-rose-500/20 text-rose-400 flex items-center justify-center font-mono text-xs font-bold mb-3">07</div>
+      <button onclick="filterCategory('manufacturers')" class="topic-card p-4 rounded-xl bg-navy-900 border border-steel-800 text-left flex flex-col justify-between" data-category="manufacturers">
+        <div class="w-7 h-7 rounded-lg bg-steel-800 text-steel-200 flex items-center justify-center font-mono text-xs font-bold mb-3 border border-steel-700">07</div>
         <div>
           <div class="font-bold text-sm text-white leading-snug">Manufacturers</div>
-          <div class="text-[11px] text-slate-400 mt-1">Materials Directory</div>
+          <div class="text-[11px] text-steel-300 mt-1">Materials Directory</div>
         </div>
       </button>
     </div>
@@ -194,14 +216,14 @@
   <section id="articles" class="py-16 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between mb-8 gap-4">
       <div>
-        <span class="text-xs font-mono uppercase tracking-widest text-brand-400">Technical Library</span>
+        <span class="text-xs font-mono uppercase tracking-widest text-crimson-light">Technical Library</span>
         <h2 class="text-3xl font-bold text-white mt-1">Articles, Teardowns & Guides</h2>
-        <p class="text-slate-400 text-xs mt-1" id="filter-status-text">Showing all technical categories</p>
+        <p class="text-steel-300 text-xs mt-1" id="filter-status-text">Showing all technical categories</p>
       </div>
 
       <!-- Quick Filter Pills -->
       <div class="flex items-center gap-2">
-        <button onclick="filterCategory('all')" class="px-3 py-1.5 rounded-lg bg-slate-900 border border-slate-800 text-xs font-mono text-slate-300 hover:text-white hover:border-brand-500 transition">
+        <button onclick="filterCategory('all')" class="px-3 py-1.5 rounded-lg bg-navy-900 border border-steel-800 text-xs font-mono text-steel-200 hover:text-white hover:border-steel-400 transition">
           Reset Filter (Show All)
         </button>
       </div>
@@ -211,145 +233,145 @@
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" id="article-grid">
 
       <!-- Article Slot 1 (Energy Efficiency / R-Value / Price Hikes) -->
-      <div class="article-item bg-slate-900 rounded-2xl overflow-hidden border border-slate-800 hover:border-brand-500/50 transition flex flex-col" data-cat="energy-efficiency">
+      <div class="article-item bg-navy-900/90 rounded-2xl overflow-hidden border border-steel-800 hover:border-steel-400 transition flex flex-col" data-cat="energy-efficiency">
         <div class="p-6 flex-1 flex flex-col justify-between">
           <div>
             <div class="flex items-center justify-between gap-2 mb-3">
-              <span class="text-[10px] font-mono px-2 py-0.5 rounded bg-emerald-500/20 text-emerald-300 border border-emerald-500/30">
+              <span class="text-[10px] font-mono px-2 py-0.5 rounded bg-steel-800 text-steel-200 border border-steel-700">
                 Energy Efficiency & R-Value
               </span>
-              <span class="text-[10px] font-mono text-slate-500">Zone 4 & 5</span>
+              <span class="text-[10px] font-mono text-steel-300">Zone 4 & 5</span>
             </div>
             <h3 class="text-lg font-bold text-white leading-snug">
               Beating Midwest Energy Price Hikes: The Highest ROI R-Value Retrofits
             </h3>
-            <p class="text-slate-400 text-xs mt-2 leading-relaxed">
-              Why utility rates are spiking across Ameren, ComEd, and Duke—and why dense-pack attic air sealing beats \$15,000 replacement windows every time.
+            <p class="text-steel-200 text-xs mt-2 leading-relaxed">
+              Why utility rates are spiking across Ameren, ComEd, and Duke—and why dense-pack attic air sealing beats $15,000 replacement windows every time.
             </p>
           </div>
-          <div class="mt-6 pt-4 border-t border-slate-800/80 flex items-center justify-between text-xs font-mono">
-            <a href="article-template.html" class="text-brand-400 hover:text-brand-300 font-semibold">Write Article (Draft Slot) &rarr;</a>
-            <span class="text-slate-500">Homeowners & Flippers</span>
+          <div class="mt-6 pt-4 border-t border-steel-900 flex items-center justify-between text-xs font-mono">
+            <a href="article-template.html" class="text-crimson-light hover:text-white font-semibold">Write Article (Draft Slot) &rarr;</a>
+            <span class="text-steel-400">Homeowners & Flippers</span>
           </div>
         </div>
       </div>
 
       <!-- Article Slot 2 (Urban Remodels / Air & Moisture Barriers) -->
-      <div class="article-item bg-slate-900 rounded-2xl overflow-hidden border border-slate-800 hover:border-brand-500/50 transition flex flex-col" data-cat="water-barriers air-barriers">
+      <div class="article-item bg-navy-900/90 rounded-2xl overflow-hidden border border-steel-800 hover:border-steel-400 transition flex flex-col" data-cat="water-barriers air-barriers">
         <div class="p-6 flex-1 flex flex-col justify-between">
           <div>
             <div class="flex items-center justify-between gap-2 mb-3">
-              <span class="text-[10px] font-mono px-2 py-0.5 rounded bg-blue-500/20 text-blue-300 border border-blue-500/30">
+              <span class="text-[10px] font-mono px-2 py-0.5 rounded bg-steel-800 text-steel-200 border border-steel-700">
                 Water & Air Barriers
               </span>
-              <span class="text-[10px] font-mono text-slate-500">Urban Remodels</span>
+              <span class="text-[10px] font-mono text-steel-300">Urban Remodels</span>
             </div>
             <h3 class="text-lg font-bold text-white leading-snug">
               Remodeling 100-Year-Old Brick in Midwest Cities: How to Insulate Without Spalling
             </h3>
-            <p class="text-slate-400 text-xs mt-2 leading-relaxed">
+            <p class="text-steel-200 text-xs mt-2 leading-relaxed">
               Insulating mass brick masonry in Chicago, St. Louis, and Cincinnati from the inside causes winter freeze/thaw destruction if done incorrectly. Here is the hygrothermal guide.
             </p>
           </div>
-          <div class="mt-6 pt-4 border-t border-slate-800/80 flex items-center justify-between text-xs font-mono">
-            <a href="article-template.html" class="text-brand-400 hover:text-brand-300 font-semibold">Write Article (Draft Slot) &rarr;</a>
-            <span class="text-slate-500">Urban Contractors & Flippers</span>
+          <div class="mt-6 pt-4 border-t border-steel-900 flex items-center justify-between text-xs font-mono">
+            <a href="article-template.html" class="text-crimson-light hover:text-white font-semibold">Write Article (Draft Slot) &rarr;</a>
+            <span class="text-steel-400">Urban Contractors & Flippers</span>
           </div>
         </div>
       </div>
 
       <!-- Article Slot 3 (Heating & Cooling) -->
-      <div class="article-item bg-slate-900 rounded-2xl overflow-hidden border border-slate-800 hover:border-brand-500/50 transition flex flex-col" data-cat="heating-cooling">
+      <div class="article-item bg-navy-900/90 rounded-2xl overflow-hidden border border-steel-800 hover:border-steel-400 transition flex flex-col" data-cat="heating-cooling">
         <div class="p-6 flex-1 flex flex-col justify-between">
           <div>
             <div class="flex items-center justify-between gap-2 mb-3">
-              <span class="text-[10px] font-mono px-2 py-0.5 rounded bg-amber-500/20 text-amber-300 border border-amber-500/30">
+              <span class="text-[10px] font-mono px-2 py-0.5 rounded bg-steel-800 text-steel-200 border border-steel-700">
                 Heating & Cooling
               </span>
-              <span class="text-[10px] font-mono text-slate-500">Cold-Climate MEP</span>
+              <span class="text-[10px] font-mono text-steel-300">Cold-Climate MEP</span>
             </div>
             <h3 class="text-lg font-bold text-white leading-snug">
               Inverter Variable-Speed Heat Pumps vs Midwest Cold & Humidity
             </h3>
-            <p class="text-slate-400 text-xs mt-2 leading-relaxed">
+            <p class="text-steel-200 text-xs mt-2 leading-relaxed">
               Teardown of low-ambient flash-injection compressors down to -15&deg;F, and why pairing with whole-home dehumidification solves the damp basement trap.
             </p>
           </div>
-          <div class="mt-6 pt-4 border-t border-slate-800/80 flex items-center justify-between text-xs font-mono">
-            <a href="article-template.html" class="text-brand-400 hover:text-brand-300 font-semibold">Write Article (Draft Slot) &rarr;</a>
-            <span class="text-slate-500">Spec Guide</span>
+          <div class="mt-6 pt-4 border-t border-steel-900 flex items-center justify-between text-xs font-mono">
+            <a href="article-template.html" class="text-crimson-light hover:text-white font-semibold">Write Article (Draft Slot) &rarr;</a>
+            <span class="text-steel-400">Spec Guide</span>
           </div>
         </div>
       </div>
 
       <!-- Article Slot 4 (Air Barriers & Blower Door) -->
-      <div class="article-item bg-slate-900 rounded-2xl overflow-hidden border border-slate-800 hover:border-brand-500/50 transition flex flex-col" data-cat="air-barriers">
+      <div class="article-item bg-navy-900/90 rounded-2xl overflow-hidden border border-steel-800 hover:border-steel-400 transition flex flex-col" data-cat="air-barriers">
         <div class="p-6 flex-1 flex flex-col justify-between">
           <div>
             <div class="flex items-center justify-between gap-2 mb-3">
-              <span class="text-[10px] font-mono px-2 py-0.5 rounded bg-sky-500/20 text-sky-300 border border-sky-500/30">
+              <span class="text-[10px] font-mono px-2 py-0.5 rounded bg-steel-800 text-steel-200 border border-steel-700">
                 Air Barriers
               </span>
-              <span class="text-[10px] font-mono text-slate-500">Code & Testing</span>
+              <span class="text-[10px] font-mono text-steel-300">Code & Testing</span>
             </div>
             <h3 class="text-lg font-bold text-white leading-snug">
               Passing the Blower Door Test: 5-Point Air Sealing Checklist for Flippers & Builders
             </h3>
-            <p class="text-slate-400 text-xs mt-2 leading-relaxed">
+            <p class="text-steel-200 text-xs mt-2 leading-relaxed">
               How to hit &le; 3.0 ACH50 code on a budget: Rim joists, top plate penetrations, electrical boxes, and duct boots.
             </p>
           </div>
-          <div class="mt-6 pt-4 border-t border-slate-800/80 flex items-center justify-between text-xs font-mono">
-            <a href="article-template.html" class="text-brand-400 hover:text-brand-300 font-semibold">Write Article (Draft Slot) &rarr;</a>
-            <span class="text-slate-500">Checklist</span>
+          <div class="mt-6 pt-4 border-t border-steel-900 flex items-center justify-between text-xs font-mono">
+            <a href="article-template.html" class="text-crimson-light hover:text-white font-semibold">Write Article (Draft Slot) &rarr;</a>
+            <span class="text-steel-400">Checklist</span>
           </div>
         </div>
       </div>
 
       <!-- Article Slot 5 (Roofing & Attics) -->
-      <div class="article-item bg-slate-900 rounded-2xl overflow-hidden border border-slate-800 hover:border-brand-500/50 transition flex flex-col" data-cat="roofing">
+      <div class="article-item bg-navy-900/90 rounded-2xl overflow-hidden border border-steel-800 hover:border-steel-400 transition flex flex-col" data-cat="roofing">
         <div class="p-6 flex-1 flex flex-col justify-between">
           <div>
             <div class="flex items-center justify-between gap-2 mb-3">
-              <span class="text-[10px] font-mono px-2 py-0.5 rounded bg-purple-500/20 text-purple-300 border border-purple-500/30">
+              <span class="text-[10px] font-mono px-2 py-0.5 rounded bg-steel-800 text-steel-200 border border-steel-700">
                 Roofing Assemblies
               </span>
-              <span class="text-[10px] font-mono text-slate-500">Freeze-Thaw</span>
+              <span class="text-[10px] font-mono text-steel-300">Freeze-Thaw</span>
             </div>
             <h3 class="text-lg font-bold text-white leading-snug">
               Why Midwest Roofs Get Ice Dams: Cold Roofs vs Unvented Conditioned Attics
             </h3>
-            <p class="text-slate-400 text-xs mt-2 leading-relaxed">
+            <p class="text-steel-200 text-xs mt-2 leading-relaxed">
               Thermal bypasses warming the roof deck, soffit-to-ridge airflow ratios, and exterior rigid foam roof over-sheathing.
             </p>
           </div>
-          <div class="mt-6 pt-4 border-t border-slate-800/80 flex items-center justify-between text-xs font-mono">
-            <a href="article-template.html" class="text-brand-400 hover:text-brand-300 font-semibold">Write Article (Draft Slot) &rarr;</a>
-            <span class="text-slate-500">Building Science</span>
+          <div class="mt-6 pt-4 border-t border-steel-900 flex items-center justify-between text-xs font-mono">
+            <a href="article-template.html" class="text-crimson-light hover:text-white font-semibold">Write Article (Draft Slot) &rarr;</a>
+            <span class="text-steel-400">Building Science</span>
           </div>
         </div>
       </div>
 
       <!-- Article Slot 6 (Prefab Assemblies) -->
-      <div class="article-item bg-slate-900 rounded-2xl overflow-hidden border border-slate-800 hover:border-brand-500/50 transition flex flex-col" data-cat="prefab">
+      <div class="article-item bg-navy-900/90 rounded-2xl overflow-hidden border border-steel-800 hover:border-steel-400 transition flex flex-col" data-cat="prefab">
         <div class="p-6 flex-1 flex flex-col justify-between">
           <div>
             <div class="flex items-center justify-between gap-2 mb-3">
-              <span class="text-[10px] font-mono px-2 py-0.5 rounded bg-cyan-500/20 text-cyan-300 border border-cyan-500/30">
+              <span class="text-[10px] font-mono px-2 py-0.5 rounded bg-steel-800 text-steel-200 border border-steel-700">
                 Prefab Envelopes
               </span>
-              <span class="text-[10px] font-mono text-slate-500">Offsite Construction</span>
+              <span class="text-[10px] font-mono text-steel-300">Offsite Construction</span>
             </div>
             <h3 class="text-lg font-bold text-white leading-snug">
               SIPs vs ICF in Climate Zone 5: Total Cost, Air Leakage & Thermal Mass
             </h3>
-            <p class="text-slate-400 text-xs mt-2 leading-relaxed">
+            <p class="text-steel-200 text-xs mt-2 leading-relaxed">
               Comparison of Structural Insulated Panels vs Insulated Concrete Forms in sub-zero freeze cycles, labor speed, and termite/pest protection.
             </p>
           </div>
-          <div class="mt-6 pt-4 border-t border-slate-800/80 flex items-center justify-between text-xs font-mono">
-            <a href="article-template.html" class="text-brand-400 hover:text-brand-300 font-semibold">Write Article (Draft Slot) &rarr;</a>
-            <span class="text-slate-500">Comparative Spec</span>
+          <div class="mt-6 pt-4 border-t border-steel-900 flex items-center justify-between text-xs font-mono">
+            <a href="article-template.html" class="text-crimson-light hover:text-white font-semibold">Write Article (Draft Slot) &rarr;</a>
+            <span class="text-steel-400">Comparative Spec</span>
           </div>
         </div>
       </div>
@@ -358,86 +380,86 @@
   </section>
 
   <!-- MATERIAL MANUFACTURERS DIRECTORY SECTION -->
-  <section id="manufacturers" class="py-16 bg-slate-900/40 border-t border-b border-slate-800">
+  <section id="manufacturers" class="py-16 bg-navy-900/40 border-t border-b border-steel-900">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="flex flex-col md:flex-row items-start md:items-end justify-between mb-8 gap-4">
         <div>
-          <span class="text-xs font-mono uppercase tracking-widest text-brand-400">Spec Directory</span>
+          <span class="text-xs font-mono uppercase tracking-widest text-crimson-light">Spec Directory</span>
           <h2 class="text-3xl font-bold text-white mt-1">Material Manufacturers & Systems</h2>
-          <p class="text-slate-400 text-xs mt-1">
+          <p class="text-steel-300 text-xs mt-1">
             Engineered materials with certified ASTM ratings for Midwest Climate Zones 4 & 5.
           </p>
         </div>
 
         <!-- Partnership Hook for Manufacturers -->
-        <div class="p-3 rounded-xl bg-brand-950/40 border border-brand-500/30 text-xs font-mono text-brand-200">
+        <div class="p-3 rounded-xl bg-navy-900 border border-steel-700 text-xs font-mono text-steel-200">
           <strong>Are you a building product manufacturer?</strong> 
-          <a href="#partner-form" class="underline text-white font-bold ml-1">List your system &rarr;</a>
+          <a href="#partner-form" class="underline text-crimson-light font-bold ml-1 hover:text-white">List your system &rarr;</a>
         </div>
       </div>
 
       <!-- Manufacturer Grid -->
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
         <!-- Brand 1: Rockwool -->
-        <div class="p-5 rounded-xl bg-slate-900 border border-slate-800 hover:border-slate-600 transition flex flex-col justify-between">
+        <div class="p-5 rounded-xl bg-navy-900 border border-steel-800 hover:border-steel-400 transition flex flex-col justify-between">
           <div>
             <div class="flex items-center justify-between">
               <span class="text-xs font-bold text-white tracking-wider">ROCKWOOL</span>
-              <span class="text-[10px] font-mono text-emerald-400 bg-emerald-500/10 px-2 py-0.5 rounded border border-emerald-500/30">Stone Wool</span>
+              <span class="text-[10px] font-mono text-steel-200 bg-steel-900 px-2 py-0.5 rounded border border-steel-700">Stone Wool</span>
             </div>
-            <p class="text-xs text-slate-400 mt-2">
+            <p class="text-xs text-steel-200 mt-2">
               Comfortbatt & Comfortboard 80 continuous exterior mineral wool. Non-combustible, vapor-permeable, moisture-resistant.
             </p>
           </div>
-          <div class="mt-4 pt-3 border-t border-slate-800/80 text-[11px] font-mono text-brand-400">
+          <div class="mt-4 pt-3 border-t border-steel-900 text-[11px] font-mono text-steel-300">
             Category: Energy & R-Value
           </div>
         </div>
 
         <!-- Brand 2: Stego Industries -->
-        <div class="p-5 rounded-xl bg-slate-900 border border-slate-800 hover:border-slate-600 transition flex flex-col justify-between">
+        <div class="p-5 rounded-xl bg-navy-900 border border-steel-800 hover:border-steel-400 transition flex flex-col justify-between">
           <div>
             <div class="flex items-center justify-between">
               <span class="text-xs font-bold text-white tracking-wider">STEGO WRAP</span>
-              <span class="text-[10px] font-mono text-blue-400 bg-blue-500/10 px-2 py-0.5 rounded border border-blue-500/30">Vapor Barrier</span>
+              <span class="text-[10px] font-mono text-steel-200 bg-steel-900 px-2 py-0.5 rounded border border-steel-700">Vapor Barrier</span>
             </div>
-            <p class="text-xs text-slate-400 mt-2">
+            <p class="text-xs text-steel-200 mt-2">
               15-Mil & 20-Mil Class A below-slab vapor retarders. ASTM E1745 certified to block moisture drive and soil gases.
             </p>
           </div>
-          <div class="mt-4 pt-3 border-t border-slate-800/80 text-[11px] font-mono text-brand-400">
+          <div class="mt-4 pt-3 border-t border-steel-900 text-[11px] font-mono text-steel-300">
             Category: Water Barriers
           </div>
         </div>
 
         <!-- Brand 3: Mitsubishi Electric -->
-        <div class="p-5 rounded-xl bg-slate-900 border border-slate-800 hover:border-slate-600 transition flex flex-col justify-between">
+        <div class="p-5 rounded-xl bg-navy-900 border border-steel-800 hover:border-steel-400 transition flex flex-col justify-between">
           <div>
             <div class="flex items-center justify-between">
               <span class="text-xs font-bold text-white tracking-wider">MITSUBISHI H2i</span>
-              <span class="text-[10px] font-mono text-amber-400 bg-amber-500/10 px-2 py-0.5 rounded border border-amber-500/30">Heat Pumps</span>
+              <span class="text-[10px] font-mono text-steel-200 bg-steel-900 px-2 py-0.5 rounded border border-steel-700">Heat Pumps</span>
             </div>
-            <p class="text-xs text-slate-400 mt-2">
+            <p class="text-xs text-steel-200 mt-2">
               Hyper-Heating inverter compressor technology maintaining 100% capacity down to -5&deg;F and operating to -13&deg;F.
             </p>
           </div>
-          <div class="mt-4 pt-3 border-t border-slate-800/80 text-[11px] font-mono text-brand-400">
+          <div class="mt-4 pt-3 border-t border-steel-900 text-[11px] font-mono text-steel-300">
             Category: Heating & Cooling
           </div>
         </div>
 
         <!-- Brand 4: Pro Clima / 475 -->
-        <div class="p-5 rounded-xl bg-slate-900 border border-slate-800 hover:border-slate-600 transition flex flex-col justify-between">
+        <div class="p-5 rounded-xl bg-navy-900 border border-steel-800 hover:border-steel-400 transition flex flex-col justify-between">
           <div>
             <div class="flex items-center justify-between">
               <span class="text-xs font-bold text-white tracking-wider">PRO CLIMA INTELLO</span>
-              <span class="text-[10px] font-mono text-sky-400 bg-sky-500/10 px-2 py-0.5 rounded border border-sky-500/30">Smart Vapor</span>
+              <span class="text-[10px] font-mono text-steel-200 bg-steel-900 px-2 py-0.5 rounded border border-steel-700">Smart Vapor</span>
             </div>
-            <p class="text-xs text-slate-400 mt-2">
+            <p class="text-xs text-steel-200 mt-2">
               Intelligent variable-permeance air & vapor retarders that open in humid Midwest summers and close during freezing winters.
             </p>
           </div>
-          <div class="mt-4 pt-3 border-t border-slate-800/80 text-[11px] font-mono text-brand-400">
+          <div class="mt-4 pt-3 border-t border-steel-900 text-[11px] font-mono text-steel-300">
             Category: Air Barriers
           </div>
         </div>
@@ -447,23 +469,23 @@
 
   <!-- CONTRACTOR & SPECIFIER MATCH WIDGET -->
   <section id="quote-match" class="py-16 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-    <div class="bg-gradient-to-br from-slate-900 to-slate-950 border-2 border-brand-500/40 rounded-3xl p-8 sm:p-10 shadow-2xl relative">
+    <div class="bg-gradient-to-br from-navy-900 to-navy-950 border-2 border-steel-700 rounded-3xl p-8 sm:p-10 shadow-2xl relative">
       <div class="max-w-xl">
-        <span class="text-xs font-mono uppercase tracking-widest text-brand-400">Midwest Pro Network</span>
+        <span class="text-xs font-mono uppercase tracking-widest text-crimson-light">Midwest Pro Network</span>
         <h2 class="text-2xl sm:text-3xl font-extrabold text-white mt-1">Connect with Certified Building Science Trades</h2>
-        <p class="text-slate-300 text-xs sm:text-sm mt-2 leading-relaxed">
+        <p class="text-steel-200 text-xs sm:text-sm mt-2 leading-relaxed">
           Matching builders, flippers, and homeowners in Climate Zones 4 & 5 with vetted insulation, waterproofing, and inverter HVAC specialists.
         </p>
       </div>
 
       <form class="mt-6 grid grid-cols-1 sm:grid-cols-3 gap-3" onsubmit="event.preventDefault(); alert('Spec request prototype submitted!');">
         <div>
-          <label class="block text-[11px] font-mono text-slate-400 mb-1">Midwest Zip Code</label>
-          <input type="text" placeholder="e.g. 63101 (St. Louis)" class="w-full bg-slate-950 border border-slate-800 rounded-lg px-3 py-2 text-sm text-white placeholder-slate-600 focus:outline-none focus:border-brand-500">
+          <label class="block text-[11px] font-mono text-steel-300 mb-1">Midwest Zip Code</label>
+          <input type="text" placeholder="e.g. 63101 (St. Louis)" class="w-full bg-navy-950 border border-steel-800 rounded-lg px-3 py-2 text-sm text-white placeholder-steel-700 focus:outline-none focus:border-steel-400">
         </div>
         <div>
-          <label class="block text-[11px] font-mono text-slate-400 mb-1">System Scope</label>
-          <select class="w-full bg-slate-950 border border-slate-800 rounded-lg px-3 py-2 text-sm text-white focus:outline-none focus:border-brand-500">
+          <label class="block text-[11px] font-mono text-steel-300 mb-1">System Scope</label>
+          <select class="w-full bg-navy-950 border border-steel-800 rounded-lg px-3 py-2 text-sm text-white focus:outline-none focus:border-steel-400">
             <option>Urban Remodel / Historic Brick Retrofit</option>
             <option>High-ROI R-Value & Attic Air-Sealing</option>
             <option>Cold-Climate Inverter Heat Pump</option>
@@ -472,7 +494,7 @@
           </select>
         </div>
         <div class="flex items-end">
-          <button type="submit" class="w-full bg-brand-600 hover:bg-brand-500 text-white font-semibold py-2 px-4 rounded-lg text-sm transition shadow-lg shadow-brand-600/30">
+          <button type="submit" class="w-full bg-crimson hover:bg-crimson-hover text-white font-semibold py-2 px-4 rounded-lg text-sm transition shadow-lg shadow-crimson/30">
             Match Vetted Trades &rarr;
           </button>
         </div>
@@ -481,10 +503,10 @@
   </section>
 
   <!-- Footer -->
-  <footer class="border-t border-slate-900 bg-slate-950 py-10 text-xs text-slate-500 font-mono">
+  <footer class="border-t border-steel-900 bg-navy-950 py-10 text-xs text-steel-300 font-mono">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row items-center justify-between gap-4">
       <div class="flex items-center gap-2">
-        <span class="font-bold text-slate-300">MIAEC</span>
+        <span class="font-bold text-white">MIAEC</span>
         <span>&bull;</span>
         <span>Midwest Building Science, Systems & Assemblies Directory</span>
       </div>
@@ -497,10 +519,9 @@
     </div>
   </footer>
 
-  <!-- Simple Vanilla JS Category Filtering -->
+  <!-- Vanilla JS Category Filtering -->
   <script>
     function filterCategory(cat) {
-      // Update active state on topic cards
       document.querySelectorAll('.topic-card').forEach(btn => {
         if (btn.getAttribute('data-category') === cat) {
           btn.classList.add('active');
@@ -509,7 +530,6 @@
         }
       });
 
-      // Filter articles
       const articles = document.querySelectorAll('.article-item');
       let visibleCount = 0;
       articles.forEach(item => {
@@ -522,7 +542,6 @@
         }
       });
 
-      // Update status text
       const statusText = document.getElementById('filter-status-text');
       if (cat === 'all') {
         statusText.textContent = 'Showing all 7 technical categories (' + visibleCount + ' articles & guides)';
@@ -530,7 +549,6 @@
         statusText.textContent = 'Filtered by category: ' + cat.replace('-', ' ') + ' (' + visibleCount + ' guides found)';
       }
 
-      // Smooth scroll to articles section if clicking a topic
       if (cat !== 'all') {
         const articlesSection = document.getElementById('articles');
         articlesSection.scrollIntoView({ behavior: 'smooth' });

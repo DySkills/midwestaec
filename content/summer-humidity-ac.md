@@ -1,7 +1,7 @@
 ---
 title: "The Midwest Summer Humidity Trap: Why High-Efficiency AC Leaves Your Basement Cold & Clammy"
 slug: "summer-humidity-ac"
-category: "Heating & Cooling"
+category: "HVAC"
 catSlug: "heating-cooling"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]

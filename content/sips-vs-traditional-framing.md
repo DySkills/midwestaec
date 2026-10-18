@@ -1,7 +1,7 @@
 ---
 title: "SIPs (Structural Insulated Panels) in Zone 5: Total Cost vs. Traditional Stick Framing"
 slug: "sips-vs-traditional-framing"
-category: "Prefab Envelopes"
+category: "Envelopes"
 catSlug: "prefab"
 cities: ["Chicago", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls"]
 states: ["IA", "IL", "IN", "MI", "MN", "ND", "NE", "OH", "SD", "WI"]

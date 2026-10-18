@@ -3,7 +3,7 @@ title: "Can a Heat Pump Actually Handle -15°F in a Midwest Winter? Cold-Climate
 subtitle: "Why low-ambient vapor flash-injection compressors maintain 100% heating capacity below zero, how dual-fuel balance points work, and how to avoid the summer humidity trap."
 format: "Report"
 leadType: "Fact-First"
-category: "Heating & Cooling"
+category: "HVAC"
 catSlug: "heating-cooling"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]

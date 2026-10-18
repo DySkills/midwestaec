@@ -1,7 +1,7 @@
 ---
 title: "ICF (Insulated Concrete Forms) for Midwest Basements: Eliminating Moisture & Freezing Walls"
 slug: "icf-basements-walls"
-category: "Prefab Envelopes"
+category: "Envelopes"
 catSlug: "prefab"
 cities: ["Chicago", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls"]
 states: ["IA", "IL", "IN", "MI", "MN", "ND", "NE", "OH", "SD", "WI"]

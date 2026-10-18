@@ -126,7 +126,7 @@ var miaecData = [
     "subtitle": "Why low-ambient vapor flash-injection compressors maintain 100% heating capacity below zero, how dual-fuel balance points work, and how to avoid the summer humidity trap.",
     "format": "Report",
     "leadType": "Fact-First",
-    "category": "Heating & Cooling",
+    "category": "HVAC",
     "catSlug": "heating-cooling",
     "cities": [
       "Chicago",
@@ -334,7 +334,7 @@ var miaecData = [
     "subtitle": "",
     "format": "Feature",
     "leadType": "",
-    "category": "Prefab Envelopes",
+    "category": "Envelopes",
     "catSlug": "prefab",
     "cities": [
       "Chicago",
@@ -480,7 +480,7 @@ var miaecData = [
     "subtitle": "",
     "format": "Feature",
     "leadType": "",
-    "category": "Prefab Envelopes",
+    "category": "Envelopes",
     "catSlug": "prefab",
     "cities": [
       "Chicago",
@@ -588,7 +588,7 @@ var miaecData = [
     "subtitle": "",
     "format": "Feature",
     "leadType": "",
-    "category": "Heating & Cooling",
+    "category": "HVAC",
     "catSlug": "heating-cooling",
     "cities": [
       "Chicago",

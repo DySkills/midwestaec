@@ -244,8 +244,8 @@ var miaecData = [
     "url": "articles/crawlspace-encapsulation.html"
   },
   {
-    "title": "Why Your Midwest Electric & Gas Bill Doubled (And the 2 Fixes That Actually Cut It)",
-    "subtitle": "An investigative analysis of winter tariff hikes, why $20,000 window replacements fail the math, and the two attic retrofits that pay back in two heating seasons.",
+    "title": "Winter Tariff Hikes: Why $20,000 Window Replacements Fail (And Better Options)",
+    "subtitle": "An investigative teardown of Midwest seasonal rate spikes, why salesmen push $20,000 replacement windows with 28-year paybacks, and the high-ROI building science alternatives that actually cut bills.",
     "format": "Feature",
     "leadType": "Descriptive",
     "category": "Energy Efficiency & R-Value",
@@ -281,8 +281,8 @@ var miaecData = [
       "SD",
       "WI"
     ],
-    "summary": "An investigative analysis of winter tariff hikes, why $20,000 window replacements fail the math, and the two attic retrofits that pay back in two heating seasons.",
-    "codeTag": "IECC R-60 / ASTM E779",
+    "summary": "An investigative teardown of Midwest seasonal rate spikes, why salesmen push $20,000 replacement windows with 28-year paybacks, and the high-ROI building science alternatives that actually cut bills.",
+    "codeTag": "IECC R-60 / ASTM E779 / AERC Low-E",
     "type": "Feature",
     "url": "articles/energy-hikes.html"
   },

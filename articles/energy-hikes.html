@@ -132,10 +132,28 @@
 <h2 class="text-2xl font-bold text-navy font-serif mt-10 mb-4 pt-4 border-t border-slate-100">2. The Stack Effect: Physics of Residential Depressurization</h2>
 <p class="text-slate-700 text-base leading-relaxed my-4">Residential heat loss in cold climates is governed by buoyant convective flow, codified in <strong class="text-navy font-bold">ASHRAE Handbook of Fundamentals, Chapter 16</strong>. Because warm air is less dense than freezing outdoor air, conditioned air naturally rises and builds positive pressure against the highest ceiling plane of your home.</p>
 <p class="text-slate-700 text-base leading-relaxed my-4">That pressurized warm air aggressively searches for every unsealed opening into the cold attic space. It escapes through top plate gaps along partition walls, wire penetrations drilled for Romex, unsealed drywall cuts around plumbing vents, and non-airtight recessed can lights.</p>
-<figure class="my-8 rounded-2xl overflow-hidden border border-slate-200 bg-white shadow-sm">
-  <img src="../images/stack-effect-diagram.jpg" alt="Technical Cross-Section: Stack-Effect Air Dynamics and Neutral Pressure Plane in a Midwest Home in Winter" class="w-full h-auto object-cover" loading="lazy" />
-  <figcaption class="p-3 bg-slate-50 text-xs font-mono text-slate-500 border-t border-slate-200 text-center">Technical Cross-Section: Stack-Effect Air Dynamics and Neutral Pressure Plane in a Midwest Home in Winter</figcaption>
-</figure>
+<div class="my-8 rounded-2xl border border-slate-200 bg-white shadow-sm overflow-hidden" data-carousel="carousel-vimvys">
+  <div class="flex flex-wrap items-center justify-between gap-2 px-4 py-3 bg-slate-50 border-b border-slate-200">
+    <span class="text-xs font-mono font-bold uppercase tracking-wider text-navy flex items-center gap-2">
+      <svg class="w-4 h-4 text-steel" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"/></svg>
+      <span>Architectural Comparison</span>
+    </span>
+    <div class="flex items-center gap-1.5" role="tablist">
+      <button type="button" class="carousel-tab px-3 py-1 rounded-full text-xs font-mono transition bg-navy text-white shadow-xs font-semibold" onclick="switchSlide('carousel-vimvys', 0)">Two-Story Home</button>
+      <button type="button" class="carousel-tab px-3 py-1 rounded-full text-xs font-mono transition text-slate-600 hover:text-navy hover:bg-slate-200/60 font-medium" onclick="switchSlide('carousel-vimvys', 1)">Single-Story Ranch</button>
+    </div>
+  </div>
+  <div class="carousel-slides relative">
+    <div class="carousel-slide block transition-opacity duration-200" data-slide="0">
+      <img src="../images/stack-effect-diagram.jpg" alt="Technical Cross-Section: Stack-Effect Air Dynamics and Neutral Pressure Plane in a Two-Story Midwest Home" class="w-full h-auto object-cover" loading="lazy" />
+      <div class="p-3 bg-slate-50 text-xs font-mono text-slate-600 border-t border-slate-200 text-center">Figure 1.1: Two-Story Home — The extended vertical stack height doubles buoyant convective pressure, pulling freezing air across basement rim joists.</div>
+    </div>
+    <div class="carousel-slide hidden transition-opacity duration-200" data-slide="1">
+      <img src="../images/stack-effect-ranch.jpg" alt="Technical Cross-Section: Stack-Effect Air Dynamics in a Single-Story Midwest Ranch Home" class="w-full h-auto object-cover" loading="lazy" />
+      <div class="p-3 bg-slate-50 text-xs font-mono text-slate-600 border-t border-slate-200 text-center">Figure 1.2: Single-Story Ranch — Ceiling-plane drywall cuts and recessed lighting fixtures act as the primary convective bypass into the cold vented attic.</div>
+    </div>
+  </div>
+</div>
 <p class="text-slate-700 text-base leading-relaxed my-4">Under fundamental laws of mass balance, every cubic foot of heated air pushed into the attic forces an equal cubic foot of freezing outdoor air into the bottom of the home. This creates a severe negative pressure zone across the basement foundation and rim joists.</p>
 <p class="text-slate-700 text-base leading-relaxed my-4">Freezing air is pulled directly through mud sills, rim joist transitions, and floor-wall joints. If your main-level floors feel freezing in the dead of winter, the culprit is not your carpet pad—it is active stack-effect depressurization pulling 5°F air across your structural floor joists.</p>
 <hr class="my-8 border-slate-200" />
@@ -231,5 +249,29 @@
       <div><a href="../about.html" class="hover:text-navy">About MIAEC</a> &bull; &copy; 2026 MIAEC Media LLC</div>
     </div>
   </footer>
+  <script>
+    function switchSlide(carouselId, index) {
+      const container = document.querySelector('[data-carousel="' + carouselId + '"]');
+      if (!container) return;
+      const tabs = container.querySelectorAll('.carousel-tab');
+      const slides = container.querySelectorAll('.carousel-slide');
+      tabs.forEach((tab, i) => {
+        if (i === index) {
+          tab.className = 'carousel-tab px-3 py-1 rounded-full text-xs font-mono font-semibold transition bg-navy text-white shadow-xs';
+        } else {
+          tab.className = 'carousel-tab px-3 py-1 rounded-full text-xs font-mono font-medium transition text-slate-600 hover:text-navy hover:bg-slate-200/60';
+        }
+      });
+      slides.forEach((slide, i) => {
+        if (i === index) {
+          slide.classList.remove('hidden');
+          slide.classList.add('block');
+        } else {
+          slide.classList.add('hidden');
+          slide.classList.remove('block');
+        }
+      });
+    }
+  </script>
 </body>
 </html>

@@ -57,6 +57,89 @@ function markdownToHtml(md) {
   for (let i = 0; i < lines.length; i++) {
     let line = lines[i].trim();
 
+    // Carousel parsing (:::carousel ... :::)
+    if (line.startsWith(':::carousel')) {
+      let carouselLines = [];
+      i++;
+      while (i < lines.length && !lines[i].trim().startsWith(':::')) {
+        carouselLines.push(lines[i]);
+        i++;
+      }
+
+      const carouselId = 'carousel-' + Math.random().toString(36).substring(2, 8);
+      let slides = [];
+      let currentSlide = { title: 'Slide 1', img: '', alt: '', caption: '' };
+
+      for (let c = 0; c < carouselLines.length; c++) {
+        let cLine = carouselLines[c].trim();
+        if (!cLine) continue;
+
+        if (cLine.startsWith('### ')) {
+          if (currentSlide.img) {
+            slides.push(currentSlide);
+          }
+          currentSlide = { title: cLine.slice(4).trim(), img: '', alt: '', caption: '' };
+          continue;
+        }
+
+        if (cLine.startsWith('<!-- slide -->')) {
+          if (currentSlide.img) {
+            slides.push(currentSlide);
+          }
+          currentSlide = { title: `Archetype ${slides.length + 1}`, img: '', alt: '', caption: '' };
+          continue;
+        }
+
+        let imgMatch = cLine.match(/^!\[(.*?)\]\((.*?)\)$/);
+        if (imgMatch) {
+          currentSlide.alt = imgMatch[1];
+          let src = imgMatch[2];
+          if (src.startsWith('images/')) src = '../' + src;
+          currentSlide.img = src;
+          continue;
+        }
+
+        if (currentSlide.img && !cLine.startsWith('![')) {
+          currentSlide.caption = (currentSlide.caption ? currentSlide.caption + ' ' : '') + cLine;
+        }
+      }
+      if (currentSlide.img) {
+        slides.push(currentSlide);
+      }
+
+      if (slides.length > 0) {
+        html += `<div class="my-8 rounded-2xl border border-slate-200 bg-white shadow-sm overflow-hidden" data-carousel="${carouselId}">\n`;
+        html += `  <div class="flex flex-wrap items-center justify-between gap-2 px-4 py-3 bg-slate-50 border-b border-slate-200">\n`;
+        html += `    <span class="text-xs font-mono font-bold uppercase tracking-wider text-navy flex items-center gap-2">\n`;
+        html += `      <svg class="w-4 h-4 text-steel" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"/></svg>\n`;
+        html += `      <span>Architectural Comparison</span>\n`;
+        html += `    </span>\n`;
+        html += `    <div class="flex items-center gap-1.5" role="tablist">\n`;
+        slides.forEach((s, idx) => {
+          const isActive = idx === 0;
+          const cls = isActive ? 'bg-navy text-white shadow-xs font-semibold' : 'text-slate-600 hover:text-navy hover:bg-slate-200/60 font-medium';
+          html += `      <button type="button" class="carousel-tab px-3 py-1 rounded-full text-xs font-mono transition ${cls}" onclick="switchSlide('${carouselId}', ${idx})">${s.title}</button>\n`;
+        });
+        html += `    </div>\n`;
+        html += `  </div>\n`;
+
+        html += `  <div class="carousel-slides relative">\n`;
+        slides.forEach((s, idx) => {
+          const isHidden = idx === 0 ? 'block' : 'hidden';
+          const cap = s.caption || s.alt;
+          html += `    <div class="carousel-slide ${isHidden} transition-opacity duration-200" data-slide="${idx}">\n`;
+          html += `      <img src="${s.img}" alt="${s.alt}" class="w-full h-auto object-cover" loading="lazy" />\n`;
+          if (cap) {
+            html += `      <div class="p-3 bg-slate-50 text-xs font-mono text-slate-600 border-t border-slate-200 text-center">${cap}</div>\n`;
+          }
+          html += `    </div>\n`;
+        });
+        html += `  </div>\n`;
+        html += `</div>\n`;
+      }
+      continue;
+    }
+
     // Image parsing (![alt](src))
     if (line.startsWith('![')) {
       const match = line.match(/^!\[(.*?)\]\((.*?)\)$/);
@@ -355,6 +438,30 @@ function buildArticleHtml(frontmatter, htmlBody) {
       <div><a href="../about.html" class="hover:text-navy">About MIAEC</a> &bull; &copy; 2026 MIAEC Media LLC</div>
     </div>
   </footer>
+  <script>
+    function switchSlide(carouselId, index) {
+      const container = document.querySelector('[data-carousel="' + carouselId + '"]');
+      if (!container) return;
+      const tabs = container.querySelectorAll('.carousel-tab');
+      const slides = container.querySelectorAll('.carousel-slide');
+      tabs.forEach((tab, i) => {
+        if (i === index) {
+          tab.className = 'carousel-tab px-3 py-1 rounded-full text-xs font-mono font-semibold transition bg-navy text-white shadow-xs';
+        } else {
+          tab.className = 'carousel-tab px-3 py-1 rounded-full text-xs font-mono font-medium transition text-slate-600 hover:text-navy hover:bg-slate-200/60';
+        }
+      });
+      slides.forEach((slide, i) => {
+        if (i === index) {
+          slide.classList.remove('hidden');
+          slide.classList.add('block');
+        } else {
+          slide.classList.add('hidden');
+          slide.classList.remove('block');
+        }
+      });
+    }
+  </script>
 </body>
 </html>
 `;

@@ -130,3 +130,18 @@ No article may make an empirical performance claim without citing at least two o
 3. **Engineering Handbooks:** ASHRAE Handbook of Fundamentals (specifically Chapter 16 for infiltration and stack dynamics).
 4. **Model Energy Codes:** International Energy Conservation Code (IECC 2021/2024), International Residential Code (IRC).
 5. **State Utility Dockets:** Public Service Commission and Commerce Commission formal rate case filings (Ameren, Spire, Nicor, ComEd, MidAmerican, Evergy).
+
+---
+
+## 6. Visual & Technical Diagram Style Guide
+
+All diagrams across MIAEC must maintain a cohesive architectural whitepaper aesthetic:
+
+- **Style:** Clean, architectural cross-section linework drawn over a faint, light gray-blue blueprint grid background (`#FBFBFC` canvas with `#E2E8F0` gridlines).
+- **Color System (60-30-10):**
+  - **Dominant Linework (60%):** Deep Navy (`#161F83`) for primary walls, structural framing, foundations, joists, and rafters.
+  - **Secondary Flow & Air (30%):** Steel Blue (`#3274AE`) for cold outdoor air infiltration, bulk water, and neutral lines.
+  - **Thermal Exfiltration & Accent (10%):** Crimson Red (`#C42927`) for warm buoyant air movement, heat loss bypasses, and critical failure zones.
+- **Typography in Diagrams:** Clean sans-serif technical annotations (e.g., *Newsreader* or *Plus Jakarta Sans* / *JetBrains Mono*) with clear leader lines pointing to exact construction assemblies (e.g., "Mud Sill", "Rim Joist", "Top Plate Bypass", "Neutral Pressure Plane").
+- **Carousels & Comparators:** When demonstrating contrasting building archetypes (e.g., Two-Story vs. Single-Story Ranch, or Solid Masonry vs. Veneer Brick), diagrams must be embedded in an interactive carousel with tabbed archetype pills so readers can toggle between housing types seamlessly.
+

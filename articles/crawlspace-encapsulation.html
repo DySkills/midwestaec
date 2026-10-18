@@ -157,5 +157,29 @@
       <div><a href="../about.html" class="hover:text-navy">About MIAEC</a> &bull; &copy; 2026 MIAEC Media LLC</div>
     </div>
   </footer>
+  <script>
+    function switchSlide(carouselId, index) {
+      const container = document.querySelector('[data-carousel="' + carouselId + '"]');
+      if (!container) return;
+      const tabs = container.querySelectorAll('.carousel-tab');
+      const slides = container.querySelectorAll('.carousel-slide');
+      tabs.forEach((tab, i) => {
+        if (i === index) {
+          tab.className = 'carousel-tab px-3 py-1 rounded-full text-xs font-mono font-semibold transition bg-navy text-white shadow-xs';
+        } else {
+          tab.className = 'carousel-tab px-3 py-1 rounded-full text-xs font-mono font-medium transition text-slate-600 hover:text-navy hover:bg-slate-200/60';
+        }
+      });
+      slides.forEach((slide, i) => {
+        if (i === index) {
+          slide.classList.remove('hidden');
+          slide.classList.add('block');
+        } else {
+          slide.classList.add('hidden');
+          slide.classList.remove('block');
+        }
+      });
+    }
+  </script>
 </body>
 </html>

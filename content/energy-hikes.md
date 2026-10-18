@@ -56,7 +56,15 @@ Residential heat loss in cold climates is governed by buoyant convective flow, c
 
 That pressurized warm air aggressively searches for every unsealed opening into the cold attic space. It escapes through top plate gaps along partition walls, wire penetrations drilled for Romex, unsealed drywall cuts around plumbing vents, and non-airtight recessed can lights.
 
-![Technical Cross-Section: Stack-Effect Air Dynamics and Neutral Pressure Plane in a Midwest Home in Winter](images/stack-effect-diagram.jpg)
+:::carousel
+### Two-Story Home
+![Technical Cross-Section: Stack-Effect Air Dynamics and Neutral Pressure Plane in a Two-Story Midwest Home](images/stack-effect-diagram.jpg)
+Figure 1.1: Two-Story Home — The extended vertical stack height doubles buoyant convective pressure, pulling freezing air across basement rim joists.
+
+### Single-Story Ranch
+![Technical Cross-Section: Stack-Effect Air Dynamics in a Single-Story Midwest Ranch Home](images/stack-effect-ranch.jpg)
+Figure 1.2: Single-Story Ranch — Ceiling-plane drywall cuts and recessed lighting fixtures act as the primary convective bypass into the cold vented attic.
+:::
 
 Under fundamental laws of mass balance, every cubic foot of heated air pushed into the attic forces an equal cubic foot of freezing outdoor air into the bottom of the home. This creates a severe negative pressure zone across the basement foundation and rim joists. 
 

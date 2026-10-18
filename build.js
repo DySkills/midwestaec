@@ -199,10 +199,9 @@ function markdownToHtml(md) {
       }
       i--; // rewind one step for main loop
 
-      let bqHtml = '<div class="my-8 p-6 sm:p-7 rounded-2xl bg-steel-50/80 border-l-4 border-crimson border border-steel-border/60 shadow-sm">\n';
-      bqHtml += '  <div class="flex items-center gap-2 text-xs font-mono font-bold uppercase tracking-wider text-crimson mb-3">\n';
-      bqHtml += '    <svg class="w-4 h-4 text-crimson" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>\n';
-      bqHtml += '    <span>Quick Summary & Essential Takeaways</span>\n';
+      let bqHtml = '<div class="my-8 p-6 sm:p-7 rounded-2xl bg-emerald-50/50 border-l-4 border-emerald-600 border border-emerald-200/60 shadow-sm">\n';
+      bqHtml += '  <div class="text-xs font-mono font-bold uppercase tracking-wider text-emerald-800 mb-2">\n';
+      bqHtml += '    Quick Summary\n';
       bqHtml += '  </div>\n';
 
       let inBqList = false;
@@ -212,10 +211,10 @@ function markdownToHtml(md) {
 
         if (bLine.startsWith('- ') || bLine.startsWith('* ')) {
           if (!inBqList) {
-            bqHtml += '  <ul class="mt-4 pt-4 border-t border-slate-200/80 space-y-2.5 text-sm text-slate-700 font-sans">\n';
+            bqHtml += '  <ul class="mt-4 pt-4 border-t border-emerald-200/80 space-y-2.5 text-sm text-slate-700 font-sans">\n';
             inBqList = true;
           }
-          bqHtml += `    <li class="flex items-start gap-2.5"><span class="w-4 h-4 rounded-full bg-emerald-600 text-white flex items-center justify-center text-[10px] font-bold shrink-0 mt-0.5">✓</span><span>${formatInline(bLine.slice(2).trim())}</span></li>\n`;
+          bqHtml += `    <li class="flex items-start gap-2.5"><span class="w-4 h-4 rounded-full bg-crimson text-white flex items-center justify-center text-[10px] font-bold shrink-0 mt-0.5">✓</span><span>${formatInline(bLine.slice(2).trim())}</span></li>\n`;
         } else {
           if (inBqList) {
             bqHtml += '  </ul>\n';

@@ -281,7 +281,7 @@ var miaecData = [
       "SD",
       "WI"
     ],
-    "summary": "An investigative teardown of Midwest seasonal rate spikes, why salesmen push $20,000 replacement windows with 28-year paybacks, and the high-ROI building science alternatives that actually cut bills.",
+    "summary": "Every winter gas and electric bills increase across the Midwest, but they are rarely caused by failing furnaces. The cost is driven by approved tariff hikes colliding with the stack effect: an instance of hot air rising through unsealed ceilings which pulls cold air into lower portions of a building.",
     "codeTag": "IECC R-60 / ASTM E779 / AERC Low-E",
     "type": "Feature",
     "url": "articles/energy-hikes.html"

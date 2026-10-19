@@ -179,9 +179,9 @@ var miaecData = [
     "url": "articles/bug-prevention.html"
   },
   {
-    "title": "Can a Heat Pump Actually Handle -15°F in a Midwest Winter? Cold-Climate Inverters Explained",
-    "subtitle": "Why low-ambient vapor flash-injection compressors maintain 100% heating capacity below zero, how dual-fuel balance points work, and how to avoid the summer humidity trap.",
-    "format": "Report",
+    "title": "Can a Heat Pump Actually Handle -15°F? Cold-Climate Inverters During Midwest Winters",
+    "subtitle": "An engineering teardown of vapor flash-injection, real-world COP curves at sub-zero temperatures, dual-fuel balance points, and the summer humidity oversizing trap.",
+    "format": "Feature",
     "leadType": "Fact-First",
     "category": "HVAC",
     "catSlug": "hvac",
@@ -216,9 +216,9 @@ var miaecData = [
       "SD",
       "WI"
     ],
-    "summary": "A technical teardown of inverter-driven flash-injection heat pumps operating at -15°F, real-world COP curves vs natural gas furnaces, thermal balance points, and Manual J sizing rules.",
+    "summary": "Every January across the Midwest, homeowners question whether a heat pump can survive sub-zero weather without skyrocketing bills. Modern inverter-driven systems with vapor flash-injection deliver 100% rated capacity down to -5°F and operate past -15°F, but real-world comfort hinges on dual-fuel balance points and avoiding summer humidity traps.",
     "codeTag": "NEEP ccASHP / AHRI 210/240 / ASHRAE 90.1",
-    "type": "Report",
+    "type": "Feature",
     "url": "articles/cold-climate-heat-pumps.html"
   },
   {
@@ -544,9 +544,9 @@ var miaecData = [
     "url": "articles/off-grid-systems.html"
   },
   {
-    "title": "Rockwool vs. Fiberglass in Midwest Walls: The 5 Physical Differences That Matter",
-    "subtitle": "Why low-density glass fibers allow convective loops at -10°F while stone mineral wool maintains true rated thermal resistance and zero water absorption.",
-    "format": "Listicle",
+    "title": "Does Rockwool Outperform Fiberglass? How Each Holds Up in Midwest Wall Assemblies",
+    "subtitle": "Why low-density glass fibers allow convective looping and moisture clumping at -10°F while dense stone mineral wool maintains true rated thermal resistance, friction-fit rigidity, and zero water absorption.",
+    "format": "Feature",
     "leadType": "Contrast",
     "category": "Go Green",
     "catSlug": "go-green",
@@ -581,9 +581,9 @@ var miaecData = [
       "SD",
       "WI"
     ],
-    "summary": "A head-to-head building science breakdown of density, convective air looping, moisture hydrophobicity, fire endurance, and acoustic mass between stone wool and fiberglass in Climate Zones 4 and 5.",
+    "summary": "Walk into any Midwest home center and fiberglass batts cost 40% less than stone mineral wool. But behind drywall during sub-zero cold snaps, low-density glass fibers suffer severe convective thermal derating, slump under gravity, and sponge moisture, while hydrophobic stone wool locks thermal performance in place.",
     "codeTag": "ASTM C665 / ASTM C612 / ASTM C518",
-    "type": "Listicle",
+    "type": "Feature",
     "url": "articles/rockwool-vs-fiberglass.html"
   },
   {

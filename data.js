@@ -150,6 +150,35 @@ var miaecData = [
     "url": "articles/blower-door-checklist.html"
   },
   {
+    "title": "Rural Bug & Pest Prevention: Termite Shields, Carpenter Ants & Perimeter Envelopes",
+    "subtitle": "",
+    "format": "Feature",
+    "leadType": "",
+    "category": "Rural Development",
+    "catSlug": "rural-development",
+    "cities": [
+      "Cincinnati",
+      "Columbus",
+      "Des Moines",
+      "Indianapolis",
+      "Kansas City",
+      "Omaha",
+      "St. Louis"
+    ],
+    "states": [
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "MO",
+      "OH"
+    ],
+    "summary": "Physical barrier details, stainless steel weep guards, termite flashing, and landscaping setbacks to block pests and wood-boring insects in rural homes and pole barns.",
+    "codeTag": "IRC Section R318 / NPMA Guidelines",
+    "type": "Article",
+    "url": "articles/bug-prevention.html"
+  },
+  {
     "title": "Can a Heat Pump Actually Handle -15°F in a Midwest Winter? Cold-Climate Inverters Explained",
     "subtitle": "Why low-ambient vapor flash-injection compressors maintain 100% heating capacity below zero, how dual-fuel balance points work, and how to avoid the summer humidity trap.",
     "format": "Report",
@@ -354,6 +383,36 @@ var miaecData = [
     "url": "articles/energy-hikes.html"
   },
   {
+    "title": "Expansive Lawncare & Acreage Grading: Swales, Prairie Buffers & Soil Drainage",
+    "subtitle": "",
+    "format": "Feature",
+    "leadType": "",
+    "category": "Rural Development",
+    "catSlug": "rural-development",
+    "cities": [
+      "Chicago",
+      "Des Moines",
+      "Indianapolis",
+      "Kansas City",
+      "Milwaukee",
+      "Omaha",
+      "St. Louis"
+    ],
+    "states": [
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "MO",
+      "NE",
+      "WI"
+    ],
+    "summary": "Site civil engineering, storm runoff management, native deep-root prairie swales, and erosion control across 2 to 10-acre rural Midwest properties.",
+    "codeTag": "USDA NRCS Standard 412 / Local SWCD",
+    "type": "Article",
+    "url": "articles/expansive-lawncare.html"
+  },
+  {
     "title": "Why Do Midwest Roofs Get Ice Dams? The Real Fix (And Why Heat Cables Don't Work)",
     "subtitle": "",
     "format": "Feature",
@@ -455,6 +514,34 @@ var miaecData = [
     "codeTag": "Freeze-Thaw Masonry Durability",
     "type": "Article",
     "url": "articles/insulating-brick.html"
+  },
+  {
+    "title": "Rural Off-Grid Systems in Zone 5: Propane, Battery Backup & Freeze-Proof Wells",
+    "subtitle": "",
+    "format": "Feature",
+    "leadType": "",
+    "category": "Rural Development",
+    "catSlug": "rural-development",
+    "cities": [
+      "Des Moines",
+      "Fargo",
+      "Kansas City",
+      "Omaha",
+      "Rapid City",
+      "Sioux Falls"
+    ],
+    "states": [
+      "IA",
+      "KS",
+      "MO",
+      "ND",
+      "NE",
+      "SD"
+    ],
+    "summary": "Designing resilient propane storage, solar/battery microgrids, and deep-frost wellhead freeze protection beyond municipal utility lines in Climate Zones 4 & 5.",
+    "codeTag": "NEC Article 710 / NFPA 58",
+    "type": "Article",
+    "url": "articles/off-grid-systems.html"
   },
   {
     "title": "Rockwool vs. Fiberglass in Midwest Walls: The 5 Physical Differences That Matter",

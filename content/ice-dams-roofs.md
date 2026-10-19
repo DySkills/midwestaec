@@ -29,7 +29,7 @@ referralHook: "Attic Air Sealing & Roofing Specialist Quote Match"
 
 ## The Icicle Curtain at 18°F
 
-It is 7:30 AM on a bright January morning in Minneapolis, Milwaukee, or Des Moines. Outside, the sun reflects brilliantly off a fresh eight-inch blanket of powder, and the mercury sits at a crisp 18°F. 
+It is 7:30 AM on a bright January morning in Minneapolis. Outside, the sun reflects brilliantly off a fresh eight-inch blanket of powder, and the red bar stops at a crisp 18°F. 
 
 Along the front eaves of a 1978 colonial home, an ominous row of three-foot icicles hangs suspended like a wall of crystal daggers, bowing the aluminum gutters under hundreds of pounds of solid ice. Inside, a faint, rhythmic sound breaks the morning quiet: *drip... drip... drip...* In the upstairs bedroom, a dark, amber water stain has expanded across the drywall ceiling, and meltwater is slowly leaking around the casing of the north-facing window into a plastic bucket on the carpet.
 

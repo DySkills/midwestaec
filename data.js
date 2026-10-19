@@ -37,30 +37,45 @@ var miaecData = [
   },
   {
     "title": "Barndominium & Post-Frame Thermal Envelopes: Zone 5 Condensation Control",
-    "subtitle": "",
+    "subtitle": "Why corrugated steel screwed directly to wood girts creates hidden rot, how to engineer continuous outboard breaks, and the concrete perma-column foundation standard.",
     "format": "Feature",
-    "leadType": "",
+    "leadType": "Contrast",
     "category": "Rural Development",
     "catSlug": "rural-development",
     "cities": [
+      "Chicago",
+      "Cincinnati",
+      "Cleveland",
+      "Columbus",
       "Des Moines",
+      "Detroit",
       "Fargo",
+      "Indianapolis",
       "Kansas City",
+      "Milwaukee",
+      "Minneapolis",
       "Omaha",
       "Rapid City",
-      "Sioux Falls"
+      "Sioux Falls",
+      "St. Louis"
     ],
     "states": [
       "IA",
+      "IL",
+      "IN",
       "KS",
+      "MI",
+      "MN",
       "MO",
       "ND",
       "NE",
-      "SD"
+      "OH",
+      "SD",
+      "WI"
     ],
-    "summary": "Engineering thermal breaks, commercial wall girts, and vapor-permeable condensation planes in metal-clad post-frame residential buildings across the rural Midwest.",
-    "codeTag": "IBC Section 1404.2 / ASHRAE 90.1",
-    "type": "Article",
+    "summary": "Post-frame construction has exploded across rural acreages for its fast framing and clear-span interiors. But residential living produces gallons of daily vapor that agricultural pole barns never face. Without an outboard thermal break and ventilated rainscreen, sub-zero winter steel creates an internal condensation waterfall that rots posts within a decade.",
+    "codeTag": "IBC Section 1404.2 / IRC Table R702.7.1 / NFBA Standards",
+    "type": "Feature",
     "url": "articles/barndominium-post-frame.html"
   },
   {

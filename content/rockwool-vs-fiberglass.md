@@ -45,7 +45,7 @@ Nominal R-values printed on insulation packaging are derived under **ASTM C518**
 
 When outdoor temperatures drop to -10°F and indoor air is heated to 70°F across a 5.5-inch wall cavity, that 80-degree thermal gradient creates a buoyant convective loop inside low-density insulation. Warm interior air rises along the warm face of the drywall, migrates over the top of the batt, cools against the freezing exterior OSB sheathing, and drops down to the bottom plate. Research by **Oak Ridge National Laboratory (ORNL)** confirms that internal convective looping can derate low-density fiberglass batts by 20% to 35% during extreme cold spells.
 
-Stone wool's dense, tightly packed mineral fiber matrix mechanically halts internal air currents before convective loops can establish. Even under severe sub-zero thermal pressure, stagnant air pockets remain locked in place, ensuring the wall assembly delivers its full laboratory-tested thermal resistance when your heating plant needs it most.
+Stone wool's dense, tightly packed mineral fiber matrix mechanically halts internal air currents before convective loops can establish. Even under severe sub-zero thermal pressure, stagnant air pockets remain locked in place, ensuring the wall assembly delivers its full laboratory-tested thermal resistance when your furnace or heat pump is working hardest.
 
 - **Jobsite Rule:** On exterior walls facing prevailing north and west winter winds, specify high-density stone wool (or dense-packed cellulose) over low-density batts to eliminate convective thermal derating.
 

@@ -24,6 +24,8 @@ All MIAEC content is written through a clearly defined editorial perspective:
 Every article on MIAEC must strictly follow one of four standardized structural formats:
 
 > **Strictly No Emojis & Arrow Link Placement:** MIAEC maintains a clean, architectural whitepaper aesthetic. Never use emojis (no pointing fingers, thumbs, or decorative symbols in text or links). For callouts and cross-references, always place a clean typographical arrow *before* the link pointing directly at it (e.g., `&rarr; [Guide Title](url)`), never trailing after the link text.
+>
+> **Strictly No Numbered Subtitles in Features or Reports:** Features and Reports must use clean descriptive architectural titles (e.g., `## The Stack Effect`, `## Dew Point Physics`). Do not prefix headings with arbitrary numbers (never use `## 1.`, `## 2.`). Numbering is strictly reserved for Listicles (numbered comparison items) and Tutorials (sequential execution steps).
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐

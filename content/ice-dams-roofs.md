@@ -41,7 +41,7 @@ Neither purchase solves the problem. A brand-new roof will leak just as quickly 
 
 ---
 
-## 1. The Thermodynamics of an Ice Dam: The 32°F Melting Plane
+## Thermodynamics of an Ice Dam: The 32°F Melting Plane
 
 An ice dam requires three ingredients to exist: rooftop snow, sub-freezing outdoor ambient temperatures, and an uncontrolled source of heat escaping from the living space into the attic.
 
@@ -49,15 +49,15 @@ Snow is a remarkable thermal insulator, boasting an insulating value of roughly 
 
 The physical cycle unfolds in three sequential stages:
 
-1. **Attic Convective Bypass:** Warm, conditioned air from the living space (at 70°F) escapes into the unconditioned attic through unsealed ceiling penetrations—recessed can lights, attic access hatches, electrical wiring holes, and open framing top plates. This rising warm air creates a pressurized pocket of heat beneath the roof ridge, warming the attic air to 36°F to 42°F.
-2. **The 32°F Melting Plane:** The escaping heat conducts through the plywood or OSB roof sheathing, raising the sheathing temperature above 32°F (0°C). The bottom layer of snow contacting the warm shingles begins to melt, shielded from the cold outside air by the snowpack above. This liquid meltwater trickles down the roof slope under the blanket of snow toward the gutters.
-3. **The Sub-Freezing Overhang Freeze:** The moment the meltwater passes the exterior wall line of the home, the physical environment changes abruptly. The roof overhang (the eave and soffit) extends past the conditioned envelope of the building. With no heated living space below it, the overhang temperature matches the outdoor air—sitting at 15°F or 20°F. The trickle of meltwater instantly refreezes, depositing a razor-thin layer of ice at the roof edge.
+- **Attic Convective Bypass:** Warm, conditioned air from the living space (at 70°F) escapes into the unconditioned attic through unsealed ceiling penetrations—recessed can lights, attic access hatches, electrical wiring holes, and open framing top plates. This rising warm air creates a pressurized pocket of heat beneath the roof ridge, warming the attic air to 36°F to 42°F.
+- **The 32°F Melting Plane:** The escaping heat conducts through the plywood or OSB roof sheathing, raising the sheathing temperature above 32°F (0°C). The bottom layer of snow contacting the warm shingles begins to melt, shielded from the cold outside air by the snowpack above. This liquid meltwater trickles down the roof slope under the blanket of snow toward the gutters.
+- **The Sub-Freezing Overhang Freeze:** The moment the meltwater passes the exterior wall line of the home, the physical environment changes abruptly. The roof overhang (the eave and soffit) extends past the conditioned envelope of the building. With no heated living space below it, the overhang temperature matches the outdoor air—sitting at 15°F or 20°F. The trickle of meltwater instantly refreezes, depositing a razor-thin layer of ice at the roof edge.
 
 As warm attic air continues to melt rooftop snow hour after hour, this refreezing process repeats millions of times. Within 48 to 72 hours, the thin ice layer grows into an impenetrable solid ice ridge four to twelve inches thick.
 
 ---
 
-## 2. Hydrostatic Head & Why Overlapping Shingles Leak
+## Hydrostatic Head & Overlapping Shingle Mechanics
 
 Most homeowners assume that an asphalt shingle roof functions like a waterproof rubber membrane. In reality, steep-slope residential roofing is engineered strictly as a **water-shedding assembly**. 
 
@@ -77,22 +77,22 @@ Once water gets beneath the shingles, it encounters standard 15-pound felt or sy
 
 ---
 
-## 3. Why Heat Cables, Salt Pucks & Shovels Make It Worse
+## Why Heat Cables, Salt Pucks & Shovels Make It Worse
 
 Every winter, hardware stores promote temporary remedies that do far more structural damage than the ice dam itself:
 
-### A. Zigzag Electric Heat Cables
+### Zigzag Electric Heat Cables
 Electric de-icing cables installed in a zigzag pattern along the eaves consume between 5 and 8 watts per linear foot. For an average home, running 120 feet of heat cable 24/7 adds $80 to $150 per month to your electric bill. More importantly, building science testing proves they cannot stop ice damming. The cable simply melts a narrow two-inch tunnel through the ice ridge. Meltwater drains through this tunnel until cold wind chills the opening, causing ice to re-form and dam up inside the gutter itself. Furthermore, heat cables bake the asphalt shingles in summer, degrading the protective mineral granules.
 
-### B. Calcium Chloride Salt Pucks
+### Calcium Chloride Salt Pucks
 Tossing chemical ice-melt pucks or salt-filled pantyhose onto the roof dissolves localized channels in the ice, but the chemical brine damages the roof. The runoff bleaches and discolors asphalt shingles, corrodes aluminum gutters, dissolves galvanized roofing nails, and drips onto foundation landscaping, poisoning shrubs and perennial flowerbeds come spring.
 
-### C. Shovels, Hammers, and Ice Picks
+### Shovels, Hammers, and Ice Picks
 Climbing a ladder in freezing weather to hack at solid ice with a roofing shovel or mallet is hazardous to both homeowner and roof. At 15°F, asphalt shingles are brittle as glass. Striking the ice fractures the fiberglass shingle mat, punctures the waterproof underlayment, and creates instant leaks that void the shingle manufacturer's warranty.
 
 ---
 
-## 4. Code Specifications & Performance Benchmarks
+## Code Specifications & Performance Benchmarks
 
 Solving ice dams permanently requires building a **balanced cold roof assembly**—an attic engineered so the entire roof deck remains uniformly below 32°F during winter weather.
 
@@ -112,7 +112,7 @@ Notice the critical distinction in *IRC Section R905.1.2*: self-adhered ice and 
 
 ---
 
-## 5. The Balanced Cold Roof: Establishing Thermal Equilibrium
+## The Balanced Cold Roof: Establishing Thermal Equilibrium
 
 A roof will never grow an ice dam if the roof deck remains at or below 32°F throughout winter weather. Eliminating the melting plane requires establishing thermal equilibrium across the attic envelope—balancing airtight ceiling boundary decoupling, high-density conductive resistance, and continuous convective ventilation flushing.
 

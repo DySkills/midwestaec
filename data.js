@@ -539,30 +539,45 @@ var miaecData = [
   },
   {
     "title": "Rural Off-Grid Systems in Zone 5: Propane, Battery Backup & Freeze-Proof Wells",
-    "subtitle": "",
+    "subtitle": "How to design sub-zero propane vaporization capacity, thermal battery rooms, and 60-inch frost-line pitless wellhead protection for Midwest homesteads.",
     "format": "Feature",
-    "leadType": "",
+    "leadType": "Fact-First",
     "category": "Rural Development",
     "catSlug": "rural-development",
     "cities": [
+      "Chicago",
+      "Cincinnati",
+      "Cleveland",
+      "Columbus",
       "Des Moines",
+      "Detroit",
       "Fargo",
+      "Indianapolis",
       "Kansas City",
+      "Milwaukee",
+      "Minneapolis",
       "Omaha",
       "Rapid City",
-      "Sioux Falls"
+      "Sioux Falls",
+      "St. Louis"
     ],
     "states": [
       "IA",
+      "IL",
+      "IN",
       "KS",
+      "MI",
+      "MN",
       "MO",
       "ND",
       "NE",
-      "SD"
+      "OH",
+      "SD",
+      "WI"
     ],
-    "summary": "Designing resilient propane storage, solar/battery microgrids, and deep-frost wellhead freeze protection beyond municipal utility lines in Climate Zones 4 & 5.",
-    "codeTag": "NEC Article 710 / NFPA 58",
-    "type": "Article",
+    "summary": "Living beyond municipal water and natural gas lines requires strict thermodynamic engineering. When a sub-zero polar vortex knocks out rural electric co-op lines, undersized propane tanks lose pressure, unconditioned lithium batteries refuse charge, and shallow wellheads freeze solid. Here is how to engineer a resilient Zone 5 rural utility plant.",
+    "codeTag": "NEC Article 710 / NFPA 58 / Ten States Standards",
+    "type": "Feature",
     "url": "articles/off-grid-systems.html"
   },
   {

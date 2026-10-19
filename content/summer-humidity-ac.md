@@ -2,7 +2,7 @@
 title: "The Midwest Summer Humidity Trap: Why High-Efficiency AC Leaves Your Basement Cold & Clammy"
 slug: "summer-humidity-ac"
 category: "HVAC"
-catSlug: "heating-cooling"
+catSlug: "hvac"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 summary: "Why oversized single-stage AC cools the house too quickly without running long enough to pull out moisture, and how variable-speed airflow plus whole-home dehumidification solves it."

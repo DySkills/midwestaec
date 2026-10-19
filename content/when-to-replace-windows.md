@@ -3,8 +3,8 @@ title: "When Replacing Windows Actually Makes Sense (And What Specifications to 
 slug: "when-to-replace-windows"
 format: "Report"
 leadType: "Fact-First"
-category: "Energy Efficiency & R-Value"
-catSlug: "energy-efficiency"
+category: "Efficient Systems"
+catSlug: "efficient-systems"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "An objective building science buyer's guide detailing the 4 conditions that warrant full replacement, and the strict NFRC and installation standards to demand."

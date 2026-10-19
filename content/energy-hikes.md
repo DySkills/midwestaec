@@ -3,8 +3,8 @@ title: "Winter Tariff Hikes: Why $20k on Windows Doesn't Hold Up"
 slug: "energy-hikes"
 format: "Feature"
 leadType: "Descriptive"
-category: "Energy Efficiency & R-Value"
-catSlug: "energy-efficiency"
+category: "Efficient Systems"
+catSlug: "efficient-systems"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "An investigative teardown of Midwest seasonal rate spikes, the stack-effect chimney, and why $20,000 window replacements fail the math."

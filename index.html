@@ -103,83 +103,77 @@
     </p>
   </section>
 
-  <!-- CATEGORY BLOCKS GRID (Pure guidetouxr 1:1 architecture) -->
-  <main class="max-w-6xl mx-auto px-4 sm:px-6 pb-20 flex-1 w-full">
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+  <!-- MAIN CONTENT CONTAINER -->
+  <main class="max-w-6xl mx-auto px-4 sm:px-6 pb-20 flex-1 w-full space-y-8">
+    
+    <!-- SEARCH BAR (Positioned above everything in the grid) -->
+    <div class="max-w-2xl mx-auto pt-2 pb-1">
+      <form action="browse.html" method="GET" class="relative flex items-center">
+        <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none text-slate-400">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+          </svg>
+        </div>
+        <input 
+          type="text" 
+          name="q" 
+          placeholder="Search specifications, assemblies, products, ASTM tests..." 
+          class="w-full pl-11 pr-28 py-3.5 rounded-2xl bg-white border-2 border-slate-200 text-sm text-navy placeholder-slate-400 focus:outline-none focus:border-steel shadow-xs transition"
+        >
+        <button 
+          type="submit" 
+          class="absolute right-2 px-4 py-2 rounded-xl bg-navy hover:bg-navy-dark text-white text-xs font-mono font-semibold transition"
+        >
+          Search &rarr;
+        </button>
+      </form>
+    </div>
+
+    <!-- TOP ROW: DIRECTORIES (3 CARDS) -->
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-5">
       
-      <!-- Box 1: All Guides & Specifications (Master Category Block) -->
-      <a href="browse.html?cat=all" class="category-box p-6 rounded-2xl bg-navy text-white shadow-sm border-2 border-navy">
+      <!-- Top Box 1: Manufacturer Directory -->
+      <a href="browse.html?cat=manufacturers" class="category-box p-6 rounded-2xl bg-white border-2 border-steel-border shadow-xs hover:border-steel">
+        <div class="flex items-center justify-between">
+          <span class="text-xs font-mono text-steel font-bold tracking-wider">DIRECTORY</span>
+          <span class="text-xs font-mono text-crimson font-bold">ASTM Specs</span>
+        </div>
+        <div>
+          <h3 class="text-2xl font-bold text-navy font-serif leading-snug">Manufacturer Directory</h3>
+          <p class="text-xs text-slate-500 mt-1 font-sans">Verified ASTM specifications & trade cut sheets &rarr;</p>
+        </div>
+      </a>
+
+      <!-- Top Box 2: Article Directory -->
+      <a href="browse.html?cat=all" class="category-box p-6 rounded-2xl bg-navy text-white shadow-sm border-2 border-navy hover:border-steel">
         <div class="flex items-center justify-between">
           <span class="text-xs font-mono text-steel-100 font-bold tracking-wider">DIRECTORY</span>
           <span class="w-2.5 h-2.5 rounded-full bg-crimson animate-pulse"></span>
         </div>
         <div>
-          <h3 class="text-2xl font-bold text-white font-serif leading-snug">All Guides & Specifications</h3>
+          <h3 class="text-2xl font-bold text-white font-serif leading-snug">Article Directory</h3>
           <p class="text-xs text-steel-100 mt-1 font-sans">Browse the complete regional library &rarr;</p>
         </div>
       </a>
 
-      <!-- Box 2: Energy & R-Value -->
-      <a href="browse.html?cat=energy-efficiency" class="category-box p-6 rounded-2xl bg-white border-2 border-steel-border shadow-xs">
+      <!-- Top Box 3: Product Directory -->
+      <a href="browse.html?cat=products" class="category-box p-6 rounded-2xl bg-white border-2 border-steel-border shadow-xs hover:border-steel">
         <div class="flex items-center justify-between">
-          <span class="text-xs font-mono text-steel font-bold">THERMAL</span>
-          <span class="text-xs font-mono text-slate-400">R-Value</span>
+          <span class="text-xs font-mono text-steel font-bold tracking-wider">DIRECTORY</span>
+          <span class="text-xs font-mono text-slate-400">Products</span>
         </div>
         <div>
-          <h3 class="text-2xl font-bold text-navy font-serif leading-snug">Energy Efficiency & R-Value</h3>
-          <p class="text-xs text-slate-500 mt-1 font-sans">Continuous exterior insulation & price hikes</p>
+          <h3 class="text-2xl font-bold text-navy font-serif leading-snug">Product Directory</h3>
+          <p class="text-xs text-slate-500 mt-1 font-sans">Curated assemblies, R-values & testing data &rarr;</p>
         </div>
       </a>
 
-      <!-- Box 3: Urban Remodels -->
-      <a href="browse.html?cat=urban-remodels" class="category-box p-6 rounded-2xl bg-white border-2 border-steel-border shadow-xs">
-        <div class="flex items-center justify-between">
-          <span class="text-xs font-mono text-crimson font-bold">CITIES</span>
-          <span class="text-xs font-mono text-slate-400">Historic Stock</span>
-        </div>
-        <div>
-          <h3 class="text-2xl font-bold text-navy font-serif leading-snug">Urban Remodels</h3>
-          <p class="text-xs text-slate-500 mt-1 font-sans">100-year brick masonry & balloon framing</p>
-        </div>
-      </a>
+    </div>
 
-      <!-- Box 4: Water & Moisture Barriers -->
-      <a href="browse.html?cat=water-barriers" class="category-box p-6 rounded-2xl bg-white border-2 border-steel-border shadow-xs">
-        <div class="flex items-center justify-between">
-          <span class="text-xs font-mono text-steel font-bold">WATER</span>
-          <span class="text-xs font-mono text-slate-400">Moisture</span>
-        </div>
-        <div>
-          <h3 class="text-2xl font-bold text-navy font-serif leading-snug">Water Barriers</h3>
-          <p class="text-xs text-slate-500 mt-1 font-sans">WRBs, self-adhered membranes & slab poly</p>
-        </div>
-      </a>
-
-      <!-- Box 5: Air Barriers -->
-      <a href="browse.html?cat=air-barriers" class="category-box p-6 rounded-2xl bg-white border-2 border-steel-border shadow-xs">
-        <div class="flex items-center justify-between">
-          <span class="text-xs font-mono text-steel font-bold">AIR</span>
-          <span class="text-xs font-mono text-slate-400">Airtightness</span>
-        </div>
-        <div>
-          <h3 class="text-2xl font-bold text-navy font-serif leading-snug">Air Barriers</h3>
-          <p class="text-xs text-slate-500 mt-1 font-sans">Blower door testing & smart vapor retarders</p>
-        </div>
-      </a>
-
-      <!-- Box 6: HVAC -->
-      <a href="browse.html?cat=heating-cooling" class="category-box p-6 rounded-2xl bg-white border-2 border-steel-border shadow-xs">
-        <div class="flex items-center justify-between">
-          <span class="text-xs font-mono text-steel font-bold">MEP</span>
-          <span class="text-xs font-mono text-slate-400">Mechanicals</span>
-        </div>
-        <div>
-          <h3 class="text-2xl font-bold text-navy font-serif leading-snug">HVAC</h3>
-          <p class="text-xs text-slate-500 mt-1 font-sans">Inverter heat pumps (-15°F) & ERVs</p>
-        </div>
-      </a>
-
-      <!-- Box 7: Roofing -->
+    <!-- 3x3 CATEGORY GRID (Exact User Specified Order) -->
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+      
+      <!-- ROW 1, COL 1: Roofing -->
       <a href="browse.html?cat=roofing" class="category-box p-6 rounded-2xl bg-white border-2 border-steel-border shadow-xs">
         <div class="flex items-center justify-between">
           <span class="text-xs font-mono text-steel font-bold">ROOF</span>
@@ -191,27 +185,99 @@
         </div>
       </a>
 
-      <!-- Box 8: Envelopes -->
-      <a href="browse.html?cat=prefab" class="category-box p-6 rounded-2xl bg-white border-2 border-steel-border shadow-xs">
+      <!-- ROW 1, COL 2: Rural Development -->
+      <a href="browse.html?cat=rural-development" class="category-box p-6 rounded-2xl bg-white border-2 border-steel-border shadow-xs">
+        <div class="flex items-center justify-between">
+          <span class="text-xs font-mono text-steel font-bold">RURAL</span>
+          <span class="text-xs font-mono text-slate-400">Rural Dev</span>
+        </div>
+        <div>
+          <h3 class="text-2xl font-bold text-navy font-serif leading-snug">Rural Development</h3>
+          <p class="text-xs text-slate-500 mt-1 font-sans">Barndominiums, post-frame envelopes & off-grid systems</p>
+        </div>
+      </a>
+
+      <!-- ROW 1, COL 3: Urban Development -->
+      <a href="browse.html?cat=urban-development" class="category-box p-6 rounded-2xl bg-white border-2 border-steel-border shadow-xs">
+        <div class="flex items-center justify-between">
+          <span class="text-xs font-mono text-crimson font-bold">CITIES</span>
+          <span class="text-xs font-mono text-slate-400">Urban Dev</span>
+        </div>
+        <div>
+          <h3 class="text-2xl font-bold text-navy font-serif leading-snug">Urban Development</h3>
+          <p class="text-xs text-slate-500 mt-1 font-sans">100-year brick masonry & balloon framing</p>
+        </div>
+      </a>
+
+      <!-- ROW 2, COL 1: Envelop -->
+      <a href="browse.html?cat=envelopes" class="category-box p-6 rounded-2xl bg-white border-2 border-steel-border shadow-xs">
         <div class="flex items-center justify-between">
           <span class="text-xs font-mono text-steel font-bold">ENVELOPES</span>
           <span class="text-xs font-mono text-slate-400">Offsite</span>
         </div>
         <div>
-          <h3 class="text-2xl font-bold text-navy font-serif leading-snug">Envelopes</h3>
+          <h3 class="text-2xl font-bold text-navy font-serif leading-snug">Envelop</h3>
           <p class="text-xs text-slate-500 mt-1 font-sans">SIPs, ICF & panelized assemblies</p>
         </div>
       </a>
 
-      <!-- Box 9: Material Manufacturers Directory -->
-      <a href="browse.html?cat=manufacturers" class="category-box p-6 rounded-2xl bg-steel-50 border-2 border-steel-border shadow-xs">
+      <!-- ROW 2, COL 2: Air Barrier -->
+      <a href="browse.html?cat=air-barriers" class="category-box p-6 rounded-2xl bg-white border-2 border-steel-border shadow-xs">
         <div class="flex items-center justify-between">
-          <span class="text-xs font-mono text-steel-dark font-bold">PRODUCTS</span>
-          <span class="text-xs font-mono text-crimson font-bold">ASTM Specs</span>
+          <span class="text-xs font-mono text-steel font-bold">AIR</span>
+          <span class="text-xs font-mono text-slate-400">Airtightness</span>
         </div>
         <div>
-          <h3 class="text-2xl font-bold text-navy font-serif leading-snug">Manufacturer Directory</h3>
-          <p class="text-xs text-slate-500 mt-1 font-sans">Verified ASTM specifications & cut sheets</p>
+          <h3 class="text-2xl font-bold text-navy font-serif leading-snug">Air Barrier</h3>
+          <p class="text-xs text-slate-500 mt-1 font-sans">Blower door testing & smart vapor retarders</p>
+        </div>
+      </a>
+
+      <!-- ROW 2, COL 3: Water Barrier -->
+      <a href="browse.html?cat=water-barriers" class="category-box p-6 rounded-2xl bg-white border-2 border-steel-border shadow-xs">
+        <div class="flex items-center justify-between">
+          <span class="text-xs font-mono text-steel font-bold">WATER</span>
+          <span class="text-xs font-mono text-slate-400">Moisture</span>
+        </div>
+        <div>
+          <h3 class="text-2xl font-bold text-navy font-serif leading-snug">Water Barrier</h3>
+          <p class="text-xs text-slate-500 mt-1 font-sans">WRBs, self-adhered membranes & slab poly</p>
+        </div>
+      </a>
+
+      <!-- ROW 3, COL 1: HVAC -->
+      <a href="browse.html?cat=hvac" class="category-box p-6 rounded-2xl bg-white border-2 border-steel-border shadow-xs">
+        <div class="flex items-center justify-between">
+          <span class="text-xs font-mono text-steel font-bold">MEP</span>
+          <span class="text-xs font-mono text-slate-400">Mechanicals</span>
+        </div>
+        <div>
+          <h3 class="text-2xl font-bold text-navy font-serif leading-snug">HVAC</h3>
+          <p class="text-xs text-slate-500 mt-1 font-sans">Inverter heat pumps (-15°F) & ERVs</p>
+        </div>
+      </a>
+
+      <!-- ROW 3, COL 2: Efficient Systems -->
+      <a href="browse.html?cat=efficient-systems" class="category-box p-6 rounded-2xl bg-white border-2 border-steel-border shadow-xs">
+        <div class="flex items-center justify-between">
+          <span class="text-xs font-mono text-steel font-bold">EFFICIENCY</span>
+          <span class="text-xs font-mono text-slate-400">R-Value</span>
+        </div>
+        <div>
+          <h3 class="text-2xl font-bold text-navy font-serif leading-snug">Efficient Systems</h3>
+          <p class="text-xs text-slate-500 mt-1 font-sans">Continuous exterior insulation & tariff analysis</p>
+        </div>
+      </a>
+
+      <!-- ROW 3, COL 3: Go Green -->
+      <a href="browse.html?cat=go-green" class="category-box p-6 rounded-2xl bg-white border-2 border-steel-border shadow-xs">
+        <div class="flex items-center justify-between">
+          <span class="text-xs font-mono text-emerald-600 font-bold">SUSTAINABLE</span>
+          <span class="text-xs font-mono text-slate-400">Decarbonize</span>
+        </div>
+        <div>
+          <h3 class="text-2xl font-bold text-navy font-serif leading-snug">Go Green</h3>
+          <p class="text-xs text-slate-500 mt-1 font-sans">Embodied carbon, stone wool & net-zero assemblies</p>
         </div>
       </a>
 

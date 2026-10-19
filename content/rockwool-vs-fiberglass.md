@@ -3,8 +3,8 @@ title: "Rockwool vs. Fiberglass in Midwest Walls: The 5 Physical Differences Tha
 subtitle: "Why low-density glass fibers allow convective loops at -10°F while stone mineral wool maintains true rated thermal resistance and zero water absorption."
 format: "Listicle"
 leadType: "Contrast"
-category: "Material Specifications"
-catSlug: "materials"
+category: "Go Green"
+catSlug: "go-green"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 summary: "A head-to-head building science breakdown of density, convective air looping, moisture hydrophobicity, fire endurance, and acoustic mass between stone wool and fiberglass in Climate Zones 4 and 5."

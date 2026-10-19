@@ -1,8 +1,8 @@
 ---
 title: "Insulating 100-Year-Old Brick in St. Louis & Chicago: How to Avoid Winter Spalling & Rot"
 slug: "insulating-brick"
-category: "Urban Remodels"
-catSlug: "urban-remodels"
+category: "Urban Development"
+catSlug: "urban-development"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Detroit", "Kansas City", "Milwaukee", "Omaha", "St. Louis"]
 states: ["IL", "KS", "MI", "MO", "NE", "OH", "WI"]
 summary: "Hygrothermal analysis of mass brick masonry. Why interior vapor barriers rot freeze-thaw brick, and how to detail lime-mortar assemblies safely."

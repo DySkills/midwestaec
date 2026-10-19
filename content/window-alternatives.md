@@ -3,8 +3,8 @@ title: "Window Replacement Alternatives: How Low-E Storms & Air Sealing Deliver 
 slug: "window-alternatives"
 format: "Report"
 leadType: "Fact-First"
-category: "Energy Efficiency & R-Value"
-catSlug: "energy-efficiency"
+category: "Efficient Systems"
+catSlug: "efficient-systems"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "A building science field specification for stopping drafts, air-sealing weight pockets, and installing AERC-rated storm panels before spending $20,000 on full-frame replacements."

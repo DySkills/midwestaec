@@ -3,8 +3,8 @@ title: "Continuous Exterior Insulation: Why R-5 Outboard Beats R-20 Cavity in Fr
 slug: "continuous-insulation"
 format: "Report"
 leadType: "Fact-First"
-category: "Energy Efficiency & R-Value"
-catSlug: "energy-efficiency"
+category: "Efficient Systems"
+catSlug: "efficient-systems"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "Why 25% framing thermal bridging derates standard cavity walls, and how outboard insulation prevents hidden winter condensation on OSB sheathing."

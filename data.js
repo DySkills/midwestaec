@@ -7,8 +7,8 @@ var miaecData = [
     "subtitle": "",
     "format": "Feature",
     "leadType": "",
-    "category": "Urban Remodels",
-    "catSlug": "urban-remodels",
+    "category": "Urban Development",
+    "catSlug": "urban-development",
     "cities": [
       "Chicago",
       "Cincinnati",
@@ -34,6 +34,34 @@ var miaecData = [
     "codeTag": "IRC Section R302.11 Fireblocking",
     "type": "Article",
     "url": "articles/balloon-framing.html"
+  },
+  {
+    "title": "Barndominium & Post-Frame Thermal Envelopes: Zone 5 Condensation Control",
+    "subtitle": "",
+    "format": "Feature",
+    "leadType": "",
+    "category": "Rural Development",
+    "catSlug": "rural-development",
+    "cities": [
+      "Des Moines",
+      "Fargo",
+      "Kansas City",
+      "Omaha",
+      "Rapid City",
+      "Sioux Falls"
+    ],
+    "states": [
+      "IA",
+      "KS",
+      "MO",
+      "ND",
+      "NE",
+      "SD"
+    ],
+    "summary": "Engineering thermal breaks, commercial wall girts, and vapor-permeable condensation planes in metal-clad post-frame residential buildings across the rural Midwest.",
+    "codeTag": "IBC Section 1404.2 / ASHRAE 90.1",
+    "type": "Article",
+    "url": "articles/barndominium-post-frame.html"
   },
   {
     "title": "Why Water Enters Midwest Basements After Heavy Rain (And Why 6-Mil Poly Fails)",
@@ -127,7 +155,7 @@ var miaecData = [
     "format": "Report",
     "leadType": "Fact-First",
     "category": "HVAC",
-    "catSlug": "heating-cooling",
+    "catSlug": "hvac",
     "cities": [
       "Chicago",
       "Cincinnati",
@@ -169,8 +197,8 @@ var miaecData = [
     "subtitle": "Why 25% framing thermal bridging derates standard cavity walls, and how outboard insulation prevents hidden winter condensation on OSB sheathing.",
     "format": "Report",
     "leadType": "Fact-First",
-    "category": "Energy Efficiency & R-Value",
-    "catSlug": "energy-efficiency",
+    "category": "Efficient Systems",
+    "catSlug": "efficient-systems",
     "cities": [
       "Chicago",
       "Cincinnati",
@@ -251,12 +279,44 @@ var miaecData = [
     "url": "articles/crawlspace-encapsulation.html"
   },
   {
+    "title": "Embodied Carbon & Bio-Based Insulation: Decarbonizing Midwest Envelopes",
+    "subtitle": "",
+    "format": "Feature",
+    "leadType": "",
+    "category": "Go Green",
+    "catSlug": "go-green",
+    "cities": [
+      "Chicago",
+      "Cincinnati",
+      "Cleveland",
+      "Columbus",
+      "Des Moines",
+      "Detroit",
+      "Indianapolis",
+      "Milwaukee",
+      "Minneapolis"
+    ],
+    "states": [
+      "IA",
+      "IL",
+      "IN",
+      "MI",
+      "MN",
+      "OH",
+      "WI"
+    ],
+    "summary": "Comparative analysis of upfront Global Warming Potential (GWP), carbon sequestration, and fire safety across mineral wool, dense-pack cellulose, and wood fiber versus petrochemical foams.",
+    "codeTag": "LEED v4.1 / ASHRAE 240P",
+    "type": "Article",
+    "url": "articles/embodied-carbon-materials.html"
+  },
+  {
     "title": "Winter Tariff Hikes: Why $20k on Windows Doesn't Hold Up",
     "subtitle": "An investigative teardown of Midwest seasonal rate spikes, the stack-effect chimney, and why $20,000 window replacements fail the math.",
     "format": "Feature",
     "leadType": "Descriptive",
-    "category": "Energy Efficiency & R-Value",
-    "catSlug": "energy-efficiency",
+    "category": "Efficient Systems",
+    "catSlug": "efficient-systems",
     "cities": [
       "Chicago",
       "Cincinnati",
@@ -335,7 +395,7 @@ var miaecData = [
     "format": "Feature",
     "leadType": "",
     "category": "Envelopes",
-    "catSlug": "prefab",
+    "catSlug": "envelopes",
     "cities": [
       "Chicago",
       "Des Moines",
@@ -370,8 +430,8 @@ var miaecData = [
     "subtitle": "",
     "format": "Feature",
     "leadType": "",
-    "category": "Urban Remodels",
-    "catSlug": "urban-remodels",
+    "category": "Urban Development",
+    "catSlug": "urban-development",
     "cities": [
       "Chicago",
       "Cincinnati",
@@ -401,8 +461,8 @@ var miaecData = [
     "subtitle": "Why low-density glass fibers allow convective loops at -10°F while stone mineral wool maintains true rated thermal resistance and zero water absorption.",
     "format": "Listicle",
     "leadType": "Contrast",
-    "category": "Material Specifications",
-    "catSlug": "materials",
+    "category": "Go Green",
+    "catSlug": "go-green",
     "cities": [
       "Chicago",
       "Cincinnati",
@@ -481,7 +541,7 @@ var miaecData = [
     "format": "Feature",
     "leadType": "",
     "category": "Envelopes",
-    "catSlug": "prefab",
+    "catSlug": "envelopes",
     "cities": [
       "Chicago",
       "Des Moines",
@@ -545,8 +605,8 @@ var miaecData = [
     "subtitle": "",
     "format": "Feature",
     "leadType": "",
-    "category": "Material Specifications",
-    "catSlug": "materials",
+    "category": "Efficient Systems",
+    "catSlug": "efficient-systems",
     "cities": [
       "Chicago",
       "Cincinnati",
@@ -589,7 +649,7 @@ var miaecData = [
     "format": "Feature",
     "leadType": "",
     "category": "HVAC",
-    "catSlug": "heating-cooling",
+    "catSlug": "hvac",
     "cities": [
       "Chicago",
       "Cincinnati",
@@ -631,8 +691,8 @@ var miaecData = [
     "subtitle": "An objective building science buyer's guide detailing the 4 conditions that warrant full replacement, and the strict NFRC and installation standards to demand.",
     "format": "Report",
     "leadType": "Fact-First",
-    "category": "Energy Efficiency & R-Value",
-    "catSlug": "energy-efficiency",
+    "category": "Efficient Systems",
+    "catSlug": "efficient-systems",
     "cities": [
       "Chicago",
       "Cincinnati",
@@ -674,8 +734,8 @@ var miaecData = [
     "subtitle": "A building science field specification for stopping drafts, air-sealing weight pockets, and installing AERC-rated storm panels before spending $20,000 on full-frame replacements.",
     "format": "Report",
     "leadType": "Fact-First",
-    "category": "Energy Efficiency & R-Value",
-    "catSlug": "energy-efficiency",
+    "category": "Efficient Systems",
+    "catSlug": "efficient-systems",
     "cities": [
       "Chicago",
       "Cincinnati",

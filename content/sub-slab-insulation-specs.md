@@ -1,8 +1,8 @@
 ---
 title: "Below-Slab & Rim Joist Foam Specs: XPS vs. EPS vs. Closed-Cell Spray Foam"
 slug: "sub-slab-insulation-specs"
-category: "Material Specifications"
-catSlug: "materials"
+category: "Efficient Systems"
+catSlug: "efficient-systems"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 summary: "Which foam retains its compressive strength and R-value over 20 years in damp subterranean soil without off-gassing blowing agents."

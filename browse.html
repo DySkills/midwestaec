@@ -145,14 +145,17 @@
           <label class="block text-[10px] font-mono uppercase text-slate-500 mb-1">Category</label>
           <select id="filter-category" onchange="applyFilters()" class="w-full bg-slate-50 border border-slate-200 rounded-xl px-3 py-2 text-xs font-mono text-slate-700 focus:outline-none focus:border-steel focus:bg-white transition">
             <option value="all">All Guides & Specifications</option>
-            <option value="air-barriers">Air Barriers</option>
-            <option value="energy-efficiency">Energy Efficiency & R-Value</option>
-            <option value="heating-cooling">HVAC</option>
-            <option value="manufacturers">Manufacturer Directory</option>
-            <option value="prefab">Envelopes</option>
             <option value="roofing">Roofing</option>
-            <option value="urban-remodels">Urban Remodels (Brick)</option>
-            <option value="water-barriers">Water & Moisture Barriers</option>
+            <option value="rural-development">Rural Development</option>
+            <option value="urban-development">Urban Development</option>
+            <option value="envelopes">Envelopes</option>
+            <option value="air-barriers">Air Barriers</option>
+            <option value="water-barriers">Water Barriers</option>
+            <option value="hvac">HVAC</option>
+            <option value="efficient-systems">Efficient Systems</option>
+            <option value="go-green">Go Green</option>
+            <option value="manufacturers">Manufacturer Directory</option>
+            <option value="products">Product Directory</option>
           </select>
         </div>
 
@@ -237,12 +240,31 @@
       const params = new URLSearchParams(window.location.search);
       const catParam = params.get('cat');
       const cityParam = params.get('city');
+      const qParam = params.get('q') || params.get('search');
+
+      const aliasMap = {
+        'rural-dev': 'rural-development',
+        'urban-dev': 'urban-development',
+        'urban-remodels': 'urban-development',
+        'prefab': 'envelopes',
+        'heating-cooling': 'hvac',
+        'energy-efficiency': 'efficient-systems',
+        'efficiency': 'efficient-systems',
+        'materials': 'products'
+      };
 
       if (catParam && catParam !== 'all') {
-        document.getElementById('filter-category').value = catParam;
+        const canonicalCat = aliasMap[catParam] || catParam;
+        const catSelect = document.getElementById('filter-category');
+        if ([...catSelect.options].some(o => o.value === canonicalCat)) {
+          catSelect.value = canonicalCat;
+        }
       }
       if (cityParam) {
         document.getElementById('filter-city').value = cityParam;
+      }
+      if (qParam) {
+        document.getElementById('filter-search').value = qParam;
       }
 
       applyFilters();
@@ -294,6 +316,57 @@
             </div>
           </div>
         `;
+        return;
+      }
+
+      // Handle Product Directory state
+      if (selectedCategory === 'products') {
+        countText.textContent = `Product & Material Directory`;
+        const productSpecs = miaecData.filter(item => 
+          item.catSlug === 'efficient-systems' || 
+          item.catSlug === 'go-green' || 
+          item.title.toLowerCase().includes('foam') || 
+          item.title.toLowerCase().includes('rockwool') || 
+          item.title.toLowerCase().includes('insulation') || 
+          item.title.toLowerCase().includes('smart vapor')
+        );
+
+        grid.innerHTML = `
+          <div class="col-span-full p-8 bg-white rounded-2xl border border-slate-200 mb-2">
+            <span class="text-xs font-mono uppercase tracking-widest text-steel font-bold">Product Standards & Testing</span>
+            <h2 class="text-2xl font-bold text-navy font-serif mt-1">Independent Building Material Specifications</h2>
+            <p class="text-slate-600 text-sm mt-2 max-w-2xl font-sans">
+              Peer-reviewed laboratory testing data, ASTM thermal conductivity, vapor permeance curves, and dimensional stability metrics for Climate Zones 4 & 5.
+            </p>
+          </div>
+        ` + productSpecs.map(item => `
+          <div class="bg-white rounded-2xl border border-slate-200 hover:border-steel p-6 flex flex-col justify-between shadow-xs transition hover:shadow-md">
+            <div>
+              <div class="flex items-center justify-between gap-2 mb-3">
+                <span class="text-[10px] font-mono px-2 py-0.5 rounded bg-steel-50 text-steel-dark border border-steel-border font-semibold">
+                  ${item.category}
+                </span>
+                <span class="text-[10px] font-mono text-slate-400">
+                  Product Spec
+                </span>
+              </div>
+              <h3 class="text-lg font-bold text-navy font-serif leading-snug">
+                <a href="${item.url}" class="hover:text-steel transition">${item.title}</a>
+              </h3>
+              <p class="text-slate-600 text-xs mt-2.5 leading-relaxed font-sans">
+                ${item.summary}
+              </p>
+            </div>
+            <div class="mt-6 pt-4 border-t border-slate-100 flex items-center justify-between text-xs font-mono">
+              <span class="text-[11px] text-slate-500 truncate max-w-[65%]" title="${item.codeTag}">
+                &bull; ${item.codeTag}
+              </span>
+              <a href="${item.url}" class="text-crimson hover:text-crimson-hover font-bold shrink-0">
+                View Spec &rarr;
+              </a>
+            </div>
+          </div>
+        `).join('');
         return;
       }
 
@@ -377,16 +450,24 @@
 
     function getCategoryName(slug) {
       const map = {
-        'energy-efficiency': 'Energy Efficiency & R-Value',
-        'urban-remodels': 'Urban Remodels (Historic Brick)',
-        'water-barriers': 'Water & Moisture Barriers',
-        'air-barriers': 'Air Barriers & Airtightness',
-        'heating-cooling': 'HVAC',
-        'hvac': 'HVAC',
         'roofing': 'Roofing',
-        'prefab': 'Envelopes',
+        'rural-development': 'Rural Development',
+        'rural-dev': 'Rural Development',
+        'urban-development': 'Urban Development',
+        'urban-dev': 'Urban Development',
+        'urban-remodels': 'Urban Development',
         'envelopes': 'Envelopes',
-        'manufacturers': 'Material Manufacturers Directory'
+        'prefab': 'Envelopes',
+        'air-barriers': 'Air Barriers',
+        'water-barriers': 'Water Barriers',
+        'hvac': 'HVAC',
+        'heating-cooling': 'HVAC',
+        'efficient-systems': 'Efficient Systems',
+        'energy-efficiency': 'Efficient Systems',
+        'efficiency': 'Efficient Systems',
+        'go-green': 'Go Green',
+        'manufacturers': 'Material Manufacturers Directory',
+        'products': 'Product Directory'
       };
       return map[slug] || slug;
     }

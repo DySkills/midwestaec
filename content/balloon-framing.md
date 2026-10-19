@@ -1,8 +1,8 @@
 ---
 title: "Balloon Framing Air Leaks: How to Firestop and Seal the Chimney Effect in Pre-1940s Homes"
 slug: "balloon-framing"
-category: "Urban Remodels"
-catSlug: "urban-remodels"
+category: "Urban Development"
+catSlug: "urban-development"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Detroit", "Indianapolis", "Kansas City", "Milwaukee", "Omaha", "St. Louis"]
 states: ["IL", "IN", "KS", "MI", "MO", "NE", "OH", "WI"]
 summary: "How open wall studs in 1890-1930s homes act as continuous chimneys pulling basement humidity into the attic, and how to block them on a budget."

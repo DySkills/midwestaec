@@ -4,7 +4,7 @@ subtitle: "Why low-ambient vapor flash-injection compressors maintain 100% heati
 format: "Report"
 leadType: "Fact-First"
 category: "HVAC"
-catSlug: "heating-cooling"
+catSlug: "hvac"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 summary: "A technical teardown of inverter-driven flash-injection heat pumps operating at -15°F, real-world COP curves vs natural gas furnaces, thermal balance points, and Manual J sizing rules."

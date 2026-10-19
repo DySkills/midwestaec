@@ -49,84 +49,13 @@ When an acreage owner introduces a commercial zero-turn mower, soil physics shif
 - **The 2-Inch Hardpan:** After two or three seasons of regular mowing during damp spring months, the soil at the 2- to 3-inch depth compresses into an impenetrable **sub-surface hardpan** (exceeding 90% Standard Proctor density under **ASTM D698**).
 - **Infiltration Collapse:** In an undisturbed prairie, soil absorbs between **1.5 and 2.5 inches of rain per hour**. Under compacted turfgrass, infiltration collapses to less than **0.15 inches per hour**.
 
-```
-A 3-Inch Storm on a 5-Acre Mowed Parcel:
-5 Acres  x  43,560 sq ft  x  0.25 ft of rain  x  7.48 gal/cu ft  =  407,286 GALLONS OF WATER
-Under Compacted Turf (90% Runoff)  -->  366,500 GALLONS OF SURFACE RUNOFF
-Destination: Walkout Basements, Sump Crocks, and Foundation Footings
-```
-
-When 366,000 gallons of water cannot soak into the ground, gravity pulls it across the lawn toward low points. If the grading around the house lacks civil-engineered swales, that massive volume ponds against foundation walls, creating extreme hydrostatic pressure that overpowers drain tiles and floods basements.
-
----
-
-## 2. Root Architecture: Turfgrass vs. Deep-Root Native Prairie
-
-The second physical flaw of expansive turf is root depth. Kentucky bluegrass (*Poa pratensis*) and perennial ryegrass evolved in maritime European climates with frequent, gentle rains. In the Midwest's continental climate—characterized by deluge thunderstorms followed by searing August droughts—shallow turfgrass fails both hydraulically and structurally:
-
-| Performance Metric | Kentucky Bluegrass / Perennial Rye | Native Prairie (Big Bluestem, Indiangrass) | Environmental Difference |
-| :--- | :--- | :--- | :--- |
-| **Typical Root Depth** | **2 to 4 inches** | **10 to 15 feet deep** | **30x deeper soil penetration** |
-| **Water Infiltration Capacity** | 0.2 to 0.5 inches / hour | **4.5 to 7.0+ inches / hour** | **10x higher stormwater absorption** |
-| **Tensile Shear Resistance** | 1.2 to 2.0 kPa (Slumps in ruts) | **12.5 to 18.0 kPa (Locks slopes)** | Eliminates gully erosion in swales |
-| **Drought Dormancy** | Browns out after 10 days of heat | **Stays green throughout 95°F Augusts** | Deep roots tap sub-surface water tables |
-| **Annual Maintenance Runtimes** | **60 to 90 hours / season** | **1 to 2 hours / season (Single mow)** | 75% reduction in equipment wear |
-| **Fertilizer & Herbicide Input** | High (Requires N-P-K & pre-emergents) | **Zero (Thrives in native mineral soils)** | Eliminates chemical runoff into rural wells |
-
-*Data Sources: USDA Natural Resources Conservation Service (NRCS); Iowa State University Extension Prairie Root Studies.*
-
-Native warm-season grasses—such as Big Bluestem (*Andropogon gerardi*), Indiangrass (*Sorghastrum nutans*), and Little Bluestem—act as living subterranean civil engineering. Their thick, fibrous roots punch deep through dense clay hardpans, creating permanent vertical macropores. When heavy rains fall, native prairie buffers drink stormwater into the deep water table, preventing surface runoff from ever reaching the home.
-
----
-
-## 3. Engineering Civil Bioswales & Parabolic Drainage Chutes
-
-When surface runoff must be conveyed across an acreage, many homeowners make the mistake of digging narrow, steep-sided V-ditches with a backhoe. A narrow V-ditch concentrates water volume into a narrow channel, increasing flow velocity. Fast-moving water strips topsoil, cuts deep jagged gullies across the property, and creates treacherous mowing hazards.
-
-Civil engineering standards (*USDA NRCS Conservation Practice Standard 412*) dictate constructing **broad parabolic bioswales**:
-
-```
-POOR DRAINAGE: Narrow V-Ditch
-Water concentrates  -->  High Velocity (> 6 ft/sec)  -->  Erodes Topsoil & Creates Ravines
-     \  /
-      \/
-
-PROPER DRAINAGE: Broad Parabolic Bioswale (10:1 Ratio)
-Water spreads thin (1-2" deep)  -->  Low Velocity (< 2.5 ft/sec)  -->  Infiltrates Cleanly
-\_______________________________________________________________/
-                         12 to 20 Feet Wide
-```
-
-### Key Engineering Rules for Acreage Swales:
-1. **Parabolic Cross-Section (10:1 Slope Ratio):** The swale should measure 12 to 20 feet across, gently dipping only 12 to 18 inches at its center. This ultra-gentle slope allows riding mowers to cross safely without scalping or tipping.
-2. **Grade Tolerances (1.5% to 2.5% Fall):** A swale must maintain a minimum 1.0% slope (1 foot of drop per 100 linear feet) to prevent standing stagnant water that breeds mosquitoes. The maximum slope should not exceed 3.0% to prevent water velocity from exceeding 3 feet per second.
-3. **Erosion Control Blanketing:** During initial grading, line the swale center with **biodegradable coir-fiber erosion control blankets (ASTM D6459)** staked down with wooden staples. The matting locks seed and topsoil in place during early thunderstorms until deep-root vegetation establishes.
-
----
-
-## 4. The Three-Zone Acreage Masterplan
-
-Managing multi-acre rural parcels successfully requires dividing the property into distinct functional zones. Attempting to maintain an entire five-acre parcel at golf-course standards is a recipe for physical exhaustion, high fuel costs, and drainage failures:
-
-```
-┌────────────────────────────────────────────────────────┐
-│  ZONE 3: Conservation Prairie & Reforestation Buffer  │
-│  (Deep-root native tallgrass, bioswales, shelterbelts) │
-│  Maintenance: Single late-winter mow or burn           │
-│                                                        │
-│    ┌──────────────────────────────────────────────┐    │
-│    │  ZONE 2: Transition Low-Mow Fine Fescue      │    │
-│    │  (Dutch white clover, fruit orchards, paths) │    │
-│    │  Maintenance: Monthly high mow (4"-5" cut)   │    │
-│    │                                              │    │
-│    │    ┌────────────────────────────────────┐    │    │
-│    │    │  ZONE 1: Domestic Living Envelope  │    │    │
-│    │    │  (Manicured turf, fire defensible) │    │    │
-│    │    │  [  HOUSE & OUTBUILDINGS  ]       │    │    │
-│    │    └────────────────────────────────────┘    │    │
-│    └──────────────────────────────────────────────┘    │
-└────────────────────────────────────────────────────────┘
-```
+> ### Three-Tiered Concentric Acreage Management Framework
+>
+> | Management Tier | Setback from Structure | Plant Community & Species Spec | Maintenance Schedule & Runoff Function |
+> | :--- | :--- | :--- | :--- |
+> | **Zone 1: Domestic Living Envelope** | 0 to 40 Feet | Turf-Type Tall Fescue (*Festuca arundinacea*) | Weekly cut at 3.5"; 5% foundation slope sheds bulk stormwater |
+> | **Zone 2: Transition Low-Mow Belt** | 40 to 120 Feet | Fine Fescue Blend + Micro-Clover | Monthly cut at 4"–5"; bio-filtration reduces mowing labor by 75% |
+> | **Zone 3: Conservation Prairie Buffer** | 120+ Feet to Property Line | Big Bluestem, Switchgrass, Indian Grass, Wildflowers | Annual late-winter mow/burn; deep 10-ft roots infiltrate sheet runoff |
 
 ### Zone 1: The Domestic Living Envelope (0 to 40 Feet from Structure)
 - **Purpose:** Family recreation, pet runs, outdoor living, and defensible fire/tick clearance.

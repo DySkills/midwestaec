@@ -47,21 +47,14 @@ Modern brick residential walls are "cavity walls" or "rainscreens": an exterior 
 
 Pre-1930s homes in the Midwest were built entirely differently. They are **solid mass masonry** structures:
 
-```
-HISTORIC SOLID MASS BRICK WALL (1880–1930)
-Outdoor Rain / Sleet
-     │
-     ▼
-[Wythe 1: Exterior Face Brick]  ◄ Relatively porous clay fired at 1,600°F–1,800°F
-     │  (Absorbs bulk water via capillary suction)
-[Collar Joint: Lime Mortar]    ◄ Type O or Type K lime mortar (vapor-permeable sponge)
-     │
-[Wythe 2: Interior Common Brick]◄ Softer backing brick
-     │
-[Embedded Wood Floor Joist]    ◄ Joist tail pocketed 4" directly into cold masonry
-     │
-[Lath & Lime Plaster]          ◄ Interior wall finish receiving continuous furnace heat
-```
+![Technical Cross-Section: Uninsulated Historic Mass Brick Wall vs. Safe Interior Mineral Wool & Smart Membrane Retrofit](images/insulating-brick-diagram.jpg)
+
+> **Historic Solid Mass Brick Wall Anatomy (1880–1930):**
+> - **Wythe 1 (Exterior Face Brick):** Low-fired porous clay brick (fired at 1,600°F–1,800°F) absorbing bulk rain via capillary suction.
+> - **Collar Joint (Lime Mortar):** Breathable Type O or Type K high-lime mortar functioning as an internal vapor-permeable sponge.
+> - **Wythe 2 (Interior Common Brick):** Softer clay backing brick buffering absorbed moisture.
+> - **Embedded Floor Joists:** 2x10 wood timber joist tails pocketed 4 inches directly into the masonry.
+> - **Interior Finish:** Lath and lime plaster receiving continuous interior heat from the home.
 
 Historic mass walls manage rainwater through storage and redistribution. When a soaking November rain hits the wall, the porous bricks and soft lime mortar absorb hundreds of gallons of water like a dense reservoir.
 
@@ -79,10 +72,7 @@ When you place R-13 to R-20 of insulation on the interior side of a mass brick w
 
 The interior heat can no longer warm the brick. In mid-winter Chicago, Detroit, or Cleveland, the mass brick wall drops to within 2°F to 5°F of outdoor ambient temperature across its entire thickness.
 
-```
-FREEZE-THAW DAMAGE CRITERIA:
-Damage Occurs When: [Sub-Freezing Brick Temp (< 28°F)] + [Moisture Content > S_crit (~80%)]
-```
+$$\text{Freeze-Thaw Spalling Damage Criteria:} \quad T_{brick} < 28^\circ\text{F} \quad \text{and} \quad S \ge S_{crit} \approx 80\%$$
 
 Water expands by approximately **9.1% in volume** upon phase transformation from liquid to ice at 32°F (0°C). 
 
@@ -92,18 +82,10 @@ However, when winter rain or sleet drives the moisture content above the **Criti
 
 The resulting hydraulic pressure obeys the Darcy-Weisbach capillary relation, generating internal stresses exceeding **2,500 psi (17.2 MPa)**. Because historic low-temperature clay brick possesses a tensile strength of only **400 to 800 psi (2.8 to 5.5 MPa)**, the internal ceramic bonds fracture. The outer brick face violently cleaves off in sheets—destroying the structural exterior and allowing bulk water to pour directly into the wall cavity.
 
-```
-HYDROTHERMAL BEHAVIOR COMPARISON:
---------------------------------------------------------------------------------------
-Uninsulated Historic Wall:
-  Interior: 70°F  |  Plaster: 65°F  |  Back Brick: 52°F  |  Face Brick: 38°F  |  Outdoor: 10°F
-  Result: Brick stays above freezing; high outward vapor drive dries masonry.
-
-Insulated Wall (Interior R-15 Added Incorrectly):
-  Interior: 70°F  |  Insulation: R-15  |  Back Brick: 14°F  |  Face Brick: 11°F  |  Outdoor: 10°F
-  Result: Entire masonry volume freezes solid; rain absorption cannot dry; SPALLING.
---------------------------------------------------------------------------------------
-```
+| Wall Assembly Condition | Interior Living Temp | Interior Cavity / Back Wythe | Exterior Face Brick Temp | Outdoor Ambient | Hygrothermal Outcome |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Uninsulated Historic Wall (1910)** | 70°F | Plaster: 65°F / Back: 52°F | **38°F (Above freezing)** | 10°F | Continuous waste heat prevents freezing; high outward vapor drive dries wall. |
+| **Improper Interior R-15 Retrofit** | 70°F | Insulation: R-15 / Back: 14°F | **11°F (Deeply frozen)** | 10°F | Rain cannot evaporate; saturated pores expand 9%; **Severe Face Spalling**. |
 
 ---
 
@@ -113,27 +95,15 @@ Spalling faces are catastrophic, but an even more insidious failure occurs where
 
 In pre-1940s construction, dimensional lumber floor joists (typically 2x10 or 3x12 old-growth pine or fir) bear 4 inches into pockets notched directly into the brick wythes.
 
-```
-HISTORIC JOIST POCKET VULNERABILITY
-                 Cold Exterior Brick (12°F)
-                        │
-                        ▼
-      ┌─────────────────┬───────────────────────────────┐
-      │  Solid Masonry  │ Air Gap                       │
-      │  Wall Pocket    │                               │
-      │                 └───┐                           │
-      │   CONDENSATION      │ 2x10 Floor Joist Tail     │
-      │   & WOOD ROT ZONE   │                           │
-      │                     │                           │
-      │  ◄ Frost & Mold     │                           │
-      │                     └───────────────────────────┤
-      │   Water Migration                               │
-      └─────────────────────────────────────────────────┘
-             ▲                       ▲
-             │                       │
-      Unsealed Indoor Draft   New Interior Insulation
-      Carries Warm Moisture   Blocks Heat from Drying Pocket
-```
+> ### Historic Joist Pocket Vulnerability: Thermodynamic Failure Mechanics
+> 
+> | Assembly Component | Uninsulated Equilibrium (Historic) | Post-Insulation Vulnerability (Defective Retrofit) |
+> | :--- | :--- | :--- |
+> | **Masonry Wall Pocket** | Kept warm (> 35°F) by indoor heat loss | Plunges to 12°F–18°F; acts as an unconditioned freeze chamber |
+> | **Joist Tail End-Grain** | Wood moisture content stable at 9%–12% | Condensation drives wood moisture content above 28% fiber saturation |
+> | **Convective Air Path** | Exfiltrating indoor air escapes outward | Moist indoor air (45°F dew point) condenses against freezing pocket masonry |
+> | **Structural Outcome** | Decades of stable structural bearing | Rapid fungal decay (*Coniophora puteana* / brown rot) leads to structural shear failure |
+
 
 When an uninsulated home is operating, interior air escaping around the loose joist pocket is warm enough to keep the wood tail dry and above the dew point.
 
@@ -162,45 +132,44 @@ Never insulate historic masonry without diagnostic verification. Testing proves 
 
 To insulate a solid mass brick wall safely in Climate Zones 4, 5, and 6 without inducing spalling or joist rot, contractors must follow a strictly specified hygrothermal assembly:
 
-```
-THE ENGINEERED HISTORIC BRICK RETROFIT ASSEMBLY (OUTSIDE TO INSIDE)
-1. Exterior Brick Facade (Tuckpointed with Type N or O breathable lime mortar)
-2. Breathable Silane/Siloxane Water-Repellent Treatment (Vapor-permeable > 15 perms)
-3. Solid Multi-Wythe Brick Wall
-4. 1-Inch Ventilated / Capillary Air Space (or Dimpled HDPE Drainage Mat)
-5. 2x4 Wood or Light-Gauge Steel Stud Framing (Offset 1" from brick)
-6. Non-Combustible Mineral Wool Batts (R-15, Rockwool Comfortbatt)
-7. Intelligent Smart Vapor Retarder (Polyamide Membrane: 0.8 Perms Winter / >10 Perms Summer)
-8. Interior Gypsum Drywall (Latex painted)
-```
+> ### The Engineered Historic Brick Retrofit Assembly (Outside to Inside)
+>
+> | Layer Position | Material Specification | Building Science Function |
+> | :--- | :--- | :--- |
+> | **1. Exterior Brick Facade** | Repointed with Type N or O breathable lime mortar | Preserves historic masonry while shedding bulk driving rain |
+> | **2. Water-Repellent Treatment** | Silane/Siloxane breathable penetrant (> 15 perms) | Prevents liquid capillary wicking while allowing outward vapor drying |
+> | **3. Solid Masonry Wythes** | Historic two-wythe or three-wythe clay brick | Structural masonry mass kept safe from freeze-thaw spalling |
+> | **4. Capillary Air Space** | 1-inch clear drainage gap or dimpled HDPE mat | Breaks capillary transmission between brick and interior framing |
+> | **5. Stud Wall Framing** | 2x4 Wood or light-gauge steel offset 1" from brick | Uncoupled framing bay for continuous insulation installation |
+> | **6. Cavity Insulation** | R-15 Non-combustible mineral wool batts | Hydrophobic, non-combustible thermal resistance ($R \approx 3.8/\text{in}$) |
+> | **7. Smart Vapor Retarder** | Polyamide membrane (INTELLO / MemBrain) | Closed in winter (< 0.8 perms); open in summer (> 10 perms) |
+> | **8. Interior Wall Finish** | 1/2" Gypsum drywall with latex paint | Conditioned living space finish maintaining indoor air quality |
 
-```
-ASSEMBLY STEP-BY-STEP SPECIFICATIONS:
-
-1. EXTERIOR MASONRY PREPARATION:
-   - Rake out all cracking or spalled mortar joints to a depth of twice the joint width.
-   - Repoint strictly with ASTM C270 Type O (high-lime) or Type N mortar. NEVER use Type S or Portland cement, which is harder than historic brick and causes edge fractures.
-   - Apply a 100% vapor-permeable silane/siloxane penetrant to exterior windward walls. This prevents bulk liquid water absorption while allowing water vapor to pass freely outward (vapor permeance > 20 perms).
-
-2. CAPILLARY AIR BREAK:
-   - Erect 2x4 stud framing at least 1 full inch off the interior brick face. 
-   - Never allow wood studs or cavity insulation to touch the masonry directly. If liquid water bypasses the brick, the air break prevents capillary wicking into the insulation.
-
-3. VAPOR-PERMEABLE CAVITY INSULATION:
-   - Fill the 2x4 cavity with R-15 stone mineral wool (Rockwool Comfortbatt) or dense-pack cellulose (3.5 lbs/cu.ft).
-   - Mineral wool is naturally hydrophobic (absorbs < 1% water by volume) and non-combustible.
-   - CAUTION: Never install 2-pound closed-cell spray foam against historic brick unless extensive WUFI hygrothermal modeling confirms the exterior brick never reaches critical saturation. Closed-cell foam creates a vapor dam that prevents the brick from drying inward during Midwest summer humidity.
-
-4. THE SMART VARIABLE-PERMEANCE VAPOR RETARDER:
-   - Staple and tape an intelligent smart membrane (Pro Clima INTELLO or CertainTeed MemBrain) to the interior face of the studs.
-   - In winter (low relative humidity < 40%), the membrane tightens to 0.8 perms (Class II vapor retarder), stopping indoor air humidity from condensing on the cold brick.
-   - In summer (high relative humidity > 60%), the membrane's pores open to over 10 to 15 perms, allowing damp masonry to dry safely into the air-conditioned interior living space.
-   - RULE OF THUMB: NEVER install 6-mil polyethylene sheet plastic on a historic brick home. Poly traps summer moisture inside the wall cavity, generating toxic black mold (*Stachybotrys chartarum*) on the drywall paper.
-
-5. PRESERVING JOIST TAILS:
-   - Before insulating, drill two 1/2-inch holes into each timber joist tail inside the masonry pocket and insert borate glass rods (Impel Rods). If moisture enters, the rods dissolve, flooding the wood fibers with natural antifungal borate salt.
-   - Air-seal the perimeter around each joist pocket with an elastomeric acoustic sealant and vapor-permeable flashing tape to prevent warm interior air from exfiltrating into the cold brick pocket.
-```
+> ### Assembly Step-by-Step Specifications
+>
+> 1. **Exterior Masonry Preparation:**
+>    - Rake out all cracking or spalled mortar joints to a depth of twice the joint width.
+>    - Repoint strictly with ASTM C270 Type O (high-lime) or Type N mortar. Never use Type S or Portland cement, which is harder than historic brick and causes edge fractures.
+>    - Apply a 100% vapor-permeable silane/siloxane penetrant to exterior windward walls. This prevents bulk liquid water absorption while allowing water vapor to pass freely outward (vapor permeance > 20 perms).
+>
+> 2. **Capillary Air Break:**
+>    - Erect 2x4 stud framing at least 1 full inch off the interior brick face. 
+>    - Never allow wood studs or cavity insulation to touch the masonry directly. If liquid water bypasses the brick, the air break prevents capillary wicking into the insulation.
+>
+> 3. **Vapor-Permeable Cavity Insulation:**
+>    - Fill the 2x4 cavity with R-15 stone mineral wool (Rockwool Comfortbatt) or dense-pack cellulose (3.5 lbs/cu.ft).
+>    - Mineral wool is naturally hydrophobic (absorbs < 1% water by volume) and non-combustible.
+>    - Caution: Never install 2-pound closed-cell spray foam against historic brick unless extensive WUFI hygrothermal modeling confirms the exterior brick never reaches critical saturation. Closed-cell foam creates a vapor dam that prevents the brick from drying inward during Midwest summer humidity.
+>
+> 4. **The Smart Variable-Permeance Vapor Retarder:**
+>    - Staple and tape an intelligent smart membrane (Pro Clima INTELLO or CertainTeed MemBrain) to the interior face of the studs.
+>    - In winter (low relative humidity < 40%), the membrane tightens to 0.8 perms (Class II vapor retarder), stopping indoor air humidity from condensing on the cold brick.
+>    - In summer (high relative humidity > 60%), the membrane's pores open to over 10 to 15 perms, allowing damp masonry to dry safely into the air-conditioned interior living space.
+>    - Rule of Thumb: Never install 6-mil polyethylene sheet plastic on a historic brick home. Poly traps summer moisture inside the wall cavity, generating toxic black mold (*Stachybotrys chartarum*) on the drywall paper.
+>
+> 5. **Preserving Joist Tails:**
+>    - Before insulating, drill two 1/2-inch holes into each timber joist tail inside the masonry pocket and insert borate glass rods (Impel Rods). If moisture enters, the rods dissolve, flooding the wood fibers with natural antifungal borate salt.
+>    - Air-seal the perimeter around each joist pocket with an elastomeric acoustic sealant and vapor-permeable flashing tape to prevent warm interior air from exfiltrating into the cold brick pocket.
 
 ---
 

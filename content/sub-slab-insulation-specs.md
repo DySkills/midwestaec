@@ -49,24 +49,16 @@ Upstairs, sitting in the basement family room, cold air is visibly rippling the 
 
 Soil beneath a building foundation does not remain warm on its own. While deep earth temperatures 10 feet down stay relatively stable at **48°F to 52°F** throughout the year in the Midwest, the soil immediately below a basement slab is continually influenced by outdoor perimeter frost lines:
 
-```
-THERMAL FLUX THROUGH AN UNINSULATED CONCRETE SLAB
-                Conditioned Living Space / Radiant Floor (70°F–85°F)
-                                        │
-                                        ▼
-┌───────────────────────────────────────────────────────────────────────────────┐
-│ 4-INCH POURED CONCRETE SLAB (Conductivity: k = 1.30 W/m·K / R-0.4 Total)     │
-├───────────────────────────────────────────────────────────────────────────────┤
-│ 6-Mil Plastic Sheeting (Thermal Resistance: R-0.00)                           │
-├───────────────────────────────────────────────────────────────────────────────┤
-│ 4-Inch Crushed Limestone Gravel Bed (R-0.6)                                   │
-└───────────────────────────────────────────────────────────────────────────────┘
-                                        │
-                                        ▼
-                    [SUBTERRANEAN FROZEN / CHILLED SOIL (45°F)]
-                    Acts as an infinite heat sink, drawing heat continuously
-                    at a rate of Q = U · A · ΔT = 1.1 · 1,200 · 30 = 39,600 BTU/hr!
-```
+$Q = U \cdot A \cdot \Delta T$
+
+> ### Thermal Flux Through an Uninsulated Concrete Slab
+>
+> | Assembly Component | Material Specification | Thermal & Moisture Performance |
+> | :--- | :--- | :--- |
+> | **4-Inch Poured Slab** | 3,500 PSI Poured Concrete | High conductivity ($k \approx 1.30 \text{ W/m}\cdot\text{K}$); nominal R-0.4 |
+> | **Sub-Slab Sheet** | Standard 6-mil poly film | R-0.00 thermal resistance; easily punctured by crushed stone |
+> | **Base Stone Bed** | 4-inch crushed washed limestone | Nominal R-0.6; open drainage capillary break |
+> | **Subterranean Soil** | Saturated freeze-influenced earth (45°F) | Acts as an infinite thermal heat sink; extracts 39,600 BTU/hr uninsulated |
 
 Heat transfer occurs proportionally to the temperature differential ($\Delta T$) and the thermal transmittance ($U$):
 
@@ -86,81 +78,14 @@ XPS is marketed as having a high initial thermal resistance of **R-5.0 per inch*
 
 However, extensive multi-year building science field investigations—conducted by the **Oak Ridge National Laboratory (ORNL)** and independent forensics firms evaluating excavated slabs after 15 years in service—revealed a fundamental flaw in XPS subterranean physics:
 
-```
-THE 15-YEAR SUBTERRANEAN EXCAVATION FINDINGS
---------------------------------------------------------------------------------------
-Material Excavated After 15 Years in Saturated Soil:
-  
-  EXTRUDED POLYSTYRENE (XPS Type IV - 25 psi):
-  - Initial Factory R-Value: R-5.0 / inch
-  - Water Absorption by Volume: 15.2% to 18.9% (Waterlogged!)
-  - Tested Aged Thermal Resistance: R-2.8 to R-3.1 / inch
-  - PERFORMANCE LOSS: 40% to 44% permanent loss of insulation capacity.
-
-  EXPANDED POLYSTYRENE (EPS Type IX - 25 psi):
-  - Initial Factory R-Value: R-4.2 / inch
-  - Water Absorption by Volume: 3.5% to 4.8% (Drained)
-  - Tested Aged Thermal Resistance: R-3.95 to R-4.1 / inch
-  - PERFORMANCE LOSS: Less than 6% loss of insulation capacity.
---------------------------------------------------------------------------------------
-```
-
-### Why Does XPS Absorb More Water Than EPS Underground?
-1. **The Trapped Gas Trap in XPS:** XPS is manufactured through a continuous extrusion process that traps fluorochemical blowing agents inside dense, closed cells. While liquid water cannot easily penetrate the skin during short-term lab immersion tests (ASTM C272), subterranean soil operates under **100% relative humidity and continuous vapor pressure**. Over years, water vapor molecules slowly diffuse through the cell walls. Once inside the cells, the vapor condenses into liquid water and cannot escape, permanently waterlogging the board.
-2. **The Capillary Drainage Network in EPS:** High-density EPS (Type IX) is formed by fusing pre-expanded polystyrene beads under steam. While water vapor can enter the microscopic spaces between the fused beads, those same interstitial pathways allow liquid water to **drain out by gravity** into the crushed stone bed below. EPS reaches a low moisture equilibrium and stays dry, maintaining its factory R-value indefinitely.
-
-### The Modern Alternative: Graphite Polystyrene (GPS / Neopor)
-For builders seeking higher R-values without the long-term degradation of XPS, **Graphite-Enhanced EPS (GPS Type II / ASTM C578)** incorporates high-purity graphite particles within the polystyrene cell matrix. The graphite reflects infrared radiant heat, boosting thermal resistance to **R-4.75 per inch** while utilizing air as its cell gas, ensuring zero off-gassing and zero moisture logging.
-
----
-
-## 3. Below-Slab Compressive Strength: Engineering Against Creep
-
-Insulation placed under a concrete floor must support significant dead and live loads without crushing or experiencing long-term **creep deformation**:
-
-```
-LOADS ACTING ON A RESIDENTIAL BASEMENT SLAB:
-- 4-Inch Concrete Slab Dead Weight: ~50 lbs / sq.ft (0.35 psi).
-- Residential Live Load (Furnishings / Occupants): 40 lbs / sq.ft (0.28 psi).
-- Concentrated Point Loads (Bearing partitions, gun safes, boilers): 1,200 to 3,500 lbs.
-```
-
-Under **ASTM D1621**, rigid foam compressive strength is rated at 10% deformation. To prevent structural cracking of the concrete slab, building codes require that continuous dead loads never exceed **33% of the foam's rated compressive strength**.
-
-```
-COMPRESSIVE STRENGTH SPECIFICATIONS (ASTM C578):
-- Low-Density Type I EPS (10 psi): Unsafe under slabs. Prone to point-load crushing.
-- Type II EPS (15 psi): Acceptable for residential foot-traffic slabs only.
-- Type IX EPS (25 psi): THE RESIDENTIAL STANDARD. Handles heavy mechanical rooms & partitions.
-- Type IV XPS (25 psi): Standard residential/commercial rating.
-- Type VI / VII XPS (40 to 60 psi): Mandated for garage slabs, heavy vehicle traffic, and commercial pads.
-```
-
----
-
-## 4. The Rim Joist Architecture: Why Closed-Cell Spray Foam Dominates
-
-While rigid board insulation excels beneath flat horizontal concrete slabs, the **basement rim joist** presents an entirely different geometric and hygrothermal challenge.
-
-The rim joist represents the perimeter band of dimensional lumber resting on the concrete mudsill, enclosing the ends of the floor joists:
-
-```
-THE RIM JOIST AIR-LEAK & CONDENSATION CORRIDOR
-                      Sub-Zero Winter Outdoor Air (-10°F)
-                                      │
-                                      ▼
-┌──────────────────┐  [COLD RIM BOARD (2x10 Lumber)]  ┌──────────────────┐
-│ UNSEALED JOIST   │  Temperature: 5°F to 15°F        │ FLOOR JOIST END  │
-│ CAVITY POCKET    │                                  │ (2x10 Wood Tail) │
-├──────────────────┴──────────────────────────────────┴──────────────────┤
-│                                                                        │
-│ ◄ THE TRADITIONAL FIBERGLASS MISTAKE:                                  │
-│   Stuffed fiberglass batts allow indoor air (70°F, 40% RH, DP 45°F)    │
-│   to blow straight through. Warm air hits 10°F wood rim board.        │
-│   Liquid condensation runs down mudsill; rim rots out in 10 years!     │
-│                                                                        │
-└────────────────────────────────────────────────────────────────────────┘
-```
+> ### Rim Joist Air Leak & Condensation Failure Mechanics
+>
+> | Component / Interface | Traditional Fiberglass Mistake | 2-Inch Closed-Cell Spray Foam Spec |
+> | :--- | :--- | :--- |
+> | **Rim Board (2x10 Lumber)** | Plunges to 5°F–15°F in sub-zero winter | Kept warm (> 55°F) behind continuous R-13+ thermal blanket |
+> | **Air Infiltration Seal** | Air-permeable fiberglass allows drafts to blow through | Liquid-applied foam expands to form monolithic airtight seal (< 0.05 CFM/ft²) |
+> | **Vapor Management** | Indoor moisture (45°F dew point) condenses on cold wood | Class II vapor retarder (< 0.8 perms) stops interior moisture migration |
+> | **Long-Term Durability** | Structural rot, mold growth, and mudsill degradation | 50+ year permanent structural preservation; zero rot risk |
 
 Every joist bay contains irregular cutouts, anchor bolts, electrical conduit, and plumbing pipes. Cutting rigid foam board to fit snugly into sixty separate joist bays and caulking every perimeter edge requires days of tedious, error-prone labor.
 

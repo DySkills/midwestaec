@@ -51,24 +51,14 @@ The contractor does not understand thermodynamics. Lowering the thermostat furth
 
 To diagnose why air conditioning systems fail to dehumidify in the Midwest, one must understand the two components of cooling:
 
-```
-THE RESIDENTIAL COOLING LOAD EQUATION
-                 Total Cooling Demand (Q_total)
-                                │
-               ┌────────────────┴────────────────┐
-               ▼                                 ▼
-    SENSIBLE COOLING LOAD              LATENT COOLING LOAD
-         (Q_sensible)                      (Q_latent)
-   Energy required to lower         Energy required to remove
-   dry-bulb air temperature        water vapor via condensation
-```
+$\text{SHR} = \frac{Q_{\text{sensible}}}{Q_{\text{total}}} = \frac{Q_{\text{sensible}}}{Q_{\text{sensible}} + Q_{\text{latent}}}$
 
-```
-SENSIBLE HEAT RATIO (SHR):
-                Q_sensible
-        SHR = ──────────────
-                 Q_total
-```
+> ### Total Cooling Load Distribution (Midwest Corn-Belt Climate)
+>
+> | Cooling Component | Thermodynamic Definition | Midwest Summer Share | Equipment Impact |
+> | :--- | :--- | :--- | :--- |
+> | **Sensible Heat ($Q_{\text{sensible}}$)** | Lowering dry-bulb air temperature (thermostat reading) | **55% to 65%** | Satisfied rapidly by oversized compressor in 6–8 minutes |
+> | **Latent Heat ($Q_{\text{latent}}$)** | Condensing invisible airborne moisture into liquid water | **35% to 45%** | Requires 12–15+ minutes of continuous run time to drain |
 
 Standard residential split-system air conditioners are engineered in factory test chambers for a **Sensible Heat Ratio of 0.75 to 0.80**. That means 75% to 80% of the unit's cooling capacity is dedicated to dropping air temperature, while only 20% to 25% is dedicated to extracting moisture.
 
@@ -84,32 +74,15 @@ When an air conditioner designed for an SHR of 0.80 operates in a home with an a
 
 When an air conditioning compressor turns on, moisture removal does **not** happen instantaneously. Latent dehumidification is a delayed physical process:
 
-```
-THE 12-MINUTE EVAPORATOR COIL CONDENSATION RAMP
-Compressor Starts (Minute 0)
-       │
-       ▼
-[0 to 4 Minutes: Sensible Phase]
-- Refrigerant cools aluminum coil fins from 72°F to 48°F.
-- Air temperature drops, but fins are just reaching dew point.
-- Zero water drains from the unit.
-       │
-       ▼
-[4 to 8 Minutes: Droplet Adhesion Phase]
-- Microscopic condensation forms on aluminum fins.
-- Surface tension causes water droplets to cling to the metal fins.
-- Still zero water entering the drain pan!
-       │
-       ▼
-[8 to 12 Minutes: Coalescence & Drainage Phase]
-- Droplets become heavy enough to overcome surface tension.
-- Liquid water streams down fins into condensate pan and out drain line.
-- Unit reaches steady-state latent moisture removal.
-       │
-       ▼
-Compressor Stops (Minute 14+)
-- Continuous moisture removal occurs only during extended runtimes.
-```
+> ### The 12-Minute Evaporator Coil Condensation Ramp
+>
+> | Runtime Elapsed | Evaporator Coil Thermodynamic State | Condensation & Drainage Behavior |
+> | :--- | :--- | :--- |
+> | **Minute 0 to 4 (Sensible Phase)** | Compressor starts; coil chills from 72°F to 48°F | Air cools, but fins are just reaching dew point; zero water drains |
+> | **Minute 4 to 8 (Adhesion Phase)** | Coil reaches dew point (45°F–48°F) | Microscopic droplets condense; surface tension holds drops on fins |
+> | **Minute 8 to 12 (Coalescence Phase)** | Droplets coalesce into liquid streams | First water reaches drain pan and begins trickling down condensate line |
+> | **Minute 14+ (Steady-State Extraction)** | Sustained continuous latent removal | True whole-house dehumidification occurs (~3 to 4 pints per hour) |
+> | **Short-Cycle Shutdown (< 8 min)** | Oversized compressor satisfies thermostat | Blower runs over wet coil; **100% of moisture re-evaporates back into house!** |
 
 Now consider what happens in a home with an **oversized single-stage compressor**:
 1. An HVAC contractor sizes a 2,400 sq.ft home with a 4.5-ton or 5-ton system using the obsolete rule of thumb: "1 ton per 500 square feet."
@@ -133,24 +106,14 @@ The physics of this failure is rooted in subterranean temperatures:
 - The central air conditioning thermostat is located on the first floor. It runs based on the first floor's heat gain through windows, walls, and roofs.
 - Downstairs in the basement, the temperature never rises high enough to trigger a call for cooling. Therefore, the central air handler never circulates or treats basement air.
 
-```
-THE BASEMENT SUMMER MOLD INCUBATOR
-Subterranean Earth Temperature: 58°F to 62°F
-                    │
-                    ▼
-┌────────────────────────────────────────────────────────┐
-│ BASEMENT THERMODYNAMIC ENVIRONMENT                     │
-│ - Temperature: Stagnant at 64°F to 67°F (No AC call)   │
-│ - Outdoor Humidity Infiltration: Dew Point 74°F        │
-│                                                        │
-│ PSYCHROMETRIC CONVERSION:                              │
-│ When 74°F dew point moisture mixes into 65°F air,     │
-│ Relative Humidity spikes to 78% – 85%!                 │
-│                                                        │
-│ ◄ MOLD GROWTH THRESHOLD SURPASSED (> 70% RH for 48 hr) │
-│   Drywall paper, carpet backing, and framing mold.     │
-└────────────────────────────────────────────────────────┘
-```
+> ### Basement Psychrometric Condensation Dynamics
+>
+> | Environmental Metric | Upstairs Living Room | Finished Basement |
+> | :--- | :--- | :--- |
+> | **Dry-Bulb Temperature** | 68°F (AC thermostat setpoint) | 63°F – 66°F (Surrounded by subterranean soil) |
+> | **Sensible Cooling Demand** | High (Solar gain through roof/windows) | Near-Zero (Earth maintains 58°F–62°F walls) |
+> | **Airflow Circulation** | Regular AC supply and return flow | Stagnant; registers remain closed during short cooling cycles |
+> | **Relative Humidity** | 58% – 64% (Clammy) | **78% – 85% (Active Mildew & Mold Danger Zone)** |
 
 When warm, humid air infiltrates into the basement through open doors or leaky rim joists, it encounters a cold 65°F room. At 65°F, air can hold very little moisture. The relative humidity immediately climbs to **75% to 85%**.
 
@@ -162,53 +125,32 @@ At relative humidity levels above 70%, dust mites breed exponentially and mold s
 
 Solving the Midwest summer humidity trap requires an integrated building-science strategy rather than simply swapping equipment:
 
-```
-THE THREE-TIERED SUMMER HUMIDITY SOLUTION
-                              Midwest Latent Humidity (Dew Point > 75°F)
-                                                │
-                                                ▼
-┌───────────────────────────────────────────────┬───────────────────────────────┐
-│ [1] RIGHT-SIZING & INVERTER MODULATION        │ [2] AIRFLOW CFM/TON TUNING    │
-├───────────────────────────────────────────────┼───────────────────────────────┤
-│ - Perform strict ACCA Manual J & S sizing.    │ - Reduce blower from 450      │
-│ - Select variable-speed inverter compressor   │   CFM/ton down to 325–350     │
-│   (e.g., Bosch IDS 2.0 / Mitsubishi PVA).     │   CFM/ton during high RH.     │
-│ - Operates at 25% capacity for 45–90 min      │ - Slow airflow drops coil     │
-│   runs, maintaining continuous coil drainage. │   temp to 42°F, pulling 30%   │
-│                                               │   more water out of air.      │
-└───────────────────────────────────────────────┴───────────────────────────────┘
-                                                │
-                                                ▼
-┌───────────────────────────────────────────────────────────────────────────────┐
-│ [3] DEDICATED WHOLE-HOME DEHUMIDIFICATION (AprilAire E100 / Santa Fe Ultra120)│
-│     - Ducted into return/supply plenum; runs independently of cooling calls.  │
-│     - Dedicated sensor monitors relative humidity directly (Set to 48% RH).   │
-│     - Extracts 100–120 pints/day at 2.8 L/kWh without overcooling the house.  │
-└───────────────────────────────────────────────────────────────────────────────┘
-```
+> ### The Three-Part Building-Science Engineering Solution
+>
+> | Engineering Pillar | System Specification | Hygrothermal Mechanism |
+> | :--- | :--- | :--- |
+> | **[1] Right-Sizing & Inverter Modulation** | Strict ACCA Manual J/S sizing + Variable-speed inverter | Operates at 25%–40% capacity for 45–90 min runs, sustaining deep latent extraction |
+> | **[2] Airflow CFM/Ton Tuning** | Reduce blower speed from 450 to 325–350 CFM/ton | Drops evaporator coil temperature to 42°F, increasing condensation rate by 30% |
+> | **[3] Dedicated Whole-Home Dehumidifier** | Ultra-efficient 100–120 pint/day unit (AprilAire/Santa Fe) | Decouples latent moisture control from thermostat temperature calls year-round |
 
-```
-STEP-BY-STEP AIRFLOW AND MECHANICAL RETROFIT SPECIFICATIONS:
-
-1. ACCA MANUAL J & S LOAD CALCULATION:
-   - Ban all square-footage "rules of thumb." Require a room-by-room Manual J calculation incorporating actual insulation R-values, window SHGC ratings, and verified blower door infiltration rates.
-   - Size the system to match the 99% summer design temperature (typically 90°F to 94°F in the Midwest). Never add "safety margin" tonnage.
-
-2. AIR HANDLER CFM TUNING:
-   - Most factory furnaces and air handlers ship with blower fans set to 400 to 450 CFM per ton. This moves air too quickly to achieve maximum dehumidification.
-   - Adjust the blower motor dip switches or digital settings down to 325 to 350 CFM per ton. 
-   - Moving 325 CFM per ton across the evaporator lowers the coil evaporating temperature from 48°F down to 42°F. The colder coil condenses dramatically more water vapor while extending cycle runtimes.
-
-3. VARIABLE-SPEED INVERTER COMPRESSORS:
-   - Install a variable-capacity inverter heat pump or AC system (such as the Bosch IDS 2.0 or Mitsubishi Hyper-Heat).
-   - Inverter compressors ramp down to 25% or 30% capacity on mild humid days, running continuously for 45 to 90 minutes. Long, low-capacity runtimes keep the coil permanently wet and continuously draining liquid water out of the home.
-
-4. DEDICATED WHOLE-HOME DEHUMIDIFIER:
-   - In tightly sealed, well-insulated homes, sensible cooling loads are so low that even inverter air conditioners do not run long enough to handle latent moisture in spring and fall.
-   - Install a commercial-grade, whole-home dedicated dehumidifier (AprilAire E100, Santa Fe Ultra120, or Ultra Aire).
-   - Duct the dehumidifier with its own return from the basement or living area, discharging directly into the central supply ductwork.
-   - Controlled by a digital humidistat, it activates only when indoor relative humidity exceeds 50%, removing 100 to 120 pints of water per day for a fraction of the operating cost of an oversized air conditioner.
-```
+> ### Step-by-Step Airflow and Mechanical Retrofit Specifications
+>
+> 1. **ACCA Manual J & S Load Calculation:**
+>    - Ban all square-footage "rules of thumb." Require a room-by-room Manual J calculation incorporating actual insulation R-values, window SHGC ratings, and verified blower door infiltration rates.
+>    - Size the system to match the 99% summer design temperature (typically 90°F to 94°F in the Midwest). Never add "safety margin" tonnage.
+> 
+> 2. **Air Handler CFM Tuning:**
+>    - Most factory furnaces and air handlers ship with blower fans set to 400 to 450 CFM per ton. Adjust the blower motor dip switches or digital settings down to 325 to 350 CFM per ton.
+>    - Moving 325 CFM per ton across the evaporator lowers the coil evaporating temperature from 48°F down to 42°F. The colder coil condenses dramatically more water vapor while extending cycle runtimes.
+> 
+> 3. **Variable-Speed Inverter Compressors:**
+>    - Install a variable-capacity inverter heat pump or AC system (such as the Bosch IDS 2.0 or Mitsubishi Hyper-Heat).
+>    - Inverter compressors ramp down to 25% or 30% capacity on mild humid days, running continuously for 45 to 90 minutes. Long, low-capacity runtimes keep the coil permanently wet and continuously draining liquid water out of the home.
+> 
+> 4. **Dedicated Whole-Home Dehumidifier:**
+>    - Install a commercial-grade, whole-home dedicated dehumidifier (AprilAire E100, Santa Fe Ultra120, or Ultra Aire).
+>    - Duct the dehumidifier with its own return from the basement or living area, discharging directly into the central supply ductwork.
+>    - Controlled by a digital humidistat, it activates only when indoor relative humidity exceeds 50%, removing 100 to 120 pints of water per day for a fraction of the operating cost of an oversized air conditioner.
 
 ---
 

@@ -41,29 +41,23 @@ Six months later, during a muggy July heatwave when outdoor humidity surges to 8
 
 Standard concrete is neither an insulator nor a waterproof barrier. It is an uninsulated, porous rock submerged in freezing water and damp earth.
 
+![ICF vs Poured Concrete Foundation Performance in -15°F Midwest Winter](images/icf-basement-diagram.jpg)
+
 ---
 
 ## 1. Concrete Physics: Thermal Conduction and Capillary Suction
 
 To understand why traditional basements fail in Midwest cold climates, builders must look at the material properties of unreinforced poured concrete:
 
-```
-THERMAL LOSS & MOISTURE TRANSMISSION THROUGH UNINSULATED CONCRETE
-                     Freezing Winter Soil (-5°F to 32°F)
-                                   │
-                                   ▼
-┌──────────────────────────────────┬────────────────────────────────────┐
-│ 8-Inch Standard Poured Concrete  │ Interior Basement Air (68°F)       │
-│ Thermal Resistance: R-1.1        │                                    │
-│ (Conducts 0.91 BTU/hr·ft²·°F)    │                                    │
-│                                  │                                    │
-│                                  │ ◄ Massive Thermal Heat Loss        │
-│ ◄ Capillary Groundwater Wicking  │   (Acts as giant radiator to earth)│
-│   (Pores wick moisture inward    │                                    │
-│    at up to 100 psi suction)     │ ◄ Cold Wall Surface (34°F–42°F)    │
-│                                  │                                    │
-└──────────────────────────────────┴────────────────────────────────────┘
-```
+> ### Thermal Loss & Moisture Transmission Through Uninsulated Concrete
+>
+> | Metric / Parameter | 8-Inch Standard Poured Concrete | Monolithic ICF Foundation (R-24) |
+> | :--- | :--- | :--- |
+> | **Thermal Resistance** | R-1.1 to R-1.3 (0.91 BTU/hr·ft²·°F) | Continuous R-23 to R-26 (0.04 BTU/hr·ft²·°F) |
+> | **Interior Wall Temp at -15°F Soil** | 34°F – 42°F (Extreme Condensation Zone) | 66°F – 68°F (Bone-Dry Living Comfort) |
+> | **Heat Conduction Rate** | High ($k \approx 1.30 \text{ W/m}\cdot\text{K}$) | Minimal Outboard & Inboard Heat Flux |
+> | **Capillary Groundwater Wicking** | 10%–18% connected capillary pore volume | Outboard EPS + dimpled membrane halts suction |
+
 
 ### The Two Fundamental Flaws of Standard Poured Walls:
 1. **Severe Thermal Bridging:** Concrete has a high thermal conductivity ($k \approx 1.30 \text{ W/m}\cdot\text{K}$). An 8-inch thick wall provides a nominal thermal resistance of only **R-1.1 to R-1.3**. Heat conducts through solid concrete thirty times faster than through wood framing, constantly siphoning expensive heat out of the home and dumping it into the freezing soil above the frost line.
@@ -75,10 +69,8 @@ THERMAL LOSS & MOISTURE TRANSMISSION THROUGH UNINSULATED CONCRETE
 
 When builders attempt to "finish" a standard concrete basement by building a 2x4 wood stud wall packed with fiberglass batts and covered with 6-mil poly plastic, they trigger a catastrophic building-science failure:
 
-```
-THE BASEMENT MOLD SANDWICH (IMPROPER TRADITIONAL RETROFIT)
-[Cold 8" Concrete] + [Air Space] + [Fiberglass Batt] + [6-Mil Poly] + [Drywall]
-```
+> **The Basement Mold Sandwich Assembly:**  
+> [Cold 8" Concrete] $\longrightarrow$ [Air Space] $\longrightarrow$ [Fiberglass Batt] $\longrightarrow$ [6-Mil Poly] $\longrightarrow$ [Drywall]
 
 1. **Winter Freeze:** The fiberglass batt insulates the room, but it also completely cuts off interior furnace heat from reaching the concrete wall. The concrete wall drops from 45°F down to **25°F to 30°F**, freezing solid.
 2. **Convective Air Loops:** Warm, moist basement air slips through cracks in the drywall and fiberglass, contacting the freezing concrete. Moisture condenses on the cold wall, running down to pool on the wood bottom plate.
@@ -91,26 +83,15 @@ THE BASEMENT MOLD SANDWICH (IMPROPER TRADITIONAL RETROFIT)
 
 Insulated Concrete Forms (ICF) eliminate the thermal bridge and the condensation plane entirely by placing continuous, rigid expanded polystyrene insulation on **both sides** of the structural concrete wall:
 
-```
-INSULATED CONCRETE FORM (ICF) WALL ASSEMBLY CROSS-SECTION
-Exterior Soil & Delta-MS Dimpled Drainage Mat
-       │
-       ▼
-┌─────────────────────────┐  ◄ 2.625" Expanded Polystyrene (EPS Type II, R-11.5)
-│ Exterior EPS Foam Panel │    (Continuous Outboard Thermal & Capillary Break)
-├─────────────────────────┤
-│                         │
-│ 6" or 8" Monolithic     │  ◄ Solid Poured Concrete Core (3,000–4,000 PSI)
-│ Steel-Reinforced Core   │    Reinforced with Grade 60 #4 / #5 Rebar
-│ (Thermal Mass Flywheel) │    Continuous Structural Strength
-│                         │
-├─────────────────────────┤
-│ Interior EPS Foam Panel │  ◄ 2.625" Expanded Polystyrene (EPS Type II, R-11.5)
-└─────────────────────────┘    (Continuous Inboard Condensation Barrier)
-       ▲
-       │
-Interior Drywall Screwed Directly into Integrated Polypropylene Fastening Studs
-```
+> ### Insulated Concrete Form (ICF) Structural & Thermal Stack
+>
+> | Layer Position | Material Specification | Building Science Function |
+> | :--- | :--- | :--- |
+> | **Exterior Face** | 2.625" Type II EPS Foam (R-11.5) | Outboard thermal break; shields concrete core from frost heave and freeze-thaw cycles |
+> | **Drainage Plane** | Dimpled HDPE Membrane (Delta-MS) | Relieves hydrostatic pressure; channels groundwater to footing tile |
+> | **Structural Core** | 6" or 8" Monolithic Concrete (3,000–4,000 PSI) | High-capacity thermal mass battery ($c_p = 0.88 \text{ kJ/kg}\cdot\text{K}$) with Grade 60 rebar |
+> | **Interior Face** | 2.625" Type II EPS Foam (R-11.5) | Continuous inboard thermal blanket; prevents surface condensation |
+> | **Finish Attachment** | Integrated Polypropylene Web Ties (8" O.C.) | 1.5" screw flanges accept 1/2" drywall directly without wood framing |
 
 ### Key Engineering Features of ICF:
 - **Continuous Dual Insulation:** With 2.625 inches of Type II EPS on the exterior and 2.625 inches on the interior, the assembly delivers a verified, continuous **R-23 to R-26** with **zero thermal bridging**. 
@@ -124,24 +105,24 @@ Interior Drywall Screwed Directly into Integrated Polypropylene Fastening Studs
 
 While EPS foam is hydrophobic and absorbs less than 1.0% water by volume, an ICF foundation must still be engineered to handle hydrostatic soil pressure and groundwater:
 
-```
-BELOW-GRADE ICF DRAINAGE & WATERPROOFING SPECIFICATION
-1. Self-Adhered Waterproofing Membrane (SBS Modified Rubberized Asphalt)
-   - Cold-applied peel-and-stick sheet membrane (e.g., Henry Blueskin WP200 / Tremco ExoAir)
-   - Applied over manufacturer-approved water-based emulsion primer.
-   - Seals all interlock joints and block seams against hydrostatic head pressure.
-   
-2. Dimpled HDPE Drainage Sheet (DELTA-MS or Carlisle CCW MiraDRAIN)
-   - Heavy-duty 24-mil high-density polyethylene dimpled sheet installed over membrane.
-   - Dimples create a 5/16-inch air gap that relieves hydrostatic water pressure instantly.
-   - Water entering the backfill hits the sheet and drops directly by gravity to the footings.
+> ### Below-Grade ICF Drainage & Waterproofing Specification
+>
+> 1. **Self-Adhered Waterproofing Membrane (SBS Modified Rubberized Asphalt):**
+>    - Cold-applied peel-and-stick sheet membrane (e.g., Henry Blueskin WP200 / Tremco ExoAir).
+>    - Applied over manufacturer-approved water-based emulsion primer.
+>    - Seals all interlock joints and block seams against hydrostatic head pressure.
+> 
+> 2. **Dimpled HDPE Drainage Sheet (DELTA-MS or Carlisle CCW MiraDRAIN):**
+>    - Heavy-duty 24-mil high-density polyethylene dimpled sheet installed over membrane.
+>    - Dimples create a 5/16-inch air gap that relieves hydrostatic water pressure instantly.
+>    - Water entering the backfill hits the sheet and drops directly by gravity to the footings.
+> 
+> 3. **Footing Tile & Stone Drainage Envelope:**
+>    - 4-inch rigid perforated PVC drain tile laid at the base of the footing.
+>    - Encased in 12 to 18 inches of washed 3/4-inch crushed granite stone.
+>    - Wrapped in needle-punched non-woven geotextile filter fabric (Class 1) to prevent silt clogging.
+>    - Gravity-drained to daylight or interior sealed sump crock with battery backup.
 
-3. Footing Tile & Stone Drainage Envelope
-   - 4-inch rigid perforated PVC drain tile laid at the base of the footing.
-   - Encased in 12 to 18 inches of washed 3/4-inch crushed granite stone.
-   - Wrapped in needle-punched non-woven geotextile filter fabric (Class 1) to prevent silt clogging.
-   - Gravity-drained to daylight or interior sealed sump crock with battery backup.
-```
 
 ---
 

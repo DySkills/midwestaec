@@ -47,14 +47,12 @@ In Climate Zones 4 and 5, the Eastern Subterranean Termite (*Reticulitermes flav
 
 To feed on structural wood framing, termites construct protective shelter tubes made of soil, saliva, and fecal matter—known as "mud tubes."
 
-```
-STANDARD FAILURE: Hidden Mud Tube Behind Foam
-Earth  -->  Mud Tube tunnels behind exterior insulation  -->  Enters Untreated Sill Plate (Unseen)
-
-ENGINEERED DEFENSE: Mechanical Metal Termite Shield (IRC R318)
-Earth  -->  Termite reaches 26-gauge metal shield  -->  Must turn outward around 45° sharp hem  -->
-            Mud tube exposed to sunlight, air & homeowner inspection  -->  Termites dry out and die
-```
+> ### Subterranean Termite Infiltration vs. Mechanical Shielding (IRC R318)
+>
+> | Defense Strategy | Mud Tube Travel Pathway | Insect Inspection & Failure Mode |
+> | :--- | :--- | :--- |
+> | **Standard Foam Sill Seal (Defective)** | Tunnels behind exterior insulation into untreated sill plate | Concealed pathway; structural framing destroyed before detection |
+> | **Mechanical Metal Shield (Engineered)** | Blocked by 26-gauge continuous galvanized steel flashing | Forces mud tube outward around 45° sharp hem into daylight where termites dehydrate |
 
 ### Why Standard Foam Sill Seals Fail
 Standard builder practice places a thin 1/4-inch roll of closed-cell polyethylene foam (sill seal) between the concrete foundation and the pressure-treated mud sill. While this provides minor air sealing, it provides zero insect defense. Termites and carpenter ants chew through polyethylene foam within minutes, using the crushed foam layer as a highway to reach untreated wall studs and floor joists.
@@ -80,10 +78,8 @@ A carpenter ant's mandibles are adapted to carve wood only after it has been sof
 - **Window Rough Openings:** Leaking window head flashings that channel rainwater into jack studs and subflooring.
 - **Roof Valleys & Ice Dam Zones:** Eaves softened by chronic winter ice dam backups.
 
-```
-Moisture Leak (Condensation or Rain)  -->  Wood Moisture Content Exceeds 20%  -->
-Fungal Decay Softens Cellulose Fibers  -->  Carpenter Ants Excavate Galleries  -->  Structural Failure
-```
+> **Carpenter Ant Nesting Sequence:**  
+> Moisture Leak (Condensation / Rain) $\longrightarrow$ Wood Moisture Content $> 20\%$ $\longrightarrow$ Fungal Decay Softens Cellulose Fibers $\longrightarrow$ Carpenter Ants Excavate Nesting Galleries $\longrightarrow$ Structural Framing Failure.
 
 - **The Building Science Fix:** Eliminate the moisture, and you eliminate the carpenter ants. Replacing damp fiberglass with **two inches of closed-cell spray foam (R-14)** against basement rim joists creates an airtight vapor barrier that keeps the wood warm and bone-dry (maintaining moisture content below 12%). Without softened wood, carpenter ants cannot establish nests, abandoning the structure without a single drop of chemical pesticide.
 
@@ -95,13 +91,14 @@ Modern building science demands that exterior claddings—such as brick veneer, 
 
 However, an unshielded 3/8-inch brick weep hole or an open 3/4-inch furring gap is an open highway for rural pests:
 
-```
-Pest Entry Dimension Tolerances:
-- Adult Field Mice: Can enter a gap larger than 1/4 inch (6.4 mm).
-- Paper Wasps & Yellowjackets: Can enter a gap larger than 3/16 inch (4.8 mm).
-- Brown Marmorated Stink Bugs: Can enter a gap larger than 1/8 inch (3.2 mm).
-- Spiders & Carpenter Ants: Can enter a gap larger than 1/16 inch (1.6 mm).
-```
+> ### Pest Entry Dimension Tolerances (ASTM E437)
+>
+> | Rural Pest Species | Minimum Entry Gap Threshold | Physical Defense Requirement |
+> | :--- | :--- | :--- |
+> | **Adult Field Mice** | > 1/4 inch (6.4 mm) | Galvanized hardware cloth or sheet metal flashing |
+> | **Paper Wasps & Yellowjackets** | > 3/16 inch (4.8 mm) | 1/8" stainless steel rainscreen bug screening |
+> | **Brown Marmorated Stink Bugs** | > 1/8 inch (3.2 mm) | Heavy-duty woven wire mesh along cladding weeps |
+> | **Spiders & Carpenter Ants** | > 1/16 inch (1.6 mm) | Type 304 stainless steel 1/16" micro-mesh inserts |
 
 ### The Stainless Steel Mesh Solution (ASTM E437)
 Never plug weep holes with solid caulk or expanding spray foam. Blocking weeps traps water inside the wall assembly, rotting sheathing and inducing indoor mold.

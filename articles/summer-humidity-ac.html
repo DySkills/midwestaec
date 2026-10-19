@@ -106,10 +106,10 @@
   </div>
   <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">In the Midwest, summer weather is dominated by extreme latent moisture loads driven by atmospheric moisture and regional agricultural evapotranspiration—often called "corn sweat"—which pushes outdoor dew points above 76°F. When homeowners replace aging cooling systems with expensive, high-SEER central air conditioners, they are often dismayed to find their homes feeling like damp caves: the thermostat reads 68°F, yet the air feels sticky, bedsheets feel moist, and finished basements smell of mildew. This occurs because the cooling system was oversized using crude rules of thumb. Oversized single-stage compressors satisfy the temperature setpoint in less than eight minutes and shut off before the evaporator coil ever begins draining liquid condensate, leaving indoor humidity trapped at unhealthy levels.</p>
   <ul class="mt-4 pt-4 border-t border-emerald-200/80 space-y-2.5 text-sm text-slate-700 font-sans">
-    <li class="flex items-start gap-2.5"><span class="w-4 h-4 rounded-full bg-crimson text-white flex items-center justify-center text-[10px] font-bold shrink-0 mt-0.5">✓</span><span><strong class="text-navy font-bold">The Sensible vs. Latent Imbalance:</strong> Air conditioners must perform two distinct thermodynamic tasks: sensible cooling (lowering dry-bulb temperature) and latent cooling (condensing airborne water vapor into liquid water); Midwest summers often carry a 40% latent load that standard equipment cannot handle without long runtime.</span></li>
-    <li class="flex items-start gap-2.5"><span class="w-4 h-4 rounded-full bg-crimson text-white flex items-center justify-center text-[10px] font-bold shrink-0 mt-0.5">✓</span><span><strong class="text-navy font-bold">The 12-Minute Coil Condensation Ramp:</strong> An evaporator coil takes 8 to 12 minutes of continuous operation for condensed water droplets to coalesce and drain out through the condensate trap; short-cycling systems shut off and re-evaporate coil moisture straight back into the supply ducts.</span></li>
-    <li class="flex items-start gap-2.5"><span class="w-4 h-4 rounded-full bg-crimson text-white flex items-center justify-center text-[10px] font-bold shrink-0 mt-0.5">✓</span><span><strong class="text-navy font-bold">The Cold Basement Dilemma:</strong> Basements have near-zero sensible cooling demand because subterranean walls sit against 58°F to 62°F soil; because the thermostat upstairs satisfies quickly, the basement receives no airflow, letting basement relative humidity climb to 80%+.</span></li>
-    <li class="flex items-start gap-2.5"><span class="w-4 h-4 rounded-full bg-crimson text-white flex items-center justify-center text-[10px] font-bold shrink-0 mt-0.5">✓</span><span><strong class="text-navy font-bold">The Three-Part Building-Science Fix:</strong> Eliminate the humidity trap by right-sizing equipment with ACCA Manual J/S calculations, reducing air handler blower speed to 325–350 CFM/ton to drop coil surface temperatures, and installing an independent whole-home dehumidifier ducted into the central supply.</span></li>
+    <li class="flex items-start gap-2.5"><span class="w-4 h-4 rounded-full bg-crimson text-white flex items-center justify-center shrink-0 mt-0.5"><svg class="w-2.5 h-2.5 stroke-current stroke-2 fill-none" viewBox="0 0 24 24"><path d="M5 13l4 4L19 7"/></svg></span><span><strong class="text-navy font-bold">The Sensible vs. Latent Imbalance:</strong> Air conditioners must perform two distinct thermodynamic tasks: sensible cooling (lowering dry-bulb temperature) and latent cooling (condensing airborne water vapor into liquid water); Midwest summers often carry a 40% latent load that standard equipment cannot handle without long runtime.</span></li>
+    <li class="flex items-start gap-2.5"><span class="w-4 h-4 rounded-full bg-crimson text-white flex items-center justify-center shrink-0 mt-0.5"><svg class="w-2.5 h-2.5 stroke-current stroke-2 fill-none" viewBox="0 0 24 24"><path d="M5 13l4 4L19 7"/></svg></span><span><strong class="text-navy font-bold">The 12-Minute Coil Condensation Ramp:</strong> An evaporator coil takes 8 to 12 minutes of continuous operation for condensed water droplets to coalesce and drain out through the condensate trap; short-cycling systems shut off and re-evaporate coil moisture straight back into the supply ducts.</span></li>
+    <li class="flex items-start gap-2.5"><span class="w-4 h-4 rounded-full bg-crimson text-white flex items-center justify-center shrink-0 mt-0.5"><svg class="w-2.5 h-2.5 stroke-current stroke-2 fill-none" viewBox="0 0 24 24"><path d="M5 13l4 4L19 7"/></svg></span><span><strong class="text-navy font-bold">The Cold Basement Dilemma:</strong> Basements have near-zero sensible cooling demand because subterranean walls sit against 58°F to 62°F soil; because the thermostat upstairs satisfies quickly, the basement receives no airflow, letting basement relative humidity climb to 80%+.</span></li>
+    <li class="flex items-start gap-2.5"><span class="w-4 h-4 rounded-full bg-crimson text-white flex items-center justify-center shrink-0 mt-0.5"><svg class="w-2.5 h-2.5 stroke-current stroke-2 fill-none" viewBox="0 0 24 24"><path d="M5 13l4 4L19 7"/></svg></span><span><strong class="text-navy font-bold">The Three-Part Building-Science Fix:</strong> Eliminate the humidity trap by right-sizing equipment with ACCA Manual J/S calculations, reducing air handler blower speed to 325–350 CFM/ton to drop coil surface temperatures, and installing an independent whole-home dehumidifier ducted into the central supply.</span></li>
   </ul>
 </div>
 <hr class="my-8 border-slate-200" />
@@ -125,19 +125,17 @@
 <hr class="my-8 border-slate-200" />
 <h2 class="text-2xl font-bold text-navy font-serif mt-10 mb-4 pt-4 border-t border-slate-100">1. Sensible vs. Latent Heat: The Thermodynamic Conflict</h2>
 <p class="text-slate-700 text-base leading-relaxed my-4">To diagnose why air conditioning systems fail to dehumidify in the Midwest, one must understand the two components of cooling:</p>
-<pre class="my-6 p-4 rounded-xl bg-slate-900 text-slate-100 text-xs sm:text-sm font-mono overflow-x-auto leading-relaxed border border-slate-800"><code>THE RESIDENTIAL COOLING LOAD EQUATION
-                 Total Cooling Demand (Q_total)
-                                │
-               ┌────────────────┴────────────────┐
-               ▼                                 ▼
-    SENSIBLE COOLING LOAD              LATENT COOLING LOAD
-         (Q_sensible)                      (Q_latent)
-   Energy required to lower         Energy required to remove
-   dry-bulb air temperature        water vapor via condensation</code></pre>
-<pre class="my-6 p-4 rounded-xl bg-slate-900 text-slate-100 text-xs sm:text-sm font-mono overflow-x-auto leading-relaxed border border-slate-800"><code>SENSIBLE HEAT RATIO (SHR):
-                Q_sensible
-        SHR = ──────────────
-                 Q_total</code></pre>
+<p class="text-slate-700 text-base leading-relaxed my-4">$\text{SHR} = \frac{Q_{\text{sensible}}}{Q_{\text{total}}} = \frac{Q_{\text{sensible}}}{Q_{\text{sensible}} + Q_{\text{latent}}}$</p>
+<div class="my-8 p-6 sm:p-7 rounded-2xl bg-emerald-50/50 border-l-4 border-emerald-600 border border-emerald-200/60 shadow-sm">
+  <div class="text-xs font-mono font-bold uppercase tracking-wider text-emerald-800 mb-2">
+    Quick Summary
+  </div>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">### Total Cooling Load Distribution (Midwest Corn-Belt Climate)</p>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">| Cooling Component | Thermodynamic Definition | Midwest Summer Share | Equipment Impact |</p>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">| :--- | :--- | :--- | :--- |</p>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">| <strong class="text-navy font-bold">Sensible Heat ($Q_{\text{sensible}}$)</strong> | Lowering dry-bulb air temperature (thermostat reading) | <strong class="text-navy font-bold">55% to 65%</strong> | Satisfied rapidly by oversized compressor in 6–8 minutes |</p>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">| <strong class="text-navy font-bold">Latent Heat ($Q_{\text{latent}}$)</strong> | Condensing invisible airborne moisture into liquid water | <strong class="text-navy font-bold">35% to 45%</strong> | Requires 12–15+ minutes of continuous run time to drain |</p>
+</div>
 <p class="text-slate-700 text-base leading-relaxed my-4">Standard residential split-system air conditioners are engineered in factory test chambers for a <strong class="text-navy font-bold">Sensible Heat Ratio of 0.75 to 0.80</strong>. That means 75% to 80% of the unit's cooling capacity is dedicated to dropping air temperature, while only 20% to 25% is dedicated to extracting moisture.</p>
 <p class="text-slate-700 text-base leading-relaxed my-4">In dry Western climates (like Denver or Phoenix), this works well because the latent load is virtually zero.</p>
 <p class="text-slate-700 text-base leading-relaxed my-4">In the Midwest, however, high-dew-point summer air and dense occupants elevate the latent moisture load to <strong class="text-navy font-bold">35% to 45% of the total design demand</strong> ($\text{SHR} = 0.55\text{ to }0.65$).</p>
@@ -145,30 +143,19 @@
 <hr class="my-8 border-slate-200" />
 <h2 class="text-2xl font-bold text-navy font-serif mt-10 mb-4 pt-4 border-t border-slate-100">2. The 12-Minute Coil Evaporation Trap: Why Short Cycles Fail</h2>
 <p class="text-slate-700 text-base leading-relaxed my-4">When an air conditioning compressor turns on, moisture removal does <strong class="text-navy font-bold">not</strong> happen instantaneously. Latent dehumidification is a delayed physical process:</p>
-<pre class="my-6 p-4 rounded-xl bg-slate-900 text-slate-100 text-xs sm:text-sm font-mono overflow-x-auto leading-relaxed border border-slate-800"><code>THE 12-MINUTE EVAPORATOR COIL CONDENSATION RAMP
-Compressor Starts (Minute 0)
-       │
-       ▼
-[0 to 4 Minutes: Sensible Phase]
-- Refrigerant cools aluminum coil fins from 72°F to 48°F.
-- Air temperature drops, but fins are just reaching dew point.
-- Zero water drains from the unit.
-       │
-       ▼
-[4 to 8 Minutes: Droplet Adhesion Phase]
-- Microscopic condensation forms on aluminum fins.
-- Surface tension causes water droplets to cling to the metal fins.
-- Still zero water entering the drain pan!
-       │
-       ▼
-[8 to 12 Minutes: Coalescence & Drainage Phase]
-- Droplets become heavy enough to overcome surface tension.
-- Liquid water streams down fins into condensate pan and out drain line.
-- Unit reaches steady-state latent moisture removal.
-       │
-       ▼
-Compressor Stops (Minute 14+)
-- Continuous moisture removal occurs only during extended runtimes.</code></pre>
+<div class="my-8 p-6 sm:p-7 rounded-2xl bg-emerald-50/50 border-l-4 border-emerald-600 border border-emerald-200/60 shadow-sm">
+  <div class="text-xs font-mono font-bold uppercase tracking-wider text-emerald-800 mb-2">
+    Quick Summary
+  </div>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">### The 12-Minute Evaporator Coil Condensation Ramp</p>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">| Runtime Elapsed | Evaporator Coil Thermodynamic State | Condensation & Drainage Behavior |</p>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">| :--- | :--- | :--- |</p>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">| <strong class="text-navy font-bold">Minute 0 to 4 (Sensible Phase)</strong> | Compressor starts; coil chills from 72°F to 48°F | Air cools, but fins are just reaching dew point; zero water drains |</p>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">| <strong class="text-navy font-bold">Minute 4 to 8 (Adhesion Phase)</strong> | Coil reaches dew point (45°F–48°F) | Microscopic droplets condense; surface tension holds drops on fins |</p>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">| <strong class="text-navy font-bold">Minute 8 to 12 (Coalescence Phase)</strong> | Droplets coalesce into liquid streams | First water reaches drain pan and begins trickling down condensate line |</p>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">| <strong class="text-navy font-bold">Minute 14+ (Steady-State Extraction)</strong> | Sustained continuous latent removal | True whole-house dehumidification occurs (~3 to 4 pints per hour) |</p>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">| <strong class="text-navy font-bold">Short-Cycle Shutdown (< 8 min)</strong> | Oversized compressor satisfies thermostat | Blower runs over wet coil; <strong class="text-navy font-bold">100% of moisture re-evaporates back into house!</strong> |</p>
+</div>
 <p class="text-slate-700 text-base leading-relaxed my-4">Now consider what happens in a home with an <strong class="text-navy font-bold">oversized single-stage compressor</strong>:</p>
 <div class="flex items-start gap-3 my-3 text-slate-700 text-base leading-relaxed pl-1"><span class="w-6 h-6 rounded-full bg-navy/10 text-navy font-mono font-bold text-xs flex items-center justify-center shrink-0 mt-0.5">1</span><div>An HVAC contractor sizes a 2,400 sq.ft home with a 4.5-ton or 5-ton system using the obsolete rule of thumb: "1 ton per 500 square feet."</div></div>
 <div class="flex items-start gap-3 my-3 text-slate-700 text-base leading-relaxed pl-1"><span class="w-6 h-6 rounded-full bg-navy/10 text-navy font-mono font-bold text-xs flex items-center justify-center shrink-0 mt-0.5">2</span><div>The true Manual J cooling load of the house is only 2.5 tons (30,000 BTU/hr).</div></div>
@@ -187,69 +174,61 @@ Compressor Stops (Minute 14+)
   <li>The central air conditioning thermostat is located on the first floor. It runs based on the first floor's heat gain through windows, walls, and roofs.</li>
   <li>Downstairs in the basement, the temperature never rises high enough to trigger a call for cooling. Therefore, the central air handler never circulates or treats basement air.</li>
 </ul>
-<pre class="my-6 p-4 rounded-xl bg-slate-900 text-slate-100 text-xs sm:text-sm font-mono overflow-x-auto leading-relaxed border border-slate-800"><code>THE BASEMENT SUMMER MOLD INCUBATOR
-Subterranean Earth Temperature: 58°F to 62°F
-                    │
-                    ▼
-┌────────────────────────────────────────────────────────┐
-│ BASEMENT THERMODYNAMIC ENVIRONMENT                     │
-│ - Temperature: Stagnant at 64°F to 67°F (No AC call)   │
-│ - Outdoor Humidity Infiltration: Dew Point 74°F        │
-│                                                        │
-│ PSYCHROMETRIC CONVERSION:                              │
-│ When 74°F dew point moisture mixes into 65°F air,     │
-│ Relative Humidity spikes to 78% – 85%!                 │
-│                                                        │
-│ ◄ MOLD GROWTH THRESHOLD SURPASSED (> 70% RH for 48 hr) │
-│   Drywall paper, carpet backing, and framing mold.     │
-└────────────────────────────────────────────────────────┘</code></pre>
+<div class="my-8 p-6 sm:p-7 rounded-2xl bg-emerald-50/50 border-l-4 border-emerald-600 border border-emerald-200/60 shadow-sm">
+  <div class="text-xs font-mono font-bold uppercase tracking-wider text-emerald-800 mb-2">
+    Quick Summary
+  </div>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">### Basement Psychrometric Condensation Dynamics</p>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">| Environmental Metric | Upstairs Living Room | Finished Basement |</p>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">| :--- | :--- | :--- |</p>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">| <strong class="text-navy font-bold">Dry-Bulb Temperature</strong> | 68°F (AC thermostat setpoint) | 63°F – 66°F (Surrounded by subterranean soil) |</p>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">| <strong class="text-navy font-bold">Sensible Cooling Demand</strong> | High (Solar gain through roof/windows) | Near-Zero (Earth maintains 58°F–62°F walls) |</p>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">| <strong class="text-navy font-bold">Airflow Circulation</strong> | Regular AC supply and return flow | Stagnant; registers remain closed during short cooling cycles |</p>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">| <strong class="text-navy font-bold">Relative Humidity</strong> | 58% – 64% (Clammy) | <strong class="text-navy font-bold">78% – 85% (Active Mildew & Mold Danger Zone)</strong> |</p>
+</div>
 <p class="text-slate-700 text-base leading-relaxed my-4">When warm, humid air infiltrates into the basement through open doors or leaky rim joists, it encounters a cold 65°F room. At 65°F, air can hold very little moisture. The relative humidity immediately climbs to <strong class="text-navy font-bold">75% to 85%</strong>.</p>
 <p class="text-slate-700 text-base leading-relaxed my-4">At relative humidity levels above 70%, dust mites breed exponentially and mold spores (<em class="italic text-slate-800">Aspergillus</em> and <em class="italic text-slate-800">Penicillium</em>) germinate on carpet backing, drywall paper, and furniture within 48 hours.</p>
 <hr class="my-8 border-slate-200" />
 <h2 class="text-2xl font-bold text-navy font-serif mt-10 mb-4 pt-4 border-t border-slate-100">4. The Engineering Solution: Sizing, Airflow Tuning & Dehumidification</h2>
 <p class="text-slate-700 text-base leading-relaxed my-4">Solving the Midwest summer humidity trap requires an integrated building-science strategy rather than simply swapping equipment:</p>
-<pre class="my-6 p-4 rounded-xl bg-slate-900 text-slate-100 text-xs sm:text-sm font-mono overflow-x-auto leading-relaxed border border-slate-800"><code>THE THREE-TIERED SUMMER HUMIDITY SOLUTION
-                              Midwest Latent Humidity (Dew Point > 75°F)
-                                                │
-                                                ▼
-┌───────────────────────────────────────────────┬───────────────────────────────┐
-│ [1] RIGHT-SIZING & INVERTER MODULATION        │ [2] AIRFLOW CFM/TON TUNING    │
-├───────────────────────────────────────────────┼───────────────────────────────┤
-│ - Perform strict ACCA Manual J & S sizing.    │ - Reduce blower from 450      │
-│ - Select variable-speed inverter compressor   │   CFM/ton down to 325–350     │
-│   (e.g., Bosch IDS 2.0 / Mitsubishi PVA).     │   CFM/ton during high RH.     │
-│ - Operates at 25% capacity for 45–90 min      │ - Slow airflow drops coil     │
-│   runs, maintaining continuous coil drainage. │   temp to 42°F, pulling 30%   │
-│                                               │   more water out of air.      │
-└───────────────────────────────────────────────┴───────────────────────────────┘
-                                                │
-                                                ▼
-┌───────────────────────────────────────────────────────────────────────────────┐
-│ [3] DEDICATED WHOLE-HOME DEHUMIDIFICATION (AprilAire E100 / Santa Fe Ultra120)│
-│     - Ducted into return/supply plenum; runs independently of cooling calls.  │
-│     - Dedicated sensor monitors relative humidity directly (Set to 48% RH).   │
-│     - Extracts 100–120 pints/day at 2.8 L/kWh without overcooling the house.  │
-└───────────────────────────────────────────────────────────────────────────────┘</code></pre>
-<pre class="my-6 p-4 rounded-xl bg-slate-900 text-slate-100 text-xs sm:text-sm font-mono overflow-x-auto leading-relaxed border border-slate-800"><code>STEP-BY-STEP AIRFLOW AND MECHANICAL RETROFIT SPECIFICATIONS:
-
-1. ACCA MANUAL J & S LOAD CALCULATION:
-   - Ban all square-footage "rules of thumb." Require a room-by-room Manual J calculation incorporating actual insulation R-values, window SHGC ratings, and verified blower door infiltration rates.
-   - Size the system to match the 99% summer design temperature (typically 90°F to 94°F in the Midwest). Never add "safety margin" tonnage.
-
-2. AIR HANDLER CFM TUNING:
-   - Most factory furnaces and air handlers ship with blower fans set to 400 to 450 CFM per ton. This moves air too quickly to achieve maximum dehumidification.
-   - Adjust the blower motor dip switches or digital settings down to 325 to 350 CFM per ton. 
-   - Moving 325 CFM per ton across the evaporator lowers the coil evaporating temperature from 48°F down to 42°F. The colder coil condenses dramatically more water vapor while extending cycle runtimes.
-
-3. VARIABLE-SPEED INVERTER COMPRESSORS:
-   - Install a variable-capacity inverter heat pump or AC system (such as the Bosch IDS 2.0 or Mitsubishi Hyper-Heat).
-   - Inverter compressors ramp down to 25% or 30% capacity on mild humid days, running continuously for 45 to 90 minutes. Long, low-capacity runtimes keep the coil permanently wet and continuously draining liquid water out of the home.
-
-4. DEDICATED WHOLE-HOME DEHUMIDIFIER:
-   - In tightly sealed, well-insulated homes, sensible cooling loads are so low that even inverter air conditioners do not run long enough to handle latent moisture in spring and fall.
-   - Install a commercial-grade, whole-home dedicated dehumidifier (AprilAire E100, Santa Fe Ultra120, or Ultra Aire).
-   - Duct the dehumidifier with its own return from the basement or living area, discharging directly into the central supply ductwork.
-   - Controlled by a digital humidistat, it activates only when indoor relative humidity exceeds 50%, removing 100 to 120 pints of water per day for a fraction of the operating cost of an oversized air conditioner.</code></pre>
+<div class="my-8 p-6 sm:p-7 rounded-2xl bg-emerald-50/50 border-l-4 border-emerald-600 border border-emerald-200/60 shadow-sm">
+  <div class="text-xs font-mono font-bold uppercase tracking-wider text-emerald-800 mb-2">
+    Quick Summary
+  </div>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">### The Three-Part Building-Science Engineering Solution</p>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">| Engineering Pillar | System Specification | Hygrothermal Mechanism |</p>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">| :--- | :--- | :--- |</p>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">| <strong class="text-navy font-bold">[1] Right-Sizing & Inverter Modulation</strong> | Strict ACCA Manual J/S sizing + Variable-speed inverter | Operates at 25%–40% capacity for 45–90 min runs, sustaining deep latent extraction |</p>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">| <strong class="text-navy font-bold">[2] Airflow CFM/Ton Tuning</strong> | Reduce blower speed from 450 to 325–350 CFM/ton | Drops evaporator coil temperature to 42°F, increasing condensation rate by 30% |</p>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">| <strong class="text-navy font-bold">[3] Dedicated Whole-Home Dehumidifier</strong> | Ultra-efficient 100–120 pint/day unit (AprilAire/Santa Fe) | Decouples latent moisture control from thermostat temperature calls year-round |</p>
+</div>
+<div class="my-8 p-6 sm:p-7 rounded-2xl bg-emerald-50/50 border-l-4 border-emerald-600 border border-emerald-200/60 shadow-sm">
+  <div class="text-xs font-mono font-bold uppercase tracking-wider text-emerald-800 mb-2">
+    Quick Summary
+  </div>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">### Step-by-Step Airflow and Mechanical Retrofit Specifications</p>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">1. <strong class="text-navy font-bold">ACCA Manual J & S Load Calculation:</strong></p>
+  <ul class="mt-4 pt-4 border-t border-emerald-200/80 space-y-2.5 text-sm text-slate-700 font-sans">
+    <li class="flex items-start gap-2.5"><span class="w-4 h-4 rounded-full bg-crimson text-white flex items-center justify-center shrink-0 mt-0.5"><svg class="w-2.5 h-2.5 stroke-current stroke-2 fill-none" viewBox="0 0 24 24"><path d="M5 13l4 4L19 7"/></svg></span><span>Ban all square-footage "rules of thumb." Require a room-by-room Manual J calculation incorporating actual insulation R-values, window SHGC ratings, and verified blower door infiltration rates.</span></li>
+    <li class="flex items-start gap-2.5"><span class="w-4 h-4 rounded-full bg-crimson text-white flex items-center justify-center shrink-0 mt-0.5"><svg class="w-2.5 h-2.5 stroke-current stroke-2 fill-none" viewBox="0 0 24 24"><path d="M5 13l4 4L19 7"/></svg></span><span>Size the system to match the 99% summer design temperature (typically 90°F to 94°F in the Midwest). Never add "safety margin" tonnage.</span></li>
+  </ul>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">2. <strong class="text-navy font-bold">Air Handler CFM Tuning:</strong></p>
+  <ul class="mt-4 pt-4 border-t border-emerald-200/80 space-y-2.5 text-sm text-slate-700 font-sans">
+    <li class="flex items-start gap-2.5"><span class="w-4 h-4 rounded-full bg-crimson text-white flex items-center justify-center shrink-0 mt-0.5"><svg class="w-2.5 h-2.5 stroke-current stroke-2 fill-none" viewBox="0 0 24 24"><path d="M5 13l4 4L19 7"/></svg></span><span>Most factory furnaces and air handlers ship with blower fans set to 400 to 450 CFM per ton. Adjust the blower motor dip switches or digital settings down to 325 to 350 CFM per ton.</span></li>
+    <li class="flex items-start gap-2.5"><span class="w-4 h-4 rounded-full bg-crimson text-white flex items-center justify-center shrink-0 mt-0.5"><svg class="w-2.5 h-2.5 stroke-current stroke-2 fill-none" viewBox="0 0 24 24"><path d="M5 13l4 4L19 7"/></svg></span><span>Moving 325 CFM per ton across the evaporator lowers the coil evaporating temperature from 48°F down to 42°F. The colder coil condenses dramatically more water vapor while extending cycle runtimes.</span></li>
+  </ul>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">3. <strong class="text-navy font-bold">Variable-Speed Inverter Compressors:</strong></p>
+  <ul class="mt-4 pt-4 border-t border-emerald-200/80 space-y-2.5 text-sm text-slate-700 font-sans">
+    <li class="flex items-start gap-2.5"><span class="w-4 h-4 rounded-full bg-crimson text-white flex items-center justify-center shrink-0 mt-0.5"><svg class="w-2.5 h-2.5 stroke-current stroke-2 fill-none" viewBox="0 0 24 24"><path d="M5 13l4 4L19 7"/></svg></span><span>Install a variable-capacity inverter heat pump or AC system (such as the Bosch IDS 2.0 or Mitsubishi Hyper-Heat).</span></li>
+    <li class="flex items-start gap-2.5"><span class="w-4 h-4 rounded-full bg-crimson text-white flex items-center justify-center shrink-0 mt-0.5"><svg class="w-2.5 h-2.5 stroke-current stroke-2 fill-none" viewBox="0 0 24 24"><path d="M5 13l4 4L19 7"/></svg></span><span>Inverter compressors ramp down to 25% or 30% capacity on mild humid days, running continuously for 45 to 90 minutes. Long, low-capacity runtimes keep the coil permanently wet and continuously draining liquid water out of the home.</span></li>
+  </ul>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">4. <strong class="text-navy font-bold">Dedicated Whole-Home Dehumidifier:</strong></p>
+  <ul class="mt-4 pt-4 border-t border-emerald-200/80 space-y-2.5 text-sm text-slate-700 font-sans">
+    <li class="flex items-start gap-2.5"><span class="w-4 h-4 rounded-full bg-crimson text-white flex items-center justify-center shrink-0 mt-0.5"><svg class="w-2.5 h-2.5 stroke-current stroke-2 fill-none" viewBox="0 0 24 24"><path d="M5 13l4 4L19 7"/></svg></span><span>Install a commercial-grade, whole-home dedicated dehumidifier (AprilAire E100, Santa Fe Ultra120, or Ultra Aire).</span></li>
+    <li class="flex items-start gap-2.5"><span class="w-4 h-4 rounded-full bg-crimson text-white flex items-center justify-center shrink-0 mt-0.5"><svg class="w-2.5 h-2.5 stroke-current stroke-2 fill-none" viewBox="0 0 24 24"><path d="M5 13l4 4L19 7"/></svg></span><span>Duct the dehumidifier with its own return from the basement or living area, discharging directly into the central supply ductwork.</span></li>
+    <li class="flex items-start gap-2.5"><span class="w-4 h-4 rounded-full bg-crimson text-white flex items-center justify-center shrink-0 mt-0.5"><svg class="w-2.5 h-2.5 stroke-current stroke-2 fill-none" viewBox="0 0 24 24"><path d="M5 13l4 4L19 7"/></svg></span><span>Controlled by a digital humidistat, it activates only when indoor relative humidity exceeds 50%, removing 100 to 120 pints of water per day for a fraction of the operating cost of an oversized air conditioner.</span></li>
+  </ul>
+</div>
 <hr class="my-8 border-slate-200" />
 <h2 class="text-2xl font-bold text-navy font-serif mt-10 mb-4 pt-4 border-t border-slate-100">Equipment Performance Benchmark: Humidity Control</h2>
 <p class="text-slate-700 text-base leading-relaxed my-4">The table below contrasts standard cooling equipment configurations against variable-speed and dedicated dehumidification systems in Climate Zones 4 and 5:</p>

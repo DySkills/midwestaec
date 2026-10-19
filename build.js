@@ -214,7 +214,7 @@ function markdownToHtml(md) {
             bqHtml += '  <ul class="mt-4 pt-4 border-t border-emerald-200/80 space-y-2.5 text-sm text-slate-700 font-sans">\n';
             inBqList = true;
           }
-          bqHtml += `    <li class="flex items-start gap-2.5"><span class="w-4 h-4 rounded-full bg-crimson text-white flex items-center justify-center text-[10px] font-bold shrink-0 mt-0.5">✓</span><span>${formatInline(bLine.slice(2).trim())}</span></li>\n`;
+          bqHtml += `    <li class="flex items-start gap-2.5"><span class="w-4 h-4 rounded-full bg-crimson text-white flex items-center justify-center shrink-0 mt-0.5"><svg class="w-2.5 h-2.5 stroke-current stroke-2 fill-none" viewBox="0 0 24 24"><path d="M5 13l4 4L19 7"/></svg></span><span>${formatInline(bLine.slice(2).trim())}</span></li>\n`;
         } else {
           if (inBqList) {
             bqHtml += '  </ul>\n';

@@ -29,7 +29,7 @@ referralHook: "Insulation Contractor & Material Supplier Quote Match"
 
 ## The Lumberyard Aisle at 15°F
 
-On a freezing Tuesday morning in early December, you are standing in the building materials aisle of a Midwest lumberyard or home center in Omaha, Peoria, or Fort Wayne. Outside, a biting 15°F wind is rattling the warehouse loading docks. 
+On a freezing Tuesday morning in early December, you are standing in the building materials aisle of a contractor lumberyard on the south side of Peoria, Illinois. Outside, a biting winter wind is rattling the warehouse loading docks, and the red bar stops at a crisp 15°F. 
 
 In front of you are two stacks of insulation bundles. On the left sits a familiar bundle of pink or yellow fiberglass batts priced at roughly $48. On the right sits a dense, heavyweight green bundle of stone mineral wool priced at $78. For an entire 2,200-square-foot residential framing project, that 40% shelf price difference adds up to roughly $1,400 to $1,800 in raw material costs.
 

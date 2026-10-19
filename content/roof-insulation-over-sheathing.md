@@ -57,29 +57,18 @@ This presents three severe physical limitations in Midwest Climate Zones 4, 5, a
 
 The over-sheathing retrofit solves the cavity depth problem by building upward. The existing roof deck becomes the interior ceiling plane, and the new thermal and weather barriers are layered on top:
 
-```
-OUTSIDE
-────────────────────────────────────────────────────────────────
- 1. Finished Roofing: Architectural Shingles or Standing Seam Metal
-────────────────────────────────────────────────────────────────
- 2. Self-Adhered High-Temp Underlayment / Ice & Water Membrane
-────────────────────────────────────────────────────────────────
- 3. Top Structural Nailing Deck: 5/8" CDX Plywood or OSB Sheathing
-────────────────────────────────────────────────────────────────
- 4. (Optional) 1.5" Ventilated Cold-Roof Cavity (2x4 vertical sleepers)
-────────────────────────────────────────────────────────────────
- 5. Staggered Continuous Rigid Insulation: 
-    - Layer B: 2.0" Polyisocyanurate (R-13) with taped joints
-    - Layer A: 2.0" Polyisocyanurate (R-13) with taped joints
-    Total Above-Deck Thermal Resistance: R-26 (Continuous)
-────────────────────────────────────────────────────────────────
- 6. Primary Air & Vapor Barrier: Self-Adhered Modified Bitumen
-────────────────────────────────────────────────────────────────
- 7. Existing Structural Roof Deck (1/2" Plywood, OSB, or 2x Cedar Plank)
-────────────────────────────────────────────────────────────────
- 8. Exposed Rafters / Vaulted Living Space (Conditioned 70°F)
-INSIDE
-```
+> ### Over-Sheathing Cathedral Roof Assembly Stack (Top to Bottom)
+>
+> | Layer Order | Assembly Component | Material Specification | Building Science Function |
+> | :--- | :--- | :--- | :--- |
+> | **1 (Top)** | Finished Cladding | Architectural Shingles or 24-Ga Standing Seam | Primary exterior water-shedding surface |
+> | **2** | Weather Barrier | Self-Adhered High-Temp Underlayment | 100% watertight secondary protection against ice backup |
+> | **3** | Nailing Deck | 5/8" CDX Plywood or Structural OSB | Solid fastening substrate for roofing shingles and screws |
+> | **4 (Optional)** | Ventilation Cavity | 1.5" Cross-Ventilated Gap (2x4 Sleepers) | Cold-roof airflow matrix; exhausts solar heat & snowmelt vapor |
+> | **5** | Continuous Thermal Barrier | Dual 2.0" Staggered Polyiso Boards (R-26) | Monolithic outboard insulation; breaks rafter thermal bridging |
+> | **6** | Air & Vapor Barrier | Self-Adhered SBS Modified Bitumen Membrane | Class I vapor retarder; permanently seals ceiling plane air leaks |
+> | **7** | Existing Substrate | Original Structural Roof Decking (Plank/OSB) | Interior support platform; remains warm and conditioned |
+> | **8 (Base)** | Living Space | Exposed Cathedral Ceiling / Conditioned Volume | Uncompromised architectural volume maintained at 70°F |
 
 ### Layer 1: The Primary Air & Vapor Barrier
 Once old shingles are stripped down to the original plywood or plank deck, trades thoroughly inspect and repair damaged wood. The entire roof deck is then covered with a **self-adhered SBS modified bitumen sheet membrane** (such as Grace Ice & Water Shield or Henry Blueskin PE200). 

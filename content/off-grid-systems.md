@@ -31,7 +31,7 @@ referralHook: "Rural Energy & Well System Consultation"
 
 It is 11:30 PM on a January night across forty acres of open prairie fifteen miles outside Sioux Falls. Outside, a blizzard is howling with sustained 45 MPH winds, heavy wet snow has snapped a rural electric co-op crossarm three miles down the county gravel road, and the red bar stops at a punishing -18°F.
 
-Inside the homestead, the overhead lights blink twice and extinguish completely. In a city home connected to municipal water and gas, a power outage is an inconvenience managed with blankets and flashlights. But on a rural acreage with a private deep well, an aerobic septic system, and a standalone propane heating plant, an electric grid failure is an existential envelope crisis.
+Inside the homestead, the overhead lights blink twice and extinguish completely. In a city home connected to municipal water and gas, a power outage is an inconvenience managed with blankets and flashlights. But on a rural acreage with a private deep well, an aerobic septic system, and a standalone propane furnace, an electric grid failure is an existential envelope crisis.
 
 Within seconds, the 14 kW standby generator cranks, sputters, and stalls. The homeowner runs outside with a flashlight: the liquid propane in the 250-gallon above-ground tank has dropped so low in temperature that it cannot vaporize fast enough to feed both the generator and the high-efficiency central furnace. Inside the pole-barn garage, the wall-mounted lithium battery backup system has lit up with a yellow warning LED: the unconditioned garage has dropped to 14°F, and the internal battery management system has locked out charging to prevent cell destruction.
 
@@ -47,56 +47,15 @@ Liquid propane (LPG) stored in outdoor steel tanks is not stored as a pressurize
 
 To boil from liquid into gas that flows to your furnace, propane must absorb thermal energy from the outdoor air through the steel walls of the tank:
 
-```
-OUTDOOR AIR HEAT  -->  [ Steel Tank Walls ]  -->  Liquid Propane Boils  -->  Vapor Pressure (PSI)  -->  Furnace / Generator
-```
-
-As outdoor temperatures plunge toward -20°F, the temperature split between outdoor air and the boiling liquid shrinks to barely 24 degrees. The tank's ability to transfer heat collapses. Furthermore, as the liquid level inside the tank drops, the **wetted surface area** contacting the liquid shrinks, drastically reducing the heat exchange rate.
-
-The following table demonstrates how tank capacity and sub-zero temperatures dictate maximum delivered heating energy under **NFPA 58 (Liquefied Petroleum Gas Code)** standards:
-
-| Tank Size & Configuration | Usable Liquid at 50% Full | Continuous Vaporization at 20°F | Continuous Vaporization at 0°F | Continuous Vaporization at -20°F | Winter Reliability Rating |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **120-Gal Above-Ground Vertical** | 48 Gallons | ~68,000 BTU/hr | ~45,000 BTU/hr | **~22,000 BTU/hr** | **Failure-Prone** (Cannot fire 80k furnace) |
-| **250-Gal Above-Ground Horizontal** | 100 Gallons | ~185,000 BTU/hr | ~120,000 BTU/hr | **~65,000 BTU/hr** | **High Risk** (Starves generator + furnace) |
-| **500-Gal Above-Ground Horizontal** | 200 Gallons | ~370,000 BTU/hr | ~240,000 BTU/hr | **~130,000 BTU/hr** | **Acceptable** (Supports 100k furnace) |
-| **1,000-Gal Above-Ground Horizontal**| 400 Gallons | ~740,000 BTU/hr | ~480,000 BTU/hr | **~260,000 BTU/hr** | **Optimal Surface** (Full dual-appliance load) |
-| **500-Gal to 1,000-Gal Underground** | 200–400 Gal | Unaffected by Air | Unaffected by Air | **Continuous 45°F Soil (~400k+ BTU/hr)** | **Engineered Gold Standard** |
-
-*Data Sources: NFPA 58 Vaporization Rate Tables; RegO LP-Gas Serviceman's Manual.*
-
-In rural Climate Zone 5, installing a small 250-gallon tank for a whole-house generator and furnace is an engineering trap. When the thermometer reads -15°F and the tank is at 30% capacity, total vaporization drops below 50,000 BTU/hr. When a 100,000 BTU furnace and an 80,000 BTU generator demand fuel simultaneously, line pressure crashes below the regulator minimum of 9 to 11 inches of water column (0.4 PSI), shutting both appliances down automatically.
-
-- **The Rural Mandate:** Specify an **underground 500- or 1,000-gallon tank** buried below the frost line, or a **minimum 1,000-gallon above-ground horizontal tank**. An underground tank is surrounded by 45°F to 50°F soil year-round, delivering full summer vaporization rates even during historic -30°F blizzards.
-
----
-
-## 2. Deep-Frost Wellhead Mechanics & The Driveway Freeze Trap
-
-A private domestic water well relies on a 240V submersible pump suspended 150 to 400 feet down a steel or PVC casing. The water is pumped up the casing and must exit horizontally through the casing wall to travel toward the home's pressure tank.
-
-### The Pitless Adapter Standard
-In older installations, wellheads terminated inside an excavated brick or concrete "well pit"—notorious for collecting contaminated surface runoff and freezing during blizzards. 
-
-Modern sanitary code (*Ten States Standards for Water Works*) mandates a sanitary wellhead extending 12 to 18 inches above grade, coupled with an engineered **pitless adapter**:
-- The pitless adapter is a precision-machined, o-ring-sealed brass slip joint mounted through the side of the well casing at a depth **below the local frost line**.
-- In Iowa, Illinois, Indiana, and Ohio, the pitless adapter must be installed at a minimum depth of **48 to 54 inches**.
-- In Minnesota, Wisconsin, North Dakota, and South Dakota, it must be installed between **60 and 72 inches deep**.
-
-```
-                  Sanitary Cap (12" Above Grade)
-                               │
-               ┌───────────────┴───────────────┐
-               │    6" Steel Well Casing       │
-GROUND LEVEL ──┼───────────────────────────────┼── GROUND LEVEL
-               │                               │
-               │                               │
-48" - 60" DEPTH│      PITLESS ADAPTER          │
-FROST LINE ────┼──────────────┐                │
-               │              │ 1" HDPE Line   │
-               │              └───────────────►│── Supply Line to House (Buried 5–6 Feet)
-               │                               │
-```
+> ### Engineered Pitless Adapter Sanitary Specification
+>
+> | Component / Depth | Technical Specification | Sub-Zero Freeze Protection Function |
+> | :--- | :--- | :--- |
+> | **Sanitary Well Cap** | Bug-proof screened vent (12"–18" above grade) | Prevents vermin, surface runoff, and insect entry into casing |
+> | **6" Steel Well Casing** | ASTM A53 Schedule 40 welded steel | Structural borehole casing extending from sanitary cap down to bedrock |
+> | **Frost Depth (48"–72")** | Below regional frost line (IL/IA: 48"–54", MN/WI: 60"–72") | Eliminates freeze risk by utilizing sub-surface geothermal heat |
+> | **Pitless Adapter Joint** | Machined bronze/brass slide-wedge with Buna-N O-rings | Allows pump drop pipe withdrawal while sealing lateral discharge pipe |
+> | **Lateral Discharge Line** | 1" to 1-1/4" 200 PSI PE4710 SIDR-9 HDPE pipe | Buried below frost line to home pressure tank; zero freezing joints |
 
 ### The Driveway Thermal Bridge
 The most common mid-winter well failure occurs not at the wellhead, but where the underground supply line crosses beneath a driveway or parking pad.
@@ -138,13 +97,12 @@ A standard 1.5-horsepower, 240-volt submersible well pump draws approximately 9 
 
 If an off-grid homeowner connects a standard 6,000-watt inverter or an 8 kW portable generator to their transfer switch, the sudden 12,000-watt inductive spike causes generator voltage to sag precipitously. The low-voltage trip on the inverter opens within 100 milliseconds, dropping power to the house and leaving the well pump inoperable.
 
-```
-Without Soft-Starter:
-Well Pump Starts  -->  Inrush Spikes to 50A (12,000W)  -->  Voltage Sags  -->  Inverter / Generator Trips
-
-With Solid-State Soft-Starter:
-Well Pump Starts  -->  Controlled Ramp to 15A (3,600W)  -->  Voltage Stable -->  Seamless Water Delivery
-```
+> ### Well Pump Starting Electrical Surge Comparison
+>
+> | Operating State | Pump Startup Behavior | Electrical Load & Grid Impact |
+> | :--- | :--- | :--- |
+> | **Without Soft-Starter (Hard Start)** | Direct across-the-line inrush surge | Inrush spikes to **50A (12,000W)**; voltage sags and inverter/generator trips |
+> | **With Solid-State Soft-Starter** | Controlled frequency & voltage ramp | Inrush capped at **15A (3,600W)**; voltage remains stable for seamless water delivery |
 
 - **The Soft-Start Solution:** Install an advanced solid-state motor soft-starter (such as a Micro-Air or Hyper-Engineering module) inside the well pump control box. The soft-starter ramps voltage smoothly over 300 to 500 milliseconds, slashing peak inrush current by **60% to 70%** (capping the start spike at under 15 amps). This allows a modest 6 kW inverter or generator to start the deep well pump seamlessly without flickering household lights or stalling the engine.
 

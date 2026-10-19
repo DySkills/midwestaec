@@ -53,36 +53,29 @@ The builder made the classic mistake: confusing **insulation** with an **air bar
 
 A blower door test is a standardized diagnostic procedure governed by **ASTM E779** and **RESNET/ICC 380**. It quantifies the physical air leakage of a building envelope under controlled pressure.
 
-```
-THE DEPRESSURIZATION CALCULATION
-                      Air Changes per Hour at 50 Pascals (ACH50)
-                      
-                                  CFM50 × 60 minutes
-                      ACH50 = ─────────────────────────
-                               Building Volume (cu. ft.)
-```
+$\text{ACH50} = \frac{\text{CFM50} \times 60}{\text{Building Volume (cu. ft.)}}$
 
-```
-SAMPLE LEAKAGE THRESHOLDS (2,200 Sq. Ft. Home / 17,600 Cu. Ft. Volume):
---------------------------------------------------------------------------------------
-Unsealed Baseline (Historic Midwest Home):  11.5 ACH50  -->  3,370 CFM50 (Massive draft)
-Pre-2012 Building Code Baseline:            5.5 ACH50   -->  1,610 CFM50 (Code failure)
-Mandatory Current Code (IECC 2021/2024):    3.0 ACH50   -->    880 CFM50 (PASSING LIMIT)
-High-Performance / ENERGY STAR v7.0:        1.5 ACH50   -->    440 CFM50 (Tight envelope)
-Passive House Standard (PHI / PHIUS):       0.6 ACH50   -->    176 CFM50 (Ultra-airtight)
---------------------------------------------------------------------------------------
-```
+> ### Standard Envelope Leakage Benchmarks (2,200 Sq. Ft. Home / 17,600 Cu. Ft.)
+>
+> | Envelope Performance Standard | Air Leakage (ACH50) | Airflow at 50 Pa (CFM50) | Building Science Evaluation |
+> | :--- | :--- | :--- | :--- |
+> | **Unsealed Historic Baseline** | 11.5 ACH50 | 3,370 CFM50 | Severe chimney draft; catastrophic winter heating loss |
+> | **Pre-2012 Code Baseline** | 5.5 ACH50 | 1,610 CFM50 | Code failure; unsealed top plates and rim joists |
+> | **Mandatory IECC (2021/2024)** | **3.0 ACH50** | **880 CFM50** | **Mandatory Midwest Passing Threshold** |
+> | **ENERGY STAR v7.0** | 1.5 ACH50 | 440 CFM50 | High-performance tight envelope; mechanical ventilation required |
+> | **Passive House (PHI / PHIUS)** | 0.6 ACH50 | 176 CFM50 | Ultra-airtight enclosure; continuous exterior and interior air barriers |
 
 At 50 Pascals (0.2 inches of water column), natural stack effect and wind fluctuations are neutralized. The test forces air through every crack, fissure, and unsealed framing junction in the building envelope.
 
-```
-WHERE THE AIR ACTUALLY ESCAPES:
-  Attic Ceiling Bypasses (Top plates, wire holes, can lights):  40%
-  Foundation Rim Joists & Mud Sills:                            25%
-  HVAC Duct Boots & Mechanical Chases:                          15%
-  Plumbing Rough-Ins & Dropped Bathtubs:                        10%
-  Windows & Exterior Doors:                                     10%
-```
+> ### Building Envelope Air Leakage Distribution
+>
+> | Leakage Pathway Location | Share of Total Air Infiltration | Primary Air Leak Interfaces |
+> | :--- | :--- | :--- |
+> | **Attic Ceiling Bypasses** | **40%** | Wall top plates, recessed can lights, electrical wire penetrations, attic hatches |
+> | **Foundation Rim Joists & Mudsills** | **25%** | Mudsill-to-concrete gaps, rim board seams, uninsulated basement joist ends |
+> | **HVAC Ducts & Mechanical Chases** | **15%** | Ceiling duct boots, return air pans, unsealed furnace chase openings |
+> | **Plumbing Rough-Ins & Dropped Soffits** | **10%** | Subfloor holes under bathtubs, kitchen chases, drain stack penetrations |
+> | **Windows & Exterior Doors** | **10%** | Rough opening gaps around frames, dry weatherstripping, unlatched sashes |
 
 Homeowners and novice builders spend $20,000 replacing windows because windows feel drafty. Yet windows and doors account for barely **10% of total envelope leakage**. The remaining 90% is hidden inside framing cavities.
 
@@ -92,31 +85,15 @@ Homeowners and novice builders spend $20,000 replacing windows because windows f
 
 To guarantee passing below 3.0 ACH50 on the first blower door test, general contractors must enforce this five-point sealing protocol before drywall:
 
-```
-THE CRITICAL FIVE AIR-SEALING DETAIL POINTS
-                  Cold Vented Attic (15°F)
-                             │
-                             ▼
-┌────────────────────────────────────────────────────────┐
-│ [1] TOP PLATE PENETRATIONS & RECESSED LIGHTS           │
-│     (1-Part Fire-Rated Polyurethane Foam / Air Boxes)  │
-├────────────────────────────────────────────────────────┤
-│ [2] HVAC DUCT CEILING BOOTS                            │
-│     (Duct Mastic Tape Sealed Directly to Sheetrock)    │
-├────────────────────────────────────────────────────────┤
-│ [3] DROPPED TUB SUBFLOOR / EXTERIOR CHASES             │
-│     (Air-Barrier Rigid Foam Sheet Air-Sealed to Floor) │
-├────────────────────────────────────────────────────────┤
-│ [4] ELECTRICAL BOX EXTERIOR GASKETS                    │
-│     (Acoustic Sealant Behind Boxes & Cable Clamps)     │
-├────────────────────────────────────────────────────────┤
-│ [5] BASEMENT RIM JOIST & SILL PLATE SEAM               │
-│     (2" Closed-Cell Spray Foam or Foil-Faced Polyiso)  │
-└────────────────────────────────────────────────────────┘
-                             ▲
-                             │
-                  Cold Concrete Foundation (35°F)
-```
+> ### The Critical Five Air-Sealing Detail Points
+>
+> | Detail Point | Critical Interface | Prescriptive Sealing Specification |
+> | :--- | :--- | :--- |
+> | **[1] Attic Top Plates & Lights** | Drywall-to-framing ceiling joints | 1-part fire-rated polyurethane foam over all penetrations; airtight can light boxes |
+> | **[2] HVAC Duct Ceiling Boots** | Sheetrock-to-sheetmetal joint | UL 181A-M / 181B-FX mastic tape bridging sheetrock directly to boot flange |
+> | **[3] Dropped Tub & Exterior Chases** | Open framing floor cavities | Rigid air-barrier board (polyiso or OSB) caulked airtight to floor before tub install |
+> | **[4] Electrical Box Exterior Gaskets** | Outlets and switches on exterior walls | Airtight vapor boots or acoustic elastomeric sealant around drywall cutouts |
+> | **[5] Basement Rim Joist & Sill Plate** | Concrete-to-wood framing perimeter | 2" medium-density closed-cell spray foam covering concrete, sill, and rim board |
 
 ### Detail 1: The Foundation Rim Joist & Sill Plate Connection
 The mudsill resting on top of a concrete foundation is never flat; irregular concrete leaves a continuous 1/8-inch to 1/4-inch gap around the entire building perimeter.
@@ -145,11 +122,9 @@ An uninsulated, unweatherstripped 22x30-inch plywood attic access panel acts as 
 
 The single greatest operational error builders make is waiting until the building is 100% finished to perform their first blower door test.
 
-```
-THE ECONOMIC COST OF DETECTING AIR LEAKS:
-Pre-Drywall Rough Test:  $15 can of foam + 5 minutes of carpentry = $20 Fix
-Post-Drywall Final Test: Drywall teardown, thermal imaging, repainting = $1,800 Fix
-```
+> ### The Economic Cost of Detecting Air Leaks
+> - **Pre-Drywall Rough Test:** $15 can of foam + 5 minutes of carpentry = **$20 Fix**
+> - **Post-Drywall Final Test:** Drywall teardown, thermal imaging, repainting = **$1,800 Fix**
 
 ### The 4-Step Pre-Drywall Verification Schedule:
 1. **Enclosure (Rough-In Stage):** Exterior sheathing taped, windows and doors installed, roof dried in. Mechanical, electrical, and plumbing rough-ins fully inspected and passed.
@@ -165,14 +140,12 @@ For extensive historic home renovations where wall cavities are concealed and fr
 
 In these challenging assemblies, builders utilize **AeroBarrier**—an automated aerosolized acrylic sealant system:
 
-```
-HOW AEROSOLIZED AIR-SEALING OPERATES:
-1. The building is pressurized using a calibrated blower door fan.
-2. Spray nozzles placed throughout the house emit a microscopic aerosol mist of non-toxic acrylic polymer sealant particles (10 to 20 microns in diameter).
-3. The escaping air currents naturally carry the sealant particles directly to every crack, seam, and unsealed penetration in the envelope.
-4. As the particles reach the leak exit, they collide and stick to the edges of the opening, building up a flexible, permanent seal that bridges gaps up to 1/2 inch wide.
-5. Real-time computerized sensors monitor the drop in CFM50 leakage every minute, automatically halting the process once the target threshold (e.g., 1.5 ACH50 or 0.6 ACH50) is reached.
-```
+> ### How Aerosolized Air-Sealing Operates (AeroBarrier Process)
+> 1. The building is pressurized using a calibrated blower door fan.
+> 2. Spray nozzles placed throughout the house emit a microscopic aerosol mist of non-toxic acrylic polymer sealant particles (10 to 20 microns in diameter).
+> 3. Escaping air currents naturally carry the sealant particles directly to every crack, seam, and unsealed penetration in the envelope.
+> 4. As particles reach the leak exit, they collide and stick to the edges of the opening, building up a flexible, permanent seal bridging gaps up to 1/2 inch wide.
+> 5. Real-time computerized sensors monitor the drop in CFM50 leakage every minute, automatically halting the process once the target threshold (e.g., 1.5 ACH50 or 0.6 ACH50) is reached.
 
 AeroBarrier eliminates trade-coordination friction and guarantees code compliance in 3 to 5 hours, reducing testing uncertainty to zero.
 

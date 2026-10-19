@@ -31,7 +31,7 @@ referralHook: "Cold-Climate Heat Pump & HVAC Specialist Quote Match"
 
 The question appears every mid-winter across the Midwest: *"Do I need a heat pump, and can it actually survive freezing temperatures?"* 
 
-Outside, the yard is a white snowscape, greenery buried under 14 inches of snow and the windchill sitting at -28°F. On the exterior wall of a two-story home in Des Moines or Minneapolis, an outdoor compressor sits elevated eighteen inches above the snowpack on steel brackets, humming quietly as a faint plume of water vapor disperses into the sub-zero air. Inside, the digital thermostat reads a steady 70°F. 
+Outside, the yard is a white snowscape, greenery buried under 14 inches of snow, and the red bar stops at -15°F with a biting windchill of -28°F. On the exterior wall of a two-story home on the north side of Des Moines, an outdoor compressor sits elevated eighteen inches above the snowpack on steel brackets, humming quietly as a faint plume of water vapor disperses into the sub-zero air. Inside, the digital thermostat reads a steady 70°F. 
 
 Yet across town, your neighbor's emergency auxiliary heat indicator is glowing bright red on their thermostat screen—their 10 kW electric resistance heat strips are chugging power, spinning the electric meter at 15 kWh per hour, and setting them up for an eye-watering $650 electric bill.
 

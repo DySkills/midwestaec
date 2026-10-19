@@ -51,28 +51,14 @@ The homeowner assumed opening the vents wider would dry the crawlspace out. In r
 
 The physics of crawlspace moisture failure is governed by **psychrometrics**—the thermodynamic relationship between air temperature, absolute moisture content, and relative humidity (RH).
 
-```
-THE PSYCHROMETRIC TEMPERATURE DROP & CONDENSATION MECHANISM
-                 Outdoor Summer Air: 88°F, 84% RH (Dew Point 76°F)
-                                  │
-                                  ▼
-┌─────────────────────────────────┴─────────────────────────────────┐
-│ OPEN FOUNDATION VENT (Passive Outdoor Air Inflow)                 │
-├───────────────────────────────────────────────────────────────────┤
-│                                                                   │
-│ CRAWLSPACE ENVIRONMENT (Chilled by Deep Earth & Air Conditioning) │
-│ - Earth & Wall Temperature: 60°F to 64°F                          │
-│ - Chilled Sheet Metal AC Ducts: 55°F                              │
-│                                                                   │
-│ THERMODYNAMIC TRANSFORMATION:                                     │
-│ As 88°F air cools to 62°F, air's moisture holding capacity drops  │
-│ by more than 50%. Relative humidity exceeds 100% (Saturation).   │
-│                                                                   │
-│ ◄ CONDENSATION RAINS ON WOOD JOISTS & CHILLED AIR DUCTS           │
-│   (Wood moisture content climbs above 22% --> Active fungal rot)  │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
-```
+> ### Summer Condensation Dynamics in Open Vented Crawlspaces
+>
+> | Metric / Environmental Parameter | Outdoor Summer Ambient | Unconditioned Crawlspace Interior |
+> | :--- | :--- | :--- |
+> | **Dry-Bulb Temperature** | 88°F (Stagnant river-basin heat) | 60°F – 64°F (Chilled by subterranean earth) |
+> | **Relative Humidity** | 84% RH | **> 100% RH (Severe Supersaturation)** |
+> | **Dew Point Temperature** | 82°F Dew Point | Moisture condenses on 55°F air conditioning ducts |
+> | **Wood Moisture Content (Joists)** | 12% – 14% (Stable equilibrium) | **> 22% – 28% (Active wood-destroying rot fungi)** |
 
 Cold air holds substantially less water vapor than warm air. When warm, moisture-laden outdoor air enters a shaded crawlspace through foundation vents, it is cooled by contact with the deep earth (which stays between 55°F and 65°F year-round) and by contact with air-conditioned floor cavities.
 
@@ -90,26 +76,13 @@ Many homeowners believe that whatever happens in the crawlspace stays in the cra
 
 Because of the **stack effect**, warm indoor air naturally rises through second-floor ceilings and attic bypasses, creating negative air pressure at the bottom of the building.
 
-```
-THE WHOLE-HOUSE CHIMNEY DRAW
-Warm Air Exfiltrates Through Attic Ceilings & Recessed Lights
-                       ▲
-                       │
-             [SECOND FLOOR LIVING SPACE]
-                       ▲
-                       │
-             [FIRST FLOOR LIVING SPACE]
-                       ▲
-                       │  ◄ 40% to 50% of First-Floor Infiltration
-                       │    Originates Directly from the Crawlspace!
-┌──────────────────────┴──────────────────────┐
-│ UNSEALED VENTED CRAWLSPACE                  │
-│ - Millions of fungal mold spores            │
-│ - Subterranean radon gas (Carcinogen)       │
-│ - Dust mite fecal allergens                 │
-│ - Musty Microbial Volatile Organics (MVOCs) │
-└─────────────────────────────────────────────┘
-```
+> ### The Stack Effect Air Transport Dynamics
+>
+> | Air Stream Pathway | Physical Mechanism | Indoor Air Quality Impact |
+> | :--- | :--- | :--- |
+> | **Exfiltration at Ceiling** | Warm indoor air rises and escapes into vented attic | Creates negative pressure zone in lower level of home |
+> | **Crawlspace Infiltration** | Sub-floor drafts pull air upward through floor penetrations | **40% to 50% of first-floor air originates directly in crawlspace** |
+> | **Contaminant Transport** | Mold spores, radon gas, and soil odors pulled into living space | Triggers respiratory allergies, asthma, and chronic cellar odors |
 
 Diagnostic blower door testing and tracer gas studies show that **40% to 50% of the air breathed on the first floor** of a home with a crawlspace is drawn directly from that crawlspace through subfloor seams, plumbing chases, and partition wall framing.
 
@@ -134,63 +107,41 @@ When outdoor temperatures in Chicago, Des Moines, or Minneapolis plunge to -10°
 
 Under the International Residential Code (IRC Section R408.3), builders are legally permitted to eliminate exterior foundation vents entirely and encapsulate the crawlspace as a **sealed, conditioned building space**:
 
-```
-IRC SECTION R408.3 CONDITIONED CRAWLSPACE BLUEPRINT
-                          Conditioned Living Space (70°F)
-                                        │
-                                        ▼
-┌───────────────────────────────────────────────────────────────────────────────┐
-│ Clean Uninsulated 2x10 Floor Joists (Open to conditioned crawlspace air)     │
-├───────────────────────────────────────────────────────────────────────────────┤
-│                                                                               │
-│ CONDITIONED AIR ZONE (Maintained at 45%–55% RH by Dedicated Dehumidifier)     │
-│                                                                               │
-│ [1] ALL EXTERIOR FOUNDATION VENTS PERMANENTLY AIR-SEALED                      │
-│     (2" rigid foam plugs + closed-cell polyurethane sealant)                  │
-│                                                                               │
-│ [2] CONTINUOUS STEM WALL INSULATION (R-10 to R-15)                            │
-│     (2" Foil-faced polyisocyanurate or closed-cell spray foam)                │
-│     (3" Termite inspection gap maintained below wood sill plate)              │
-│                                                                               │
-│ [3] HEAVY-DUTY CLASS A GROUND VAPOR BARRIER                                   │
-│     (Minimum 12-mil to 20-mil multi-layer reinforced virgin polyolefin)       │
-│     (All seams overlapped 12" and sealed with butyl mastic tape)              │
-│     (Fastened and sealed 12" up foundation stem walls with polyurethane)      │
-│                                                                               │
-│ [4] DEDICATED COMMERCIAL DEHUMIDIFIER (OR 1 CFM / 50 SQ.FT CONDITIONED AIR)   │
-│     (Maintains crawlspace relative humidity strictly below 55% year-round)    │
-│                                                                               │
-└───────────────────────────────────────────────────────────────────────────────┘
-```
+> ### The Four Pillars of Crawlspace Encapsulation (IRC R408.3)
+>
+> | System Component | Technical Specification | Building Science Function |
+> | :--- | :--- | :--- |
+> | **[1] Vent Air Sealing** | 2" rigid foam plugs + closed-cell spray foam | Permanently isolates crawlspace from outdoor summer humidity and winter freeze |
+> | **[2] Stem Wall Insulation** | 2" Foil-faced polyiso or closed-cell foam (R-10 to R-15) | Keeps crawlspace envelope warm; leaves 3" termite inspection stripe below sill |
+> | **[3] Heavy Ground Vapor Barrier** | 12-mil to 20-mil multi-layer virgin polyolefin | Stops 100% of subterranean moisture evaporation; seams lapped 12" and sealed |
+> | **[4] Dedicated Conditioning** | Commercial dehumidifier (e.g., Santa Fe Compact70) | Maintains crawlspace relative humidity strictly between 45% and 55% year-round |
 
-```
-STEP-BY-STEP ENCAPSULATION SPECIFICATION:
-
-1. VENT SEALING & AIR ISOLATION:
-   - Remove metal vent grilles. Seal vent openings with 2-inch closed-cell XPS foam board cut to fit.
-   - Seal perimeter of foam plugs with expanding closed-cell polyurethane foam and silicone sealant.
-   - Air-seal the rim joist and mudsill perimeter around the entire foundation using 2 inches of closed-cell spray foam (R-13).
-
-2. GROUND CLEARANCE & GEOTEXTILE UNDERLAYMENT:
-   - Remove all debris, sharp rocks, and organic wood scraps from the crawlspace dirt floor.
-   - Grade the dirt toward a sump pit to eliminate low spots where water could pool.
-   - In rocky or rough soil, install a 4-ounce non-woven geotextile cushion fabric over the dirt to protect the vapor barrier from puncture.
-
-3. CLASS A REINFORCED VAPOR BARRIER (ASTM E1745):
-   - Unroll minimum 12-mil (preferably 20-mil) multi-layer virgin polyolefin reinforced barrier (e.g., Stego Wrap 20-Mil or crawlspace-grade scrim-reinforced liner).
-   - Overlap all roll seams by a minimum of 12 inches. Seal continuously with 4-inch heavy-duty double-sided butyl tape and acrylic seam tape.
-   - Run the barrier 12 inches up the vertical concrete stem walls and wrap all interior support piers.
-   - Fasten the liner to the concrete using galvanized termination bars and polyurethane adhesive mastic.
-
-4. STEM WALL THERMAL INSULATION:
-   - Install 2 inches of continuous foil-faced polyisocyanurate board (R-13) or 2 inches of closed-cell spray foam directly against the interior face of the foundation stem walls.
-   - In termite-prone regions (IRC Section R318.4), leave a continuous 3-inch bare concrete gap between the top of the insulation and the wood mud sill to allow termite mud tube inspections.
-
-5. ACTIVE CONDITIONING & MOISTURE CONTROL:
-   - Install a dedicated, high-efficiency commercial crawlspace dehumidifier (e.g., Santa Fe Advance90 or AprilAire E070) equipped with an automatic digital humidistat set to 50% RH.
-   - Hard-pipe the dehumidifier condensate drain to an interior sump pit or gravity drain to daylight (never rely on manual drain buckets).
-   - Alternatively, per IRC Section R408.3.2.2, supply 1 CFM of conditioned supply air per 50 sq.ft of crawlspace floor area from the central HVAC system.
-```
+> ### Step-by-Step Encapsulation Specification
+>
+> 1. **Vent Sealing & Air Isolation:**
+>    - Remove metal vent grilles. Seal vent openings with 2-inch closed-cell XPS foam board cut to fit.
+>    - Seal perimeter of foam plugs with expanding closed-cell polyurethane foam and silicone sealant.
+>    - Air-seal the rim joist and mudsill perimeter around the entire foundation using 2 inches of closed-cell spray foam (R-13).
+>
+> 2. **Ground Clearance & Geotextile Underlayment:**
+>    - Remove all debris, sharp rocks, and organic wood scraps from the crawlspace dirt floor.
+>    - Grade the dirt toward a sump pit to eliminate low spots where water could pool.
+>    - In rocky or rough soil, install a 4-ounce non-woven geotextile cushion fabric over the dirt to protect the vapor barrier from puncture.
+>
+> 3. **Class A Reinforced Vapor Barrier (ASTM E1745):**
+>    - Unroll minimum 12-mil (preferably 20-mil) multi-layer virgin polyolefin reinforced barrier (e.g., Stego Wrap 20-Mil or crawlspace-grade scrim-reinforced liner).
+>    - Overlap all roll seams by a minimum of 12 inches. Seal continuously with 4-inch heavy-duty double-sided butyl tape and acrylic seam tape.
+>    - Run the barrier 12 inches up the vertical concrete stem walls and wrap all interior support piers.
+>    - Fasten the liner to the concrete using galvanized termination bars and polyurethane adhesive mastic.
+>
+> 4. **Stem Wall Thermal Insulation:**
+>    - Install 2 inches of continuous foil-faced polyisocyanurate board (R-13) or 2 inches of closed-cell spray foam directly against the interior face of the foundation stem walls.
+>    - In termite-prone regions (IRC Section R318.4), leave a continuous 3-inch bare concrete gap between the top of the insulation and the wood mud sill to allow termite mud tube inspections.
+>
+> 5. **Active Conditioning & Moisture Control:**
+>    - Install a dedicated, high-efficiency commercial crawlspace dehumidifier (e.g., Santa Fe Advance90 or AprilAire E070) equipped with an automatic digital humidistat set to 50% RH.
+>    - Hard-pipe the dehumidifier condensate drain to an interior sump pit or gravity drain to daylight (never rely on manual drain buckets).
+>    - Alternatively, per IRC Section R408.3.2.2, supply 1 CFM of conditioned supply air per 50 sq.ft of crawlspace floor area from the central HVAC system.
 
 ---
 

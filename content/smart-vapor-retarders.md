@@ -51,19 +51,12 @@ Gallons of water are trickling down the plastic, pooling on the bottom 2x6 frami
 
 To understand why 6-mil plastic fails in the Midwest, one must understand **vapor pressure differentials ($P_v$)**. Water vapor always diffuses from areas of high vapor pressure to areas of low vapor pressure, and from warm temperatures to cold temperatures.
 
-```
-THE MIDWEST DUAL-SEASON VAPOR REVERSAL
-
-WINTER CONDENSATION DRIVE (January / Zone 5):
-  Indoor Living Space: 70°F, 40% RH  (Vapor Pressure = 1.0 kPa)
-  Outdoor Cold Air:     0°F, 70% RH  (Vapor Pressure = 0.1 kPa)
-  ==> NET VAPOR DRIVE: OUTWARD (Pushing indoor humidity into the wall assembly)
-
-SUMMER CONDENSATION DRIVE (July-August / Zone 4 & 5):
-  Outdoor Tropical Air: 94°F, 82% RH  (Vapor Pressure = 4.5 kPa, Dew Point 78°F)
-  Indoor AC Space:      68°F, 50% RH  (Vapor Pressure = 1.1 kPa, Dew Point 49°F)
-  ==> NET VAPOR DRIVE: INWARD (Pushing outdoor moisture deep into the wall assembly)
-```
+> ### The Midwest Dual-Season Vapor Reversal Dynamics
+>
+> | Season / Environmental Condition | Indoor Boundary | Outdoor Boundary | Vapor Drive Direction & Building Science Impact |
+> | :--- | :--- | :--- | :--- |
+> | **Winter Condensation Drive** (January / Zone 5) | 70°F, 40% RH (Vapor Pressure = 1.0 kPa) | 0°F, 70% RH (Vapor Pressure = 0.1 kPa) | **Outward Vapor Drive:** Interior moisture pushes toward exterior sheathing; requires winter retarder |
+> | **Summer Condensation Drive** (July–August / Zones 4–5) | 68°F, 50% RH (Vapor Pressure = 1.1 kPa, DP 49°F) | 94°F, 82% RH (Vapor Pressure = 4.5 kPa, DP 78°F) | **Inward Vapor Drive:** Solar radiation pushes exterior moisture inward; chilled plastic traps mold |
 
 In Canada or northern Minnesota, heating degree days exceed 8,500. Air conditioners are used for barely three weeks a year. Vapor drive is outward for over 300 days annually. In that environment, an impermeable Class I vapor barrier (6-mil poly, < 0.1 perms) on the warm interior face prevents winter humidity from reaching cold exterior sheathing.
 
@@ -73,24 +66,15 @@ If you install an impermeable Class I barrier on the interior, you create a **va
 - In winter, the plastic blocks outward vapor drive (which is good).
 - In summer, the plastic blocks inward vapor drive, chilling below the outdoor dew point and trapping inward-migrating moisture against wood studs and drywall paper (which is catastrophic).
 
-```
-CROSS-SECTION OF SUMMER WALL FAILURE WITH 6-MIL PLASTIC
-Outdoor Tropical Air (94°F, Dew Point 78°F)
-       │
-       ▼
-[Brick Veneer / Vinyl Siding]  ◄ Rain-wetted cladding heated by sun generates massive inward vapor drive
-       │
-[Taped OSB Sheathing (88°F)]   ◄ Vapor permeable substrate lets vapor pass
-       │
-[Cavity Insulation (76°F)]     ◄ Fiberglass or cellulose allows vapor migration
-       │
-[6-MIL POLYETHYLENE PLASTIC]   ◄ CHILLED TO 66°F BY INDOOR AIR CONDITIONING
-       │                         *** CONDENSATION PLANE: 66°F Surface < 78°F Dew Point ***
-       │                         Liquid water pools and feeds black mold inside cavity!
-       ▼
-[Chilled Drywall (68°F)]
-Indoor Air Conditioned Living Space (68°F, 50% RH)
-```
+> ### Cross-Section of Summer Wall Failure with 6-Mil Plastic
+>
+> | Assembly Component | Summer Temperature & RH | Hygrothermal Behavior & Failure Mode |
+> | :--- | :--- | :--- |
+> | **Outdoor Ambient & Cladding** | 94°F, 82% RH (Dew Point 78°F) | Sun-heated wet brick/siding drives solar vapor inward |
+> | **Taped OSB Sheathing** | 88°F (Vapor Permeable) | Allows high-pressure moisture vapor to pass into cavity |
+> | **Cavity Insulation** | 76°F (Air-permeable batt) | Convective moisture vapor migrates toward conditioned space |
+> | **6-Mil Polyethylene Plastic** | **66°F (Chilled by AC)** | **Condensation Plane:** Surface is 12°F below dew point; water pools on plastic |
+> | **Interior Drywall** | 68°F Conditioned Space (50% RH) | Trapped water rots wood bottom plates and fosters *Stachybotrys* mold |
 
 ---
 
@@ -100,36 +84,22 @@ The building-science solution to seasonal vapor reversal is the **intelligent sm
 
 These membranes are manufactured using engineered **polyamide (Nylon 6)** polymer films. Polyamide has a unique molecular structure containing hydrophilic amide groups that react dynamically to ambient relative humidity (RH):
 
-```
-MOLECULAR ACTION OF POLYAMIDE SMART MEMBRANES
+> ### Molecular Action of Polyamide Smart Membranes
+>
+> - **Winter State (Low Cavity RH: 20% to 40%):**  
+>   Polymer chains remain tightly cross-linked and dry. Interstitial pore openings contract to microscopic dimensions, maintaining a vapor permeance of **< 0.8 perms (Class II retarder)**. This blocks warm indoor household humidity from entering the cold wall cavity.
+>
+> - **Summer State (High Cavity RH: 60% to 90%):**  
+>   Solar inward vapor drive elevates cavity humidity. Hydrophilic polymer chains absorb water molecules and physically swell, relaxing intermolecular pore spacing by over 1,000%. Vapor permeance opens wide to **> 13.0 to 25.0+ perms (Class III permeable)**, allowing trapped moisture to evaporate harmlessly into the indoor conditioned space.
 
-WINTER STATE (Low Ambient Cavity Humidity: 20% to 40% RH):
-  - Polymer chains are tightly cross-linked and dry.
-  - Interstitial pore openings contract to microscopic dimensions.
-  - Vapor Permeance: < 0.8 Perms (Class II Vapor Retarder).
-  - FUNCTION: Blocks warm indoor household humidity from entering the cold wall cavity.
-
-SUMMER STATE (High Ambient Cavity Humidity: 60% to 90% RH):
-  - Inward vapor drive elevates cavity humidity.
-  - Hydrophilic polymer chains absorb water molecules and physically swell.
-  - Intermolecular pore spacing relaxes and expands by 1,000%.
-  - Vapor Permeance: > 13.0 to 25.0 Perms (Wide Open / Class III Vapor Permeable).
-  - FUNCTION: Trapped moisture evaporates harmlessly into the indoor conditioned space.
-```
-
-```
-VAPOR PERMEANCE VS. RELATIVE HUMIDITY CURVE (ASTM E96)
-Perms (US)
-  ▲
-25│                                              ┌───────────────
-20│                                          ┌───┘  SUMMER: WIDE OPEN
-15│                                      ┌───┘      (Drying Inward: > 15 Perms)
-10│                                  ┌───┘
- 5│                              ┌───┘
- 1│  ────────────────────────────┘  WINTER: CLOSED TIGHT (< 0.8 Perms)
- 0└───┬───────┬───────┬───────┬───────┬───────┬───────┬───────► Relative Humidity (%)
-     10%     20%     30%     40%     50%     60%     70%     80%
-```
+> ### ASTM E96 Dynamic Permeance Curve: Polyamide vs. Polyethylene
+>
+> | Ambient Cavity RH | Seasonal Operating State | Polyamide Membrane (Intello / MemBrain) | 6-Mil Polyethylene | Hygrothermal Function |
+> | :--- | :--- | :--- | :--- | :--- |
+> | **10% – 30% RH** | Deep Winter Heating | **0.13 to 0.50 Perms** (Class II) | 0.06 Perms (Closed) | Prevents interior moisture diffusion to cold sheathing |
+> | **40% – 50% RH** | Moderate Shoulder Season | **0.80 to 2.50 Perms** (Transition) | 0.06 Perms (Closed) | Micro-pores begin controlled expansion as humidity shifts |
+> | **60% – 70% RH** | Warm Humid Transition | **4.0 to 12.0 Perms** (Opening) | 0.06 Perms (Closed) | Accelerated inward drying across cavity |
+> | **80% – 90%+ RH** | Peak Summer Inward Vapor | **15.0 to 25.0+ Perms** (Wide-Open) | 0.06 Perms (Closed) | Full inward drying; eliminates cavity moisture trap |
 
 Under ASTM E96 testing, standard 6-mil poly remains flat at **0.06 perms** regardless of humidity. It never opens, never breathes, and never permits inward drying. 
 
@@ -141,12 +111,11 @@ A smart membrane, by contrast, functions as a hygrothermal valve: closed tight w
 
 The 2024 International Residential Code (IRC Section R702.7) explicitly regulates interior vapor retarders based on climate zone and exterior insulation ratios:
 
-```
-IRC VAPOR RETARDER CLASSIFICATIONS (ASTM E96):
-- Class I:   Permeance <= 0.1 perm (Sheet polyethylene, unperforated foil).
-- Class II:  0.1 < Permeance <= 1.0 perm (Kraft paper facing, smart polyamide membranes).
-- Class III: 1.0 < Permeance <= 10.0 perms (Latex paint on 1/2" drywall).
-```
+> ### IRC Vapor Retarder Classifications (ASTM E96)
+> - **Class I:** Permeance $\le 0.1 \text{ perm}$ (Sheet polyethylene, unperforated foil).
+> - **Class II:** $0.1 < \text{Permeance} \le 1.0 \text{ perm}$ (Kraft paper facing, smart polyamide membranes).
+> - **Class III:** $1.0 < \text{Permeance} \le 10.0 \text{ perms}$ (Latex paint on 1/2" drywall).
+
 
 ### The Code Mandate for Climate Zones 4, 5, and 6:
 1. **Air-Conditioned Buildings:** In Climate Zones 4 and 5, **Class I vapor retarders are strictly prohibited** on the interior side of framed walls unless the wall assembly incorporates continuous exterior insulation with an R-value meeting Table R702.7.1.

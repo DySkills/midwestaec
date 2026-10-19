@@ -27,6 +27,14 @@ referralHook: "Weatherization & Air Sealing Quote Match"
 
 ---
 
+## Winter Gusts in Portage Park at 14°F
+
+It is 8:30 PM on a gusty January evening in the Portage Park neighborhood of Chicago. Outside, a stinging north wind is driving frost crystals across the sill, and the red bar stops at a biting 14°F.
+
+Inside a solid 1920s brick bungalow, walking past the living room windows sends a visible chill across your shoulders. The curtains flutter gently in an invisible draft. The homeowner's first instinct is to call a window replacement franchise and spend $20,000. But building science reveals that over 70% of that cold draft is bypassing the glass entirely—leaking through unsealed weight pockets and rough framing gaps behind the trim.
+
+---
+
 ## The 80/10 Rule of Window Physics
 
 In building science, capital allocation should always follow the law of diminishing returns. Full-frame window replacement is the most expensive way to achieve marginal thermal improvement. 

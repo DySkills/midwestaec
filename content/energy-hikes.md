@@ -29,9 +29,9 @@ referralHook: "Attic Insulation & Air Sealing Quote Match"
 
 ## Sub-Freezing Nights
 
-10 o'clock at night, the middle of January, your neighbor's Christmas lights are still shining across the snow-covered street. Inside, an uncomfortable cold draft sweeps across your back and down to your feet while you sit on the couch. 
+10 o'clock at night in the middle of January in Cedar Rapids, Iowa, your neighbor's Christmas lights are still shining across the snow-covered street. Outside, a punishing prairie wind is scouring the subdivisions, and the red bar stops at a biting 8°F. Inside, an uncomfortable cold draft sweeps across your back and down to your feet while you sit on the couch. 
 
-Across the central Midwest, temperatures this time of year regularly sit between 5°F and 15°F. In a 1968 ranch-style home, the furnace starts up every eight minutes, the hardwood floor feels freezing cold, and the utility company says you burned through 1,420 kWh and 185 therms—costing you over $540 just to stay warm but clammy.
+In this 1968 ranch-style home, the furnace starts up every eight minutes, the hardwood floor feels freezing cold, and the utility company says you burned through 1,420 kWh and 185 therms—costing you over $540 just to stay warm but clammy.
 
 The reality isn't your furnace constantly kicking up or failing. It is the byproduct of state utility tariffs meeting the physical flaws of your home's exterior envelope.
 

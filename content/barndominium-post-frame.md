@@ -47,13 +47,9 @@ Post-frame construction was originally developed for agricultural pole barns—u
 
 Why do agricultural pole barns survive without rot, while residential barndominiums fail?
 
-```
-Agricultural Pole Barn:
-Unconditioned Space  -->  High Natural Ventilation  -->  Winter RH: 15% - 20%  -->  Zero Condensation Risk
-
-Residential Barndominium:
-Conditioned 70°F     -->  Showers, Cooking, People  -->  Winter RH: 35% - 45%  -->  Severe Condensation Trap
-```
+> **Operational Moisture Dynamics:**
+> - **Agricultural Pole Barn:** Unconditioned space &rarr; high natural air exchange &rarr; winter relative humidity 15% to 20% &rarr; zero internal condensation risk.
+> - **Residential Barndominium:** Conditioned living space (70°F) &rarr; showers, cooking, breathing &rarr; winter relative humidity 35% to 45% &rarr; severe interstitial condensation trap.
 
 1. **Moisture Generation:** A family of four releases **2.5 to 3.5 gallons of liquid water vapor** into the indoor atmosphere every 24 hours through breathing, perspiration, hot showers, cooking, and laundry.
 2. **Vapor Drive Pressure:** Warm indoor air expands and exerts continuous outward vapor pressure against the exterior building envelope. In January, indoor air at 70°F and 40% relative humidity has a dew point of **45.6°F**.
@@ -81,29 +77,14 @@ To build a residential post-frame home that lasts 50 to 100 years in Climate Zon
 
 The assembly must decouple the cold metal siding from the warm structural timber:
 
-```
-OUTSIDE
-────────────────────────────────────────────────────────────────
- 1. 26-Gauge Corrugated Siding (Protective cladding)
-────────────────────────────────────────────────────────────────
- 2. 3/4" Ventilated Rainscreen Gap (1x4 vertical treated furring)
-    ▲ Free air circulation flushes residual moisture and heat
-────────────────────────────────────────────────────────────────
- 3. Continuous Outboard Rigid Insulation (R-7.5 to R-10 Polyiso/Stone Wool)
-    ▲ Thermally breaks girts and elevates sheathing above 50°F dew point
-────────────────────────────────────────────────────────────────
- 4. Taped Weather-Resistive Barrier (WRB / Commercial Air Barrier)
-────────────────────────────────────────────────────────────────
- 5. Structural Post-Frame Girts & Glue-Laminated Timber Columns
-    ▲ Kept 100% on the warm, dry side of the building envelope
-────────────────────────────────────────────────────────────────
- 6. Friction-Fit Mineral Wool Cavity Insulation (R-23)
-────────────────────────────────────────────────────────────────
- 7. Smart Variable-Permeance Vapor Retarder (Allows seasonal drying)
-────────────────────────────────────────────────────────────────
- 8. Interior Drywall or Wood Shiplap Finish
-INSIDE (Conditioned 70°F)
-```
+1. **Exterior Protective Cladding:** 26-gauge corrugated steel siding fastened with coated structural screws.
+2. **Ventilated Rainscreen Gap:** 3/4-inch vertical 1x4 treated furring strips allowing upward convection to purge moisture and thermal heat.
+3. **Continuous Outboard Insulation:** 1.5 to 2 inches of continuous foil-faced polyiso or rigid stone wool (R-7.5 to R-10) maintaining framing above 50°F.
+4. **Vapor-Permeable Air Barrier:** Commercial-grade weather-resistive barrier (WRB) with taped seams.
+5. **Structural Framework:** Heavy glue-laminated columns and horizontal 2x6 framing girts fully protected on the warm, dry side of the envelope.
+6. **Cavity Thermal Core:** Friction-fit stone mineral wool batts (R-23) completely filling the wall cavities.
+7. **Smart Variable-Permeance Membrane:** Class II vapor retarder (0.8 perms winter / >10 perms summer) enabling bidirectional drying.
+8. **Interior Architectural Finish:** 5/8-inch gypsum drywall or tongue-and-groove wood shiplap.
 
 By placing **R-7.5 to R-10 continuous rigid insulation** outboard of the wood girts, the condensing plane is physically moved away from the structural framing. The temperature of the structural wood girts remains above 50°F even when it is -10°F outside. Because the framing stays above the indoor dew point, condensation physically cannot form inside the wall cavity.
 

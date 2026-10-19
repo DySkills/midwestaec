@@ -27,6 +27,16 @@ referralHook: "Siding & Exterior Insulation Quote Match"
 
 ---
 
+## The Prairie Cold Front at 14°F
+
+It is 6:30 AM on a bitter January morning in a 1990s subdivision just west of Des Moines, Iowa. Outside, an open-prairie wind is scouring across snow-covered lawns, and the red bar stops at a punishing 14°F.
+
+Inside, the family thermostat is set to 70°F, yet sitting near the western exterior wall feels like sitting next to a cold draft. Placing an infrared thermometer against the drywall reveals dark vertical stripes every 16 inches: the wall surface measures 68°F over the insulation cavities, but plummets to 59°F directly over every single wood stud. 
+
+The homeowner assumed their 2x6 walls with R-20 fiberglass batts provided an unbroken blanket of warmth. In reality, nearly one-quarter of the wall is uninsulated wood conducting expensive heat directly into the sub-zero Iowa wind.
+
+---
+
 ## The Framing Factor: Why R-20 Cavity Batts Don't Equal an R-20 Wall
 
 Most building codes and contractor estimates rate exterior walls based on the insulation stuffed between the framing studs. If you install an R-20 batt inside a 2x6 wall, the assumption is that your house is protected by an R-20 thermal boundary.
@@ -47,7 +57,7 @@ Indoor winter air at 70°F and 35% relative humidity carries a dew point of appr
 
 ![Technical Cross-Section: Wall Thermal Bridging vs. Continuous Exterior Insulation in Winter](images/continuous-insulation-diagram.jpg)
 
-In a wall with insulation only inside the stud cavity, the exterior OSB or plywood sheathing is thermally isolated from interior heat. On a 5°F January night in Des Moines or Minneapolis, the temperature on the inside face of that exterior OSB drops to **22°F to 26°F**.
+In a wall with insulation only inside the stud cavity, the exterior OSB or plywood sheathing is thermally isolated from interior heat. On a 14°F January night in Des Moines, the temperature on the inside face of that exterior OSB drops to **22°F to 26°F**.
 
 When 41°F dew-point moisture hits 24°F wood, it condenses immediately into liquid water and winter frost. Trapped behind building wrap, this moisture cycles through spring freeze-thaw events, rotting framing sills and feeding hidden fungal mold.
 
@@ -92,11 +102,13 @@ When factored into a $14,000 to $22,000 re-siding project, an additional $4,500 
 
 Installing cladding over 1.5 to 2 inches of exterior insulation requires strict adherence to structural fastening details compliant with **IRC Section R703.15**.
 
-```
-    [ 2x4/2x6 Stud ] ──> [ 1/2" OSB ] ──> [ WRB ] ──> [ 1.5" Stone Wool ] ──> [ 1x4 Furring ] ──> [ Siding ]
-                                                                                   │
-                                                         [ 3/4" Ventilated Drainage Cavity ]
-```
+> **The Outboard Wall Layer Sequence (Inside to Outside):**
+> 1. **Interior Framing:** 2x4 or 2x6 studs with friction-fit cavity batts.
+> 2. **Structural Substrate:** 1/2-inch OSB or plywood sheathing.
+> 3. **Taped WRB:** Vapor-permeable weather-resistive barrier (ASTM E2556).
+> 4. **Continuous Insulation:** 1.5-inch rigid stone wool or polyiso board (R-6 to R-10).
+> 5. **3/4-Inch Ventilated Rainscreen Gap:** 1x4 vertical treated furring strips aligned with studs.
+> 6. **Exterior Cladding:** Fiber cement, engineered wood, or vinyl siding.
 
 1. **Self-Adhered Weather-Resistive Barrier (WRB):** Install a vapor-permeable, self-adhered or mechanically fastened water barrier (*ASTM E2556*) directly over the exterior OSB *before* installing the insulation layer. This preserves the sheathing as your primary air and water drainage plane.
 2. **Vertical Furring Strips (Rainscreen Gap):** Never nail siding directly through rigid insulation into the studs. Fasten 1x4 wood furring strips (or treated plywood battens) vertically over the insulation, aligned directly with the underlying wall studs at 16 inches on center.

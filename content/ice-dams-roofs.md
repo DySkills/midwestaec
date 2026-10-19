@@ -65,18 +65,11 @@ Overlapping shingle courses rely entirely on gravity. As long as water flows dow
 
 When an ice dam forms along the cold eave, it acts as a frozen dam. Liquid meltwater continuously trickles down from the warm upper roof slope, but its path to the gutter is physically blocked:
 
-```
-[Warm Roof Deck > 32°F]  -->  Snow Melts Under Blanket
-                                      │
-                                      ▼  (Meltwater trickles down slope)
-┌────────────────────────────────────────────────────────┐
-│  PONDING WATER RESERVOIR (Trapped Meltwater)           │
-├────────────────────────────────────────────────────────┤
-│  ▲ Water forced uphill under shingle laps via pressure │
-└────────────────────────────────────────────────────────┘
-                                      │
-[Cold Overhang < 32°F]   -->  SOLID ICE DAM RIDGE (Blocks drainage)
-```
+> **The Meltwater Entrapment Mechanism:**
+> 1. **Warm Upper Roof Deck (> 32°F):** Escaping attic heat melts the bottom layer of the snowpack under the insulating snow blanket.
+> 2. **Gravity Runoff:** Meltwater trickles down the sloped shingles beneath the snow until it strikes the unheated eave overhang.
+> 3. **The Freeze Dam (< 32°F):** Sub-freezing ambient air freezes the runoff into a solid, growing ice ridge.
+> 4. **Hydrostatic Reverse Flow:** Trapped meltwater ponds behind the ice ridge, generating hydrostatic head pressure that forces liquid water uphill between overlapping shingle tabs and through roofing nail penetrations.
 
 As the liquid water backs up behind the dam, it creates a standing reservoir. The depth of that reservoir creates **hydrostatic head pressure**. Combined with capillary attraction between the flat shingle surfaces, the water forces its way backward and upward, sneaking past the upper edges of the overlapping shingle tabs.
 

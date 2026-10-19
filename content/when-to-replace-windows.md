@@ -27,6 +27,14 @@ referralHook: "Vetted Window & Glazing Specialists"
 
 ---
 
+## Sleet on the Glass at 22°F
+
+It is 7:00 PM on a dark February evening on the northwest side of Chicago. Outside, winter sleet is tapping relentlessly against vibrating window panes, streetlights shimmer across frozen sidewalks, and the red bar stops at a chilling 22°F.
+
+Inside, a slick sales representative from a regional window franchise has spent two hours in the living room demonstrating heat lamps and brandishing glossy brochures. He is offering a "limited-time" estimate of $24,500 to replace sixteen double-hung windows, promising they will cut the home's winter heating bills in half.
+
+---
+
 ## Moving Past the Sales Theater
 
 Window replacement is one of the most aggressive, high-margin sales sectors in residential remodeling. Sales representatives routinely use heat-lamp demonstrations, fictitious "today-only" $5,000 discounts, and claims of 40% energy cuts to pressure homeowners into signing five-figure contracts.
@@ -83,24 +91,10 @@ The best window in the world will leak air and water if installed incorrectly. O
 
 When reviewing contractor proposals, ensure the contract explicitly mandates three non-negotiable details compliant with **ASTM E2112**:
 
-```
-                       [ Exterior Sheathing / WRB ]
-                                     │
-                     ┌───────────────┴───────────────┐
-                     │     Top Flashing Tape         │
-                     │  (Lapped shingle-style)       │
-                     ├───────────────────────────────┤
-                     │                               │
-                     │      New Window Assembly      │
-                     │  (Low-expansion foam sealed)  │
-                     │                               │
-                     ├───────────────────────────────┤
-                     │      Sloped Sill Pan Flashing │
-                     │  (Drains water to exterior)   │
-                     └───────────────────────────────┘
-                                     │
-                        [ Uncompromised Wall Cavity ]
-```
+> **The ASTM E2112 Installation Protocol:**
+> 1. **Sloped Sill Pan Flashing:** Self-adhered membrane or rigid sill pan with 1/4"/ft positive outward slope and 2-inch back dam to direct incidental leaks outward.
+> 2. **Low-Expansion Polyurethane Foam:** Continuous AAMA 812 certified closed-cell foam bead around the interior perimeter, eliminating drafts without bowing jambs.
+> 3. **Integrated Weather-Resistive Barrier:** Shingle-lapped exterior flashing tape (top flap over head flashing, side jambs over sill pan) preventing water from breaching the rough opening.
 
 1. **Mandatory Sloped Sill Pan Flashing:** The contractor must install a pre-formed rigid plastic sill pan or self-adhered flexible flashing membrane with a positive slope to the exterior before the window is set. If water ever breaches the window frame, the sill pan directs it safely out to the drainage plane rather than into structural floor joists.
 2. **Low-Expansion Polyurethane Foam (Never Fiberglass Batts):** Contractors frequently stuff scrap fiberglass insulation into the rough opening gap. Fiberglass is an air filter, not an air barrier. The perimeter gap must be sealed continuously with single-component low-expansion polyurethane foam (*AAMA 812 certified*).

@@ -49,26 +49,14 @@ House B is a **net carbon sink**: its thermal envelope locked away **4,200 kilog
 
 In building science life-cycle assessment (LCA), governed by **ISO 21930** and **ASHRAE Standard 240P**, a building's total carbon emissions are divided into two distinct chronological phases:
 
-```
-THE LIFECYCLE CARBON EQUATION
-                  Total Lifecycle Greenhouse Gas Emissions
-                                     │
-           ┌─────────────────────────┴─────────────────────────┐
-           ▼                                                   ▼
-   EMBODIED CARBON (A1–A5)                             OPERATIONAL CARBON (B6)
-   - Raw material extraction & refining                - Natural gas furnace combustion
-   - Chemical manufacturing & polymerization           - Grid electricity for heat pumps & AC
-   - Freight & jobsite transportation                  - Emitted gradually over 30 to 50 years
-   - Jobsite installation emissions                    - Diminishes as the power grid greens
-   - RELEASED TODAY (Time-Value of Carbon)
-```
+> ### Building Lifecycle Carbon Breakdown (ISO 21930 / ASHRAE 240P)
+>
+> | Carbon Emission Category | Lifecycle Stage | Building Envelope Significance |
+> | :--- | :--- | :--- |
+> | **Embodied Carbon ($A1–A5$)** | Material extraction, chemical manufacturing, transport, and jobsite assembly | **50% to 70%** of whole-building initial 20-year carbon emissions |
+> | **Operational Carbon ($B6$)** | Ongoing furnace combustion and electricity for heating/cooling | Emitted gradually over 30 to 50 years; declines year-over-year as power grids green |
 
-```
-THE CARBON "TIME VALUE":
-Greenhouse gases emitted TODAY (during construction) remain in the atmosphere 
-driving global temperature rise for decades. A kilogram of carbon emitted today 
-is far more damaging than a kilogram emitted 30 years from now.
-```
+> **The Carbon "Time Value":** Greenhouse gases emitted today during construction remain in the atmosphere driving climate warming for decades. A kilogram of embodied carbon emitted today is substantially more damaging than a kilogram of operational carbon emitted 30 years from now.
 
 In drafty, poorly insulated 1970s homes, operational energy consumed 85% to 90% of total lifetime carbon. 
 
@@ -86,69 +74,20 @@ Plastic foams—specifically Extruded Polystyrene (XPS) and Closed-Cell Spray Po
 1. **Petrochemical Feedstock:** Polystyrene and polyurethane are synthesized from crude oil and natural gas through energy-intensive catalytic cracking and aromatic distillation.
 2. **High-GWP Chemical Blowing Agents:** To achieve high R-values (R-5.0 to R-7.0 per inch), closed-cell foams have historically relied on fluorocarbon blowing agents. 
 
-```
-THE BLOWING AGENT EVOLUTION:
-- Legacy Blowing Agents (HFC-134a):  Global Warming Potential = 1,430 (1,430x worse than CO2!)
-- Transitional Blends (HFC-245fa):   Global Warming Potential = 1,030
-- Next-Gen Hydrofluoroolefins (HFO):  Global Warming Potential < 1 to 5 (Substantial reduction)
-```
+> ### The Blowing Agent Evolution & Climate Impact
+>
+> - **Legacy Blowing Agents (HFC-134a):** Global Warming Potential = **1,430** (1,430× more potent than $CO_2$).
+> - **Transitional Blends (HFC-245fa):** Global Warming Potential = **1,030**.
+> - **Next-Gen Hydrofluoroolefins (HFO):** Global Warming Potential **$\le 1$ to 5** (mandated under EPA AIM Act).
 
 While building codes and the EPA AIM Act have mandated transitions to low-GWP HFO blowing agents in recent years, the **embedded energy of the plastic resin itself** remains staggering. 
 
-```
-CARBON PAYBACK PERIOD COMPARISON:
---------------------------------------------------------------------------------------
-Wall Assembly R-20 Insulation Package (2,500 sq.ft building surface):
-
-- Extruded Polystyrene (XPS - Legacy HFC):
-  Embodied Carbon: ~42.0 kg CO2e / m²  -->  Total: 9,750 kg CO2e
-  Operational Carbon Saved: 350 kg CO2e / yr
-  ==> CARBON PAYBACK: 27.8 YEARS (Warming debt lasts nearly three decades!)
-
-- High-Density Stone Wool (Rockwool):
-  Embodied Carbon: ~6.2 kg CO2e / m²   -->  Total: 1,440 kg CO2e
-  Operational Carbon Saved: 350 kg CO2e / yr
-  ==> CARBON PAYBACK: 4.1 YEARS
-
-- Dense-Pack Cellulose + Wood-Fiber Board:
-  Embodied Carbon: -1.8 kg CO2e / m² (NET SEQUESTRATION)  -->  Total: -418 kg CO2e
-  Operational Carbon Saved: 350 kg CO2e / yr
-  ==> CARBON PAYBACK: ZERO (Instantly carbon-negative upon installation!)
---------------------------------------------------------------------------------------
-```
-
----
-
-## 3. The Biogenic Carbon Storage Engine: Cellulose and Wood Fiber
-
-The antidote to petrochemical embodied carbon is **biogenic carbon storage**. 
-
-Through photosynthesis, growing trees absorb atmospheric carbon dioxide ($CO_2$), splitting the molecules to release oxygen into the atmosphere while incorporating the carbon atoms directly into their physical cellular structure as **cellulose ($C_6 H_{10} O_5$) and lignin**.
-
-Approximately **50% of the dry weight of clean wood is pure sequestered atmospheric carbon**.
-
-```
-BIOGENIC CARBON SEQUESTRATION LIFECYCLE
-               Atmospheric CO2 (Photosynthesis)
-                              │
-                              ▼
-┌─────────────────────────────────────────────────────────────┐
-│ SUSTAINABLY MANAGED FORESTS & PAPER RECYCLING               │
-├─────────────────────────────────────────────────────────────┤
-│ 1. Timber Harvest & Mill Byproducts:                        │
-│    - Softwood chips, sawdust, and forest thinnings.         │
-│    - Processed into rigid exterior Wood Fiber Insulation.   │
-│                                                             │
-│ 2. Post-Consumer Paper Recycling Stream:                    │
-│    - 85% clean recycled newsprint and cardboard.            │
-│    - Hammer-milled and borate-treated into Dense Cellulose. │
-└─────────────────────────────────────────────────────────────┘
-                              │
-                              ▼
-           [MIDWEST RESIDENTIAL WALL ENVELOPE]
-           Carbon is physically locked away for the 100+ year 
-           lifespan of the home, keeping it out of the atmosphere!
-```
+> ### Biogenic Carbon Sequestration Lifecycle
+>
+> | Feedstock & Processing Stream | Manufacturing Profile | Carbon Sequestration Outcome |
+> | :--- | :--- | :--- |
+> | **Timber Harvest & Mill Byproducts** | Softwood chips, sawdust, and forest thinnings processed into rigid exterior Wood Fiber Insulation | Atmospheric carbon captured by trees is physically locked away for the 100+ year building life |
+> | **Post-Consumer Paper Recycling** | 85% clean recycled newsprint and cardboard hammer-milled and treated with borate into dense cellulose | Diverts waste paper from methane-emitting landfills; zero petrochemical energy input |
 
 ### The Two Core Bio-Based Insulation Workhorses:
 1. **Dense-Pack Cellulose (R-3.7 per inch):**
@@ -172,26 +111,14 @@ Petrochemical foam is hydrophobic and non-porous:
 
 In contrast, cellulose and wood fiber are **hygroscopic and vapor-open**:
 
-```
-HYGROTHERMAL VAPOR EQUILIBRIUM IN BIO-BASED WALLS
-                      Exterior Humid Summer Air (85°F, 80% RH)
-                                        │
-                                        ▼
-┌───────────────────────────────────────┬───────────────────────────────────────┐
-│ RIGID WOOD FIBER OUTBOARD (R-12)      │ DENSE-PACK CELLULOSE CAVITY (R-21)    │
-│ Vapor Permeance: > 25 Perms           │ Vapor Permeance: > 35 Perms           │
-├───────────────────────────────────────┴───────────────────────────────────────┤
-│                                                                               │
-│ ◄ SAFE HYGROSCOPIC MOISTURE BUFFERING:                                        │
-│   Cellulose fibers absorb ambient water vapor into cell walls without         │
-│   becoming wet or losing R-value (Safe storage up to 15% moisture content).   │
-│                                                                               │
-│ ◄ BIDIRECTIONAL DRYING:                                                       │
-│   Dries outward to exterior during cold winter months;                        │
-│   Dries inward to air-conditioned interior during hot summer months.          │
-│                                                                               │
-└───────────────────────────────────────────────────────────────────────────────┘
-```
+> ### Hygrothermal Vapor Equilibrium in Bio-Based Walls
+>
+> | Material Assembly | Outboard Wood Fiber (R-12) | Cavity Dense-Pack Cellulose (R-21) |
+> | :--- | :--- | :--- |
+> | **Vapor Permeance** | > 25 Perms (Vapor open) | > 35 Perms (Vapor open) |
+> | **Hygroscopic Moisture Buffering** | Absorbs ambient water vapor into cell walls without liquid wetting (safe storage up to 15% moisture content) | Halts convective airflow loops; safely regulates indoor humidity fluctuations |
+> | **Bidirectional Drying Dynamics** | Dries outward to exterior during cold winter months | Dries inward to conditioned interior during hot summer months |
+> | **Global Warming Potential** | **Net Negative (-0.42 kg CO₂e/kg)** | **Net Negative (-1.20 kg CO₂e/kg)** |
 
 Cellulose and wood fiber act as a **hygrothermal buffer**. They can absorb and redistribute up to 15% of their dry weight in ambient moisture vapor without degrading their insulating value or fostering mold. When the weather changes and surrounding air dries, the fibers release the stored moisture harmlessly into the atmosphere.
 

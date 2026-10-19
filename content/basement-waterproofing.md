@@ -43,35 +43,23 @@ Where did the water come from?
 
 The disaster was caused by two compounding physical forces: **hydrostatic head pressure** pooling in the uncompacted backfill trench, and **subterranean capillary vapor transmission** that completely bypassed a cheap, shredded 6-mil plastic vapor barrier beneath the slab.
 
+![Basement Hydrostatic Head Pressure and Under-Slab Vapor Defense](images/basement-waterproofing-diagram.jpg)
+
 ---
 
 ## 1. The Physics of the "Clay Bowl" and Hydrostatic Head
 
 When a building foundation is excavated in the Midwest, heavy equipment digs a hole 4 to 6 feet wider than the footprint of the home. Once the concrete footings and walls are poured, the contractor shoves loose excavated dirt back into the trench:
 
-```
-THE "CLAY BOWL" HYDROSTATIC FUNNEL
-          Torrrential Surface Rain Runoff
-                        │
-                        ▼
-┌──────────────────┐  [LOOSE EXCAVATED BACKFILL]  ┌──────────────────┐
-│ UNDISTURBED      │  (Porosity: 35% to 45%)      │ CONCRETE BASEMENT│
-│ VIRGIN CLAY      │  Acts as open gravel funnel  │ FOUNDATION WALL  │
-│ (Dense, compacted│  draining water straight down│                  │
-│  impermeable)    │                              │                  │
-│                  │                              │                  │
-│                  │  ▲                           │                  │
-│                  │  │ HYDROSTATIC HEAD PRESSURE │                  │
-│                  │  │ (500 lbs/sq.ft at base)   │                  │
-│                  │  ▼                           │                  │
-│                  ├──────────────────────────────┤                  │
-│                  │ Water pools against footing  │                  │
-└──────────────────┴──────────────┬───────────────┴──────────────────┘
-                                  │
-                                  ▼
-                     [THE COVE JOINT COLD SEAM]
-                     (Water jets inward between wall & slab)
-```
+> ### The "Clay Bowl" Hydrostatic Funnel Mechanics
+>
+> | Soil / Trench Zone | Material Characteristics | Hydrodynamic & Pressure Behavior |
+> | :--- | :--- | :--- |
+> | **Virgin Native Clay** | Dense, compacted glacial till ($k \approx 10^{-7} \text{ cm/s}$) | Acts as an impermeable containment bowl; blocks lateral drainage |
+> | **Excavated Backfill Trench** | Loose, uncompacted fill (Porosity: 35%–45%) | Functions as a gravel funnel; channels surface stormwater down wall |
+> | **Footing Base Zone** | Saturated water pooling at cove joint | Generates up to **500 lbs/sq.ft** hydrostatic head pressure |
+> | **Cold Cove Seam** | Construction joint between footing and wall | Water jets through cold seam into basement living area under pressure |
+
 
 Undisturbed native Midwest soil (glacial till or heavy clay) is extraordinarily dense and compacted, with hydraulic conductivities as low as $10^{-7} \text{ cm/s}$. Rain falling on virgin soil naturally sheds across the surface grade.
 
@@ -102,12 +90,10 @@ Cured concrete is not a solid stone; it is an intricate matrix of microscopic ca
 
 Once the moisture reaches the concrete surface, it evaporates into the room as invisible water vapor:
 
-```
-SLAB MOISTURE TRANSMISSION DYNAMICS:
-- Uninsulated / Unsealed Slab Vapor Emission Rate (MVER): 5.0 to 14.0 lbs / 1,000 sq.ft / 24 hours.
-- Maximum Safe Vapor Tolerance for Luxury Vinyl Plank (LVP): 3.0 lbs / 1,000 sq.ft / 24 hours.
-- Maximum Safe Vapor Tolerance for Hardwood / Epoxy: 2.0 lbs / 1,000 sq.ft / 24 hours.
-```
+> ### Slab Moisture Transmission Dynamics
+> - **Uninsulated / Unsealed Slab Vapor Emission Rate (MVER):** 5.0 to 14.0 lbs / 1,000 sq.ft / 24 hours.
+> - **Maximum Safe Vapor Tolerance for Luxury Vinyl Plank (LVP):** 3.0 lbs / 1,000 sq.ft / 24 hours.
+> - **Maximum Safe Vapor Tolerance for Hardwood / Epoxy:** 2.0 lbs / 1,000 sq.ft / 24 hours.
 
 When a basement has an open concrete floor, this vapor evaporates into the basement air and is swept away by central ventilation or a dehumidifier. The homeowner never notices it.
 
@@ -126,13 +112,11 @@ To prevent under-slab vapor transmission, residential building codes require an 
 
 This is one of the most common false economies in residential construction:
 
-```
-THE REALITY OF 6-MIL POLY ON A JOBSITE:
-1. Crushed Stone Base: 4 inches of sharp, angular 3/4-inch crushed limestone aggregate is leveled on the dirt.
-2. Poly Placement: Cheap 6-mil recycled polyethylene film is rolled out over the sharp stone.
-3. Steel Placement: Rebar or welded wire mesh is laid on top of the poly.
-4. Concrete Pour: Six workers in heavy rubber boots, wheelbarrows, and heavy concrete pump hoses drag across the plastic for six hours.
-```
+> ### The Reality of 6-Mil Poly on a Jobsite
+> 1. **Crushed Stone Base:** 4 inches of sharp, angular 3/4-inch crushed limestone aggregate is leveled on the dirt.
+> 2. **Poly Placement:** Cheap 6-mil recycled polyethylene film is rolled out over the sharp stone.
+> 3. **Steel Placement:** Rebar or welded wire mesh is laid on top of the poly.
+> 4. **Concrete Pouring:** Workers dragging heavy concrete hoses walk across the mesh, pressing the 6-mil plastic against the jagged gravel edges beneath.
 
 Generic 6-mil poly is manufactured from post-industrial recycled resins containing filler additives, micro-voids, and impurities. Under **ASTM D1709**, it has a dart impact puncture resistance of **less than 300 grams**.
 
@@ -146,16 +130,14 @@ Furthermore, research by the American Concrete Institute (ACI Committee 302) sho
 
 To survive jobsite abuse and provide permanent, 100-year subterranean vapor protection, building science standards specify an **ASTM E1745 Class A** vapor barrier (such as Stego Wrap 15-Mil or Viper VaporCheck 16-Mil).
 
-```
-ASTM E1745 VAPOR RETARDER SPECIFICATION STANDARDS
-
-| ASTM E1745 Classification | Puncture Resistance (ASTM D1709) | Tensile Strength (ASTM D882) | Water Vapor Permeance (ASTM E96) | Jobsite Durability |
-| :--- | :--- | :--- | :--- | :--- |
-| **Standard 6-Mil Poly (Generic)** | < 300 grams | < 25 lbs / inch | 0.08 to 0.12 Perms | **Fails immediately (Shreds under aggregate)** |
-| **ASTM E1745 Class C (10-Mil)** | >= 475 grams | >= 45 lbs / inch | <= 0.10 Perms | Acceptable for light foot traffic |
-| **ASTM E1745 Class B (12-Mil)** | >= 1,500 grams | >= 45 lbs / inch | <= 0.10 Perms | Heavy duty |
-| **ASTM E1745 Class A (15-Mil Virgin)** | **>= 2,200 grams (7x stronger)** | **>= 45 lbs / inch** | **0.0086 Perms (10x tighter)** | **INDESTRUCTIBLE (Survives wheelbarrows & rebar)** |
-```
+> ### ASTM E1745 Vapor Retarder Specification Standards
+>
+> | ASTM E1745 Classification | Puncture Resistance (ASTM D1709) | Tensile Strength (ASTM D882) | Water Vapor Permeance (ASTM E96) | Jobsite Durability |
+> | :--- | :--- | :--- | :--- | :--- |
+> | **Class A (Engineered Virgin Resin)** | **> 2,200 grams** | **> 45.0 lbs/in** | **< 0.01 Perms** | Impervious to punctures, buggies & rebar |
+> | **Class B (Intermediate Film)** | > 1,700 grams | > 30.0 lbs/in | < 0.10 Perms | Moderate puncture resistance |
+> | **Class C (Minimum Commercial)** | > 475 grams | > 13.6 lbs/in | < 0.30 Perms | Vulnerable to sharp aggregate |
+> | **Generic 6-Mil Poly (Non-Rated)** | < 250 grams | < 12.0 lbs/in | 0.06 – 0.12 Perms | Severe tears during concrete placement |
 
 ### Key Properties of Class A Virgin Polyolefin:
 - **100% Prime Virgin Resins:** Manufactured without post-consumer recycled fillers, ensuring absolute chemical resistance to concrete pore alkalinity and soil microbes.
@@ -168,41 +150,23 @@ ASTM E1745 VAPOR RETARDER SPECIFICATION STANDARDS
 
 A permanently dry basement in Midwest clay requires a two-tiered defense: hydrostatic head relief combined with sealed vapor isolation:
 
-```
-THE COMPLETE MIDWEST BASEMENT WATER & VAPOR SHIELD
-                               Exterior Saturated Backfill (Clay Bowl)
-                                                │
-                                                ▼
-┌───────────────────────────────────────────────┬───────────────────────────────┐
-│ EXTERIOR HYDROSTATIC PRESSURE RELIEF          │ UNDER-SLAB CLASS A VAPOR SEAL │
-├───────────────────────────────────────────────┼───────────────────────────────┤
-│ 1. Dimpled Drainage Sheet (DELTA-MS)          │ 1. 4" Washed Crushed Stone    │
-│    - Relieves 500 PSF hydrostatic head.       │    - Capillary break bed.     │
-│    - Channels bulk water directly to tiles.   │                               │
-│ 2. Dual Perforated 4" Footing Tile            │ 2. 2" Rigid XPS Foam (R-10)   │
-│    - Wrapped in geotextile filter fabric.     │    - Thermal slab isolation.  │
-│    - Gravity-drained to daylight or sump.     │                               │
-│ 3. Sealed Sump Basin with Dual Pumps          │ 3. 15-Mil ASTM E1745 Class A  │
-│    - 1/2-HP primary AC submersible pump.      │    - All seams lapped 6".     │
-│    - Dual 12V AGM battery backup pump.        │    - Stego Tape on all laps.  │
-│    - Sealed airtight lid with radon gasket.   │    - Sealed to stem walls.    │
-└───────────────────────────────────────────────┴───────────────────────────────┘
-                                                │
-                                                ▼
-                        4" Poured Concrete Slab (3,500 PSI)
-                        Dry Slab Moisture Emission: < 1.5 lbs/1,000 sq.ft/24 hr
-                        Safe for Luxury Vinyl Plank (LVP) and Hardwood!
-```
+> ### The Complete Midwest Basement Water & Vapor Shield
+>
+> | Exterior Hydrostatic Pressure Relief | Under-Slab Class A Vapor Seal |
+> | :--- | :--- |
+> | **1. Dimpled Drainage Sheet (DELTA-MS):** Relieves 500 PSF hydrostatic head; channels bulk water directly to tiles. | **1. 4" Washed Crushed Stone:** Capillary break bed preventing liquid wicking from underlying subgrade. |
+> | **2. Dual Perforated 4" Footing Tile:** Wrapped in geotextile filter fabric; gravity-drained to daylight or sealed sump. | **2. 2" Rigid XPS Foam (R-10):** Continuous thermal isolation preventing summer condensation on slab. |
+> | **3. Sealed Sump Basin with Dual Pumps:** 1/2-HP primary AC pump + dual 12V AGM battery backup pump with radon-sealed lid. | **3. 15-Mil ASTM E1745 Class A:** Continuous virgin polyolefin; seams lapped 6" and sealed with Stego Tape and wall mastic. |
 
-```
-STEP-BY-STEP UNDER-SLAB SEALING SPECIFICATION:
-1. Base Bed: Install 4 inches of washed, clean 3/4-inch crushed stone over compacted soil (capillary break).
-2. Thermal Break: Lay 2 inches of continuous Type IV Extruded Polystyrene (XPS, R-10, 25 psi compressive strength).
-3. Vapor Barrier: Unroll 15-mil ASTM E1745 Class A barrier (Stego Wrap) directly over the XPS foam.
-4. Lap Detailing: Overlap all sheet seams by a minimum of 6 inches. Seal every seam continuously with manufacturer-approved acrylic seam tape (Stego Tape).
-5. Perimeter Seal: Turn the vapor retarder up the vertical foundation wall 4 inches and seal it airtight to the concrete using polyurethane elastomer mastic (Stego Mastic).
-6. Pipe Boots: Seal every plumbing pipe, radon vent, and conduit penetration using prefabricated polyolefin pipe collars and flexible flashing tape.
-```
+> ### Step-by-Step Under-Slab Sealing Specification
+>
+> 1. **Base Bed:** Install 4 inches of washed, clean 3/4-inch crushed stone over compacted soil (capillary break).
+> 2. **Thermal Break:** Lay 2 inches of continuous Type IV Extruded Polystyrene (XPS, R-10, 25 psi compressive strength).
+> 3. **Vapor Barrier:** Unroll 15-mil ASTM E1745 Class A barrier (Stego Wrap) directly over the XPS foam.
+> 4. **Lap Detailing:** Overlap all sheet seams by a minimum of 6 inches. Seal every seam continuously with manufacturer-approved acrylic seam tape (Stego Tape).
+> 5. **Perimeter Seal:** Turn the vapor retarder up the vertical foundation wall 4 inches and seal it airtight to the concrete using polyurethane elastomer mastic (Stego Mastic).
+> 6. **Pipe Boots:** Seal every plumbing pipe, radon vent, and conduit penetration using prefabricated polyolefin pipe collars and flexible flashing tape.
+
 
 ---
 

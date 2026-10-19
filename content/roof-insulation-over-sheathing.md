@@ -1,7 +1,7 @@
 ---
 title: "Adding Continuous Insulation When Replacing Your Roof: Over-Sheathing Cathedral Ceilings"
 slug: "roof-insulation-over-sheathing"
-format: "Feature"
+format: "Report"
 leadType: "Fact-First"
 category: "Roofing"
 catSlug: "roofing"
@@ -57,18 +57,18 @@ This presents three severe physical limitations in Midwest Climate Zones 4, 5, a
 
 The over-sheathing retrofit solves the cavity depth problem by building upward. The existing roof deck becomes the interior ceiling plane, and the new thermal and weather barriers are layered on top:
 
-> ### Over-Sheathing Cathedral Roof Assembly Stack (Top to Bottom)
->
-> | Layer Order | Assembly Component | Material Specification | Building Science Function |
-> | :--- | :--- | :--- | :--- |
-> | **1 (Top)** | Finished Cladding | Architectural Shingles or 24-Ga Standing Seam | Primary exterior water-shedding surface |
-> | **2** | Weather Barrier | Self-Adhered High-Temp Underlayment | 100% watertight secondary protection against ice backup |
-> | **3** | Nailing Deck | 5/8" CDX Plywood or Structural OSB | Solid fastening substrate for roofing shingles and screws |
-> | **4 (Optional)** | Ventilation Cavity | 1.5" Cross-Ventilated Gap (2x4 Sleepers) | Cold-roof airflow matrix; exhausts solar heat & snowmelt vapor |
-> | **5** | Continuous Thermal Barrier | Dual 2.0" Staggered Polyiso Boards (R-26) | Monolithic outboard insulation; breaks rafter thermal bridging |
-> | **6** | Air & Vapor Barrier | Self-Adhered SBS Modified Bitumen Membrane | Class I vapor retarder; permanently seals ceiling plane air leaks |
-> | **7** | Existing Substrate | Original Structural Roof Decking (Plank/OSB) | Interior support platform; remains warm and conditioned |
-> | **8 (Base)** | Living Space | Exposed Cathedral Ceiling / Conditioned Volume | Uncompromised architectural volume maintained at 70°F |
+### Over-Sheathing Cathedral Roof Assembly Stack (Top to Bottom)
+
+| Layer Order | Assembly Component | Material Specification | Building Science Function |
+| :--- | :--- | :--- | :--- |
+| **1 (Top)** | Finished Cladding | Architectural Shingles or 24-Ga Standing Seam | Primary exterior water-shedding surface |
+| **2** | Weather Barrier | Self-Adhered High-Temp Underlayment | 100% watertight secondary protection against ice backup |
+| **3** | Nailing Deck | 5/8" CDX Plywood or Structural OSB | Solid fastening substrate for roofing shingles and screws |
+| **4 (Optional)** | Ventilation Cavity | 1.5" Cross-Ventilated Gap (2x4 Sleepers) | Cold-roof airflow matrix; exhausts solar heat & snowmelt vapor |
+| **5** | Continuous Thermal Barrier | Dual 2.0" Staggered Polyiso Boards (R-26) | Monolithic outboard insulation; breaks rafter thermal bridging |
+| **6** | Air & Vapor Barrier | Self-Adhered SBS Modified Bitumen Membrane | Class I vapor retarder; permanently seals ceiling plane air leaks |
+| **7** | Existing Substrate | Original Structural Roof Decking (Plank/OSB) | Interior support platform; remains warm and conditioned |
+| **8 (Base)** | Living Space | Exposed Cathedral Ceiling / Conditioned Volume | Uncompromised architectural volume maintained at 70°F |
 
 ### Layer 1: The Primary Air & Vapor Barrier
 Once old shingles are stripped down to the original plywood or plank deck, trades thoroughly inspect and repair damaged wood. The entire roof deck is then covered with a **self-adhered SBS modified bitumen sheet membrane** (such as Grace Ice & Water Shield or Henry Blueskin PE200). 
@@ -145,17 +145,13 @@ The following table summarizes the complete material specification for an engine
 
 ---
 
-## Where to Put Your Capital: Shingle Tear-Off vs. Over-Deck Retrofit
+## 6. Engineering & Lifecycle Economic Baseline
 
-Before hiring a roofer to replace your aging shingles, determine whether an over-deck continuous insulation retrofit matches your home:
+An exterior continuous over-sheathing assembly adds approximately $4.25 to $6.50 per square foot over baseline shingle tear-off costs. This expenditure covers two layers of staggered 2-inch polyiso (R-26), heavy-duty HeadLOK structural timber fasteners, perimeter eave blocking, and a top 5/8-inch CDX structural nailing deck.
 
-1. **If You Have a Standard Vented Attic Space:**  
-   Do not add insulation over the roof deck. It is far more cost-effective ($1,800 to $3,200) to air-seal the attic ceiling drywall from inside and blow loose cellulose to R-60, maintaining an unconditioned, well-vented cold roof.  
-   &rarr; **[Read the Field Guide: Attic Air Sealing & Insulation: How Sealing Bypasses Cuts Heating Bills at 1/10th the Cost](energy-hikes.html)**
+By moving the original roof deck inboard of the continuous insulation, the structural framing and interior ceiling planks remain at a stable 68°F year-round. This thermal boundary continuity eliminates the condensing plane entirely, preventing seasonal moisture cycling and rot over the 30-year design life of the cladding.
 
-2. **If You Have Cathedral Ceilings, Finished Attics, or Post-and-Beam Vaults:**  
-   This is your once-in-thirty-years opportunity. Tearing down interior cedar planks or plaster costs $15,000 to $25,000 in demolition, drywall finishing, and painting. Investing an extra $4.00 to $6.50 per square foot for above-deck rigid polyiso and structural fasteners during your shingle replacement permanently eliminates ice dams, slashes heating costs by 35%, and transforms your vaulted rooms into the most comfortable spaces in the house.  
-   &rarr; **[Read the Field Guide: The Physics of Midwest Ice Dams: The Real Fix (And Why Heat Cables Don't Work)](ice-dams-roofs.html)**
+In contrast, attempting to insulate from below requires demolishing finished interior drywall or historic cedar planking, costing $16,000 to $24,000 while leaving rafter thermal bridges unaddressed. Outboard over-sheathing delivers true continuous thermal resistance that halts winter ice damming and reduces cathedral heating loads by 30% to 38%.
 
 ---
 
@@ -175,7 +171,9 @@ Before hiring a roofer to replace your aging shingles, determine whether an over
 
 ### Related Building Science Guides
 - **Roof Ice Dam Mechanics:** &rarr; **[Read: The Physics of Midwest Ice Dams: The Real Fix (And Why Heat Cables Don't Work)](ice-dams-roofs.html)**
+- **Attic Air Sealing & Baffling Tutorial:** &rarr; **[Read: Attic Air Sealing & Eave Baffling: The Step-by-Step Cold Roof Retrofit](attic-air-sealing-baffles.html)**
 - **Exterior Wall Thermal Breaks:** &rarr; **[Read: Continuous Exterior Insulation: Why R-5 Outboard Beats R-20 Cavity in Freeze-Thaw Climates](continuous-insulation.html)**
 - **Winter Utility Tariffs & Thermal Chimneys:** &rarr; **[Read: Winter Tariff Hikes: Why $20k on Windows Doesn't Hold Up](energy-hikes.html)**
 - **Post-Frame Residential Assemblies:** &rarr; **[Read: Barndominium & Post-Frame Thermal Envelopes: Zone 5 Condensation Control](barndominium-post-frame.html)**
 - **Cavity Insulation Density & Looping:** &rarr; **[Read: Does Rockwool Outperform Fiberglass? How Each Holds Up in Midwest Wall Assemblies](rockwool-vs-fiberglass.html)**
+

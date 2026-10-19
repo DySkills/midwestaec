@@ -139,7 +139,7 @@ No article may make an empirical performance claim without citing at least two o
 
 All diagrams across MIAEC must maintain a cohesive architectural whitepaper aesthetic:
 
-- **Style:** Clean, architectural cross-section linework drawn over a faint, light gray-blue blueprint grid background (`#FBFBFC` canvas with `#E2E8F0` gridlines).
+- **Style:** Clean, architectural cross-section linework drawn over a pure, solid off-white background (`#FBFBFC` canvas with **ZERO gridlines**, no blueprint grid, no graph paper texture).
 - **Color System (60-30-10):**
   - **Dominant Linework (60%):** Deep Navy (`#161F83`) for primary walls, structural framing, foundations, joists, and rafters.
   - **Secondary Flow & Air (30%):** Steel Blue (`#3274AE`) for cold outdoor air infiltration, bulk water, and neutral lines.

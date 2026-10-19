@@ -3,6 +3,49 @@
 
 var miaecData = [
   {
+    "title": "Attic Air Sealing & Eave Baffling: The Step-by-Step Cold Roof Retrofit",
+    "subtitle": "A complete jobsite execution guide: air-sealing ceiling bypasses, fastening rigid wind-wash baffles, and dense-blowing R-60 insulation to eliminate ice dams.",
+    "format": "Tutorial",
+    "leadType": "Process",
+    "category": "Roofing",
+    "catSlug": "roofing",
+    "cities": [
+      "Chicago",
+      "Cincinnati",
+      "Cleveland",
+      "Columbus",
+      "Des Moines",
+      "Detroit",
+      "Fargo",
+      "Indianapolis",
+      "Kansas City",
+      "Milwaukee",
+      "Minneapolis",
+      "Omaha",
+      "Rapid City",
+      "Sioux Falls",
+      "St. Louis"
+    ],
+    "states": [
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "MI",
+      "MN",
+      "MO",
+      "ND",
+      "NE",
+      "OH",
+      "SD",
+      "WI"
+    ],
+    "summary": "Permanent ice dam prevention requires stopping conditioned indoor air from leaking into the attic and maintaining an unobstructed soffit-to-ridge ventilation channel. This step-by-step tutorial details safety protocols, bypass sealing using one-component polyurethane foam, rigid rafter baffle fastening, and uniform R-60 loose-fill cellulose installation.",
+    "codeTag": "IRC Section R806.2 / IECC R402.4 / ASTM E779",
+    "type": "Tutorial",
+    "url": "articles/attic-air-sealing-baffles.html"
+  },
+  {
     "title": "Balloon Framing Air Leaks: How to Firestop and Seal the Chimney Effect in Pre-1940s Homes",
     "subtitle": "How continuous two-story wall cavities act as open thermal chimneys and fire spread corridors in pre-1940s Midwest urban neighborhoods, and how to air-seal them from the basement and attic.",
     "format": "Feature",
@@ -470,7 +513,7 @@ var miaecData = [
   },
   {
     "title": "The Physics of Midwest Ice Dams: The Real Fix (And Why Heat Cables Don't Work)",
-    "subtitle": "Why zigzag cables and roof rakes fail to stop interior leaks, the thermodynamics of 32°F melting planes, and the three air-sealing steps that permanently solve ice dams.",
+    "subtitle": "Why zigzag cables and roof rakes fail to stop interior leaks, the thermodynamics of 32°F melting planes, and how balanced cold roofs establish thermal equilibrium.",
     "format": "Feature",
     "leadType": "Descriptive",
     "category": "Roofing",
@@ -672,7 +715,7 @@ var miaecData = [
   {
     "title": "Adding Continuous Insulation When Replacing Your Roof: Over-Sheathing Cathedral Ceilings",
     "subtitle": "How to insulate vaulted ceilings and finished attics from the outside during a shingle tear-off, dew point math for Zone 5 unvented roofs, and structural timber screw fastening rules.",
-    "format": "Feature",
+    "format": "Report",
     "leadType": "Fact-First",
     "category": "Roofing",
     "catSlug": "roofing",
@@ -709,7 +752,7 @@ var miaecData = [
     ],
     "summary": "Cathedral ceilings and finished attic knee-wall rooms across the Midwest are notorious for winter drafts, stifling summer heat, and catastrophic ice dams. Tearing down interior plaster or tongue-and-groove wood is destructive. Over-sheathing adds continuous rigid polyiso or stone wool above the existing structural deck during roof replacement, bringing the entire framing inside the conditioned envelope.",
     "codeTag": "IRC Section R806.5 / ASTM C1289 / APA EWS",
-    "type": "Feature",
+    "type": "Report",
     "url": "articles/roof-insulation-over-sheathing.html"
   },
   {

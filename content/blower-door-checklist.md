@@ -1,7 +1,7 @@
 ---
 title: "How to Pass the Blower Door Test (< 3.0 ACH50) on a Midwest Remodel"
 slug: "blower-door-checklist"
-format: "Feature"
+format: "Listicle"
 leadType: "Process-First"
 category: "Air Barriers"
 catSlug: "air-barriers"
@@ -163,26 +163,6 @@ The table below details standard air-barrier materials, proper application zones
 | **HVAC Register Boots** | SMACNA HVAC Air Duct Leakage | Fiber-reinforced water-based duct mastic (UL 181A-M) to drywall | Conditioned air dumps into unconditioned wall/ceiling cavities. |
 | **Window & Door Jambs** | ASTM E2112 | Low-expansion, closed-cell window & door polyurethane foam | High draft infiltration around trim; bowed jambs if rigid foam used. |
 | **Attic Access Panel** | IECC Section R402.2.4 | R-38 foam board adhered to back + compressible EPDM gasket latched tight | Convective chimney loss directly into vented cold attic. |
-
----
-
-## Where to Put Your Capital: The Air-Sealing Budget
-
-When budgeting for air-tightness compliance on a Midwest residential project, allocate capital according to this proven cost-effectiveness hierarchy:
-
-1. **Step 1: Dedicate $450 to High-Grade Sealing Consumables:**  
-   Provide your framing and rough mechanical crews with professional-grade foam applicator guns, 12 cans of closed-cell polyurethane foam, two tubes of acoustic elastomeric sealant, and two rolls of split-release acrylic air-sealing tape (Tescon Vana or 3M 8067). This small investment prevents 80% of major leaks.
-   
-2. **Step 2: Commission a Pre-Drywall Rough Blower Door Test ($250 – $400):**  
-   Never skip the rough test. Spending $350 while the framing is exposed allows a single technician to find and foam hidden leaks in 45 minutes, saving thousands in potential rework.
-
-3. **Step 3: Detail Mechanical Penetrations and Chases ($300 – $600):**  
-   Require your HVAC contractor to mastic-seal every ceiling boot directly to the drywall cutout. Ensure plumbers pack foam around all drain and water supply penetrations through exterior walls.  
-   &rarr; **[Read: Continuous Exterior Insulation: Why R-5 Outboard Beats R-20 Cavity in Freeze-Thaw Climates](continuous-insulation.html)**
-
-4. **Step 4: Reserve Aerosolized Sealing for Complex Historic Envelopes ($2,200 – $3,500):**  
-   On pre-1940s balloon-frame or solid masonry retrofits where framing cavities are partially concealed, deploy AeroBarrier to guarantee sub-2.0 ACH50 performance without tearing down historic plaster.  
-   &rarr; **[Read: Balloon Framing Air Leaks: How to Firestop and Seal the Chimney Effect in Pre-1940s Homes](balloon-framing.html)**
 
 ---
 

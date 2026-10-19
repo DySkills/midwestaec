@@ -1,7 +1,7 @@
 ---
 title: "Does Rockwool Outperform Fiberglass? How Each Holds Up in Midwest Wall Assemblies"
 slug: "rockwool-vs-fiberglass"
-format: "Feature"
+format: "Listicle"
 leadType: "Contrast"
 category: "Go Green"
 catSlug: "go-green"
@@ -129,20 +129,6 @@ Upgrading an entire home from standard fiberglass to stone mineral wool represen
 | **Mechanical Room & Furnace Chases** | $0.55 – $0.75 | $1.15 – $1.40 | **High (Fire Containment & Noise Damping)**| **Stone Wool (Safe'n'Sound)** |
 | **Standard Interior Bedroom Partitions**| $0.45 – $0.65 | $1.00 – $1.25 | Moderate (Sound Isolation Only) | Homeowner Preference / Budget |
 | **Protected East & South Exterior Walls**| $0.70 – $0.90 | $1.30 – $1.65 | Moderate (Lower Thermal Delta) | High-Density Fiberglass or Stone Wool |
-
----
-
-## Where to Put Your Capital: Two Practical Jobsite Paths
-
-Before ordering insulation bundles or signing a framing insulation subcontractor bid, determine which path fits your budget and thermal goals:
-
-1. **The Whole-House High-Performance Path:**  
-   Specify stone wool (Rockwool Comfortbatt R-23 for 2x6 exterior walls, Safe'n'Sound for interior partitions). Combine with continuous exterior insulation (R-5 outboard mineral wool or polyiso) to eliminate thermal bridging through studs and provide an airtight, fireproof, and acoustically isolated building envelope.  
-   &rarr; **[Read the Field Guide: Continuous Exterior Insulation: Why R-5 Outboard Beats R-20 Cavity in Freeze-Thaw Climates](continuous-insulation.html)**
-
-2. **The Strategic Hybrid Allocation Path:**  
-   If budget constraints prevent 100% stone wool throughout, allocate your capital strategically. Install stone wool along cold basement rim joists, north-facing windward walls, bathroom plumbing walls, and mechanical closets. Use standard high-density fiberglass batts on less exposed south and east walls to capture 80% of building science benefits while controlling upfront costs.  
-   &rarr; **[Read the Buyer's Guide: Winter Tariff Hikes: Why $20k on Windows Doesn't Hold Up](energy-hikes.html)**
 
 ---
 

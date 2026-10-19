@@ -1,7 +1,7 @@
 ---
 title: "Expansive Lawncare & Acreage Grading: Swales, Prairie Buffers & Soil Drainage"
 slug: "expansive-lawncare"
-format: "Feature"
+format: "Report"
 leadType: "Contrast"
 category: "Rural Development"
 catSlug: "rural-development"
@@ -39,7 +39,7 @@ In reality, that weekly mower traffic has compressed the heavy Midwest glacial c
 
 ---
 
-## 1. Clay Hydrology & The Sub-Surface Mower Hardpan
+## Clay Hydrology & The Sub-Surface Mower Hardpan
 
 Most rural Midwest soils—from southern Minnesota down through Iowa, Illinois, and Missouri—consist of heavy, fine-particle glacial till and dense clay loam (predominantly montmorillonite and illite clays). Under native conditions, these soils are structured with billions of microscopic capillary macropores formed by decaying roots, earthworms, and fungal mycelium.
 
@@ -74,7 +74,7 @@ When an acreage owner introduces a commercial zero-turn mower, soil physics shif
 
 ---
 
-## 5. Equipment Economics: Fuel, Depreciation & Time Savings
+## Equipment Economics: Fuel, Depreciation & Time Savings
 
 Transitioning from an unmanaged 5-acre lawn to an engineered Three-Zone acreage yields immediate financial and mechanical dividends:
 
@@ -86,22 +86,6 @@ Transitioning from an unmanaged 5-acre lawn to an engineered Three-Zone acreage 
 | **Zero-Turn Mower Depreciation** | Replacement required every 5–7 yrs | **Equipment lasts 15–20 yrs** | **~$1,200 Annual Asset Savings** |
 | **Chemical Fertilizers & Weed Control**| $600 – $900 / Year | **$0 / Year (Native self-sustaining)** | $750 Annual Chemical Savings |
 | **Total Annual Ownership Cost** | **$2,800 – $3,800 / Year** | **$600 – $900 / Year** | **$2,200+ Net Annual Savings** |
-
----
-
-## Where to Put Your Capital: The 3-Step Acreage Transition Plan
-
-If your rural acreage suffers from standing water, ruts, and relentless weekend mowing, execute this transition plan over two seasons:
-
-1. **Phase 1: Regrade Your Primary Civil Swales ($1,800 – $3,200):**  
-   Hire a local excavation contractor with a laser-guided skid steer or mini-excavator to cut broad 10:1 parabolic swales that route water around your home and shop. Line the swale bottoms with coir erosion blankets to lock the grade in place before the next rainy season.
-
-2. **Phase 2: Establish Your Zone 2 Low-Mow Transition Belt ($400 – $800):**  
-   Overseed the middle acreage (40 to 120 feet from the house) with low-mow fine fescues and white Dutch clover. Raise your mower deck to 4.5 inches and extend your mowing interval to once a month, immediately cutting fuel consumption in half.
-
-3. **Phase 3: Seed Your Outlying Acres in Native Tallgrass ($600 – $1,200):**  
-   Prepare the outer acreage in late fall with a dormant frost-seeding of native prairie grasses and wildflowers. By year two, their 10-foot root systems will drink thousands of gallons of runoff per storm, ending foundation moisture risks and eliminating weekend lawn maintenance forever.  
-   &rarr; **[Read the Field Guide: Barndominium & Post-Frame Thermal Envelopes: Zone 5 Condensation Control](barndominium-post-frame.html)**
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "SIPs (Structural Insulated Panels) in Zone 5: Total Cost vs. Traditional Stick Framing"
 slug: "sips-vs-traditional-framing"
-format: "Feature"
+format: "Report"
 leadType: "Cost-First"
 category: "Envelopes"
 catSlug: "envelopes"
@@ -51,7 +51,7 @@ Figure 1.2: Structural Insulated Panel (SIP) — Monolithic 6.5-inch composite o
 
 ---
 
-## 1. Engineering Anatomy: EPS, GPS, and Polyurethane Cores
+## Engineering Anatomy: EPS, GPS, and Polyurethane Cores
 
 A Structural Insulated Panel is a structural composite engineered according to **IRC Section R610** and tested under **ASTM E72** for transverse load and compressive strength. It functions as an I-beam in cross section: the rigid foam core acts as the web, resisting shear loads, while the outer structural OSB skins act as the flanges, resisting compressive and tensile forces.
 
@@ -74,7 +74,7 @@ A Structural Insulated Panel is a structural composite engineered according to *
 
 ---
 
-## 2. The Whole-Wall R-Value Reality: Thermal Bridging
+## The Whole-Wall R-Value Reality: Thermal Bridging
 
 The primary thermodynamic flaw of traditional wood framing is **thermal bridging through dimensional lumber**. 
 
@@ -93,7 +93,7 @@ To equal the true thermal performance of a standard 6.5-inch SIP wall, a stick-b
 
 ---
 
-## 3. Air Permeance & Blower Door Economics
+## Air Permeance & Blower Door Economics
 
 Under the 2024 International Energy Conservation Code (IECC Section R402.4), homes in Climate Zones 3 through 8 must achieve an envelope tightness of **3.0 ACH50 or less**. High-performance builders and utility rebate programs target **1.0 to 1.5 ACH50**, while Passive House mandates **0.60 ACH50**.
 
@@ -111,7 +111,7 @@ In contrast, SIPs are fundamentally airtight by design:
 
 ---
 
-## 4. The Critical Joint Detail: Cold-Climate Roof Rot Prevention
+## The Critical Joint Detail: Cold-Climate Roof Rot Prevention
 
 While SIP walls are exceptionally forgiving, **SIP roof assemblies in Climate Zones 5, 6, and 7 carry one unforgiving failure mode** that every builder and inspector must understand: moisture condensation at panel splines.
 
@@ -153,24 +153,6 @@ The table below provides a comprehensive jobsite financial comparison for a 2,50
 | **Total Shell & Mechanical Installed Cost** | **$91,300** | **$85,950** | **-$5,350 NET SAVINGS** |
 | **Envelope Blower Door Test Result** | 2.2 – 2.8 ACH50 | **0.6 – 1.0 ACH50** | **65% Tighter Envelope** |
 | **Annual Heating & Cooling Operating Cost** | $1,850 / year | **$1,180 / year** | **$670 / year Ongoing Savings** |
-
----
-
-## Where to Put Your Capital: The Builder's Decision Matrix
-
-When deciding between SIPs and advanced stick framing in the Midwest, evaluate your project against these operational realities:
-
-1. **Choose SIPs If:**
-   - **Jobsite Labor Is Scarce:** If skilled framing carpenters in your regional market command $65+/hr and framing schedules are backlogged months, SIP factory fabrication converts scarce jobsite carpentry into fast crane erection.
-   - **You Are Designing Cathedral or Vaulted Ceilings:** Framing a cathedral ceiling with 2x12 rafters that meets the R-49 or R-60 code requires massive framing depths, intricate soffit-to-ridge venting baffles, and deep over-sheathing. A 10.25-inch or 12.25-inch SIP roof spans structural ridge beams directly with zero truss clutter and zero venting baffles.  
-   &rarr; **[Read: Unvented Roof Assemblies: Rigid Foam Over Sheathing vs. Spray Foam](roof-insulation-over-sheathing.html)**
-   - **Your Goal Is True Net-Zero or Electrification:** When pairing with cold-climate heat pumps, dropping the design heat loss to 22,000 BTU/hr ensures the home never trips auxiliary electric resistance heat strips during polar vortex conditions.  
-   &rarr; **[Read: Can a Heat Pump Actually Handle -15°F? Cold-Climate Inverters During Midwest Winters](cold-climate-heat-pumps.html)**
-
-2. **Stick with Advanced Stick Framing If:**
-   - The architectural design features highly intricate exterior walls with dozens of offsets, bay projections, or irregular cantilevers that negate panelized manufacturing efficiencies.
-   - The local building department is unfamiliar with IRC Section R610 and refuses to approve non-prescriptive engineering submittals without expensive third-party stamped reviews.
-   - The builder cannot secure a factory-certified SIP installer. Improperly foamed splines will destroy an otherwise exceptional envelope.
 
 ---
 

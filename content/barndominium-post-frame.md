@@ -41,7 +41,7 @@ The moment the vapor touches the freezing metal, it condenses into liquid water.
 
 ---
 
-## 1. The Residential Moisture Multiplier: Barns vs. Living Spaces
+## The Residential Moisture Multiplier: Barns vs. Living Spaces
 
 Post-frame construction was originally developed for agricultural pole barns—unheated machinery sheds, livestock run-ins, and grain storage. In those applications, the structure performs admirably for decades. 
 
@@ -57,7 +57,7 @@ Why do agricultural pole barns survive without rot, while residential barndomini
 
 ---
 
-## 2. The Direct-Steel Thermal Bridge & The Condensation Waterfall
+## The Direct-Steel Thermal Bridge & The Condensation Waterfall
 
 In standard builder-grade pole barn construction, horizontal 2x4 or 2x6 wood girts are fastened to the exterior face of 6x6 solid posts at 24-inch vertical intervals. The exterior 26-gauge corrugated steel siding is then screwed directly to these wood girts using painted hex-head screws with neoprene washers.
 
@@ -71,7 +71,7 @@ This creates three critical building science failures:
 
 ---
 
-## 3. The Engineered Solution: Outboard Insulation & Ventilated Rainscreen
+## The Engineered Solution: Outboard Insulation & Ventilated Rainscreen
 
 To build a residential post-frame home that lasts 50 to 100 years in Climate Zones 4, 5, and 6, the building envelope must be engineered under residential commercial standards (*IBC Section 1404.2* and *IRC Section R702.7*).
 
@@ -92,7 +92,7 @@ Furthermore, the vertical 1x4 furring strips create a **3/4-inch ventilated rain
 
 ---
 
-## 4. Foundation Engineering: Eliminating In-Ground Column Rot
+## Foundation Engineering: Eliminating In-Ground Column Rot
 
 The second major vulnerability of rural post-frame homes is the ground interface. Traditional pole barn construction involves digging four-foot holes into the earth, pouring an unreinforced concrete punch pad at the bottom, and setting pressure-treated 6x6 posts directly into the dirt.
 
@@ -111,7 +111,7 @@ Engineered residential post-frame structures replace direct ground burial with *
 
 ---
 
-## 5. Specification Comparison: Agricultural Barn vs. Residential Barndominium
+## Specification Comparison: Agricultural Barn vs. Residential Barndominium
 
 The following table contrasts standard pole barn practices against the mandatory building science specifications for residential occupancy in Climate Zones 4, 5, and 6:
 
@@ -124,26 +124,6 @@ The following table contrasts standard pole barn practices against the mandatory
 | **Cavity Wall Insulation** | R-19 low-density fiberglass batts | **R-23 Dense Stone Wool or High-Density Cellulose** | ASTM C518 / ASTM C665 |
 | **Interior Vapor Retarder** | 6-mil polyethylene sheet | **Smart Variable-Permeance Membrane (MemBrain)** | ASTM E96 (Desiccant Method) |
 | **Concrete Slab Thermal Break** | Uninsulated slab poured against post | **R-10 Continuous EPS Sub-Slab with 15-Mil Poly** | 2024 IRC Section R402.2.10 |
-
----
-
-## Where to Put Your Capital: Builder Specifications to Demand
-
-When soliciting bids from post-frame and barndominium builders across the Midwest, do not accept a converted agricultural specification. 
-
-Demand the following three non-negotiable line items in your builder contract:
-
-1. **Demand an Outboard Rainscreen and Continuous Insulation Package:**  
-   Require a minimum of 1-inch continuous foil-faced polyisocyanurate (R-6.5) or mineral wool board (R-8) outboard of the horizontal framing girts, fastened with vertical 1x4 treated furring strips. This 8% increase in upfront shell costs pays for itself within five years by reducing winter propane or electric heating consumption by 40% to 50%.  
-   &rarr; **[Read the Field Guide: Continuous Exterior Insulation: Why R-5 Outboard Beats R-20 Cavity in Freeze-Thaw Climates](continuous-insulation.html)**
-
-2. **Specify Concrete Perma-Columns or Wet-Set Brackets:**  
-   Refuse any contract that includes setting wood posts directly into dirt holes. Insist on precast concrete Perma-Columns or poured-in-place concrete piers with engineered steel brackets that elevate timber columns a minimum of 8 inches above final exterior grade.  
-   &rarr; **[Read the Foundation Guide: ICF vs. Poured Concrete Basements: Thermal Bridging and Hydrostatic Engineering](icf-basements-walls.html)**
-
-3. **Install Smart Variable-Permeance Vapor Retarders:**  
-   Never allow a builder to staple standard 6-mil clear poly behind your interior shiplap or drywall. In Midwest summer humidity, 6-mil poly traps inward moisture drive against wood framing, creating wall rot in July. Specify a smart variable-permeance membrane (such as CertainTeed MemBrain) that stays closed in winter to block indoor vapor, but opens its pores in summer to allow assemblies to dry to the interior.  
-   &rarr; **[Read the Technical Guide: Smart Vapor Retarders: Why 6-Mil Poly Traps Summer Moisture in Zone 5](smart-vapor-retarders.html)**
 
 ---
 

@@ -49,7 +49,7 @@ Every 16 inches along your wall, you have a solid wood highway connecting 70°F 
 
 ---
 
-## 1. Dew Point Physics: Why Outboard Insulation Prevents Rot
+## Dew Point Physics: Why Outboard Insulation Prevents Rot
 
 The most dangerous consequence of cavity-only insulation in Midwest winters is not heat loss—it is structural moisture condensation.
 
@@ -67,7 +67,7 @@ Because the wood sheathing never drops below the 41°F dew point, moisture vapor
 
 ---
 
-## 2. Material Teardown: Choosing the Right Outboard Layer
+## Material Teardown: Choosing the Right Outboard Layer
 
 Selecting continuous exterior insulation requires balancing thermal resistance, vapor permeability, and freeze-thaw moisture durability.
 
@@ -86,7 +86,7 @@ Foil-faced polyisocyanurate provides the highest R-value per inch (R-6.0), but p
 
 ---
 
-## 3. The Re-Siding Golden Window
+## The Re-Siding Golden Window
 
 Attempting to add continuous exterior insulation to an existing home as a standalone project is rarely cost-effective because of siding removal and re-installation costs.
 
@@ -98,7 +98,7 @@ When factored into a $14,000 to $22,000 re-siding project, an additional $4,500 
 
 ---
 
-## 4. Mechanical Fastening & Rainscreen Specification
+## Mechanical Fastening & Rainscreen Specification
 
 Installing cladding over 1.5 to 2 inches of exterior insulation requires strict adherence to structural fastening details compliant with **IRC Section R703.15**.
 
@@ -117,7 +117,7 @@ Installing cladding over 1.5 to 2 inches of exterior insulation requires strict 
 
 ---
 
-## 5. How to Keep Siding Contractors Honest
+## How to Keep Siding Contractors Honest
 
 Most traditional siding crews have never installed cladding over continuous exterior insulation and will attempt to cut critical corners:
 

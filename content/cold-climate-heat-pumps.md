@@ -1,7 +1,7 @@
 ---
 title: "Can a Heat Pump Actually Handle -15°F? Cold-Climate Inverters During Midwest Winters"
 slug: "cold-climate-heat-pumps"
-format: "Feature"
+format: "Report"
 leadType: "Fact-First"
 category: "HVAC"
 catSlug: "hvac"
@@ -41,7 +41,7 @@ For decades, the prevailing Midwest wisdom was absolute: heat pumps belong in Ge
 
 ---
 
-## 1. Thermodynamic Realities: Vapor Flash-Injection & The Flat Capacity Curve
+## Thermodynamic Realities: Vapor Flash-Injection & The Flat Capacity Curve
 
 To understand why cold-climate inverters succeed where older heat pumps failed, you have to look at why heat pumps traditionally lose heating power in winter:
 
@@ -58,7 +58,7 @@ Modern cold-climate systems solve this through **vapor flash-injection** (acting
 
 ---
 
-## 2. Real-World Efficiency: The Sub-Zero COP Curve
+## Real-World Efficiency: The Sub-Zero COP Curve
 
 Evaluating heat pump performance requires understanding the **Coefficient of Performance (COP)**—the ratio of useful heat energy delivered to electrical energy consumed. A high-efficiency condensing natural gas furnace operating at 96% annual fuel utilization efficiency (AFUE) operates at the thermodynamic equivalent of a COP of 0.96. Electric resistance heat strips convert electricity directly into heat with zero mechanical advantage, yielding a fixed COP of exactly 1.0.
 
@@ -73,7 +73,7 @@ Even during historic sub-zero cold snaps, an inverter heat pump delivers 60% to 
 
 ---
 
-## 3. Certified Cold-Climate Benchmark: Top Midwest Performers
+## Certified Cold-Climate Benchmark: Top Midwest Performers
 
 The following table summarizes independent performance ratings certified under the **Northeast Energy Efficiency Partnerships (NEEP)** Cold-Climate Air-Source Heat Pump specification and the **AHRI Directory of Certified Product Performance**:
 
@@ -91,7 +91,7 @@ Systems engineered with dedicated flash-injection circuits (such as Mitsubishi H
 
 ---
 
-## 4. The Dual-Fuel Strategy & Economic Balance Points
+## The Dual-Fuel Strategy & Economic Balance Points
 
 In Missouri, Illinois, Indiana, Ohio, and Iowa, the most practical and cost-effective mechanical setup is frequently not an all-electric conversion, but a **dual-fuel hybrid system**. A dual-fuel assembly pairs an outdoor cold-climate inverter heat pump with an indoor natural gas or propane furnace serving as the secondary air handler and backup heat source.
 
@@ -104,7 +104,7 @@ Configuring the thermostat with an outdoor ambient sensor allows the heat pump t
 
 ---
 
-## 5. Contractor Sizing & The Summer Humidity Trap
+## Contractor Sizing & The Summer Humidity Trap
 
 The primary failure point of heat pump retrofits across the Midwest is not mechanical failure, but improper equipment sizing by contractors relying on outdated "rules of thumb." Sizing an HVAC system based on square footage (such as 1 ton of capacity per 500 square feet) routinely leads to massive oversizing.
 
@@ -115,20 +115,6 @@ Short-cycling prevents the indoor evaporator coil from remaining cold long enoug
 - **Contractor Mandate 1:** Insist on an **ACCA Manual J** heating and cooling load calculation based on verified building envelope specifications, not rule-of-thumb guesswork.
 - **Contractor Mandate 2:** Select an inverter system capable of low-load turndown modulation down to 25% or 30% of rated cooling capacity to maintain extended dehumidification runtimes in summer.
 - **Contractor Mandate 3:** In finished walkout basements or homes with high latent moisture loads, install a dedicated whole-home dehumidifier paired with the central ductwork rather than oversizing the cooling tonnage.
-
----
-
-## Where to Put Your Capital: All-Electric vs. Dual-Fuel Hybrid
-
-Before selecting equipment, determine which path matches your utility service and electrical infrastructure:
-
-1. **If You Have Existing Natural Gas Service (The Dual-Fuel Hybrid Path):**  
-   Pair a cold-climate inverter heat pump with a 96% AFUE two-stage gas furnace. Set your economic balance point between 15°F and 20°F. The heat pump covers 80%+ of heating season hours at high electrical COP, while the furnace carries sub-zero polar vortexes without requiring a 200A service upgrade.  
-   &rarr; **[Read the Field Guide: Dual-Fuel Setup: How Hybrid Heat Pumps Slash Midwest Heating Bills by 70%](articles/cold-climate-heat-pumps.html)**
-
-2. **If You Are On Propane, Fuel Oil, or Going Net-Zero All-Electric (The Cold-Climate Inverter Path):**  
-   Invest in a top-tier flash-injection system (Mitsubishi Hyper-Heat or Fujitsu XLTH) with 100% capacity at -5°F, backed by a staged 10 kW electric resistance strip. Complete comprehensive attic air sealing and rim joist insulation first to drop the design heat load by 25% to 35%, allowing smaller tonnage equipment.  
-   &rarr; **[Read the Field Guide: All-Electric Conversion: Panel Sizing, Cold-Climate Inverters, and Backup Strip Rules](articles/cold-climate-heat-pumps.html)**
 
 ---
 

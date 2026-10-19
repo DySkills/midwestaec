@@ -1,7 +1,7 @@
 ---
 title: "Crawlspace Encapsulation vs. Open Venting in the Midwest: Mold, Odors & Heating Costs"
 slug: "crawlspace-encapsulation"
-format: "Feature"
+format: "Report"
 leadType: "Contrast"
 category: "Water Barriers"
 catSlug: "water-barriers"
@@ -47,7 +47,7 @@ The homeowner assumed opening the vents wider would dry the crawlspace out. In r
 
 ---
 
-## 1. The Psychrometric Trap of Summer Crawlspace Venting
+## The Psychrometric Trap of Summer Crawlspace Venting
 
 The physics of crawlspace moisture failure is governed by **psychrometrics**—the thermodynamic relationship between air temperature, absolute moisture content, and relative humidity (RH).
 
@@ -70,7 +70,7 @@ An open-vented crawlspace in the Midwest functions as an **industrial dehumidifi
 
 ---
 
-## 2. The Stack Effect: Why Crawlspace Air Becomes Upstairs Air
+## The Stack Effect: Why Crawlspace Air Becomes Upstairs Air
 
 Many homeowners believe that whatever happens in the crawlspace stays in the crawlspace. Building science demonstrates the complete opposite.
 
@@ -90,7 +90,7 @@ When a crawlspace is filled with mold, airborne fungal spores and toxic mycotoxi
 
 ---
 
-## 3. The Winter Disaster: Freezing Floors and Sagging Batts
+## The Winter Disaster: Freezing Floors and Sagging Batts
 
 In winter, the open-vent theory fails just as catastrophically.
 
@@ -103,7 +103,7 @@ When outdoor temperatures in Chicago, Des Moines, or Minneapolis plunge to -10°
 
 ---
 
-## 4. The Engineered Solution: IRC Section R408.3 Encapsulation
+## The Engineered Solution: IRC Section R408.3 Encapsulation
 
 Under the International Residential Code (IRC Section R408.3), builders are legally permitted to eliminate exterior foundation vents entirely and encapsulate the crawlspace as a **sealed, conditioned building space**:
 
@@ -116,32 +116,11 @@ Under the International Residential Code (IRC Section R408.3), builders are lega
 > | **[3] Heavy Ground Vapor Barrier** | 12-mil to 20-mil multi-layer virgin polyolefin | Stops 100% of subterranean moisture evaporation; seams lapped 12" and sealed |
 > | **[4] Dedicated Conditioning** | Commercial dehumidifier (e.g., Santa Fe Compact70) | Maintains crawlspace relative humidity strictly between 45% and 55% year-round |
 
-> ### Step-by-Step Encapsulation Specification
->
-> 1. **Vent Sealing & Air Isolation:**
->    - Remove metal vent grilles. Seal vent openings with 2-inch closed-cell XPS foam board cut to fit.
->    - Seal perimeter of foam plugs with expanding closed-cell polyurethane foam and silicone sealant.
->    - Air-seal the rim joist and mudsill perimeter around the entire foundation using 2 inches of closed-cell spray foam (R-13).
->
-> 2. **Ground Clearance & Geotextile Underlayment:**
->    - Remove all debris, sharp rocks, and organic wood scraps from the crawlspace dirt floor.
->    - Grade the dirt toward a sump pit to eliminate low spots where water could pool.
->    - In rocky or rough soil, install a 4-ounce non-woven geotextile cushion fabric over the dirt to protect the vapor barrier from puncture.
->
-> 3. **Class A Reinforced Vapor Barrier (ASTM E1745):**
->    - Unroll minimum 12-mil (preferably 20-mil) multi-layer virgin polyolefin reinforced barrier (e.g., Stego Wrap 20-Mil or crawlspace-grade scrim-reinforced liner).
->    - Overlap all roll seams by a minimum of 12 inches. Seal continuously with 4-inch heavy-duty double-sided butyl tape and acrylic seam tape.
->    - Run the barrier 12 inches up the vertical concrete stem walls and wrap all interior support piers.
->    - Fasten the liner to the concrete using galvanized termination bars and polyurethane adhesive mastic.
->
-> 4. **Stem Wall Thermal Insulation:**
->    - Install 2 inches of continuous foil-faced polyisocyanurate board (R-13) or 2 inches of closed-cell spray foam directly against the interior face of the foundation stem walls.
->    - In termite-prone regions (IRC Section R318.4), leave a continuous 3-inch bare concrete gap between the top of the insulation and the wood mud sill to allow termite mud tube inspections.
->
-> 5. **Active Conditioning & Moisture Control:**
->    - Install a dedicated, high-efficiency commercial crawlspace dehumidifier (e.g., Santa Fe Advance90 or AprilAire E070) equipped with an automatic digital humidistat set to 50% RH.
->    - Hard-pipe the dehumidifier condensate drain to an interior sump pit or gravity drain to daylight (never rely on manual drain buckets).
->    - Alternatively, per IRC Section R408.3.2.2, supply 1 CFM of conditioned supply air per 50 sq.ft of crawlspace floor area from the central HVAC system.
+Converting a crawlspace under IRC Section R408.3 fundamentally changes its thermodynamic relationship to the rest of the building. Rather than attempting to ventilate away ground moisture with humid summer outdoor air, encapsulation creates a sealed, conditioned enclosure that isolates the foundation framing from both outdoor weather extremes and subterranean earth dampness.
+
+By closing the foundation vents, installing a monolithic 20-mil Class A vapor barrier across the dirt floor and up the stem walls, and insulating the foundation perimeter, the sub-floor space is brought inside the home's thermal and pressure boundary. Conditioning the space with a dedicated commercial low-temperature dehumidifier permanently maintains relative humidity between 45% and 55%, ensuring structural joists remain dry, stable, and immune to fungal decay.
+
+&rarr; **[Step-by-Step Tutorial: How to Encapsulate a Crawlspace](crawlspace-encapsulation-steps.html)**
 
 ---
 
@@ -159,26 +138,6 @@ The table below contrasts traditional open-vented crawlspaces against fully seal
 | **Radon Infiltration Risk** | High (Drawn in by stack effect) | **Mitigated (Class A liner acts as radon retarder)** |
 | **Plumbing Freeze Vulnerability** | High (Requires heat tape in polar vortex) | **Virtually Zero (Crawlspace stays at 60°F+)** |
 | **Annual Heating & Cooling Costs** | Baseline | **15% to 22% Reduction in utility bills** |
-
----
-
-## Where to Put Your Capital: The Encapsulation Budget
-
-If your Midwest home sits on an open-vented crawlspace, prioritize capital expenditure with this step-by-step roadmap:
-
-1. **Step 1: Install Sump Drainage If Standing Water Exists ($1,800 – $3,200):**  
-   Never encapsulate a crawlspace that experiences standing bulk water. Install an interior perimeter perforated drain pipe leading to a sealed sump pit with battery backup before laying plastic.
-   
-2. **Step 2: Install 15-Mil or 20-Mil Reinforced Ground Liner ($0.85 – $1.40 / sq.ft):**  
-   Do not waste money on generic 6-mil construction poly; it will tear the first time a plumber crawls across it. Specify a puncture-resistant, scrim-reinforced Class A polyolefin liner sealed 12 inches up the walls.  
-   &rarr; **[Read: Why Water Enters Midwest Basements After Heavy Rain: Hydrostatic Head and Under-Slab Vapor Barriers](basement-waterproofing.html)**
-
-3. **Step 3: Seal Exterior Vents & Rim Joists ($600 – $1,400):**  
-   Permanently block all foundation vent openings and spray 2 inches of closed-cell foam along the entire rim joist perimeter to halt air infiltration.  
-   &rarr; **[Read: How to Pass the Blower Door Test (< 3.0 ACH50) on a Midwest Remodel](blower-door-checklist.html)**
-
-4. **Step 4: Invest in a Commercial Crawlspace Dehumidifier ($1,600 – $2,400 Installed):**  
-   Never install a cheap $250 residential basement dehumidifier in a crawlspace. Residential units freeze up below 65°F and burn out within two seasons. Invest in a dedicated low-temperature commercial unit (Santa Fe, AprilAire, or Therma-Stor) with a 5-year commercial compressor warranty.
 
 ---
 

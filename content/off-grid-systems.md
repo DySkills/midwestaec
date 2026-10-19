@@ -1,7 +1,7 @@
 ---
 title: "Rural Off-Grid Systems in Zone 5: Propane, Battery Backup & Freeze-Proof Wells"
 slug: "off-grid-systems"
-format: "Feature"
+format: "Report"
 leadType: "Fact-First"
 category: "Rural Development"
 catSlug: "rural-development"
@@ -41,7 +41,7 @@ Living off-grid or designing resilient rural backup infrastructure in Climate Zo
 
 ---
 
-## 1. Propane Thermodynamics: Sizing for -20°F Vaporization Rates
+## Propane Thermodynamics: Sizing for -20°F Vaporization Rates
 
 Liquid propane (LPG) stored in outdoor steel tanks is not stored as a pressurized gas—it is a boiling liquid resting under its own vapor pressure. At atmospheric pressure, liquid propane boils into vapor at -44°F (-42°C).
 
@@ -68,7 +68,7 @@ However, when an acreage owner plows or snowblows the gravel driveway down to ba
 
 ---
 
-## 3. Battery Storage in Zone 5: The LiFePO4 Thermal Lockout
+## Battery Storage in Zone 5: The LiFePO4 Thermal Lockout
 
 Modern off-grid and hybrid solar installations have transitioned from flooded lead-acid batteries to **Lithium Iron Phosphate (LiFePO4)** chemistry. LiFePO4 offers 4,000 to 6,000 charge cycles, zero off-gassing, 95% round-trip efficiency, and 100% usable depth of discharge.
 
@@ -86,7 +86,7 @@ If an off-grid system mounts a lithium battery bank inside an unconditioned gara
 
 ---
 
-## 4. Microgrid Architecture & Well Pump Starting Surges
+## Microgrid Architecture & Well Pump Starting Surges
 
 In an off-grid or backup scenario, sizing equipment strictly by nominal operating wattage guarantees electrical trip-outs. The primary hurdle in rural mechanical rooms is **inductive motor starting inrush**.
 
@@ -108,7 +108,7 @@ If an off-grid homeowner connects a standard 6,000-watt inverter or an 8 kW port
 
 ---
 
-## 5. Specification Benchmark: Rural Zone 5 Utility Infrastructure
+## Specification Benchmark: Rural Zone 5 Utility Infrastructure
 
 The following table summarizes the verified engineering standards required to build a freeze-proof, blackout-resilient utility plant for rural Midwest properties:
 
@@ -120,22 +120,6 @@ The following table summarizes the verified engineering standards required to bu
 | **Battery Chemistry Placement**| Lithium in unconditioned garage | **LiFePO4 in Conditioned Space or Self-Heating** | NEC Article 706 / UL 1973 |
 | **Well Pump Control** | Direct-across-the-line pressure switch| **Solid-State Soft-Starter (Max 15A Inrush)** | NEC Article 430 (Motors & Controllers) |
 | **Critical Load Segregation**| Backfeeding main panel via interlock | **Dedicated Critical Load Subpanel + Auto Transfer**| NEC Article 702 (Optional Standby) |
-
----
-
-## Where to Put Your Capital: Homestead Utility Priorities
-
-When budgeting an off-grid conversion or blackout-resilient utility package for a rural acreage, allocate your capital in three sequential tiers:
-
-1. **Tier 1: Bury Your Propane Storage ($2,800 – $4,500):**  
-   Prioritize a 500- or 1,000-gallon underground propane tank over a larger generator. A buried tank surrounded by 48°F soil delivers infinite vaporization capacity during -25°F cold snaps, preventing regulator freeze-up and allowing smaller 10 kW generators to run continuously without fuel starvation.
-
-2. **Tier 2: Install a Well Pump Soft-Starter ($450 – $750):**  
-   Before spending $12,000 on an oversized 20 kW generator to handle well pump starting spikes, install an engineered solid-state soft-starter on your existing 240V well pump controller. Capping the inrush spike at 3,600 watts cuts required generator capacity in half, saving thousands in generator purchase and fuel operating costs.
-
-3. **Tier 3: Build a Conditioned Battery & Mechanical Vault ($1,500 – $2,500):**  
-   Never place power electronics or lithium storage in an unheated outbuilding. Dedicate an insulated, conditioned room inside the home envelope for your inverters, charge controllers, and battery banks. Keeping cells between 55°F and 75°F year-round protects manufacturer warranties and guarantees full charging performance during sub-zero grid outages.  
-   &rarr; **[Read the Field Guide: Barndominium & Post-Frame Thermal Envelopes: Zone 5 Condensation Control](barndominium-post-frame.html)**
 
 ---
 

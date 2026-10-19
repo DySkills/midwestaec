@@ -1,7 +1,7 @@
 ---
 title: "Embodied Carbon & Bio-Based Insulation: Decarbonizing Midwest Envelopes"
 slug: "embodied-carbon-materials"
-format: "Feature"
+format: "Report"
 leadType: "Fact-First"
 category: "Go Green"
 catSlug: "go-green"
@@ -45,7 +45,7 @@ House B is a **net carbon sink**: its thermal envelope locked away **4,200 kilog
 
 ---
 
-## 1. Upfront Embodied Carbon vs. Operational Carbon
+## Upfront Embodied Carbon vs. Operational Carbon
 
 In building science life-cycle assessment (LCA), governed by **ISO 21930** and **ASHRAE Standard 240P**, a building's total carbon emissions are divided into two distinct chronological phases:
 
@@ -66,7 +66,7 @@ Because operational carbon drops every single year as the grid cleans up, **upfr
 
 ---
 
-## 2. The Petrochemical Foam Trap: Blowing Agent GWP
+## The Petrochemical Foam Trap: Blowing Agent GWP
 
 The primary driver of embodied carbon in conventional high-performance buildings is **petroleum-derived plastic foam**.
 
@@ -101,7 +101,7 @@ While building codes and the EPA AIM Act have mandated transitions to low-GWP HF
 
 ---
 
-## 4. Hygrothermal Resilience: Why Bio-Based Materials Out-Breathe Foam
+## Hygrothermal Resilience: Why Bio-Based Materials Out-Breathe Foam
 
 Beyond carbon metrics, bio-based insulations offer profound physical advantages in Midwest mixed-humid to cold climates due to their **hygroscopic permeability**.
 
@@ -137,26 +137,6 @@ The table below contrasts standard envelope insulations across carbon intensity,
 | **Vapor Permeance** | **> 35 Perms (Vapor-open)**| **> 25 Perms (Vapor-open)** | **> 30 Perms (Vapor-open)** | 1.5 to 3.0 Perms | **0.8 to 1.1 Perms (Vapor retarder)** |
 | **Fire Safety Rating** | Class A (Borate-treated) | Class B (Self-charring) | **Non-Combustible (2,150°F)**| Combustible (Melts at 200°F) | Combustible (Melts at 200°F) |
 | **Sound Absorption (NRC)** | **0.90 (Excellent)** | **0.85 (Excellent)** | **0.95 (Exceptional)** | 0.20 (Poor acoustic barrier)| 0.20 (Poor acoustic barrier)|
-
----
-
-## Where to Put Your Capital: The Low-Carbon Material Roadmap
-
-If you want to construct or remodel a home in the Midwest that minimizes embodied carbon without sacrificing durability or budget, follow this specification blueprint:
-
-1. **Step 1: Replace Wall Batts with Dense-Pack Cellulose ($1.10 – $1.45 / sq.ft):**  
-   Replace fiberglass or open-cell spray foam with borate-treated dense-pack cellulose blown at 3.5 lbs/cu.ft in all exterior stud cavities. It stops convective looping, provides superior acoustic dampening, and instantly converts your walls into a carbon sink.  
-   &rarr; **[Read: Does Rockwool Outperform Fiberglass? How Each Holds Up in Midwest Wall Assemblies](rockwool-vs-fiberglass.html)**
-
-2. **Step 2: Use Basalt Stone Wool in Wet or Fire-Critical Assemblies ($1.20 – $1.65 / sq.ft):**  
-   Where continuous moisture contact or extreme fire separation is required—such as basement perimeter walls, chimney chases, or exterior rainscreens—specify non-combustible stone mineral wool (Rockwool). It avoids petrochemical resins entirely while providing indestructible 2,150°F fire protection.
-
-3. **Step 3: Specify Rigid Wood-Fiber for Continuous Outboard Insulation ($1.85 – $2.60 / sq.ft):**  
-   When wrapping exterior sheathing with continuous insulation, replace petrochemical XPS with tongue-and-groove wood fiber panels (TimberHP or Gutex). Wood fiber provides a continuous R-10 to R-15 thermal break, eliminates thermal bridging, and allows the wall to dry freely in both directions.  
-   &rarr; **[Read: Continuous Exterior Insulation: Why R-5 Outboard Beats R-20 Cavity in Freeze-Thaw Climates](continuous-insulation.html)**
-
-4. **Step 4: Source Regionally Within the Midwest Basin ($0 Extra Freight):**  
-   Specify cellulose and bio-based products manufactured within 500 miles of your project site (plants operating across Wisconsin, Indiana, Michigan, and Ohio). Regional sourcing slashes transportation emissions (LCA Stage A4) while supporting local circular agricultural and paper economies.
 
 ---
 

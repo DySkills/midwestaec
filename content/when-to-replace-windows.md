@@ -45,7 +45,7 @@ However, an objective building science perspective recognizes that windows do ev
 
 ---
 
-## 1. The 4 Scenarios That Warrant Full Replacement
+## The 4 Scenarios That Warrant Full Replacement
 
 Before allocating $15,000 to $25,000 to new windows, verify that your home meets at least one of these four objective criteria:
 
@@ -63,7 +63,7 @@ When a home undergoing a major renovation is being wrapped in 2 to 4 inches of c
 
 ---
 
-## 2. Technical Specifications to Demand in Climate Zones 4 & 5
+## Technical Specifications to Demand in Climate Zones 4 & 5
 
 If your home genuinely requires new windows, do not buy based on marketing brands. Buy based on third-party certification labels verified by the **National Fenestration Rating Council (NFRC)** and **Energy Star Version 7.0**:
 
@@ -85,7 +85,7 @@ The material comprising the window frame dictates longevity and seal durability:
 
 ---
 
-## 3. The Installation Details Contractors Cut
+## The Installation Details Contractors Cut
 
 The best window in the world will leak air and water if installed incorrectly. Over 80% of window warranty claims are caused by improper rough opening flashing. 
 
@@ -102,7 +102,7 @@ When reviewing contractor proposals, ensure the contract explicitly mandates thr
 
 ---
 
-## 4. How to Keep Window Estimators Honest
+## How to Keep Window Estimators Honest
 
 Protect your household budget by establishing clear bidding rules:
 

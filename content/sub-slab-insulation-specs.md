@@ -1,7 +1,7 @@
 ---
 title: "Below-Slab and Rim Joist Foam Spec: Stopping Frost-Heave and Basement Heat Loss"
 slug: "sub-slab-insulation-specs"
-format: "Feature"
+format: "Report"
 leadType: "Performance-First"
 category: "Efficient Systems"
 catSlug: "efficient-systems"
@@ -45,7 +45,7 @@ Upstairs, sitting in the basement family room, cold air is visibly rippling the 
 
 ---
 
-## 1. Sub-Slab Thermodynamics: Conduction to the Infinite Heat Sink
+## Sub-Slab Thermodynamics: Conduction to the Infinite Heat Sink
 
 Soil beneath a building foundation does not remain warm on its own. While deep earth temperatures 10 feet down stay relatively stable at **48°F to 52°F** throughout the year in the Midwest, the soil immediately below a basement slab is continually influenced by outdoor perimeter frost lines:
 
@@ -70,7 +70,7 @@ In a standard basement with forced-air heating, uninsulated slabs cause floor su
 
 ---
 
-## 2. The 15-Year Moisture Dilemma: XPS vs. Type IX EPS
+## The 15-Year Moisture Dilemma: XPS vs. Type IX EPS
 
 For decades, the standard architectural specification for below-slab insulation has been extruded polystyrene (blue or pink **XPS**, ASTM C578 Type IV). 
 
@@ -111,27 +111,6 @@ The table below contrasts standard insulation materials across structural, therm
 | **Air-Barrier Capability** | Requires taped seams | Requires taped seams | Requires taped seams | **Monolithic (Zero seams)** |
 | **Water Vapor Permeance** | 1.5 to 2.5 Perms | 1.5 to 2.0 Perms | 0.8 to 1.1 Perms | **< 0.8 Perms (Class II retarder)** |
 | **Optimal Building Application** | **Below-slab gravel base** | **Below-slab radiant floors** | Exterior frost walls | **Basement rim joists & sills** |
-
----
-
-## Where to Put Your Capital: The Foundation Foam Roadmap
-
-When allocating capital for below-grade foundation insulation in the Midwest, invest according to this proven hierarchy:
-
-1. **Step 1: Spray Foam All Basement Rim Joists ($800 – $1,600):**  
-   If you have an existing home or new construction, prioritize applying 2 inches of 2.0-lb closed-cell spray foam to the entire rim joist perimeter. This seals the second largest air-leak corridor in the building while eliminating cold drafts across first-floor baseboards.  
-   &rarr; **[Read: How to Pass the Blower Door Test (< 3.0 ACH50) on a Midwest Remodel](blower-door-checklist.html)**
-
-2. **Step 2: Install R-10 High-Density EPS or GPS Under New Slabs ($0.75 – $1.15 / sq.ft):**  
-   Under any new basement or slab-on-grade concrete pour, lay 2 inches of Type IX EPS (25 psi) or 2 inches of GPS Neopor. Avoid standard XPS unless verified high-load commercial conditions demand 40+ psi.  
-   &rarr; **[Read: Why Water Enters Midwest Basements After Heavy Rain: Hydrostatic Head and Under-Slab Vapor Barriers](basement-waterproofing.html)**
-
-3. **Step 3: Mandate an ASTM E1745 Class A Vapor Barrier OVER the Foam ($0.45 – $0.65 / sq.ft):**  
-   Never place the vapor barrier beneath the rigid foam where gravel can puncture it. Unroll a 15-mil virgin polyolefin membrane (Stego Wrap) directly on top of the rigid foam boards, tape all seams with acrylic mastic tape, and pour the concrete directly on top of the barrier.
-
-4. **Step 4: Thermal Break the Slab Perimeter Edges ($250 – $450 in Materials):**  
-   Ensure your concrete contractor installs a vertical 1-inch or 2-inch strip of rigid foam around the entire perimeter of the slab where it abuts the exterior concrete foundation wall. This eliminates lateral thermal bridging from the warm floor into the freezing foundation stem wall.  
-   &rarr; **[Read: Continuous Exterior Insulation: Why R-5 Outboard Beats R-20 Cavity in Freeze-Thaw Climates](continuous-insulation.html)**
 
 ---
 

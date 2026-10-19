@@ -37,7 +37,7 @@ The reality isn't your furnace constantly kicking up or failing. It is the bypro
 
 ---
 
-## 1. Increasing Costs Are More than Mechanical
+## Increasing Costs Are More than Mechanical
 
 Recent utility hikes across Climate Zones 4 and 5 are not temporary blips in the billing cycle. Public service commission dockets confirm a structural baseline shift in how energy delivery is priced across the region:
 
@@ -51,7 +51,7 @@ In an uninsulated 1974 split-level home in northern Missouri, this pricing shift
 
 ---
 
-## 2. The Stack Effect
+## The Stack Effect
 
 I'm not talking about the increased heating costs of $100 for five months equaling $500 compared to last year. Heat loss in winter is governed by thermodynamics and physics: hot air rises, cold air sinks, and escaping air from above pulls air from below.
 
@@ -73,7 +73,7 @@ If your main-level floor is freezing cold, it's the cold outdoor air being drawn
 
 ---
 
-## 3. Why $20k on Windows Doesn't Hold Up
+## Why $20k on Windows Doesn't Hold Up
 
 During mid-winter, window contractors blanket Midwest mailboxes with glossy flyers promising heating bill cuts of 30% to 50%. Homeowners are routinely quoted $16,000 to $25,000 for replacing double-hung vinyl glazing assemblies.
 
@@ -92,20 +92,6 @@ The empirical data compiled by the **U.S. Department of Energy (DOE)** and **Law
 The shortcoming of window replacement is simple: windows only make up for 8% to 12% of your home's exterior surface area. Upgrading your windows increases thermal resistance on only about 10% of your home's exterior envelope.
 
 Moreso, most of the draft isn't through the glass—it's through shrunk wood jambs and unsealed rough openings. Replacing the glazing doesn't help gaps around the window assembly and the wall cavity.
-
----
-
-## Where to Put Your Capital: Two Paths Forward
-
-Before signing a five-figure window contract, determine which path matches your home's physical reality:
-
-1. **If Your Windows Are Structurally Sound (Just Drafty):**  
-   Save $18,000. Installing AERC-certified low-E storm windows, packing weight cavities, and sealing the ceiling plane delivers over 80% of new window thermal performance for one-tenth the cost.  
-   &rarr; **[Read the Field Guide: Window Replacement Alternatives: How Low-E Storms and Air Sealing Cut Heating Bills at 1/10th the Cost](articles/window-alternatives.html)**
-
-2. **If Your Frames Are Truly Beyond Repair:**  
-   If your window sills are rotted, sash cords are broken, or double-pane seals have failed with permanent fogging, replacement is warranted—but only if you demand strict airtightness and installation standards so you don't get taken for a ride.  
-   &rarr; **[Read the Buyer's Guide: When Replacing Windows Actually Makes Sense (And What Specifications to Demand)](articles/when-to-replace-windows.html)**
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Rural Bug & Pest Prevention: Termite Shields, Carpenter Ants & Perimeter Envelopes"
 slug: "bug-prevention"
-format: "Feature"
+format: "Report"
 leadType: "Fact-First"
 category: "Rural Development"
 catSlug: "rural-development"
@@ -41,7 +41,7 @@ The failure is not the chemistry—it is the physics. Spraying poison against th
 
 ---
 
-## 1. The Mud Sill & Foundation Interface: Stopping Subterranean Termites
+## The Mud Sill & Foundation Interface: Stopping Subterranean Termites
 
 In Climate Zones 4 and 5, the Eastern Subterranean Termite (*Reticulitermes flavipes*) represents the most destructive wood-destroying insect. Termites live in underground colonies and must maintain continuous contact with soil moisture to prevent their soft bodies from dehydrating.
 
@@ -66,7 +66,7 @@ To permanently block subterranean termites:
 
 ---
 
-## 2. Carpenter Ants: Why Moisture Control Is Pest Control
+## Carpenter Ants: Why Moisture Control Is Pest Control
 
 A widespread misconception among homeowners is that carpenter ants (*Camponotus pennsylvanicus*) eat wood like termites. In reality, carpenter ants consume sugar, insect honeydew, and protein; they use wood strictly as a structural nesting cavity.
 
@@ -84,7 +84,7 @@ Carpenter ants do not consume sound wood for nutrition; they require high-moistu
 
 ---
 
-## 3. Cladding Weeps & Rainscreen Bug Screens
+## Cladding Weeps & Rainscreen Bug Screens
 
 Modern building science demands that exterior claddings—such as brick veneer, stone, fiber cement, and corrugated steel—incorporate a drainage gap and weep openings at the base of the wall to allow incidental moisture to escape.
 
@@ -108,7 +108,7 @@ Instead, install engineered mechanical weep guards:
 
 ---
 
-## 4. Landscape Setbacks & The 36-Inch Mineral Clear Zone
+## Landscape Setbacks & The 36-Inch Mineral Clear Zone
 
 The landscaping choices made within five feet of a home's foundation dictate pest pressure more than any chemical treatment:
 
@@ -127,7 +127,7 @@ Excavate organic topsoil around the entire foundation perimeter to a width of **
 
 ---
 
-## 5. Specification Benchmark: Physical Envelope Pest Defense
+## Specification Benchmark: Physical Envelope Pest Defense
 
 The following table summarizes the verified engineering standards for insect and pest defense in rural residential construction:
 
@@ -139,23 +139,6 @@ The following table summarizes the verified engineering standards for insect and
 | **Rainscreen Drainage Cavities**| Open furring ends at bottom | **Continuous Perforated Aluminum L-Bug Screening** | ASTM B209 / Rainscreen Code |
 | **Foundation Landscaping** | Wood bark mulch touching siding | **36" Washed Granite / Pea-Gravel Border** | IRC Section R404 / NPMA Guidelines |
 | **Tree Canopy Proximity** | Branches touching roof / gutters | **10-Foot Minimum Clearance from Shingle Plane** | Firewise & NPMA Forestry Standards |
-
----
-
-## Where to Put Your Capital: Chemical Extermination vs. Envelope Retrofit
-
-Before signing an ongoing $1,200/year recurring chemical pest control contract, invest in permanent envelope fixes:
-
-1. **Step 1: Air-Seal and Insulate Your Rim Joists ($1,200 – $1,900):**  
-   Permanently eliminate carpenter ant infestations by removing old, damp fiberglass batts from the basement rim joists and spraying two inches of closed-cell polyurethane foam. Keeping the wood dry deprives ants of nesting habitat while simultaneously slashing your winter heating bills by 10% to 15%.  
-   &rarr; **[Read the Field Guide: Attic Air Sealing & Insulation: How Sealing Bypasses Cuts Heating Bills at 1/10th the Cost](energy-hikes.html)**
-
-2. **Step 2: Install Stainless Steel Mesh Weep Guards ($75 – $150):**  
-   Purchase commercial stainless-steel weep inserts (such as Tamlyn or Retrofit Weep Guards) and install them into every brick or stone weep hole. This DIY-friendly upgrade permanently prevents wasps, mice, and beetles from entering cavity walls for the price of a single month of exterminator service.
-
-3. **Step 3: Establish the 36-Inch Mineral Border ($600 – $1,200):**  
-   Shovel away organic wood mulch from the foundation perimeter. Install woven geotextile fabric and 4 inches of washed crushed stone or river rock around the entire house. Eliminating moisture at the groundline stops subterranean termites and ants before they ever touch your siding.  
-   &rarr; **[Read the Field Guide: Expansive Lawncare & Acreage Grading: Swales, Prairie Buffers & Soil Drainage](expansive-lawncare.html)**
 
 ---
 

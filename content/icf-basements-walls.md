@@ -1,7 +1,7 @@
 ---
 title: "ICF (Insulated Concrete Forms) for Midwest Basements: Eliminating Moisture & Freezing Walls"
 slug: "icf-basements-walls"
-format: "Feature"
+format: "Report"
 leadType: "Performance-First"
 category: "Envelopes"
 catSlug: "envelopes"
@@ -45,7 +45,7 @@ Standard concrete is neither an insulator nor a waterproof barrier. It is an uni
 
 ---
 
-## 1. Concrete Physics: Thermal Conduction and Capillary Suction
+## Concrete Physics: Thermal Conduction and Capillary Suction
 
 To understand why traditional basements fail in Midwest cold climates, builders must look at the material properties of unreinforced poured concrete:
 
@@ -65,7 +65,7 @@ To understand why traditional basements fail in Midwest cold climates, builders 
 
 ---
 
-## 2. The Traditional Remodeling Disaster: Interior Studs & Fiberglass Batts
+## The Traditional Remodeling Disaster: Interior Studs & Fiberglass Batts
 
 When builders attempt to "finish" a standard concrete basement by erecting a 2x4 wood stud wall packed with fiberglass batts and faced with 6-mil polyethylene sheet plastic, they assemble what building scientists call the "basement mold sandwich." The assembly layers—cold 8-inch concrete, an unventilated air space, permeable fiberglass insulation, impermeable plastic sheeting, and paper-faced drywall—trap interior and ground moisture inside a dark cavity with zero drying potential.
 
@@ -76,7 +76,7 @@ When builders attempt to "finish" a standard concrete basement by erecting a 2x4
 
 ---
 
-## 3. The ICF Engineering Solution: Continuous Monolithic Sandwich
+## The ICF Engineering Solution: Continuous Monolithic Sandwich
 
 Insulated Concrete Forms (ICF) eliminate the thermal bridge and the condensation plane entirely by placing continuous, rigid expanded polystyrene insulation on **both sides** of the structural concrete wall:
 
@@ -98,7 +98,7 @@ Insulated Concrete Forms (ICF) eliminate the thermal bridge and the condensation
 
 ---
 
-## 4. Waterproofing & Below-Grade Drainage Detailing
+## Waterproofing & Below-Grade Drainage Detailing
 
 While EPS foam is hydrophobic and absorbs less than 1.0% water by volume, an ICF foundation must still be engineered to handle hydrostatic soil pressure and groundwater:
 
@@ -137,25 +137,6 @@ The table below contrasts standard uninsulated basement foundations against full
 | **Storm & Tornado Impact Resistance** | High (Concrete resists wind shear) | High | **FEMA P-320 / ICC 500 Safe Room (250 mph winds)** |
 | **Sound Transmission Class (STC)** | STC 48 | STC 52 | **STC 56+ (Virtually soundproof basement)** |
 | **Ready for Interior Drywall** | No (Must frame wood stud wall) | Yes (Already framed) | **YES (Screws directly to ICF flanges)** |
-
----
-
-## Where to Put Your Capital: The Foundation Decision
-
-When building or adding an addition in the Midwest, evaluate the true financial equation between traditional poured concrete forms and ICF:
-
-1. **Initial Foundation Invoicing ($1,500 – $3,500 Variance):**  
-   An ICF foundation typically carries a raw bid that is **8% to 14% higher** than standard poured concrete with temporary reusable plywood forms. For a typical 1,400-square-foot footprint basement, the ICF package may cost $26,000 compared to $23,000 for standard poured concrete.
-   
-2. **The Framing and Insulation Offset (-$4,800 to -$6,500 Savings):**  
-   With traditional concrete, converting that space into usable living area requires framing a 2x4 stud wall around the entire perimeter ($2,800 in lumber and labor), installing R-15 stone wool or spray foam ($2,200), and sealing vapor barriers. With ICF, that entire secondary wall is completely eliminated. Drywallers hang 5/8-inch gypsum board directly against the interior EPS using the built-in polypropylene webs.
-
-3. **Mechanical HVAC Capital Sizing (-$1,800 Savings):**  
-   Because the ICF basement has virtually zero infiltration and a true whole-wall R-24 rating, the home's total heating load drops by 1.0 to 1.5 tons (12,000 to 18,000 BTU/hr). Builders can install a smaller, higher-efficiency cold-climate heat pump or furnace.  
-   &rarr; **[Read: Can a Heat Pump Actually Handle -15°F? Cold-Climate Inverters During Midwest Winters](cold-climate-heat-pumps.html)**
-
-4. **Long-Term Operational Payback ($380 – $650 / Year):**  
-   By eliminating the 30% baseline foundation heat loss, homeowners save hundreds of dollars annually on gas or electricity bills from day one.
 
 ---
 

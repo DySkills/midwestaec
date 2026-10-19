@@ -41,7 +41,7 @@ The problem is not the windows or the radiators. The house was built with **ball
 
 ---
 
-## 1. Anatomy of a Balloon-Framed House: Ribbons & Open Flues
+## Anatomy of a Balloon-Framed House: Ribbons & Open Flues
 
 Balloon framing was invented in the 1830s in Chicago, revolutionizing residential architecture by replacing heavy timber post-and-beam joinery with lightweight, mill-sawn dimensional lumber fastened with mass-produced wire nails. Between 1850 and 1935, balloon framing was the dominant construction method for two-story residential homes across the Midwest.
 
@@ -63,7 +63,7 @@ Because no solid horizontal plate caps the wall between stories, **every single 
 
 ---
 
-## 2. The Dual Threat: Stack Effect Chimneys & 3-Minute Fire Spread
+## The Dual Threat: Stack Effect Chimneys and Three-Minute Fire Spread
 
 The open vertical cavities in balloon framing create two severe building performance hazards:
 
@@ -86,7 +86,7 @@ Because the fire travels entirely inside the concealed wall cavities, smoke dete
 
 ---
 
-## 3. Approved Fireblocking & Air-Sealing Materials (IRC R302.11)
+## Approved Fireblocking and Air-Sealing Materials (IRC R302.11)
 
 Stopping air leakage in balloon framing must be accomplished using materials that comply with residential fireblocking codes (*IRC Section R302.11.1*). 
 
@@ -106,31 +106,19 @@ A critical jobsite error made by inexperienced contractors is spraying a bead of
 
 ---
 
-## 4. The Two-End Retrofit: Step-by-Step Execution
+## The Two-End Compartmentation Principle
 
-Remodeling contractors often assume that fixing balloon framing requires tearing down the home's historic plaster walls to install blocking at the second-floor line. In reality, building science proves that you can completely eliminate the chimney effect by sealing the two accessible ends: **the basement top-of-wall and the attic floor.**
+Remodeling contractors often assume that fixing balloon framing requires gutting the home's historic interior plaster walls to insert horizontal wood blocking at the intermediate second-floor ribbon line. Building science proves this destructive approach is unnecessary.
 
-> **The Two-Point Air-Block Principle:**
-> - **Top End (Attic Eaves):** Non-combustible mineral wool blocks and firestop foam seal the top plate opening, eliminating positive-pressure convective exfiltration into the vented attic.
-> - **Bottom End (Basement Mud Sill):** Friction-fit mineral wool blocks and intumescent sealant close the foundation intake, stopping negative-pressure sub-zero air infiltration at the mud sill.
+Because convective airflow requires both an intake and an exhaust to sustain circulation, sealing the two accessible perimeter boundaries—the basement mud sill and the attic eaves—permanently breaks the stack effect loop. Capping these boundary points isolates each stud cavity into an inert, dead-air vertical column.
 
-### Step 1: The Basement Perimeter Seal (Blocking the Intake)
-Work from a stepladder along the perimeter of the basement where floor joists rest on the foundation sill:
-1. **Clear Debris & Cobwebs:** Vacuum out dust, mortar crumbs, and rodent droppings from the open pockets between floor joists.
-2. **Cut Dense Mineral Wool Batts:** Using a serrated bread knife, cut pieces of dense 3.5-inch mineral wool (Rockwool Comfortbatt or Safe'n'Sound) approximately 1/2-inch wider and taller than the open stud pocket (typically 4" x 15").
-3. **Friction-Fit Compression:** Push the dense mineral wool block firmly into the open stud cavity above the sill plate, positioning it flush with the bottom edge of the floor joist. The springback tension holds the block permanently in place without mechanical fasteners.
-4. **Air-Seal Perimeter:** Run a continuous bead of fire-rated acrylic sealant or fire-retardant polyurethane foam around the four edges of the mineral wool block to achieve a 100% airtight seal.
+Once the top and bottom cavities are friction-fit with non-combustible mineral wool and detailed with intumescent firestop mastic, the open chimney is permanently broken. Contractors can then safely dense-pack the isolated wall cavities with loose-fill borate-treated cellulose at 3.5 pounds per cubic foot from exterior access ports without blowing insulation into the basement or attic.
 
-### Step 2: The Attic Floor Seal (Blocking the Exhaust)
-Access the unfinished attic space or knee-wall cavities along the perimeter eaves:
-1. **Locate Open Stud Tops:** Pull back existing loose insulation along the eaves to expose where exterior wall studs terminate beneath the attic floor or roof rafters.
-2. **Install Mechanical Fireblocks:** Measure the rectangular openings at the top of the wall cavities. Friction-fit dense mineral wool blocks or fasten pre-cut 2x4 lumber blocks into every stud pocket.
-3. **Seal with Firestop Mastic:** Caulk all seams between the blocks, wood studs, and top plates with non-combustible firestop mastic (**ASTM E814**).
-4. **Bury Under R-60 Insulation:** Once every wall cavity is airtight and fireblocked, blow loose-fill cellulose or mineral wool to a uniform depth of 18 inches across the entire attic plane, keeping the ceiling warm and draft-free.
+&rarr; **[Step-by-Step Tutorial: How to Firestop & Air-Seal Historic Balloon Framing](balloon-framing-retrofit-steps.html)**
 
 ---
 
-## 5. Payback & Whole-House Blower Door Reduction
+## Payback and Whole-House Blower Door Reduction
 
 Air-sealing the open cavities in a balloon-framed house delivers the highest thermodynamic return of any weatherization retrofit:
 
@@ -141,20 +129,6 @@ Air-sealing the open cavities in a balloon-framed house delivers the highest the
 | **Second-Floor Floor Temperatures** | 56°F at baseboards on 15°F day | **67°F at baseboards on 15°F day** | **11-Degree Surface Comfort Improvement** |
 | **Concealed Fire Spread Time** | < 3 Minutes (Basement to Attic) | **> 45 Minutes (Confined to Room of Origin)** | **15x Increase in Evacuation Safety** |
 | **Typical DIY Retrofit Cost** | — | **$250 – $450 in Raw Materials** | **Simple Payback: Less than 8 Months** |
-
----
-
-## Where to Put Your Capital: Historic Envelope Weatherization
-
-If you own a pre-1940s two-story home in a Midwest city, follow this strategic roadmap:
-
-1. **Step 1: Perform the Basement & Attic Firestop Retrofit ($350 – $600 DIY / $1,200 Contractor):**  
-   Prioritize sealing balloon-frame stud pockets before buying high-efficiency heating equipment. Eliminating the vertical chimney cuts your design heating load by 25%, allowing you to install a smaller, more efficient furnace or heat pump down the road.  
-   &rarr; **[Read the Field Guide: Attic Air Sealing & Insulation: How Sealing Bypasses Cuts Heating Bills at 1/10th the Cost](energy-hikes.html)**
-
-2. **Step 2: Insulate the Wall Cavities with Dense-Pack Cellulose ($2,200 – $3,800):**  
-   Once the bottom and top of the balloon-frame cavities are fireblocked, hire a certified insulation contractor to dense-pack the hollow stud bays with borate-treated loose cellulose (at 3.5 lbs/cu.ft) via small exterior access holes under the siding. The dense cellulose halts convective air movement while boosting cavity thermal resistance from R-1 to R-13.  
-   &rarr; **[Read the Material Guide: Does Rockwool Outperform Fiberglass? How Each Holds Up in Midwest Wall Assemblies](rockwool-vs-fiberglass.html)**
 
 ---
 

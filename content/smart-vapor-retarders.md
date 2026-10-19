@@ -1,7 +1,7 @@
 ---
 title: "Smart Vapor Retarders vs. 6-Mil Plastic: Why Polyethylene Traps Mold in Midwest Summers"
 slug: "smart-vapor-retarders"
-format: "Feature"
+format: "Report"
 leadType: "Contrast"
 category: "Air Barriers"
 catSlug: "air-barriers"
@@ -47,7 +47,7 @@ Gallons of water are trickling down the plastic, pooling on the bottom 2x6 frami
 
 ---
 
-## 1. The Physics of Bidirectional Vapor Drive in the Midwest
+## The Physics of Bidirectional Vapor Drive in the Midwest
 
 To understand why 6-mil plastic fails in the Midwest, one must understand **vapor pressure differentials ($P_v$)**. Water vapor always diffuses from areas of high vapor pressure to areas of low vapor pressure, and from warm temperatures to cold temperatures.
 
@@ -78,7 +78,7 @@ If you install an impermeable Class I barrier on the interior, you create a **va
 
 ---
 
-## 2. Molecular Mechanics of Smart Variable-Permeance Membranes
+## Molecular Mechanics of Smart Variable-Permeance Membranes
 
 The building-science solution to seasonal vapor reversal is the **intelligent smart vapor retarder** (such as Pro Clima INTELLO PLUS or CertainTeed MemBrain).
 
@@ -107,7 +107,7 @@ A smart membrane, by contrast, functions as a hygrothermal valve: closed tight w
 
 ---
 
-## 3. Building Code Standards: IRC Section R702.7
+## Building Code Standards: IRC Section R702.7
 
 The 2024 International Residential Code (IRC Section R702.7) explicitly regulates interior vapor retarders based on climate zone and exterior insulation ratios:
 
@@ -137,27 +137,6 @@ The table below contrasts standard interior vapor management methods in Midwest 
 | **Summer Inward Condensation Risk** | **EXTREME (Chilled plastic sweats)** | Moderate | **ZERO (Opens to vent moisture into room)** |
 | **Tear Resistance & Durability** | Prone to jobsite puncture | Very fragile during insulation install | **High tensile strength (Reinforced scrim)** |
 | **Compatibility with Cavity Blown Batts** | Weak (Bows under dense-pack pressure) | Cannot support dense-pack blowing | **Excellent (Intello Plus engineered for dense pack)** |
-
----
-
-## Where to Put Your Capital: The Smart Envelope Roadmap
-
-When finishing or remodeling a residential wall in the Midwest, allocate your weatherization budget with these principles:
-
-1. **Step 1: Eliminate 6-Mil Poly from Interior Specs ($0 Cost Change):**  
-   Strike 6-mil polyethylene sheet plastic from your architectural specifications for any interior wall in Climate Zones 4, 5, and 6. Standardizing on Class II variable membranes prevents thousands of dollars in hidden mold remediation down the road.
-
-2. **Step 2: Combine Hydrophobic Insulation with Smart Membranes ($0.65 – $0.95 / sq.ft):**  
-   Pair R-15 or R-23 stone mineral wool (Rockwool Comfortbatt) with an interior smart membrane (CertainTeed MemBrain or Pro Clima INTELLO). Mineral wool cannot absorb liquid water and cannot feed mold, while the smart membrane manages seasonal vapor flux flawlessly.  
-   &rarr; **[Read: Does Rockwool Outperform Fiberglass? How Each Holds Up in Midwest Wall Assemblies](rockwool-vs-fiberglass.html)**
-
-3. **Step 3: Tape All Interior Seams as the Primary Air Barrier ($0.25 / sq.ft):**  
-   Do not rely on drywallers to create your air barrier. Staple the smart membrane over framing studs, overlap seams by 4 inches, and seal all joints, electrical boxes, and plate transitions with acrylic air-sealing tape (Tescon Vana). This single detail often cuts whole-house air leakage from 4.0 ACH50 down to 1.2 ACH50.  
-   &rarr; **[Read: How to Pass the Blower Door Test (< 3.0 ACH50) on a Midwest Remodel](blower-door-checklist.html)**
-
-4. **Step 4: Use Exterior Continuous Insulation Where Budgets Allow ($2.50 – $4.00 / sq.ft):**  
-   If replacing siding, install R-5 to R-7.5 rigid stone wool or polyiso outboard of the sheathing. Outboard insulation keeps the OSB warm in winter, eliminating condensation risk regardless of interior membrane choices.  
-   &rarr; **[Read: Continuous Exterior Insulation: Why R-5 Outboard Beats R-20 Cavity in Freeze-Thaw Climates](continuous-insulation.html)**
 
 ---
 

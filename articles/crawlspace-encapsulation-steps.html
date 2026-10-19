@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>How to Encapsulate a Crawlspace: The Step-by-Step Conversion Guide | MIAEC</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,400&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            serif: ['"Newsreader"', 'Georgia', 'serif'],
+            sans: ['"Plus Jakarta Sans"', 'sans-serif'],
+            mono: ['"JetBrains Mono"', 'monospace'],
+          },
+          colors: {
+            navy: {
+              DEFAULT: '#161F83',
+              dark: '#0e1458',
+              deep: '#0a0e3f',
+              text: '#111863',
+              50: '#eef2ff',
+            },
+            steel: {
+              DEFAULT: '#3274AE',
+              dark: '#225582',
+              100: '#e8f2fa',
+              50: '#f4f8fc',
+              border: '#d0e1f0',
+            },
+            crimson: {
+              DEFAULT: '#C42927',
+              hover: '#a8211f',
+              light: '#fdf2f2',
+            }
+          }
+        }
+      }
+    }
+  </script>
+</head>
+<body class="bg-[#FBFBFC] text-slate-800 font-sans antialiased selection:bg-navy selection:text-white min-h-screen flex flex-col">
+
+  <!-- Header -->
+  <header class="border-b border-slate-200 bg-white/95 backdrop-blur sticky top-0 z-50">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
+      <a href="../index.html" class="flex items-center gap-2 group">
+        <div class="w-8 h-8 rounded-lg bg-navy flex items-center justify-center font-bold text-white text-xs font-mono group-hover:bg-navy-dark transition">
+          <span>M</span><span class="text-crimson">I</span>
+        </div>
+        <span class="text-lg font-bold tracking-tight text-navy font-serif">MI<span class="text-steel">AEC</span></span>
+      </a>
+
+      <div class="flex items-center gap-4 text-xs font-mono uppercase">
+        <a href="../browse.html?cat=water-barriers" class="text-steel hover:text-navy transition font-semibold">&larr; Water Barriers</a>
+        <span class="text-slate-300">|</span>
+        <a href="../browse.html?cat=all" class="text-slate-500 hover:text-navy transition">All Guides</a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Focused Single-Column Monograph -->
+  <main class="max-w-3xl mx-auto px-4 sm:px-6 py-12 flex-1 w-full">
+    <!-- Format Badge, Category & Metadata -->
+    <div class="flex flex-wrap items-center gap-2 text-xs font-mono text-slate-500 mb-4">
+      <span class="px-2.5 py-0.5 rounded-full bg-navy text-white font-bold tracking-wider uppercase text-[10px]">
+        TUTORIAL &bull; PROCESS LEAD
+      </span>
+      <span class="px-2.5 py-0.5 rounded bg-steel-50 text-steel-dark border border-steel-border font-semibold">
+        Water Barriers
+      </span>
+      <span>&bull;</span>
+      <span class="text-slate-600">States: IA, IL, IN, KS, MI, MN, MO, ND, NE, OH, SD, WI</span>
+      <span>&bull;</span>
+      <span class="text-crimson font-medium">8 min read</span>
+    </div>
+
+    <!-- Article Title -->
+    <h1 class="text-3xl sm:text-4xl lg:text-5xl font-bold text-navy font-serif tracking-tight leading-tight mb-3">
+      How to Encapsulate a Crawlspace: The Step-by-Step Conversion Guide
+    </h1>
+
+    
+    <!-- Description Subtitle -->
+    <p class="text-lg sm:text-xl text-slate-600 font-serif leading-relaxed mb-6 font-normal">
+      A practical jobsite manual for sealing foundation vents, detailing 20-mil vapor barriers, insulating stem walls, and installing commercial dehumidification under IRC R408.3.
+    </p>
+
+    <div class="flex items-center gap-3 text-xs font-mono text-slate-500 border-b border-slate-200 pb-6 mb-8">
+      <span>By MIAEC Building Science</span>
+      <span>&bull;</span>
+      <span>Published October 2026</span>
+      <span>&bull;</span>
+      <span class="text-steel font-bold">IRC Section R408.3 / ASTM E1745 / ASHRAE 62.2</span>
+    </div>
+
+    <!-- Article Content -->
+    <article class="prose max-w-none">
+      <div class="my-8 p-6 sm:p-7 rounded-2xl bg-emerald-50/50 border-l-4 border-emerald-600 border border-emerald-200/60 shadow-sm">
+  <div class="text-xs font-mono font-bold uppercase tracking-wider text-emerald-800 mb-2">
+    Quick Summary
+  </div>
+  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">Converting a damp, open-vented crawlspace into an airtight, conditioned envelope permanently halts summer mold incubation, stops winter freeze drafts, and protects indoor air quality. Under International Residential Code (IRC) Section R408.3, encapsulation requires eliminating exterior vents, covering the earth with an unpunctured Class A vapor barrier, insulating foundation stem walls, and providing dedicated mechanical dehumidification.</p>
+  <ul class="mt-4 pt-4 border-t border-emerald-200/80 space-y-2.5 text-sm text-slate-700 font-sans">
+    <li class="flex items-start gap-2.5"><span class="w-4 h-4 rounded-full bg-crimson text-white flex items-center justify-center shrink-0 mt-0.5"><svg class="w-2.5 h-2.5 stroke-current stroke-2 fill-none" viewBox="0 0 24 24"><path d="M5 13l4 4L19 7"/></svg></span><span><strong class="text-navy font-bold">Execution Difficulty & Time:</strong> Intermediate DIY to Advanced Trade; 3 to 4 days for a standard 1,200 sq. ft. crawlspace.</span></li>
+    <li class="flex items-start gap-2.5"><span class="w-4 h-4 rounded-full bg-crimson text-white flex items-center justify-center shrink-0 mt-0.5"><svg class="w-2.5 h-2.5 stroke-current stroke-2 fill-none" viewBox="0 0 24 24"><path d="M5 13l4 4L19 7"/></svg></span><span><strong class="text-navy font-bold">Primary Code & Standards Mandates:</strong> IRC Section R408.3 (unvented crawlspaces), ASTM E1745 (Class A underslab/ground vapor retarders), and IRC Section R318.4 (termite inspection strip).</span></li>
+    <li class="flex items-start gap-2.5"><span class="w-4 h-4 rounded-full bg-crimson text-white flex items-center justify-center shrink-0 mt-0.5"><svg class="w-2.5 h-2.5 stroke-current stroke-2 fill-none" viewBox="0 0 24 24"><path d="M5 13l4 4L19 7"/></svg></span><span><strong class="text-navy font-bold">Critical Materials:</strong> 12-mil to 20-mil reinforced virgin polyolefin liner, double-sided butyl mastic tape, 2" polyisocyanurate or XPS rigid foam board, expanding closed-cell foam, and commercial low-temperature dehumidifier.</span></li>
+    <li class="flex items-start gap-2.5"><span class="w-4 h-4 rounded-full bg-crimson text-white flex items-center justify-center shrink-0 mt-0.5"><svg class="w-2.5 h-2.5 stroke-current stroke-2 fill-none" viewBox="0 0 24 24"><path d="M5 13l4 4L19 7"/></svg></span><span><strong class="text-navy font-bold">Jobsite Verification:</strong> Digital hygrometer tracking (maintain 45%–55% RH), joist wood moisture pin testing (< 14%), and negative-pressure smoke pencil checks.</span></li>
+  </ul>
+</div>
+<hr class="my-8 border-slate-200" />
+<h2 class="text-2xl font-bold text-navy font-serif mt-10 mb-4 pt-4 border-t border-slate-100">Objective & Safety Protocols</h2>
+<p class="text-slate-700 text-base leading-relaxed my-4">The objective of crawlspace encapsulation is to decouple the sub-floor structure from subterranean moisture and humid outdoor air. Transforming the crawlspace into a conditioned zone stops wood rot, prevents indoor stack-effect contamination, and cuts annual space heating and cooling bills by up to 20%.</p>
+<p class="text-slate-700 text-base leading-relaxed my-4">Working in confined subterranean spaces requires strict adherence to personal and structural safety protocols:</p>
+<ul class="list-disc pl-6 space-y-2 text-slate-700 my-4">
+  <li><strong class="text-navy font-bold">Respiratory & Biological Hazard Protection:</strong> Crawlspaces frequently harbor elevated concentrations of airborne mold spores, rodent droppings, dried bat guano, and soil dust. Technicians must wear NIOSH-approved P100 half-face respirators, sealed protective safety goggles, and full-body disposable Tyvek suits.</li>
+  <li><strong class="text-navy font-bold">Bulk Water Remediation Requirement:</strong> Never encapsulate a crawlspace over standing liquid water. If seasonal high water tables or hydrostatic pressure push liquid water across the soil floor, you must trench an interior perimeter drain tile and install an automatic sump pump before laying vapor barrier membranes.</li>
+  <li><strong class="text-navy font-bold">Termite Inspection Strip Mandate:</strong> In regions where subterranean termites are active (IRC Section R318.4), building codes require leaving a continuous 3-inch bare concrete inspection gap between the top edge of perimeter wall insulation and the wood mud sill. Never cover this inspection strip with foam.</li>
+</ul>
+<hr class="my-8 border-slate-200" />
+<h2 class="text-2xl font-bold text-navy font-serif mt-10 mb-4 pt-4 border-t border-slate-100">Required Tools & Materials</h2>
+<p class="text-slate-700 text-base leading-relaxed my-4">Assemble the following tools and commercial-grade materials prior to entering the crawlspace:</p>
+<div class="my-6 overflow-x-auto"><table class="w-full text-left border-collapse border border-slate-200 text-sm font-mono">
+<thead class="bg-steel-50 text-navy font-bold"><tr><th class="p-3 border border-slate-200">Category</th><th class="p-3 border border-slate-200">Specification</th><th class="p-3 border border-slate-200">Application</th></tr></thead>
+<tbody>
+<tr class="border-b border-slate-100 hover:bg-slate-50/50"><td class="p-3 border border-slate-200 text-slate-700"><strong class="text-navy font-bold">Ground Vapor Barrier</strong></td><td class="p-3 border border-slate-200 text-slate-700">20-mil multi-layer scrim-reinforced virgin polyolefin (ASTM E1745 Class A)</td><td class="p-3 border border-slate-200 text-slate-700">Continuous ground cover and stem wall liner</td></tr>
+<tr class="border-b border-slate-100 hover:bg-slate-50/50"><td class="p-3 border border-slate-200 text-slate-700"><strong class="text-navy font-bold">Sealing Tapes</strong></td><td class="p-3 border border-slate-200 text-slate-700">4" heavy-duty acrylic vapor tape and 1.5" double-sided butyl mastic tape</td><td class="p-3 border border-slate-200 text-slate-700">Sealing liner overlaps, pier wraps, and wall joints</td></tr>
+<tr class="border-b border-slate-100 hover:bg-slate-50/50"><td class="p-3 border border-slate-200 text-slate-700"><strong class="text-navy font-bold">Perimeter Wall Insulation</strong></td><td class="p-3 border border-slate-200 text-slate-700">2" Foil-faced polyisocyanurate (R-13) or 2" XPS rigid foam board</td><td class="p-3 border border-slate-200 text-slate-700">Continuous thermal boundary on concrete stem walls</td></tr>
+<tr class="border-b border-slate-100 hover:bg-slate-50/50"><td class="p-3 border border-slate-200 text-slate-700"><strong class="text-navy font-bold">Mechanical Fasteners</strong></td><td class="p-3 border border-slate-200 text-slate-700">1" Aluminum termination bars and masonry powder-actuated/Tapcon anchors</td><td class="p-3 border border-slate-200 text-slate-700">Securing vapor barrier to concrete stem walls</td></tr>
+<tr class="border-b border-slate-100 hover:bg-slate-50/50"><td class="p-3 border border-slate-200 text-slate-700"><strong class="text-navy font-bold">Air-Sealing Sealants</strong></td><td class="p-3 border border-slate-200 text-slate-700">2-part closed-cell spray foam kit (e.g., Froth-Pak) and polyurethane caulk</td><td class="p-3 border border-slate-200 text-slate-700">Sealing rim joist perimeters and vent blockouts</td></tr>
+<tr class="border-b border-slate-100 hover:bg-slate-50/50"><td class="p-3 border border-slate-200 text-slate-700"><strong class="text-navy font-bold">Mechanical Conditioning</strong></td><td class="p-3 border border-slate-200 text-slate-700">Dedicated commercial crawlspace dehumidifier (e.g., Santa Fe Compact70)</td><td class="p-3 border border-slate-200 text-slate-700">Active relative humidity control (45%–55% RH)</td></tr>
+</tbody></table></div>
+<hr class="my-8 border-slate-200" />
+<h2 class="text-2xl font-bold text-navy font-serif mt-10 mb-4 pt-4 border-t border-slate-100">Sequential Step-by-Step Execution</h2>
+<p class="text-slate-700 text-base leading-relaxed my-4">Follow these six sequential steps to execute a code-compliant crawlspace encapsulation:</p>
+<h3 class="text-xl font-bold text-navy font-serif mt-8 mb-3">Step 1: Site Clearance, Grading & Bulk Drainage</h3>
+<p class="text-slate-700 text-base leading-relaxed my-4">Prepare the subterranean soil floor to receive a permanent vapor barrier:</p>
+<ul class="list-disc pl-6 space-y-2 text-slate-700 my-4">
+  <li>Remove all discarded construction lumber, cardboard, sharp rocks, and organic debris that could puncture plastic or harbor mold.</li>
+  <li>Rake and grade the soil toward an interior low point. If the crawlspace experiences standing water or seasonal seepage, excavate an interior perimeter trench, install 4-inch perforated drain tile wrapped in filter fabric, and set a sealed sump basin equipped with a cast-iron pump and battery backup.</li>
+  <li>In rough, gravelly terrain, lay a 4-ounce non-woven geotextile cushion fleece across the dirt to prevent sharp aggregate from puncturing the primary vapor barrier.</li>
+</ul>
+<h3 class="text-xl font-bold text-navy font-serif mt-8 mb-3">Step 2: Foundation Vent Sealing & Rim Joist Air Isolation</h3>
+<p class="text-slate-700 text-base leading-relaxed my-4">Permanently sever connection to exterior outdoor air:</p>
+<ul class="list-disc pl-6 space-y-2 text-slate-700 my-4">
+  <li>Unscrew or knock out existing stamped-metal exterior vent grilles.</li>
+  <li>Cut plugs from 2-inch closed-cell XPS foam board to friction-fit tightly inside each foundation vent blockout.</li>
+  <li>Seal the perimeter of each foam plug from the inside using expanding closed-cell polyurethane foam and high-grade exterior sealant, ensuring a completely airtight, weather-proof barrier.</li>
+  <li>Spray 2 inches of closed-cell foam along the entire rim joist and mud sill perimeter to seal the critical floor-to-foundation juncture.</li>
+</ul>
+<h3 class="text-xl font-bold text-navy font-serif mt-8 mb-3">Step 3: Class A Reinforced Ground Vapor Barrier Installation</h3>
+<p class="text-slate-700 text-base leading-relaxed my-4">Lay a puncture-proof subterranean moisture shield across the soil floor:</p>
+<ul class="list-disc pl-6 space-y-2 text-slate-700 my-4">
+  <li>Roll out rolls of 20-mil scrim-reinforced polyolefin liner across the ground, overlapping adjacent sheets by a minimum of <strong class="text-navy font-bold">12 inches</strong>.</li>
+  <li>Apply double-sided butyl mastic tape between overlapping sheets, compress firmly, and seal the top seam with 4-inch heavy-duty acrylic vapor tape.</li>
+  <li>Run the liner up the interior face of all exterior concrete stem walls to a height of <strong class="text-navy font-bold">12 inches above grade</strong>, but stop at least 3 inches below the wood mud sill to preserve the termite inspection gap.</li>
+  <li>Secure the top edge of the liner to the concrete using aluminum termination bars fastened with masonry screws, backed by a continuous ribbon of polyurethane mastic.</li>
+</ul>
+<h3 class="text-xl font-bold text-navy font-serif mt-8 mb-3">Step 4: Wrapping Structural Support Columns & Plumbing Chases</h3>
+<p class="text-slate-700 text-base leading-relaxed my-4">Detail all vertical penetrations through the ground plane:</p>
+<ul class="list-disc pl-6 space-y-2 text-slate-700 my-4">
+  <li>Cut tailor-fit boots from vapor barrier material around all masonry support piers, steel jack posts, and subterranean plumbing stacks.</li>
+  <li>Run the membrane 12 inches up each pier, securing the top edge with termination tape and zip ties.</li>
+  <li>Caulk around electrical conduits, radon suction points, and gas pipes with non-curing polyurethane acoustic sealant.</li>
+</ul>
+<h3 class="text-xl font-bold text-navy font-serif mt-8 mb-3">Step 5: Stem Wall Continuous Thermal Insulation</h3>
+<p class="text-slate-700 text-base leading-relaxed my-4">Insulate the perimeter foundation walls to bring the crawlspace inside the home's thermal boundary:</p>
+<ul class="list-disc pl-6 space-y-2 text-slate-700 my-4">
+  <li>Fasten 2-inch continuous foil-faced polyisocyanurate board (R-13) or 2-inch XPS foam directly against the concrete stem walls using masonry fasteners.</li>
+  <li>Ensure the insulation overlaps the top edge of the ground vapor barrier, anchoring it firmly in place.</li>
+  <li>Strictly maintain a continuous <strong class="text-navy font-bold">3-inch bare concrete gap</strong> between the top of the foam board and the wood mud sill for visible termite mud tube detection.</li>
+  <li>Seal all foam board vertical and horizontal butt joints with foil-faced insulation tape.</li>
+</ul>
+<h3 class="text-xl font-bold text-navy font-serif mt-8 mb-3">Step 6: Commercial Dehumidifier Installation & Drainage Detailing</h3>
+<p class="text-slate-700 text-base leading-relaxed my-4">Provide active mechanical humidity control per IRC Section R408.3:</p>
+<ul class="list-disc pl-6 space-y-2 text-slate-700 my-4">
+  <li>Place a low-temperature commercial crawlspace dehumidifier (rated for 70 to 90 pints per day at 60°F) on a level hanging bracket or elevated vibration-absorbing rubber pad.</li>
+  <li>Hard-pipe the condensate drain port using 3/4-inch rigid PVC pipe directly into the sump pit or gravity-fed to an exterior daylight drain (never use flexible vinyl tubing that can kink).</li>
+  <li>Wire the unit to a dedicated 15-amp GFCI electrical receptacle and set the digital humidistat between <strong class="text-navy font-bold">45% and 50% relative humidity</strong>.</li>
+</ul>
+<hr class="my-8 border-slate-200" />
+<h2 class="text-2xl font-bold text-navy font-serif mt-10 mb-4 pt-4 border-t border-slate-100">Verification & Quality Assurance Tests</h2>
+<p class="text-slate-700 text-base leading-relaxed my-4">Confirm the hygrothermal performance and environmental safety of the encapsulated assembly:</p>
+<h3 class="text-xl font-bold text-navy font-serif mt-8 mb-3">1. Continuous Relative Humidity & Temperature Monitoring</h3>
+<p class="text-slate-700 text-base leading-relaxed my-4">Mount a wireless digital thermo-hygrometer inside the center of the crawlspace with a remote indoor display. Over a 30-day summer operating window, confirm that relative humidity remains strictly between <strong class="text-navy font-bold">45% and 55% RH</strong>, verifying that outdoor moisture air is completely sealed out.</p>
+<h3 class="text-xl font-bold text-navy font-serif mt-8 mb-3">2. Wood Framing Moisture Content (ASTM D4442)</h3>
+<p class="text-slate-700 text-base leading-relaxed my-4">Test multiple floor joists and subfloor sections using a calibrated electrical pin moisture meter. Wood moisture content, which routinely exceeds 22% in vented crawlspaces, must drop to and stabilize between <strong class="text-navy font-bold">10% and 14%</strong>, permanently suppressing wood-decay fungi.</p>
+<h3 class="text-xl font-bold text-navy font-serif mt-8 mb-3">3. Smoke Pencil Air-Leakage Verification</h3>
+<p class="text-slate-700 text-base leading-relaxed my-4">Use a chemical smoke pencil along sealed foundation vent plugs, access hatch weatherstripping, and rim joist spray-foam perimeters during windy weather. Zero smoke displacement verifies a monolithic airtight seal.</p>
+<hr class="my-8 border-slate-200" />
+<h3 class="text-xl font-bold text-navy font-serif mt-8 mb-3">Related Building Science Guides</h3>
+<ul class="list-disc pl-6 space-y-2 text-slate-700 my-4">
+  <li><strong class="text-navy font-bold">Vented Crawlspace Thermodynamics & Mold:</strong> &rarr; <strong class="text-navy font-bold"><a href="crawlspace-encapsulation.html" class="text-crimson font-medium underline hover:text-crimson-hover">Read: Crawlspace Encapsulation vs. Open Venting in the Midwest: Mold, Odors & Heating Costs</a></strong></li>
+  <li><strong class="text-navy font-bold">Under-Slab Waterproofing & Hydrostatic Pressure:</strong> &rarr; <strong class="text-navy font-bold"><a href="basement-waterproofing.html" class="text-crimson font-medium underline hover:text-crimson-hover">Read: Why Water Enters Midwest Basements After Heavy Rain: Hydrostatic Head and Under-Slab Vapor Barriers</a></strong></li>
+  <li><strong class="text-navy font-bold">Sub-Slab & Rim Joist Foam Specs:</strong> &rarr; <strong class="text-navy font-bold"><a href="sub-slab-insulation-specs.html" class="text-crimson font-medium underline hover:text-crimson-hover">Read: Below-Slab and Rim Joist Foam Spec: Stopping Frost-Heave and Basement Heat Loss</a></strong></li>
+  <li><strong class="text-navy font-bold">Blower Door Checklist:</strong> &rarr; <strong class="text-navy font-bold"><a href="blower-door-checklist.html" class="text-crimson font-medium underline hover:text-crimson-hover">Read: 10 Critical Blower Door Test Leak Zones Contractors Miss</a></strong></li>
+</ul>
+
+    </article>
+
+    <!-- Natural Dual CTA 2: Contractor Matching Hook -->
+    <div class="mt-14 p-8 rounded-2xl bg-white border-2 border-steel-border shadow-sm">
+      <div class="flex items-center justify-between gap-2 mb-2">
+        <span class="text-xs font-mono uppercase tracking-widest text-crimson font-bold">Vetted Contractor Network</span>
+        <span class="text-[10px] font-mono text-slate-400">Midwest Region</span>
+      </div>
+      <h3 class="text-2xl font-bold text-navy font-serif">
+        Need Vetted Local Specialists in Your Area?
+      </h3>
+      <p class="text-slate-600 text-sm mt-2 font-sans leading-relaxed">
+        Connect with licensed, building-science trained contractors serving Chicago, Cincinnati, Cleveland, Columbus, Des Moines.... Free estimates with zero obligation.
+      </p>
+
+      <div class="mt-6 flex flex-wrap items-center gap-3">
+        <a href="../browse.html?cat=water-barriers" class="px-5 py-2.5 rounded-xl bg-crimson hover:bg-crimson-hover text-white text-xs font-mono font-semibold transition shadow-sm">
+          Get Local Contractor Quotes &rarr;
+        </a>
+        <a href="../browse.html?cat=all" class="px-5 py-2.5 rounded-xl bg-slate-50 hover:bg-slate-100 border border-slate-200 text-slate-700 text-xs font-mono font-medium transition">
+          Browse More Specifications
+        </a>
+      </div>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="border-t border-slate-200 bg-white py-8 text-xs text-slate-500 font-mono mt-12">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-4">
+      <div>MIAEC &bull; Midwest Architecture, Engineering & Construction</div>
+      <div><a href="../about.html" class="hover:text-navy">About MIAEC</a> &bull; &copy; 2026 MIAEC Media LLC</div>
+    </div>
+  </footer>
+  <script>
+    function switchSlide(carouselId, index) {
+      const container = document.querySelector('[data-carousel="' + carouselId + '"]');
+      if (!container) return;
+      const tabs = container.querySelectorAll('.carousel-tab');
+      const slides = container.querySelectorAll('.carousel-slide');
+      tabs.forEach((tab, i) => {
+        if (i === index) {
+          tab.className = 'carousel-tab px-3 py-1 rounded-full text-xs font-mono font-semibold transition bg-navy text-white shadow-xs';
+        } else {
+          tab.className = 'carousel-tab px-3 py-1 rounded-full text-xs font-mono font-medium transition text-slate-600 hover:text-navy hover:bg-slate-200/60';
+        }
+      });
+      slides.forEach((slide, i) => {
+        if (i === index) {
+          slide.classList.remove('hidden');
+          slide.classList.add('block');
+        } else {
+          slide.classList.add('hidden');
+          slide.classList.remove('block');
+        }
+      });
+    }
+  </script>
+</body>
+</html>

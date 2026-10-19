@@ -43,7 +43,7 @@ Unless your existing window frames are structurally rotted or mechanically inope
 
 ---
 
-## 1. Stop the Draft Behind the Trim (Weight Pockets & Rough Openings)
+## Stop the Draft Behind the Trim (Weight Pockets & Rough Openings)
 
 Most homeowners who complain about "drafty windows" assume cold air is passing straight through the window panes. In reality, the draft is entering around the perimeter of the window buck.
 
@@ -57,7 +57,7 @@ To permanently eliminate this draft without replacing the window:
 
 ---
 
-## 2. AERC-Rated Low-E Storm Windows: The Lab Data
+## AERC-Rated Low-E Storm Windows: The Lab Data
 
 Installing a secondary glazing layer over a sound primary window creates an insulating dead-air space that dramatically impedes conductive heat loss. 
 
@@ -78,7 +78,7 @@ Look for panels certified by the **Attachments Energy Rating Council (AERC)**. M
 
 ---
 
-## 3. The Whole-House Air Sealing & Cellulose Pairing
+## The Whole-House Air Sealing & Cellulose Pairing
 
 Windows do not operate in a vacuum. Cold air only enters through window jambs because warm air is actively escaping through your ceiling plane via the Stack Effect.
 
@@ -89,7 +89,7 @@ If you have $3,000 to invest in winter comfort, spending $2,000 on whole-house L
 
 ---
 
-## 4. Financial Analysis & Federal Tax Credits
+## Financial Analysis & Federal Tax Credits
 
 Federal tax code changes under the Inflation Reduction Act directly favor cost-effective window attachments over full replacements:
 

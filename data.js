@@ -46,6 +46,49 @@ var miaecData = [
     "url": "articles/attic-air-sealing-baffles.html"
   },
   {
+    "title": "How to Firestop & Air-Seal Historic Balloon Framing: The Step-by-Step Retrofit",
+    "subtitle": "A practical jobsite manual for sealing open stud bays, halting the two-story convective chimney, and meeting IRC R302.11 firestop code without tearing down plaster.",
+    "format": "Tutorial",
+    "leadType": "Process",
+    "category": "Urban Development",
+    "catSlug": "urban-development",
+    "cities": [
+      "Chicago",
+      "Cincinnati",
+      "Cleveland",
+      "Columbus",
+      "Des Moines",
+      "Detroit",
+      "Fargo",
+      "Indianapolis",
+      "Kansas City",
+      "Milwaukee",
+      "Minneapolis",
+      "Omaha",
+      "Rapid City",
+      "Sioux Falls",
+      "St. Louis"
+    ],
+    "states": [
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "MI",
+      "MN",
+      "MO",
+      "ND",
+      "NE",
+      "OH",
+      "SD",
+      "WI"
+    ],
+    "summary": "Historic balloon-framed two-stories contain open, uninterrupted wall cavities spanning from foundation to attic. This step-by-step tutorial details how to execute the two-end air-block retrofit: friction-fitting non-combustible mineral wool blocks at the basement mud sill, sealing perimeters with intumescent firestop mastic, and capping open stud bays at the attic eaves.",
+    "codeTag": "IRC Section R302.11 / ASTM E136 / ASTM E814",
+    "type": "Tutorial",
+    "url": "articles/balloon-framing-retrofit-steps.html"
+  },
+  {
     "title": "Balloon Framing Air Leaks: How to Firestop and Seal the Chimney Effect in Pre-1940s Homes",
     "subtitle": "How continuous two-story wall cavities act as open thermal chimneys and fire spread corridors in pre-1940s Midwest urban neighborhoods, and how to air-seal them from the basement and attic.",
     "format": "Feature",
@@ -177,7 +220,7 @@ var miaecData = [
   {
     "title": "How to Pass the Blower Door Test (< 3.0 ACH50) on a Midwest Remodel",
     "subtitle": "A builder's jobsite blueprint for hitting mandatory 3.0 ACH50 code thresholds: rim joists, top-plate penetrations, mechanical chases, and HVAC duct boots.",
-    "format": "Feature",
+    "format": "Listicle",
     "leadType": "Process-First",
     "category": "Air Barriers",
     "catSlug": "air-barriers",
@@ -214,13 +257,13 @@ var miaecData = [
     ],
     "summary": "The 2021 and 2024 International Energy Conservation Code (IECC) mandates that residential builds and major alterations pass a calibrated blower door depressurization test below 3.0 ACH50 in Climate Zones 4, 5, and 6. For general contractors and remodelers, failing this test halts the certificate of occupancy and triggers costly teardowns. Passing requires a disciplined, five-point pre-drywall sealing protocol targeting the concealed bypasses responsible for 80% of residential air leakage.",
     "codeTag": "IECC Section R402.4 / ASTM E779 / RESNET ANSI 380",
-    "type": "Feature",
+    "type": "Listicle",
     "url": "articles/blower-door-checklist.html"
   },
   {
     "title": "Rural Bug & Pest Prevention: Termite Shields, Carpenter Ants & Perimeter Envelopes",
     "subtitle": "Why chemical spraying fails, the physics of stainless steel weep screens and metal termite shields, and how keeping rim joists dry stops carpenter ants.",
-    "format": "Feature",
+    "format": "Report",
     "leadType": "Fact-First",
     "category": "Rural Development",
     "catSlug": "rural-development",
@@ -257,13 +300,13 @@ var miaecData = [
     ],
     "summary": "Rural acreages and wooded Midwest homesteads face intense pest pressure from subterranean termites, carpenter ants, cluster flies, and field mice. Monthly chemical exterminator sprays are an expensive band-aid that never stops the influx. Building science shows that physical envelope barriers—continuous 26-gauge galvanized termite shields, stainless steel weep inserts, and moisture-controlled rim joists—permanently deny pests entry.",
     "codeTag": "IRC Section R318 / NPMA Guidelines / ASTM E2178",
-    "type": "Feature",
+    "type": "Report",
     "url": "articles/bug-prevention.html"
   },
   {
     "title": "Can a Heat Pump Actually Handle -15°F? Cold-Climate Inverters During Midwest Winters",
     "subtitle": "An engineering teardown of vapor flash-injection, real-world COP curves at sub-zero temperatures, dual-fuel balance points, and the summer humidity oversizing trap.",
-    "format": "Feature",
+    "format": "Report",
     "leadType": "Fact-First",
     "category": "HVAC",
     "catSlug": "hvac",
@@ -300,7 +343,7 @@ var miaecData = [
     ],
     "summary": "Every January across the Midwest, homeowners question whether a heat pump can survive sub-zero weather without skyrocketing bills. Modern inverter-driven systems with vapor flash-injection deliver 100% rated capacity down to -5°F and operate past -15°F, but real-world comfort hinges on dual-fuel balance points and avoiding summer humidity traps.",
     "codeTag": "NEEP ccASHP / AHRI 210/240 / ASHRAE 90.1",
-    "type": "Feature",
+    "type": "Report",
     "url": "articles/cold-climate-heat-pumps.html"
   },
   {
@@ -347,9 +390,52 @@ var miaecData = [
     "url": "articles/continuous-insulation.html"
   },
   {
+    "title": "How to Encapsulate a Crawlspace: The Step-by-Step Conversion Guide",
+    "subtitle": "A practical jobsite manual for sealing foundation vents, detailing 20-mil vapor barriers, insulating stem walls, and installing commercial dehumidification under IRC R408.3.",
+    "format": "Tutorial",
+    "leadType": "Process",
+    "category": "Water Barriers",
+    "catSlug": "water-barriers",
+    "cities": [
+      "Chicago",
+      "Cincinnati",
+      "Cleveland",
+      "Columbus",
+      "Des Moines",
+      "Detroit",
+      "Fargo",
+      "Indianapolis",
+      "Kansas City",
+      "Milwaukee",
+      "Minneapolis",
+      "Omaha",
+      "Rapid City",
+      "Sioux Falls",
+      "St. Louis"
+    ],
+    "states": [
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "MI",
+      "MN",
+      "MO",
+      "ND",
+      "NE",
+      "OH",
+      "SD",
+      "WI"
+    ],
+    "summary": "Vented crawlspaces in the Midwest create extreme summer humidity, mold growth, and winter floor heat loss. This step-by-step tutorial details how to execute a code-compliant crawlspace encapsulation under IRC Section R408.3: resolving bulk ground moisture, permanently sealing exterior vents, installing a taped 20-mil Class A polyolefin liner, insulating perimeter stem walls, and commissioning a low-temperature commercial dehumidifier.",
+    "codeTag": "IRC Section R408.3 / ASTM E1745 / ASHRAE 62.2",
+    "type": "Tutorial",
+    "url": "articles/crawlspace-encapsulation-steps.html"
+  },
+  {
     "title": "Crawlspace Encapsulation vs. Open Venting in the Midwest: Mold, Odors & Heating Costs",
     "subtitle": "Why code-mandated foundation vents act as moisture incubators during humid Midwest summers, and the building-science blueprint for sealed, conditioned encapsulation.",
-    "format": "Feature",
+    "format": "Report",
     "leadType": "Contrast",
     "category": "Water Barriers",
     "catSlug": "water-barriers",
@@ -386,13 +472,13 @@ var miaecData = [
     ],
     "summary": "For over fifty years, residential building codes required foundation vents based on the flawed assumption that outdoor air dries crawlspaces. In the Midwest, venting brings 85°F humid summer air into contact with cool 62°F crawlspace framing, causing relative humidity to exceed 100% and breeding structural wood rot. In winter, open vents freeze supply pipes and chill living-room floors. Sealing crawlspaces under IRC Section R408.3 with heavy-duty Class A vapor barriers and dedicated dehumidification permanently halts mold and cuts heating bills by 20%.",
     "codeTag": "IRC Section R408.3 / ASTM E1745 / ASHRAE 62.2",
-    "type": "Feature",
+    "type": "Report",
     "url": "articles/crawlspace-encapsulation.html"
   },
   {
     "title": "Embodied Carbon & Bio-Based Insulation: Decarbonizing Midwest Envelopes",
     "subtitle": "Why petrochemical foams take up to 30 years to offset their chemical manufacturing footprint, and how cellulose, wood fiber, and stone wool achieve upfront decarbonization.",
-    "format": "Feature",
+    "format": "Report",
     "leadType": "Fact-First",
     "category": "Go Green",
     "catSlug": "go-green",
@@ -422,7 +508,7 @@ var miaecData = [
     ],
     "summary": "As Midwest building envelopes become tighter and the regional electric grid transitions to renewables, upfront embodied carbon accounts for over 50% of a high-performance building's lifetime climate impact. Selecting bio-based insulations—such as dense-pack cellulose and continuous wood-fiber board—sequesters atmospheric carbon into the walls while maintaining hygroscopic, vapor-open drying capacity that petrochemical foams cannot match.",
     "codeTag": "ISO 21930 / ASHRAE 240P / LEED v4.1",
-    "type": "Feature",
+    "type": "Report",
     "url": "articles/embodied-carbon-materials.html"
   },
   {
@@ -471,7 +557,7 @@ var miaecData = [
   {
     "title": "Expansive Lawncare & Acreage Grading: Swales, Prairie Buffers & Soil Drainage",
     "subtitle": "Why mowing 5 acres of Kentucky bluegrass creates an impermeable hardpan, civil grading rules for clay swales, and how 15-foot prairie roots stop foundation flooding.",
-    "format": "Feature",
+    "format": "Report",
     "leadType": "Contrast",
     "category": "Rural Development",
     "catSlug": "rural-development",
@@ -508,8 +594,44 @@ var miaecData = [
     ],
     "summary": "Transitioning from a city lot to a 5-acre rural homestead introduces civil drainage realities that zero-turn mowers cannot solve. Repeated mower traffic across glacial clay creates an impermeable hardpan that channels thousands of gallons of stormwater directly into basement foundations. Here is how to engineer bioswales, French berms, and native prairie buffers.",
     "codeTag": "USDA NRCS Standard 412 / Local SWCD / ASTM D698",
-    "type": "Feature",
+    "type": "Report",
     "url": "articles/expansive-lawncare.html"
+  },
+  {
+    "title": "How to Safely Insulate Historic Solid Brick: The Interior Retrofit Blueprint",
+    "subtitle": "A step-by-step jobsite execution manual for diagnostic RILEM testing, lime repointing, capillary uncoupling, and smart membrane detailing on 100-year-old masonry.",
+    "format": "Tutorial",
+    "leadType": "Process",
+    "category": "Urban Development",
+    "catSlug": "urban-development",
+    "cities": [
+      "Chicago",
+      "Cincinnati",
+      "Cleveland",
+      "Columbus",
+      "Detroit",
+      "Indianapolis",
+      "Kansas City",
+      "Milwaukee",
+      "Minneapolis",
+      "Omaha",
+      "St. Louis"
+    ],
+    "states": [
+      "IL",
+      "IN",
+      "KS",
+      "MI",
+      "MN",
+      "MO",
+      "NE",
+      "OH",
+      "WI"
+    ],
+    "summary": "Insulating historic solid mass masonry from the interior without causing brick spalling or rotten joist pockets requires following a strict hygrothermal procedure. This step-by-step tutorial details how to conduct RILEM absorption testing, rake and repoint with breathable lime mortar, erect an offset framed cavity with a 1-inch capillary air break, install hydrophobic mineral wool, and detail an airtight smart vapor retarder.",
+    "codeTag": "ASTM C67 / ASTM C1324 / IRC Section R702.7",
+    "type": "Tutorial",
+    "url": "articles/historic-brick-retrofit-steps.html"
   },
   {
     "title": "The Physics of Midwest Ice Dams: The Real Fix (And Why Heat Cables Don't Work)",
@@ -557,7 +679,7 @@ var miaecData = [
   {
     "title": "ICF (Insulated Concrete Forms) for Midwest Basements: Eliminating Moisture & Freezing Walls",
     "subtitle": "Why dual continuous 2.6-inch EPS foam shells eliminate foundation thermal bridge losses, prevent summer mold sweating, and create an indestructible, waterproof below-grade living space.",
-    "format": "Feature",
+    "format": "Report",
     "leadType": "Performance-First",
     "category": "Envelopes",
     "catSlug": "envelopes",
@@ -587,7 +709,7 @@ var miaecData = [
     ],
     "summary": "In Midwest cold climates, basements account for up to 35% of total home heat loss. Standard 8-inch poured concrete walls offer an insulation value of barely R-1.1 and wick ground moisture inward via capillary action. Insulated Concrete Forms (ICF)—interlocking high-density EPS blocks filled with steel-reinforced concrete—deliver continuous R-22+ insulation, eliminate interior framing condensation traps, and create a waterproof, tornado-resistant thermal flywheel.",
     "codeTag": "ACI 318 / ASTM C578 / IRC Section R404.1.3",
-    "type": "Feature",
+    "type": "Report",
     "url": "articles/icf-basements-walls.html"
   },
   {
@@ -629,7 +751,7 @@ var miaecData = [
   {
     "title": "Rural Off-Grid Systems in Zone 5: Propane, Battery Backup & Freeze-Proof Wells",
     "subtitle": "How to design sub-zero propane vaporization capacity, thermal battery rooms, and 60-inch frost-line pitless wellhead protection for Midwest homesteads.",
-    "format": "Feature",
+    "format": "Report",
     "leadType": "Fact-First",
     "category": "Rural Development",
     "catSlug": "rural-development",
@@ -666,13 +788,13 @@ var miaecData = [
     ],
     "summary": "Living beyond municipal water and natural gas lines requires strict thermodynamic engineering. When a sub-zero polar vortex knocks out rural electric co-op lines, undersized propane tanks lose pressure, unconditioned lithium batteries refuse charge, and shallow wellheads freeze solid. Here is how to engineer a resilient Zone 5 rural utility plant.",
     "codeTag": "NEC Article 710 / NFPA 58 / Ten States Standards",
-    "type": "Feature",
+    "type": "Report",
     "url": "articles/off-grid-systems.html"
   },
   {
     "title": "Does Rockwool Outperform Fiberglass? How Each Holds Up in Midwest Wall Assemblies",
     "subtitle": "Why low-density glass fibers allow convective looping and moisture clumping at -10°F while dense stone mineral wool maintains true rated thermal resistance, friction-fit rigidity, and zero water absorption.",
-    "format": "Feature",
+    "format": "Listicle",
     "leadType": "Contrast",
     "category": "Go Green",
     "catSlug": "go-green",
@@ -709,7 +831,7 @@ var miaecData = [
     ],
     "summary": "Walk into any Midwest home center and fiberglass batts cost 40% less than stone mineral wool. But behind drywall during sub-zero cold snaps, low-density glass fibers suffer severe convective thermal derating, slump under gravity, and sponge moisture, while hydrophobic stone wool locks thermal performance in place.",
     "codeTag": "ASTM C665 / ASTM C612 / ASTM C518",
-    "type": "Feature",
+    "type": "Listicle",
     "url": "articles/rockwool-vs-fiberglass.html"
   },
   {
@@ -758,7 +880,7 @@ var miaecData = [
   {
     "title": "SIPs (Structural Insulated Panels) in Zone 5: Total Cost vs. Traditional Stick Framing",
     "subtitle": "Why 4.5-inch to 8.25-inch foam-core panels cut jobsite framing schedules by 60% and downsize HVAC tonnage, offsetting higher factory material invoices in Midwest cold climates.",
-    "format": "Feature",
+    "format": "Report",
     "leadType": "Cost-First",
     "category": "Envelopes",
     "catSlug": "envelopes",
@@ -788,13 +910,13 @@ var miaecData = [
     ],
     "summary": "Structural Insulated Panels (SIPs)—rigid foam insulation bonded between structural OSB skins—eliminate 90% of thermal bridging and deliver sub-1.0 ACH50 airtightness out of the box. While factory panel packages carry a 12% to 18% material premium over dimensional 2x6 lumber, dramatic reductions in crane erection time, eliminated drywall air-sealing labor, and downsized cold-climate heat pump capacities alter the total-cost equation in Climate Zone 5.",
     "codeTag": "IRC Section R610 / ASTM C578 / ASTM E2178",
-    "type": "Feature",
+    "type": "Report",
     "url": "articles/sips-vs-traditional-framing.html"
   },
   {
     "title": "Smart Vapor Retarders vs. 6-Mil Plastic: Why Polyethylene Traps Mold in Midwest Summers",
     "subtitle": "Why installing impermeable polyethylene behind interior drywall creates summer condensation rot in Climate Zones 4 and 5, and how variable polyamide membranes adapt to seasonal vapor drive.",
-    "format": "Feature",
+    "format": "Report",
     "leadType": "Contrast",
     "category": "Air Barriers",
     "catSlug": "air-barriers",
@@ -823,13 +945,13 @@ var miaecData = [
     ],
     "summary": "In cold Midwest climates, builders frequently copy Canadian construction details by slapping 6-mil polyethylene sheet plastic behind interior drywall. While impermeable poly blocks outward winter moisture, it creates a catastrophic failure in July and August when humid outdoor air drives inward against chilled, air-conditioned drywall. Moisture condenses against the backside of the plastic, feeding toxic black mold inside wall cavities. Intelligent variable-permeance membranes solve this bidirectional dilemma by tightening in winter and opening wide in summer.",
     "codeTag": "IRC Section R702.7 / ASTM E96 / Class I vs. Class II",
-    "type": "Feature",
+    "type": "Report",
     "url": "articles/smart-vapor-retarders.html"
   },
   {
     "title": "Below-Slab and Rim Joist Foam Spec: Stopping Frost-Heave and Basement Heat Loss",
     "subtitle": "Why subterranean moisture degrades XPS thermal performance over 15 years, how high-density EPS drains, and why 2-lb closed-cell spray foam dominates the rim joist.",
-    "format": "Feature",
+    "format": "Report",
     "leadType": "Performance-First",
     "category": "Efficient Systems",
     "catSlug": "efficient-systems",
@@ -866,7 +988,7 @@ var miaecData = [
     ],
     "summary": "Insulating below-grade building components subjects foam to continuous dampness, soil chemistry, and compressive loads. While extruded polystyrene (XPS) delivers high initial R-values, multi-year field studies show it absorbs moisture under long-term subterranean vapor pressure, losing up to 45% of its thermal resistance. High-density EPS (Type IX) and graphite-infused GPS maintain compressive strength and drain moisture, while two inches of 2.0-lb closed-cell spray foam provides the ultimate air-impermeable seal for drafty rim joists.",
     "codeTag": "ASTM C578 / ASTM D1621 / IRC Section R402.1",
-    "type": "Feature",
+    "type": "Report",
     "url": "articles/sub-slab-insulation-specs.html"
   },
   {

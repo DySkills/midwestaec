@@ -47,7 +47,7 @@ The contractor does not understand thermodynamics. Lowering the thermostat furth
 
 ---
 
-## 1. Sensible vs. Latent Heat: The Thermodynamic Conflict
+## Sensible vs. Latent Heat: The Thermodynamic Conflict
 
 To diagnose why air conditioning systems fail to dehumidify in the Midwest, one must understand the two components of cooling:
 
@@ -70,7 +70,7 @@ When an air conditioner designed for an SHR of 0.80 operates in a home with an a
 
 ---
 
-## 2. The 12-Minute Coil Evaporation Trap: Why Short Cycles Fail
+## The 12-Minute Coil Evaporation Trap: Why Short Cycles Fail
 
 When an air conditioning compressor turns on, moisture removal does **not** happen instantaneously. Latent dehumidification is a delayed physical process:
 
@@ -96,7 +96,7 @@ The air conditioner consumed hundreds of kilowatt-hours of electricity, but remo
 
 ---
 
-## 3. The Cold Basement Paradox: Why Finished Basements Sweat
+## The Cold Basement Paradox: Why Finished Basements Sweat
 
 In the Midwest, finished basements suffer the most severe moisture problems during summer heatwaves.
 
@@ -121,7 +121,7 @@ At relative humidity levels above 70%, dust mites breed exponentially and mold s
 
 ---
 
-## 4. The Engineering Solution: Sizing, Airflow Tuning & Dehumidification
+## The Engineering Solution: Sizing, Airflow Tuning & Dehumidification
 
 Solving the Midwest summer humidity trap requires an integrated building-science strategy rather than simply swapping equipment:
 
@@ -166,26 +166,6 @@ The table below contrasts standard cooling equipment configurations against vari
 | **Indoor Relative Humidity** | **62% to 72% (Clammy & sticky)** | 55% to 62% | 50% to 55% (Crisp comfort) | **45% to 50% Flat Year-Round** |
 | **Basement Mold Prevention** | **Fails (RH stays > 75%)** | Poor (Requires basement fans) | Moderate | **COMPLETE (Dedicated basement zone pull)** |
 | **Sensible Heat Ratio (SHR)** | 0.78 (Rigid) | 0.74 | 0.68 | **Dynamic (Decouples temperature from moisture)** |
-
----
-
-## Where to Put Your Capital: The Humidity Control Roadmap
-
-If your Midwest home suffers from high summer humidity, cold basements, or clammy air, follow this prioritized investment strategy:
-
-1. **Step 1: Tune Your Existing Air Handler Blower Speeds ($150 – $300):**  
-   Before spending thousands on new equipment, have an HVAC technician adjust your existing blower fan from 450 CFM/ton down to 350 CFM/ton. Ensure the thermostat is set to "Fan Auto"—never "Fan On"—which blows warm air across the wet coil and pushes moisture back into the home.
-
-2. **Step 2: Install a Dedicated Whole-Home Dehumidifier ($2,400 – $3,600 Installed):**  
-   If your central air conditioner is less than ten years old, do not replace it prematurely. Instead, add a dedicated 100-pint whole-home dehumidifier (AprilAire E100 or Santa Fe Ultra120) tied directly into your duct system. It will draw 45% of its air from the basement, permanently solving finished basement dampness while allowing you to set the main thermostat 3 degrees higher with greater comfort.
-
-3. **Step 3: Upgrade to an Inverter Variable-Speed Heat Pump ($9,500 – $14,000):**  
-   When your existing cooling system reaches end of life, replace it with a variable-capacity inverter heat pump right-sized via ACCA Manual J. The inverter compressor modulates down in summer to run long dehumidification cycles, and reverses in winter to provide 100% heating capacity down to -5°F.  
-   &rarr; **[Read: Can a Heat Pump Actually Handle -15°F? Cold-Climate Inverters During Midwest Winters](cold-climate-heat-pumps.html)**
-
-4. **Step 4: Seal Foundation Rim Joists and Air Leaks ($600 – $1,200):**  
-   Stop outdoor humidity from entering the envelope in the first place. Air-sealing the basement rim joists with closed-cell spray foam blocks moisture infiltration before it reaches living spaces.  
-   &rarr; **[Read: How to Pass the Blower Door Test (< 3.0 ACH50) on a Midwest Remodel](blower-door-checklist.html)**
 
 ---
 

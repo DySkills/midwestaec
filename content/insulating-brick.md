@@ -41,7 +41,7 @@ The renovated building is suffering from **hygrothermal freeze-thaw spalling**�
 
 ---
 
-## 1. The Physics of Mass Masonry: The Waste-Heat Storage Engine
+## The Physics of Mass Masonry: The Waste-Heat Storage Engine
 
 Modern brick residential walls are "cavity walls" or "rainscreens": an exterior single-wythe brick veneer sits across a 1-inch open drainage cavity with weep holes, backed by a weather-resistive barrier (WRB), continuous insulation, and airtight wood or steel framing. Water that penetrates the brick runs down the drainage plane and exits safely through the weeps.
 
@@ -66,7 +66,7 @@ In an uninsulated historic home, the interior plaster wall sat at 65°F, and hea
 
 ---
 
-## 2. The Spalling Mechanism: Hydrostatic Pressure & Critical Saturation
+## The Spalling Mechanism: Hydrostatic Pressure and Critical Saturation
 
 When you place R-13 to R-20 of insulation on the interior side of a mass brick wall, you sever the thermal connection between the heated interior living space and the masonry.
 
@@ -89,7 +89,7 @@ The resulting hydraulic pressure obeys the Darcy-Weisbach capillary relation, ge
 
 ---
 
-## 3. The Hidden Hazard: Rotten Floor Joist Pockets
+## The Hidden Hazard: Rotten Floor Joist Pockets
 
 Spalling faces are catastrophic, but an even more insidious failure occurs where wood floor joists bear directly inside the masonry.
 
@@ -115,7 +115,7 @@ Once the wall is insulated on the interior, the masonry pocket becomes a freezin
 
 ---
 
-## 4. Pre-Retrofit Diagnostics: Testing Before Insulating
+## Pre-Retrofit Diagnostics: Testing Before Insulating
 
 Never insulate historic masonry without diagnostic verification. Testing proves whether a specific brick facade has the capillary absorption rate and freeze-thaw resilience to survive interior thermal isolation:
 
@@ -128,7 +128,7 @@ Never insulate historic masonry without diagnostic verification. Testing proves 
 
 ---
 
-## 5. The Safe Interior Insulation Blueprint
+## The Safe Interior Insulation Blueprint
 
 To insulate a solid mass brick wall safely in Climate Zones 4, 5, and 6 without inducing spalling or joist rot, contractors must follow a strictly specified hygrothermal assembly:
 
@@ -145,31 +145,11 @@ To insulate a solid mass brick wall safely in Climate Zones 4, 5, and 6 without 
 > | **7. Smart Vapor Retarder** | Polyamide membrane (INTELLO / MemBrain) | Closed in winter (< 0.8 perms); open in summer (> 10 perms) |
 > | **8. Interior Wall Finish** | 1/2" Gypsum drywall with latex paint | Conditioned living space finish maintaining indoor air quality |
 
-> ### Assembly Step-by-Step Specifications
->
-> 1. **Exterior Masonry Preparation:**
->    - Rake out all cracking or spalled mortar joints to a depth of twice the joint width.
->    - Repoint strictly with ASTM C270 Type O (high-lime) or Type N mortar. Never use Type S or Portland cement, which is harder than historic brick and causes edge fractures.
->    - Apply a 100% vapor-permeable silane/siloxane penetrant to exterior windward walls. This prevents bulk liquid water absorption while allowing water vapor to pass freely outward (vapor permeance > 20 perms).
->
-> 2. **Capillary Air Break:**
->    - Erect 2x4 stud framing at least 1 full inch off the interior brick face. 
->    - Never allow wood studs or cavity insulation to touch the masonry directly. If liquid water bypasses the brick, the air break prevents capillary wicking into the insulation.
->
-> 3. **Vapor-Permeable Cavity Insulation:**
->    - Fill the 2x4 cavity with R-15 stone mineral wool (Rockwool Comfortbatt) or dense-pack cellulose (3.5 lbs/cu.ft).
->    - Mineral wool is naturally hydrophobic (absorbs < 1% water by volume) and non-combustible.
->    - Caution: Never install 2-pound closed-cell spray foam against historic brick unless extensive WUFI hygrothermal modeling confirms the exterior brick never reaches critical saturation. Closed-cell foam creates a vapor dam that prevents the brick from drying inward during Midwest summer humidity.
->
-> 4. **The Smart Variable-Permeance Vapor Retarder:**
->    - Staple and tape an intelligent smart membrane (Pro Clima INTELLO or CertainTeed MemBrain) to the interior face of the studs.
->    - In winter (low relative humidity < 40%), the membrane tightens to 0.8 perms (Class II vapor retarder), stopping indoor air humidity from condensing on the cold brick.
->    - In summer (high relative humidity > 60%), the membrane's pores open to over 10 to 15 perms, allowing damp masonry to dry safely into the air-conditioned interior living space.
->    - Rule of Thumb: Never install 6-mil polyethylene sheet plastic on a historic brick home. Poly traps summer moisture inside the wall cavity, generating toxic black mold (*Stachybotrys chartarum*) on the drywall paper.
->
-> 5. **Preserving Joist Tails:**
->    - Before insulating, drill two 1/2-inch holes into each timber joist tail inside the masonry pocket and insert borate glass rods (Impel Rods). If moisture enters, the rods dissolve, flooding the wood fibers with natural antifungal borate salt.
->    - Air-seal the perimeter around each joist pocket with an elastomeric acoustic sealant and vapor-permeable flashing tape to prevent warm interior air from exfiltrating into the cold brick pocket.
+Safely insulating a solid mass brick assembly demands uncoupling the thermal boundary from the liquid capillary network. Because exterior brick loses its drying heat flux once insulated from the interior, bulk water penetration through mortar joints must be arrested with breathable lime tuckpointing before any insulation is added.
+
+Within the interior framing cavity, a minimum 1-inch clear air break prevents moisture that penetrates the brick wythes from wicking into the insulation. Combining hydrophobic mineral wool with a dynamic variable-permeance smart vapor retarder ensures the wall remains protected against winter indoor humidity while permitting vital inward drying during hot, humid Midwest summers.
+
+&rarr; **[Step-by-Step Tutorial: How to Safely Insulate Historic Solid Brick](historic-brick-retrofit-steps.html)**
 
 ---
 
@@ -185,27 +165,6 @@ The table below contrasts standard uninsulated baseline conditions against impro
 | **Risk of Freeze-Thaw Spalling** | **Zero / Low (Protected by waste heat)** | **EXTREME (Trapped moisture fractures face)** | **Very Low (Bulk water repelled; moisture < $S_{crit}$)** |
 | **Risk of Joist Tail Fungal Rot** | Low (Kept warm by indoor air) | **High (Cold condensation pocket)** | **Zero (Air-sealed & borate-protected)** |
 | **Interior Summer Mold Risk** | Low | High (Condensation on back of poly) | **Zero (Membrane opens to permit drying)** |
-
----
-
-## Where to Put Your Capital: Historic Masonry Roadmap
-
-If you are restoring or weatherizing a historic solid-brick building in the Midwest, invest your capital in this strict chronological order:
-
-1. **Step 1: Repoint the Exterior Shell with Breathable Mortar ($2,500 – $6,000):**  
-   Before spending one dollar on interior insulation, address bulk water entry. Hire an experienced historic preservation mason to rake out damaged mortar and repoint all windward facades with Type O or Type N lime mortar. Repair all broken limestone window sills, flashings, and downspout leaks.
-   
-2. **Step 2: Perform RILEM Tube Testing ($300 – $600):**  
-   Verify that your brick has an acceptable absorption profile. If absorption exceeds 1.5 mL in 20 minutes, treat the facade with a vapor-permeable silane/siloxane penetrant. If the brick is severely under-fired and brittle, abandon interior insulation plans and focus entirely on attic air-sealing and storm windows.  
-   &rarr; **[Read: Winter Tariff Hikes: Why $20k on Windows Doesn't Hold Up](energy-hikes.html)**
-
-3. **Step 3: Seal Balloon-Frame Stud Pockets and Joist Bays ($450 – $1,200):**  
-   Stop vertical convective air leakage from the basement to the attic. Air-seal around all floor joist pockets with elastomeric sealant and install non-combustible mineral wool firestops.  
-   &rarr; **[Read: Balloon Framing Air Leaks: How to Firestop and Seal the Chimney Effect](balloon-framing.html)**
-
-4. **Step 4: Install the Offset Stud Wall with Smart Vapor Retarder ($3.50 – $5.50 / sq.ft):**  
-   Frame interior stud walls 1 inch clear of the brick, insulate with hydrophobic mineral wool batts, and detail a continuous, airtight Class II smart variable-permeance membrane (Intello or MemBrain). Tape all seams with acrylic air-sealing tape before hanging drywall.  
-   &rarr; **[Read: Does Rockwool Outperform Fiberglass? How Each Holds Up in Midwest Wall Assemblies](rockwool-vs-fiberglass.html)**
 
 ---
 

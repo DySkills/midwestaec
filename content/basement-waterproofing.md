@@ -47,7 +47,7 @@ The disaster was caused by two compounding physical forces: **hydrostatic head p
 
 ---
 
-## 1. The Physics of the "Clay Bowl" and Hydrostatic Head
+## The Physics of the "Clay Bowl" and Hydrostatic Head
 
 When a building foundation is excavated in the Midwest, heavy equipment digs a hole 4 to 6 feet wider than the footprint of the home. Once the concrete footings and walls are poured, the contractor shoves loose excavated dirt back into the trench:
 
@@ -82,7 +82,7 @@ Water under 500 lbs/sq.ft of pressure will exploit the smallest microscopic path
 
 ---
 
-## 2. Capillary Suction & Vapor Diffusion: The Flooring Killer
+## Capillary Suction & Vapor Diffusion: The Flooring Killer
 
 Even when bulk liquid water is kept at bay by exterior drainage, a second thermodynamic mechanism destroys finished basements: **capillary moisture transmission**.
 
@@ -106,7 +106,7 @@ The disaster occurs when the homeowner "finishes" the basement by laying imperme
 
 ---
 
-## 3. Why Cheap 6-Mil Construction Poly Fails Under Slabs
+## Why Cheap 6-Mil Construction Poly Fails Under Slabs
 
 To prevent under-slab vapor transmission, residential building codes require an under-slab vapor retarder. In 90% of Midwest tract homes, builders install generic **6-mil black or clear polyethylene sheeting**.
 
@@ -126,7 +126,7 @@ Furthermore, research by the American Concrete Institute (ACI Committee 302) sho
 
 ---
 
-## 4. The Engineering Solution: ASTM E1745 Class A Prime Resin
+## The Engineering Solution: ASTM E1745 Class A Prime Resin
 
 To survive jobsite abuse and provide permanent, 100-year subterranean vapor protection, building science standards specify an **ASTM E1745 Class A** vapor barrier (such as Stego Wrap 15-Mil or Viper VaporCheck 16-Mil).
 
@@ -146,7 +146,7 @@ To survive jobsite abuse and provide permanent, 100-year subterranean vapor prot
 
 ---
 
-## 5. Dual Defense Architecture: Bulk Drainage & Vapor Sealing
+## Dual Defense Architecture: Bulk Drainage & Vapor Sealing
 
 A permanently dry basement in Midwest clay requires a two-tiered defense: hydrostatic head relief combined with sealed vapor isolation:
 
@@ -167,25 +167,6 @@ A permanently dry basement in Midwest clay requires a two-tiered defense: hydros
 > 5. **Perimeter Seal:** Turn the vapor retarder up the vertical foundation wall 4 inches and seal it airtight to the concrete using polyurethane elastomer mastic (Stego Mastic).
 > 6. **Pipe Boots:** Seal every plumbing pipe, radon vent, and conduit penetration using prefabricated polyolefin pipe collars and flexible flashing tape.
 
-
----
-
-## Where to Put Your Capital: The Basement Waterproofing Roadmap
-
-If you are building a new foundation or renovating an existing basement in the Midwest, allocate your budget according to this priority sequence:
-
-1. **Step 1: Install ASTM E1745 Class A Membrane Under New Slabs ($0.45 – $0.65 / sq.ft):**  
-   The cost difference between cheap 6-mil poly ($0.12/sq.ft) and indestructible 15-mil Class A virgin poly ($0.55/sq.ft) on a 1,200 sq.ft basement is barely **$500 total**. Spending that $500 during construction protects $8,000 in finished flooring from moisture failure.
-   
-2. **Step 2: Exterior Hydrostatic Relief & French Drains ($1,800 – $3,500):**  
-   On new foundations, install a dimpled HDPE membrane (DELTA-MS) from grade to footing. For existing homes with water seepage, install an interior perimeter drain tile (perforated PVC in washed stone) below the slab leading to a sump pit.  
-   &rarr; **[Read: Below-Slab and Rim Joist Foam Spec: Stopping Frost-Heave and Basement Heat Loss](sub-slab-insulation-specs.html)**
-
-3. **Step 3: Redundant Sump Pump System with Battery Backup ($1,400 – $2,200):**  
-   During a severe spring thunderstorm, power outages frequently strike when sump pumps are working hardest. Install a dual-pump basin with a 1/2-HP primary pump and a dedicated 12V marine AGM battery backup system capable of pumping 2,000 GPH for 24 hours.
-
-4. **Step 4: Subfloor Dimpled Mat for Existing Slabs ($0.85 – $1.15 / sq.ft):**  
-   If finishing an existing basement where you cannot install an under-slab membrane, lay a dimpled uncoupling subfloor mat (DMX 1-Step or DELTA-FL) directly over the concrete before laying LVP. The 5/16-inch dimpled airspace allows subterranean moisture vapor to equalize without wetting the flooring planks.
 
 ---
 

@@ -39,7 +39,15 @@ On Lot 2, a flatbed tractor-trailer arrived from a regional manufacturing plant 
 
 Yet when owner-builders look at initial bids, they routinely see raw material invoices for SIP packages running $14,000 to $22,000 higher than lumberyard dimensional framing packages. Does building with SIPs actually save money, or does it merely front-load construction expenses?
 
-![Conventional 2x6 Framing vs Structural Insulated Panel (SIP) in Zone 5](images/sips-framing-diagram.jpg)
+:::carousel
+### Conventional 2x6 Framing
+![Technical Cross-Section: Conventional 2x6 Stick Framing with 25% Framing Factor Thermal Bridging](images/sips-stick-framing.jpg)
+Figure 1.1: Conventional 2x6 Framing — Dimensional lumber studs account for 25% of the wall area, acting as continuous thermal bridges that derate nominal R-20 batts down to an effective whole-wall R-14.8 while creating air leakage seams at every plate joint.
+
+### Structural Insulated Panel (SIP)
+![Technical Cross-Section: 6.5-Inch Structural Insulated Panel Monolithic Envelope](images/sips-monolithic-panel.jpg)
+Figure 1.2: Structural Insulated Panel (SIP) — Monolithic 6.5-inch composite of solid EPS rigid foam bonded between 7/16-inch structural OSB skins delivers an uninterrupted whole-wall R-24 with less than 3% framing fraction, airtight plate connections, and an integrated rainscreen drainage cavity.
+:::
 
 ---
 
@@ -47,16 +55,16 @@ Yet when owner-builders look at initial bids, they routinely see raw material in
 
 A Structural Insulated Panel is a structural composite engineered according to **IRC Section R610** and tested under **ASTM E72** for transverse load and compressive strength. It functions as an I-beam in cross section: the rigid foam core acts as the web, resisting shear loads, while the outer structural OSB skins act as the flanges, resisting compressive and tensile forces.
 
-> ### Structural Insulated Panel (SIP) Cross-Section Specification
->
-> | Layer Position | Material Specification | Structural & Thermal Function |
-> | :--- | :--- | :--- |
-> | **Exterior Skin** | 7/16" or 5/8" Structural OSB | APA Exposure 1 shear skin; accepts rainscreen furring and claddings |
-> | **Thermal Core: 4.5" Wall** | Expanded Polystyrene (EPS) / GPS | R-15 (EPS) / R-18 (GPS) continuous insulation |
-> | **Thermal Core: 6.5" Wall** | Expanded Polystyrene (EPS) / GPS | R-24 (EPS) / R-29 (GPS) monolithic envelope; < 3% framing factor |
-> | **Thermal Core: 10.25" Roof** | Expanded Polystyrene (EPS) / GPS | R-39 (EPS) / R-48 (GPS) cathedral roof core |
-> | **Thermal Core: 12.25" Roof** | Expanded Polystyrene (EPS) / GPS | R-48 (EPS) / R-58 (GPS) high-performance snow-zone roof |
-> | **Interior Skin** | 7/16" or 5/8" Structural OSB | Continuous structural inner flange; solid nailable substrate for 1/2" drywall |
+### Structural Insulated Panel (SIP) Cross-Section Specification
+
+| Layer Position | Material Specification | Structural & Thermal Function |
+| :--- | :--- | :--- |
+| **Exterior Skin** | 7/16" or 5/8" Structural OSB | APA Exposure 1 shear skin; accepts rainscreen furring and claddings |
+| **Thermal Core: 4.5" Wall** | Expanded Polystyrene (EPS) / GPS | R-15 (EPS) / R-18 (GPS) continuous insulation |
+| **Thermal Core: 6.5" Wall** | Expanded Polystyrene (EPS) / GPS | R-24 (EPS) / R-29 (GPS) monolithic envelope; < 3% framing factor |
+| **Thermal Core: 10.25" Roof** | Expanded Polystyrene (EPS) / GPS | R-39 (EPS) / R-48 (GPS) cathedral roof core |
+| **Thermal Core: 12.25" Roof** | Expanded Polystyrene (EPS) / GPS | R-48 (EPS) / R-58 (GPS) high-performance snow-zone roof |
+| **Interior Skin** | 7/16" or 5/8" Structural OSB | Continuous structural inner flange; solid nailable substrate for 1/2" drywall |
 
 
 ### Core Material Physics:
@@ -74,12 +82,12 @@ In conventional stick framing, builders assume walls consist mostly of insulatio
 
 Because softwood lumber has an R-value of only R-1.25 per inch (R-6.9 for a 2x6), every stud acts as a thermal conduit leaking interior heat directly to the exterior.
 
-> ### Effective Whole-Wall Thermal Performance Comparison (Zone 5)
->
-> | Wall Assembly Specification | Framing Factor | Cavity / Core R-Value | Effective Whole-Wall R-Value | Thermal Degradation Penalty |
-> | :--- | :--- | :--- | :--- | :--- |
-> | **Conventional 2x6 Stick Wall** (R-20 Batt) | 25% wood (R-6.9) | R-20.0 center-cavity | **R-14.8 Whole-Wall** | **26% Thermal Penalty** via wood bridging |
-> | **6.5" EPS Structural Insulated Panel** | < 3% wood splines | R-24.5 solid core | **R-23.8 Whole-Wall** | **< 3% Thermal Penalty** (Continuous insulation) |
+### Effective Whole-Wall Thermal Performance Comparison (Zone 5)
+
+| Wall Assembly Specification | Framing Factor | Cavity / Core R-Value | Effective Whole-Wall R-Value | Thermal Degradation Penalty |
+| :--- | :--- | :--- | :--- | :--- |
+| **Conventional 2x6 Stick Wall** (R-20 Batt) | 25% wood (R-6.9) | R-20.0 center-cavity | **R-14.8 Whole-Wall** | **26% Thermal Penalty** via wood bridging |
+| **6.5" EPS Structural Insulated Panel** | < 3% wood splines | R-24.5 solid core | **R-23.8 Whole-Wall** | **< 3% Thermal Penalty** (Continuous insulation) |
 
 To equal the true thermal performance of a standard 6.5-inch SIP wall, a stick-built home must incorporate 2x6 framing, R-21 high-density cavity batts, PLUS 1.5 inches of exterior continuous rigid insulation (R-7.5) with taped seams and vertical rainscreen furring strips.
 
@@ -116,14 +124,14 @@ If a roof panel spline is installed without a continuous, airtight vapor seal on
 4. Moisture instantly condenses and freezes into frost against the underside of the exterior OSB.
 5. In spring or during a thaw, this accumulated frost melts, rotting the OSB sheathing from the inside out and causing structural roof failure beneath undamaged shingles.
 
-> ### Engineered Spline Detail for Midwest Cathedral Roofs
->
-> | Component / Step | Specification | Air & Moisture Sealing Function |
-> | :--- | :--- | :--- |
-> | **Spline Joint Type** | Insulated OSB Box Spline (EPS Cored) | Bridges panels while maintaining continuous R-value across structural joint |
-> | **Primary Mastic Seal** | Expanding Urethane SIP Mastic | Applied in dual continuous beads along both interior and exterior spline pockets |
-> | **Interior Air/Vapor Tape** | Solid Acrylic Tape (Pro Clima Tescon Vana / SIGA Sicrall) | Sealed continuously along warm interior OSB joint before finish drywall |
-> | **Exterior Underlayment** | Full-Coverage Vapor-Permeable Synthetic & Ice Shield | Secondary weather barrier; prevents shingle-blowoff water intrusion |
+### Engineered Spline Detail for Midwest Cathedral Roofs
+
+| Component / Step | Specification | Air & Moisture Sealing Function |
+| :--- | :--- | :--- |
+| **Spline Joint Type** | Insulated OSB Box Spline (EPS Cored) | Bridges panels while maintaining continuous R-value across structural joint |
+| **Primary Mastic Seal** | Expanding Urethane SIP Mastic | Applied in dual continuous beads along both interior and exterior spline pockets |
+| **Interior Air/Vapor Tape** | Solid Acrylic Tape (Pro Clima Tescon Vana / SIGA Sicrall) | Sealed continuously along warm interior OSB joint before finish drywall |
+| **Exterior Underlayment** | Full-Coverage Vapor-Permeable Synthetic & Ice Shield | Secondary weather barrier; prevents shingle-blowoff water intrusion |
 
 
 **The Absolute Rule for SIP Roofs in Zone 5:** Never rely on exterior underlayment to stop air leaks. Roof splines must have two continuous beads of expanding urethane foam sealant inside the spline pocket, and every interior panel seam must be sealed with high-performance acrylic vapor-sealing tape before electrical chases or drywall are installed.

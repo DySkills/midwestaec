@@ -1,14 +1,34 @@
-// build.js - Zero-Dependency Markdown Compiler & Database Generator for MIAEC
+// build.js - Zero-Dependency Markdown Compiler, SEO/AEO/VEO Engine & Database Generator for MIAEC
 const fs = require('fs');
 const path = require('path');
 
 const contentDir = path.join(__dirname, 'content');
 const outputDir = path.join(__dirname, 'articles');
 const dataJsPath = path.join(__dirname, 'data.js');
+const sitemapPath = path.join(__dirname, 'sitemap.xml');
 
 if (!fs.existsSync(outputDir)) {
   fs.mkdirSync(outputDir, { recursive: true });
 }
+
+const imageMap = {
+  'ice-dams-roofs': 'ice-dam-dynamics-diagram.jpg',
+  'attic-air-sealing-baffles': 'ice-dam-dynamics-diagram.jpg',
+  'balloon-framing': 'balloon-framing-sealed.jpg',
+  'balloon-framing-retrofit-steps': 'balloon-framing-sealed.jpg',
+  'insulating-brick': 'insulating-brick-diagram.jpg',
+  'historic-brick-retrofit-steps': 'insulating-brick-diagram.jpg',
+  'crawlspace-encapsulation': 'basement-waterproofing-diagram.jpg',
+  'crawlspace-encapsulation-steps': 'basement-waterproofing-diagram.jpg',
+  'basement-waterproofing': 'basement-waterproofing-diagram.jpg',
+  'barndominium-post-frame': 'barndominium-post-frame-diagram.jpg',
+  'cold-climate-heat-pumps': 'cold-climate-heat-pump-diagram.jpg',
+  'continuous-insulation': 'continuous-insulation-diagram.jpg',
+  'rockwool-vs-fiberglass': 'rockwool-vs-fiberglass-diagram.jpg',
+  'sips-vs-traditional-framing': 'sips-framing-diagram.jpg',
+  'icf-basements-walls': 'icf-basement-diagram.jpg',
+  'energy-hikes': 'stack-effect-diagram.jpg'
+};
 
 // Simple YAML frontmatter parser
 function parseFrontmatter(fileContent) {
@@ -44,6 +64,40 @@ function parseFrontmatter(fileContent) {
   });
 
   return { frontmatter, body };
+}
+
+// Extract HowTo steps for JSON-LD schema
+function extractHowToSteps(bodyMd) {
+  const steps = [];
+  const lines = bodyMd.split('\n');
+  let currentStep = null;
+
+  for (const line of lines) {
+    const stepMatch = line.trim().match(/^###\s+Step\s+(\d+):\s+(.*)$/i);
+    if (stepMatch) {
+      if (currentStep) steps.push(currentStep);
+      currentStep = {
+        "@type": "HowToStep",
+        "position": parseInt(stepMatch[1], 10),
+        "name": stepMatch[2].trim(),
+        "text": ""
+      };
+      continue;
+    }
+    if (currentStep) {
+      if (line.trim().startsWith('---') || (line.trim().startsWith('## ') && !line.trim().startsWith('### '))) {
+        steps.push(currentStep);
+        currentStep = null;
+      } else if (line.trim()) {
+        const clean = line.replace(/^[\*\-\d\.]+\s+/, '').replace(/[\*\_\[\]]/g, '').trim();
+        if (clean) {
+          currentStep.text += (currentStep.text ? ' ' : '') + clean;
+        }
+      }
+    }
+  }
+  if (currentStep) steps.push(currentStep);
+  return steps;
 }
 
 // Lightweight Markdown to HTML parser
@@ -99,102 +153,101 @@ function markdownToHtml(md) {
           continue;
         }
 
-        if (currentSlide.img && !cLine.startsWith('![')) {
-          currentSlide.caption = (currentSlide.caption ? currentSlide.caption + ' ' : '') + cLine;
+        if (cLine.startsWith('Figure') || cLine.startsWith('*Figure')) {
+          currentSlide.caption = cLine.replace(/^\*|\*$/g, '');
+          continue;
         }
       }
       if (currentSlide.img) {
         slides.push(currentSlide);
       }
 
-      if (slides.length > 0) {
-        html += `<div class="my-8 rounded-2xl border border-slate-200 bg-white shadow-sm overflow-hidden" data-carousel="${carouselId}">\n`;
-        html += `  <div class="flex flex-wrap items-center justify-between gap-2 px-4 py-3 bg-slate-50 border-b border-slate-200">\n`;
-        html += `    <span class="text-xs font-mono font-bold uppercase tracking-wider text-navy flex items-center gap-2">\n`;
-        html += `      <svg class="w-4 h-4 text-steel" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"/></svg>\n`;
-        html += `      <span>Architectural Comparison</span>\n`;
-        html += `    </span>\n`;
-        html += `    <div class="flex items-center gap-1.5" role="tablist">\n`;
-        slides.forEach((s, idx) => {
-          const isActive = idx === 0;
-          const cls = isActive ? 'bg-navy text-white shadow-xs font-semibold' : 'text-slate-600 hover:text-navy hover:bg-slate-200/60 font-medium';
-          html += `      <button type="button" class="carousel-tab px-3 py-1 rounded-full text-xs font-mono transition ${cls}" onclick="switchSlide('${carouselId}', ${idx})">${s.title}</button>\n`;
-        });
-        html += `    </div>\n`;
-        html += `  </div>\n`;
+      // Build Carousel HTML
+      let cHtml = `<div class="my-8 rounded-2xl border border-slate-200 bg-white p-4 sm:p-6 shadow-sm" data-carousel="${carouselId}">\n`;
+      cHtml += `  <div class="flex items-center justify-between pb-3 mb-4 border-b border-slate-100 flex-wrap gap-2">\n`;
+      cHtml += `    <span class="text-xs font-mono uppercase tracking-wider text-slate-500 font-bold">Interactive Archetype Comparison</span>\n`;
+      cHtml += `    <div class="flex items-center gap-1.5">\n`;
+      slides.forEach((s, idx) => {
+        const activeClass = idx === 0 ? 'bg-navy text-white shadow-xs' : 'text-slate-600 hover:text-navy hover:bg-slate-200/60';
+        cHtml += `      <button onclick="switchSlide('${carouselId}', ${idx})" class="carousel-tab px-3 py-1 rounded-full text-xs font-mono font-medium transition ${activeClass}">${s.title}</button>\n`;
+      });
+      cHtml += `    </div>\n  </div>\n`;
 
-        html += `  <div class="carousel-slides relative">\n`;
-        slides.forEach((s, idx) => {
-          const isHidden = idx === 0 ? 'block' : 'hidden';
-          const cap = s.caption || s.alt;
-          html += `    <div class="carousel-slide ${isHidden} transition-opacity duration-200" data-slide="${idx}">\n`;
-          html += `      <img src="${s.img}" alt="${s.alt}" class="w-full h-auto object-cover" loading="lazy" />\n`;
-          if (cap) {
-            html += `      <div class="p-3 bg-slate-50 text-xs font-mono text-slate-600 border-t border-slate-200 text-center">${cap}</div>\n`;
-          }
-          html += `    </div>\n`;
-        });
-        html += `  </div>\n`;
-        html += `</div>\n`;
-      }
+      slides.forEach((s, idx) => {
+        const hiddenClass = idx === 0 ? 'block' : 'hidden';
+        cHtml += `  <div class="carousel-slide ${hiddenClass}">\n`;
+        cHtml += `    <div class="overflow-hidden rounded-xl border border-slate-100 bg-[#FBFBFC]">\n`;
+        cHtml += `      <img src="${s.img}" alt="${s.alt}" class="w-full h-auto object-contain max-h-[500px] mx-auto block" loading="lazy" />\n`;
+        cHtml += `    </div>\n`;
+        if (s.caption) {
+          cHtml += `    <p class="text-xs font-mono text-slate-500 mt-3 text-center italic">${s.caption}</p>\n`;
+        }
+        cHtml += `  </div>\n`;
+      });
+
+      cHtml += `</div>\n`;
+      html += cHtml;
       continue;
     }
 
-    // Image parsing (![alt](src))
-    if (line.startsWith('![')) {
-      const match = line.match(/^!\[(.*?)\]\((.*?)\)$/);
-      if (match) {
-        const alt = match[1];
-        let src = match[2];
-        if (src.startsWith('images/')) {
-          src = '../' + src;
-        }
-        html += `<figure class="my-8 rounded-2xl overflow-hidden border border-slate-200 bg-white shadow-sm">\n  <img src="${src}" alt="${alt}" class="w-full h-auto object-cover" loading="lazy" />\n  ${alt ? `<figcaption class="p-3 bg-slate-50 text-xs font-mono text-slate-500 border-t border-slate-200 text-center">${alt}</figcaption>` : ''}\n</figure>\n`;
-        continue;
+    // Standalone Image: ![Alt](images/...)
+    let standaloneImgMatch = line.match(/^!\[(.*?)\]\((.*?)\)$/);
+    if (standaloneImgMatch) {
+      let alt = standaloneImgMatch[1];
+      let src = standaloneImgMatch[2];
+      if (src.startsWith('images/')) src = '../' + src;
+      html += `<figure class="my-8 rounded-2xl overflow-hidden border border-slate-200 bg-white p-2 sm:p-4 shadow-sm">\n`;
+      html += `  <img src="${src}" alt="${alt}" class="w-full h-auto rounded-xl object-contain max-h-[550px] mx-auto block" loading="lazy" />\n`;
+      if (alt) {
+        html += `  <figcaption class="text-xs font-mono text-slate-500 mt-2.5 text-center italic">${alt}</figcaption>\n`;
       }
+      html += `</figure>\n`;
+      continue;
     }
 
     // Table parsing
-    if (line.startsWith('|') && line.endsWith('|')) {
+    if (line.startsWith('|')) {
       if (!inTable) {
-        html += '<div class="my-6 overflow-x-auto"><table class="w-full text-left border-collapse border border-slate-200 text-sm font-mono">\n';
+        html += '<div class="my-8 overflow-x-auto rounded-xl border border-slate-200 bg-white shadow-xs">\n<table class="w-full text-left border-collapse text-sm">\n';
         inTable = true;
         tableHeaderDone = false;
       }
-      // Separator line (e.g. |---|---|)
-      if (line.includes('---')) {
+
+      // Check if separator line (|---|---|)
+      if (/^\|[\s\-:]+\|/.test(line)) {
         tableHeaderDone = true;
         continue;
       }
+
       const cells = line.split('|').slice(1, -1).map(c => c.trim());
+
       if (!tableHeaderDone) {
-        html += '<thead class="bg-steel-50 text-navy font-bold"><tr>' + cells.map(c => `<th class="p-3 border border-slate-200">${formatInline(c)}</th>`).join('') + '</tr></thead>\n<tbody>\n';
+        html += '<thead class="bg-slate-50 border-b border-slate-200 text-xs font-mono uppercase text-navy font-bold">\n<tr>\n';
+        cells.forEach(cell => {
+          html += `  <th class="px-4 py-3">${formatInline(cell)}</th>\n`;
+        });
+        html += '</tr>\n</thead>\n<tbody class="divide-y divide-slate-100 font-sans">\n';
       } else {
-        html += '<tr class="border-b border-slate-100 hover:bg-slate-50/50">' + cells.map(c => `<td class="p-3 border border-slate-200 text-slate-700">${formatInline(c)}</td>`).join('') + '</tr>\n';
+        html += '<tr class="hover:bg-slate-50/60 transition">\n';
+        cells.forEach((cell, idx) => {
+          const isBold = idx === 0 ? 'font-semibold text-slate-900' : 'text-slate-600';
+          html += `  <td class="px-4 py-3 ${isBold}">${formatInline(cell)}</td>\n`;
+        });
+        html += '</tr>\n';
       }
       continue;
     } else if (inTable) {
       html += '</tbody></table></div>\n';
       inTable = false;
+      tableHeaderDone = false;
     }
 
-    // Code / Diagram block parsing (```)
-    if (line.startsWith('```')) {
-      let codeLines = [];
-      i++;
-      while (i < lines.length && !lines[i].trim().startsWith('```')) {
-        codeLines.push(lines[i]);
-        i++;
-      }
-      html += `<pre class="my-6 p-4 rounded-xl bg-slate-900 text-slate-100 text-xs sm:text-sm font-mono overflow-x-auto leading-relaxed border border-slate-800"><code>${codeLines.join('\n')}</code></pre>\n`;
-      continue;
-    }
-
-    // Blockquote & Quick Summary parser
-    if (line.startsWith('>')) {
+    // Blockquote & Quick Summary Box
+    if (line.startsWith('> ')) {
       let bqLines = [];
-      while (i < lines.length && lines[i].trim().startsWith('>')) {
-        bqLines.push(lines[i].trim().replace(/^>\s?/, ''));
+      while (i < lines.length && (lines[i].trim().startsWith('>') || lines[i].trim() === '')) {
+        let cleaned = lines[i].trim().replace(/^>\s?/, '');
+        bqLines.push(cleaned);
         i++;
       }
       i--; // rewind one step for main loop
@@ -202,7 +255,7 @@ function markdownToHtml(md) {
       const isQuickSummary = bqLines.some(l => /^\*\*(?:Quick Summary|Executive Summary):?\*\*/i.test(l.trim()));
 
       if (isQuickSummary) {
-        let bqHtml = '<div class="my-8 p-6 sm:p-7 rounded-2xl bg-emerald-50/50 border-l-4 border-emerald-600 border border-emerald-200/60 shadow-sm">\n';
+        let bqHtml = '<section id="quick-summary" class="quick-summary-box my-8 p-6 sm:p-7 rounded-2xl bg-emerald-50/50 border-l-4 border-emerald-600 border border-emerald-200/60 shadow-sm">\n';
         bqHtml += '  <div class="text-xs font-mono font-bold uppercase tracking-wider text-emerald-800 mb-2">\n';
         bqHtml += '    Quick Summary\n';
         bqHtml += '  </div>\n';
@@ -214,7 +267,7 @@ function markdownToHtml(md) {
 
           if (bLine.startsWith('- ') || bLine.startsWith('* ')) {
             if (!inBqList) {
-              bqHtml += '  <ul class="mt-4 pt-4 border-t border-emerald-200/80 space-y-2.5 text-sm text-slate-700 font-sans">\n';
+              bqHtml += '  <ul class="quick-summary-bullets mt-4 pt-4 border-t border-emerald-200/80 space-y-2.5 text-sm text-slate-700 font-sans">\n';
               inBqList = true;
             }
             bqHtml += `    <li class="flex items-start gap-2.5"><span class="w-4 h-4 rounded-full bg-crimson text-white flex items-center justify-center shrink-0 mt-0.5"><svg class="w-2.5 h-2.5 stroke-current stroke-2 fill-none" viewBox="0 0 24 24"><path d="M5 13l4 4L19 7"/></svg></span><span>${formatInline(bLine.slice(2).trim())}</span></li>\n`;
@@ -225,16 +278,16 @@ function markdownToHtml(md) {
             }
             let cleanText = bLine.replace(/^\*\*(?:Quick Summary|Executive Summary):?\*\*\s*/i, '');
             if (cleanText.trim()) {
-              bqHtml += `  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">${formatInline(cleanText)}</p>\n`;
+              bqHtml += `  <p class="quick-summary-text text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">${formatInline(cleanText)}</p>\n`;
             }
           }
         }
         if (inBqList) bqHtml += '  </ul>\n';
-        bqHtml += '</div>\n';
+        bqHtml += '</section>\n';
         html += bqHtml;
         continue;
       } else {
-        // Standard editorial callout card (no "Quick Summary" title)
+        // Standard editorial callout card
         let calloutHtml = '<div class="my-6 p-5 sm:p-6 rounded-xl bg-slate-50 border-l-4 border-slate-400 border border-slate-200 text-slate-700 font-sans shadow-xs">\n';
         for (let b = 0; b < bqLines.length; b++) {
           let bLine = bqLines[b].trim();
@@ -322,19 +375,160 @@ function formatInline(str) {
     });
 }
 
-// Generate complete HTML page
-function buildArticleHtml(frontmatter, htmlBody) {
+// Generate complete HTML page with Enterprise-Grade SEO, AEO, and VEO Architecture
+function buildArticleHtml(frontmatter, htmlBody, bodyMd) {
+  const slug = frontmatter.slug || 'article';
   const citiesStr = Array.isArray(frontmatter.cities) ? frontmatter.cities.slice(0, 5).join(', ') + '...' : frontmatter.cities || 'Midwest';
   const statesStr = Array.isArray(frontmatter.states) ? frontmatter.states.join(', ') : frontmatter.states || 'All Midwest';
   const formatBadge = frontmatter.format ? frontmatter.format.toUpperCase() : 'FEATURE';
   const leadTag = frontmatter.leadType ? ` &bull; ${frontmatter.leadType.toUpperCase()} LEAD` : '';
+
+  const siteUrl = 'https://midwestaec.com';
+  const canonicalUrl = `${siteUrl}/articles/${slug}.html`;
+  const cleanSummary = (frontmatter.summary || frontmatter.subtitle || '').replace(/"/g, '&quot;');
+  
+  const imageName = imageMap[slug] || 'stack-effect-diagram.jpg';
+  const imageUrl = `${siteUrl}/images/${imageName}`;
+
+  // Build JSON-LD structured data
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": `${siteUrl}/index.html`
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": frontmatter.category || "Building Science",
+        "item": `${siteUrl}/browse.html?cat=${frontmatter.catSlug || 'all'}`
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": frontmatter.title,
+        "item": canonicalUrl
+      }
+    ]
+  };
+
+  let mainSchema = {};
+
+  if (frontmatter.format === 'Tutorial') {
+    const steps = extractHowToSteps(bodyMd);
+    mainSchema = {
+      "@context": "https://schema.org",
+      "@type": "HowTo",
+      "name": frontmatter.title,
+      "description": frontmatter.summary || frontmatter.subtitle,
+      "image": {
+        "@type": "ImageObject",
+        "url": imageUrl
+      },
+      "estimatedCost": {
+        "@type": "MonetaryAmount",
+        "currency": "USD"
+      },
+      "step": steps.length > 0 ? steps : undefined
+    };
+  } else {
+    // Feature or Report or Listicle
+    mainSchema = {
+      "@context": "https://schema.org",
+      "@type": "TechArticle",
+      "headline": frontmatter.title,
+      "alternativeHeadline": frontmatter.subtitle,
+      "description": frontmatter.summary || frontmatter.subtitle,
+      "image": imageUrl,
+      "inLanguage": "en-US",
+      "proficiencyLevel": "Expert",
+      "genre": frontmatter.format || "Building Science Analysis",
+      "keywords": `${frontmatter.category}, Building Science, Climate Zone 5, Midwest Architecture, ${frontmatter.codeTag || ''}`,
+      "author": {
+        "@type": "Organization",
+        "name": frontmatter.author || "MIAEC Building Science",
+        "url": siteUrl
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Midwest Architecture, Engineering & Construction",
+        "url": siteUrl,
+        "logo": {
+          "@type": "ImageObject",
+          "url": `${siteUrl}/images/stack-effect-diagram.jpg`
+        }
+      },
+      "datePublished": "2026-10-01T08:00:00Z",
+      "dateModified": "2026-10-19T18:00:00Z",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": canonicalUrl
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".quick-summary-text", ".quick-summary-bullets"]
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": frontmatter.category
+        },
+        {
+          "@type": "Thing",
+          "name": "Building Science & Envelope Thermodynamics"
+        }
+      ]
+    };
+  }
 
   return `<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- Primary SEO Tags -->
   <title>${frontmatter.title} | MIAEC</title>
+  <meta name="description" content="${cleanSummary}">
+  <meta name="keywords" content="${frontmatter.category}, Midwest building science, Climate Zone 5, ${frontmatter.codeTag || ''}, residential construction, thermal boundary, energy efficiency">
+  <link rel="canonical" href="${canonicalUrl}">
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="MIAEC Building Science">
+  <meta property="og:url" content="${canonicalUrl}">
+  <meta property="og:title" content="${frontmatter.title}">
+  <meta property="og:description" content="${cleanSummary}">
+  <meta property="og:image" content="${imageUrl}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="675">
+  <meta property="og:image:alt" content="${frontmatter.title} Technical Diagram">
+  <meta property="article:published_time" content="2026-10-01T08:00:00Z">
+  <meta property="article:modified_time" content="2026-10-19T18:00:00Z">
+  <meta property="article:section" content="${frontmatter.category}">
+  <meta property="article:author" content="${frontmatter.author || 'MIAEC Building Science'}">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:url" content="${canonicalUrl}">
+  <meta name="twitter:title" content="${frontmatter.title}">
+  <meta name="twitter:description" content="${cleanSummary}">
+  <meta name="twitter:image" content="${imageUrl}">
+
+  <!-- AEO / VEO JSON-LD Structured Data -->
+  <script type="application/ld+json">
+${JSON.stringify(breadcrumbSchema, null, 2)}
+  </script>
+  <script type="application/ld+json">
+${JSON.stringify(mainSchema, null, 2)}
+  </script>
+
+  <!-- Typography & Styling -->
   <script src="https://cdn.tailwindcss.com"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -395,7 +589,7 @@ function buildArticleHtml(frontmatter, htmlBody) {
   </header>
 
   <!-- Focused Single-Column Monograph -->
-  <main class="max-w-3xl mx-auto px-4 sm:px-6 py-12 flex-1 w-full">
+  <main class="max-w-3xl mx-auto px-4 sm:px-6 py-12 flex-1 w-full" itemscope itemtype="https://schema.org/TechArticle">
     <!-- Format Badge, Category & Metadata -->
     <div class="flex flex-wrap items-center gap-2 text-xs font-mono text-slate-500 mb-4">
       <span class="px-2.5 py-0.5 rounded-full bg-navy text-white font-bold tracking-wider uppercase text-[10px]">
@@ -411,26 +605,26 @@ function buildArticleHtml(frontmatter, htmlBody) {
     </div>
 
     <!-- Article Title -->
-    <h1 class="text-3xl sm:text-4xl lg:text-5xl font-bold text-navy font-serif tracking-tight leading-tight mb-3">
+    <h1 class="text-3xl sm:text-4xl lg:text-5xl font-bold text-navy font-serif tracking-tight leading-tight mb-3" itemprop="headline">
       ${frontmatter.title}
     </h1>
 
     ${frontmatter.subtitle ? `
     <!-- Description Subtitle -->
-    <p class="text-lg sm:text-xl text-slate-600 font-serif leading-relaxed mb-6 font-normal">
+    <p class="text-lg sm:text-xl text-slate-600 font-serif leading-relaxed mb-6 font-normal" itemprop="description">
       ${frontmatter.subtitle}
     </p>` : ''}
 
     <div class="flex items-center gap-3 text-xs font-mono text-slate-500 border-b border-slate-200 pb-6 mb-8">
-      <span>By ${frontmatter.author || 'MIAEC Building Science'}</span>
+      <span>By <span itemprop="author">${frontmatter.author || 'MIAEC Building Science'}</span></span>
       <span>&bull;</span>
-      <span>Published ${frontmatter.date || 'October 2026'}</span>
+      <span>Published <time datetime="2026-10-01">${frontmatter.date || 'October 2026'}</time></span>
       <span>&bull;</span>
       <span class="text-steel font-bold">${frontmatter.codeTag || 'Building Science Spec'}</span>
     </div>
 
     <!-- Article Content -->
-    <article class="prose max-w-none">
+    <article class="prose max-w-none" itemprop="articleBody">
       ${htmlBody}
     </article>
 
@@ -494,11 +688,15 @@ function buildArticleHtml(frontmatter, htmlBody) {
 `;
 }
 
-// Compile all articles & generate data.js
+// Compile all articles & generate data.js + sitemap.xml
 function build() {
-  console.log('Building MIAEC articles from Markdown...');
+  console.log('Building MIAEC articles with Enterprise SEO, AEO & VEO metadata...');
   const files = fs.readdirSync(contentDir).filter(f => f.endsWith('.md'));
   const databaseRecords = [];
+  const sitemapUrls = [
+    { loc: 'https://midwestaec.com/index.html', priority: '1.0', changefreq: 'weekly' },
+    { loc: 'https://midwestaec.com/browse.html', priority: '0.9', changefreq: 'weekly' }
+  ];
 
   files.forEach(file => {
     const fullPath = path.join(contentDir, file);
@@ -507,11 +705,11 @@ function build() {
 
     const slug = frontmatter.slug || path.basename(file, '.md');
     const htmlBody = markdownToHtml(body);
-    const fullHtml = buildArticleHtml(frontmatter, htmlBody);
+    const fullHtml = buildArticleHtml(frontmatter, htmlBody, body);
 
     const outPath = path.join(outputDir, `${slug}.html`);
     fs.writeFileSync(outPath, fullHtml, 'utf8');
-    console.log(`✓ Built articles/${slug}.html`);
+    console.log(`✓ Built articles/${slug}.html (SEO/AEO/VEO Enhanced)`);
 
     databaseRecords.push({
       title: frontmatter.title,
@@ -527,6 +725,12 @@ function build() {
       type: frontmatter.format || "Article",
       url: `articles/${slug}.html`
     });
+
+    sitemapUrls.push({
+      loc: `https://midwestaec.com/articles/${slug}.html`,
+      priority: frontmatter.format === 'Feature' ? '0.9' : '0.8',
+      changefreq: 'monthly'
+    });
   });
 
   // Write updated data.js
@@ -538,6 +742,16 @@ var miaecData = ${JSON.stringify(databaseRecords, null, 2)};
 
   fs.writeFileSync(dataJsPath, dataJsContent, 'utf8');
   console.log(`✓ Regenerated data.js with ${databaseRecords.length} specifications!`);
+
+  // Write sitemap.xml
+  let xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`;
+  sitemapUrls.forEach(u => {
+    xml += `  <url>\n    <loc>${u.loc}</loc>\n    <lastmod>2026-10-19</lastmod>\n    <changefreq>${u.changefreq}</changefreq>\n    <priority>${u.priority}</priority>\n  </url>\n`;
+  });
+  xml += `</urlset>\n`;
+
+  fs.writeFileSync(sitemapPath, xml, 'utf8');
+  console.log(`✓ Generated sitemap.xml with ${sitemapUrls.length} URLs!`);
 }
 
 build();

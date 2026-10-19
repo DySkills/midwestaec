@@ -199,38 +199,58 @@ function markdownToHtml(md) {
       }
       i--; // rewind one step for main loop
 
-      let bqHtml = '<div class="my-8 p-6 sm:p-7 rounded-2xl bg-emerald-50/50 border-l-4 border-emerald-600 border border-emerald-200/60 shadow-sm">\n';
-      bqHtml += '  <div class="text-xs font-mono font-bold uppercase tracking-wider text-emerald-800 mb-2">\n';
-      bqHtml += '    Quick Summary\n';
-      bqHtml += '  </div>\n';
+      const isQuickSummary = bqLines.some(l => /^\*\*(?:Quick Summary|Executive Summary):?\*\*/i.test(l.trim()));
 
-      let inBqList = false;
-      for (let b = 0; b < bqLines.length; b++) {
-        let bLine = bqLines[b].trim();
-        if (!bLine) continue;
+      if (isQuickSummary) {
+        let bqHtml = '<div class="my-8 p-6 sm:p-7 rounded-2xl bg-emerald-50/50 border-l-4 border-emerald-600 border border-emerald-200/60 shadow-sm">\n';
+        bqHtml += '  <div class="text-xs font-mono font-bold uppercase tracking-wider text-emerald-800 mb-2">\n';
+        bqHtml += '    Quick Summary\n';
+        bqHtml += '  </div>\n';
 
-        if (bLine.startsWith('- ') || bLine.startsWith('* ')) {
-          if (!inBqList) {
-            bqHtml += '  <ul class="mt-4 pt-4 border-t border-emerald-200/80 space-y-2.5 text-sm text-slate-700 font-sans">\n';
-            inBqList = true;
-          }
-          bqHtml += `    <li class="flex items-start gap-2.5"><span class="w-4 h-4 rounded-full bg-crimson text-white flex items-center justify-center shrink-0 mt-0.5"><svg class="w-2.5 h-2.5 stroke-current stroke-2 fill-none" viewBox="0 0 24 24"><path d="M5 13l4 4L19 7"/></svg></span><span>${formatInline(bLine.slice(2).trim())}</span></li>\n`;
-        } else {
-          if (inBqList) {
-            bqHtml += '  </ul>\n';
-            inBqList = false;
-          }
-          let cleanText = bLine.replace(/^\*\*(?:Quick Summary|Executive Summary):?\*\*\s*/i, '');
-          if (cleanText.trim()) {
-            bqHtml += `  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">${formatInline(cleanText)}</p>\n`;
+        let inBqList = false;
+        for (let b = 0; b < bqLines.length; b++) {
+          let bLine = bqLines[b].trim();
+          if (!bLine) continue;
+
+          if (bLine.startsWith('- ') || bLine.startsWith('* ')) {
+            if (!inBqList) {
+              bqHtml += '  <ul class="mt-4 pt-4 border-t border-emerald-200/80 space-y-2.5 text-sm text-slate-700 font-sans">\n';
+              inBqList = true;
+            }
+            bqHtml += `    <li class="flex items-start gap-2.5"><span class="w-4 h-4 rounded-full bg-crimson text-white flex items-center justify-center shrink-0 mt-0.5"><svg class="w-2.5 h-2.5 stroke-current stroke-2 fill-none" viewBox="0 0 24 24"><path d="M5 13l4 4L19 7"/></svg></span><span>${formatInline(bLine.slice(2).trim())}</span></li>\n`;
+          } else {
+            if (inBqList) {
+              bqHtml += '  </ul>\n';
+              inBqList = false;
+            }
+            let cleanText = bLine.replace(/^\*\*(?:Quick Summary|Executive Summary):?\*\*\s*/i, '');
+            if (cleanText.trim()) {
+              bqHtml += `  <p class="text-slate-800 text-base sm:text-lg font-serif leading-relaxed my-2">${formatInline(cleanText)}</p>\n`;
+            }
           }
         }
+        if (inBqList) bqHtml += '  </ul>\n';
+        bqHtml += '</div>\n';
+        html += bqHtml;
+        continue;
+      } else {
+        // Standard editorial callout card (no "Quick Summary" title)
+        let calloutHtml = '<div class="my-6 p-5 sm:p-6 rounded-xl bg-slate-50 border-l-4 border-slate-400 border border-slate-200 text-slate-700 font-sans shadow-xs">\n';
+        for (let b = 0; b < bqLines.length; b++) {
+          let bLine = bqLines[b].trim();
+          if (!bLine) continue;
+          if (bLine.startsWith('### ')) {
+            calloutHtml += `  <h4 class="text-base font-bold text-navy font-serif mb-2">${formatInline(bLine.slice(4))}</h4>\n`;
+          } else if (bLine.startsWith('- ') || bLine.startsWith('* ')) {
+            calloutHtml += `  <div class="flex items-start gap-2 text-sm text-slate-700 my-1"><span class="text-crimson font-bold">&bull;</span><span>${formatInline(bLine.slice(2).trim())}</span></div>\n`;
+          } else {
+            calloutHtml += `  <p class="text-sm sm:text-base leading-relaxed my-1.5">${formatInline(bLine)}</p>\n`;
+          }
+        }
+        calloutHtml += '</div>\n';
+        html += calloutHtml;
+        continue;
       }
-      if (inBqList) bqHtml += '  </ul>\n';
-      bqHtml += '</div>\n';
-
-      html += bqHtml;
-      continue;
     }
 
     // List parsing

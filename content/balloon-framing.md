@@ -45,23 +45,17 @@ The problem is not the windows or the radiators. The house was built with **ball
 
 Balloon framing was invented in the 1830s in Chicago, revolutionizing residential architecture by replacing heavy timber post-and-beam joinery with lightweight, mill-sawn dimensional lumber fastened with mass-produced wire nails. Between 1850 and 1935, balloon framing was the dominant construction method for two-story residential homes across the Midwest.
 
-Understanding why these homes are so drafty requires contrasting balloon framing with modern platform framing:
+Understanding why these homes are so drafty requires examining how balloon framing creates open vertical cavities:
 
-```
-MODERN PLATFORM FRAMING (Airtight Floor Trays)
-Second-Floor Studs  -->  Rests on Solid 2x Bottom Plate  -->  Subfloor  -->  Rim Joist  -->  First-Floor Wall
-[Result: Every floor level creates a natural horizontal wood air-stop and firebreak.]
+:::carousel
+### Unsealed Balloon Frame (The 24-Foot Chimney)
+![Technical Cross-Section: Historic Balloon Framing Convective Chimney Effect and Concealed Fire Spread Corridor](images/balloon-framing-unsealed.jpg)
+Figure 1.1: Historic Balloon Framing — Continuous 24-foot exterior 2x4 studs create an open flue from stone basement to attic, siphoning sub-zero air and posing a rapid 3-minute fire spread risk.
 
-HISTORIC BALLOON FRAMING (Continuous Vertical Chimneys)
-Roof Rafters
-    │
-[24-Foot Continuous 2x4 Exterior Studs]
-    │  ◄ Second-floor joists hang on a notched 1x4 "ribbon board"
-    │  ◄ OPEN 3.5" x 14.5" STUD CAVITY (No horizontal floor break)
-    │
-Foundation Sill Plate (Basement)
-[Result: Continuous open vertical flue connecting basement directly to attic.]
-```
+### Firestopped & Air-Sealed Retrofit
+![Technical Cross-Section: Mineral Wool Firestop and Air-Sealed Balloon Frame Retrofit](images/balloon-framing-sealed.jpg)
+Figure 1.2: Firestopped & Air-Sealed Retrofit — Non-combustible mineral wool blocks (ASTM E136) and intumescent sealant at the foundation sill and attic eaves permanently halt convective drafts and restore code fireblocking.
+:::
 
 In a balloon-framed house, the exterior wall studs are continuous 20- to 24-foot timbers running uninterrupted from the foundation sill to the roof rafters. When second-floor framing was installed, carpenters simply notched a 1x4 ledger board (called a "ribbon board") into the inside edge of the studs and rested the second-floor joists on top of it. 
 
@@ -116,17 +110,9 @@ A critical jobsite error made by inexperienced contractors is spraying a bead of
 
 Remodeling contractors often assume that fixing balloon framing requires tearing down the home's historic plaster walls to install blocking at the second-floor line. In reality, building science proves that you can completely eliminate the chimney effect by sealing the two accessible ends: **the basement top-of-wall and the attic floor.**
 
-```
-STEP 2: SEAL ATTIC EAVES
-Install mineral wool blocks + firestop foam where studs meet attic floor joists.
-[Halts heat exfiltration into cold attic]
-      ▲
-      │  (Closed Cavity: Convection Halted)
-      │
-STEP 1: SEAL BASEMENT MUD SILL
-Install mineral wool blocks + firestop foam where studs meet foundation sill.
-[Halts freezing outdoor air infiltration]
-```
+> **The Two-Point Air-Block Principle:**
+> - **Top End (Attic Eaves):** Non-combustible mineral wool blocks and firestop foam seal the top plate opening, eliminating positive-pressure convective exfiltration into the vented attic.
+> - **Bottom End (Basement Mud Sill):** Friction-fit mineral wool blocks and intumescent sealant close the foundation intake, stopping negative-pressure sub-zero air infiltration at the mud sill.
 
 ### Step 1: The Basement Perimeter Seal (Blocking the Intake)
 Work from a stepladder along the perimeter of the basement where floor joists rest on the foundation sill:

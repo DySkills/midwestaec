@@ -78,8 +78,7 @@ A carpenter ant's mandibles are adapted to carve wood only after it has been sof
 - **Window Rough Openings:** Leaking window head flashings that channel rainwater into jack studs and subflooring.
 - **Roof Valleys & Ice Dam Zones:** Eaves softened by chronic winter ice dam backups.
 
-> **Carpenter Ant Nesting Sequence:**  
-> Moisture Leak (Condensation / Rain) $\longrightarrow$ Wood Moisture Content $> 20\%$ $\longrightarrow$ Fungal Decay Softens Cellulose Fibers $\longrightarrow$ Carpenter Ants Excavate Nesting Galleries $\longrightarrow$ Structural Framing Failure.
+Carpenter ants do not consume sound wood for nutrition; they require high-moisture timber where fungal decay has already broken down the structural lignin. The infestation pathway follows a predictable biological sequence: bulk water intrusion or winter condensation elevates wood moisture content above 20%, fungal rot softens the cellular matrix, worker ants excavate the softened fibers for nesting galleries, and structural load-bearing capacity eventually fails.
 
 - **The Building Science Fix:** Eliminate the moisture, and you eliminate the carpenter ants. Replacing damp fiberglass with **two inches of closed-cell spray foam (R-14)** against basement rim joists creates an airtight vapor barrier that keeps the wood warm and bone-dry (maintaining moisture content below 12%). Without softened wood, carpenter ants cannot establish nests, abandoning the structure without a single drop of chemical pesticide.
 

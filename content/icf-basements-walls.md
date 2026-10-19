@@ -67,10 +67,7 @@ To understand why traditional basements fail in Midwest cold climates, builders 
 
 ## 2. The Traditional Remodeling Disaster: Interior Studs & Fiberglass Batts
 
-When builders attempt to "finish" a standard concrete basement by building a 2x4 wood stud wall packed with fiberglass batts and covered with 6-mil poly plastic, they trigger a catastrophic building-science failure:
-
-> **The Basement Mold Sandwich Assembly:**  
-> [Cold 8" Concrete] $\longrightarrow$ [Air Space] $\longrightarrow$ [Fiberglass Batt] $\longrightarrow$ [6-Mil Poly] $\longrightarrow$ [Drywall]
+When builders attempt to "finish" a standard concrete basement by erecting a 2x4 wood stud wall packed with fiberglass batts and faced with 6-mil polyethylene sheet plastic, they assemble what building scientists call the "basement mold sandwich." The assembly layers—cold 8-inch concrete, an unventilated air space, permeable fiberglass insulation, impermeable plastic sheeting, and paper-faced drywall—trap interior and ground moisture inside a dark cavity with zero drying potential.
 
 1. **Winter Freeze:** The fiberglass batt insulates the room, but it also completely cuts off interior furnace heat from reaching the concrete wall. The concrete wall drops from 45°F down to **25°F to 30°F**, freezing solid.
 2. **Convective Air Loops:** Warm, moist basement air slips through cracks in the drywall and fiberglass, contacting the freezing concrete. Moisture condenses on the cold wall, running down to pool on the wood bottom plate.

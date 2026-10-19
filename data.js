@@ -413,39 +413,46 @@ var miaecData = [
     "url": "articles/expansive-lawncare.html"
   },
   {
-    "title": "Why Do Midwest Roofs Get Ice Dams? The Real Fix (And Why Heat Cables Don't Work)",
-    "subtitle": "",
+    "title": "The Physics of Midwest Ice Dams: The Real Fix (And Why Heat Cables Don't Work)",
+    "subtitle": "Why zigzag cables and roof rakes fail to stop interior leaks, the thermodynamics of 32°F melting planes, and the three air-sealing steps that permanently solve ice dams.",
     "format": "Feature",
-    "leadType": "",
+    "leadType": "Descriptive",
     "category": "Roofing",
     "catSlug": "roofing",
     "cities": [
       "Chicago",
+      "Cincinnati",
+      "Cleveland",
+      "Columbus",
       "Des Moines",
       "Detroit",
       "Fargo",
       "Indianapolis",
+      "Kansas City",
       "Milwaukee",
       "Minneapolis",
       "Omaha",
       "Rapid City",
-      "Sioux Falls"
+      "Sioux Falls",
+      "St. Louis"
     ],
     "states": [
       "IA",
       "IL",
       "IN",
+      "KS",
       "MI",
       "MN",
+      "MO",
       "ND",
       "NE",
       "OH",
       "SD",
       "WI"
     ],
-    "summary": "How attic thermal bypasses melt rooftop snow that refreezes at the eaves, soffit baffle ventilation ratios, and proper air sealing at the ceiling plane.",
-    "codeTag": "IRC Section R806 (Roof Venting)",
-    "type": "Article",
+    "summary": "Every winter across the Midwest, snow-covered roofs sprout massive icicles and ice dams that back up under shingles and flood interior ceilings. The problem is never the shingles—it is warm indoor air escaping into the attic, warming the roof deck above 32°F while the unheated eaves freeze.",
+    "codeTag": "IRC Section R806 / R905 / ASTM D1970",
+    "type": "Feature",
     "url": "articles/ice-dams-roofs.html"
   },
   {

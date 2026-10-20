@@ -10,7 +10,7 @@ states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "How to design sub-zero propane vaporization capacity, thermal battery rooms, and 60-inch frost-line pitless wellhead protection for Midwest homesteads."
 summary: "Living beyond municipal water and natural gas lines requires strict thermodynamic engineering. When a sub-zero polar vortex knocks out rural electric co-op lines, undersized propane tanks lose pressure, unconditioned lithium batteries refuse charge, and shallow wellheads freeze solid. Here is how to engineer a resilient Zone 5 rural utility plant."
 codeTag: "NEC Article 710 / NFPA 58 / Ten States Standards"
-author: "MIAEC Building Science"
+author: "Midwest AEC Building Science"
 date: "October 2026"
 readTime: "9 min read"
 referralHook: "Rural Energy & Well System Consultation"

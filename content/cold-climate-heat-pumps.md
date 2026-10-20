@@ -10,7 +10,7 @@ states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "An engineering teardown of vapor flash-injection, real-world COP curves at sub-zero temperatures, dual-fuel balance points, and the summer humidity oversizing trap."
 summary: "Every January across the Midwest, homeowners question whether a heat pump can survive sub-zero weather without skyrocketing bills. Modern inverter-driven systems with vapor flash-injection deliver 100% rated capacity down to -5°F and operate past -15°F, but real-world comfort hinges on dual-fuel balance points and avoiding summer humidity traps."
 codeTag: "NEEP ccASHP / AHRI 210/240 / ASHRAE 90.1"
-author: "MIAEC Building Science"
+author: "Midwest AEC Building Science"
 date: "October 2026"
 readTime: "8 min read"
 referralHook: "Cold-Climate Heat Pump & HVAC Specialist Quote Match"

@@ -10,7 +10,7 @@ states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "Why code-mandated foundation vents act as moisture incubators during humid Midwest summers, and the building-science blueprint for sealed, conditioned encapsulation."
 summary: "For over fifty years, residential building codes required foundation vents based on the flawed assumption that outdoor air dries crawlspaces. In the Midwest, venting brings 85°F humid summer air into contact with cool 62°F crawlspace framing, causing relative humidity to exceed 100% and breeding structural wood rot. In winter, open vents freeze supply pipes and chill living-room floors. Sealing crawlspaces under IRC Section R408.3 with heavy-duty Class A vapor barriers and dedicated dehumidification permanently halts mold and cuts heating bills by 20%."
 codeTag: "IRC Section R408.3 / ASTM E1745 / ASHRAE 62.2"
-author: "MIAEC Building Science"
+author: "Midwest AEC Building Science"
 date: "October 2026"
 readTime: "9 min read"
 referralHook: "Crawlspace Encapsulation & Dehumidifier Specification Match"

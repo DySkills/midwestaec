@@ -10,7 +10,7 @@ states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "Why mowing 5 acres of Kentucky bluegrass creates an impermeable hardpan, civil grading rules for clay swales, and how 15-foot prairie roots stop foundation flooding."
 summary: "Transitioning from a city lot to a 5-acre rural homestead introduces civil drainage realities that zero-turn mowers cannot solve. Repeated mower traffic across glacial clay creates an impermeable hardpan that channels thousands of gallons of stormwater directly into basement foundations. Here is how to engineer bioswales, French berms, and native prairie buffers."
 codeTag: "USDA NRCS Standard 412 / Local SWCD / ASTM D698"
-author: "MIAEC Building Science"
+author: "Midwest AEC Building Science"
 date: "October 2026"
 readTime: "8 min read"
 referralHook: "Acreage Excavation & Turf Management Match"

@@ -10,7 +10,7 @@ states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "Why low-density glass fibers allow convective looping and moisture clumping at -10°F while dense stone mineral wool maintains true rated thermal resistance, friction-fit rigidity, and zero water absorption."
 summary: "Walk into any Midwest home center and fiberglass batts cost 40% less than stone mineral wool. But behind drywall during sub-zero cold snaps, low-density glass fibers suffer severe convective thermal derating, slump under gravity, and sponge moisture, while hydrophobic stone wool locks thermal performance in place."
 codeTag: "ASTM C665 / ASTM C612 / ASTM C518"
-author: "MIAEC Building Science"
+author: "Midwest AEC Building Science"
 date: "October 2026"
 readTime: "8 min read"
 referralHook: "Insulation Contractor & Material Supplier Quote Match"

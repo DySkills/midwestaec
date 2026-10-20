@@ -10,7 +10,7 @@ states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "An investigative teardown of Midwest seasonal rate spikes, the stack-effect chimney, and why $20,000 window replacements fail the math."
 summary: "Every winter gas and electric bills increase across the Midwest, but they are rarely caused by failing furnaces. The cost is driven by approved tariff hikes colliding with the stack effect: an instance of hot air rising through unsealed ceilings which pulls cold air into lower portions of a building."
 codeTag: "IECC R-60 / ASTM E779"
-author: "MIAEC Building Science"
+author: "Midwest AEC Building Science"
 date: "October 2026"
 readTime: "7 min read"
 referralHook: "Attic Insulation & Air Sealing Quote Match"

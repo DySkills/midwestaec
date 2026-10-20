@@ -10,7 +10,7 @@ states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "How to insulate vaulted ceilings and finished attics from the outside during a shingle tear-off, dew point math for Zone 5 unvented roofs, and structural timber screw fastening rules."
 summary: "Cathedral ceilings and finished attic knee-wall rooms across the Midwest are notorious for winter drafts, stifling summer heat, and catastrophic ice dams. Tearing down interior plaster or tongue-and-groove wood is destructive. Over-sheathing adds continuous rigid polyiso or stone wool above the existing structural deck during roof replacement, bringing the entire framing inside the conditioned envelope."
 codeTag: "IRC Section R806.5 / ASTM C1289 / APA EWS"
-author: "MIAEC Building Science"
+author: "Midwest AEC Building Science"
 date: "October 2026"
 readTime: "8 min read"
 referralHook: "Roofing & Continuous Insulation Specialist Quote Match"

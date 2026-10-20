@@ -450,7 +450,7 @@ function buildArticleHtml(frontmatter, htmlBody, bodyMd) {
       "keywords": `${frontmatter.category}, Building Science, Climate Zone 5, Midwest Architecture, ${frontmatter.codeTag || ''}`,
       "author": {
         "@type": "Organization",
-        "name": frontmatter.author || "MIAEC Building Science",
+        "name": frontmatter.author || "Midwest AEC Building Science",
         "url": siteUrl
       },
       "publisher": {
@@ -492,7 +492,7 @@ function buildArticleHtml(frontmatter, htmlBody, bodyMd) {
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
   <!-- Primary SEO Tags -->
-  <title>${frontmatter.title} | MIAEC</title>
+  <title>${frontmatter.title} | Midwest AEC</title>
   <meta name="description" content="${cleanSummary}">
   <meta name="keywords" content="${frontmatter.category}, Midwest building science, Climate Zone 5, ${frontmatter.codeTag || ''}, residential construction, thermal boundary, energy efficiency">
   <link rel="canonical" href="${canonicalUrl}">
@@ -500,7 +500,7 @@ function buildArticleHtml(frontmatter, htmlBody, bodyMd) {
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="article">
-  <meta property="og:site_name" content="MIAEC Building Science">
+  <meta property="og:site_name" content="Midwest AEC Building Science">
   <meta property="og:url" content="${canonicalUrl}">
   <meta property="og:title" content="${frontmatter.title}">
   <meta property="og:description" content="${cleanSummary}">
@@ -511,7 +511,7 @@ function buildArticleHtml(frontmatter, htmlBody, bodyMd) {
   <meta property="article:published_time" content="2026-10-01T08:00:00Z">
   <meta property="article:modified_time" content="2026-10-19T18:00:00Z">
   <meta property="article:section" content="${frontmatter.category}">
-  <meta property="article:author" content="${frontmatter.author || 'MIAEC Building Science'}">
+  <meta property="article:author" content="${frontmatter.author || 'Midwest AEC Building Science'}">
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
@@ -575,9 +575,9 @@ ${JSON.stringify(mainSchema, null, 2)}
     <div class="max-w-4xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
       <a href="../index.html" class="flex items-center gap-2 group">
         <div class="w-8 h-8 rounded-lg bg-navy flex items-center justify-center font-bold text-white text-xs font-mono group-hover:bg-navy-dark transition">
-          <span>M</span><span class="text-crimson">I</span>
+          <span>M</span><span class="text-crimson">W</span>
         </div>
-        <span class="text-lg font-bold tracking-tight text-navy font-serif">MI<span class="text-steel">AEC</span></span>
+        <span class="text-lg font-bold tracking-tight text-navy font-serif">Midwest<span class="text-steel">AEC</span></span>
       </a>
 
       <div class="flex items-center gap-4 text-xs font-mono uppercase">
@@ -616,7 +616,7 @@ ${JSON.stringify(mainSchema, null, 2)}
     </p>` : ''}
 
     <div class="flex items-center gap-3 text-xs font-mono text-slate-500 border-b border-slate-200 pb-6 mb-8">
-      <span>By <span itemprop="author">${frontmatter.author || 'MIAEC Building Science'}</span></span>
+      <span>By <span itemprop="author">${frontmatter.author || 'Midwest AEC Building Science'}</span></span>
       <span>&bull;</span>
       <span>Published <time datetime="2026-10-01">${frontmatter.date || 'October 2026'}</time></span>
       <span>&bull;</span>
@@ -655,8 +655,8 @@ ${JSON.stringify(mainSchema, null, 2)}
   <!-- Footer -->
   <footer class="border-t border-slate-200 bg-white py-8 text-xs text-slate-500 font-mono mt-12">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-4">
-      <div>MIAEC &bull; Midwest Architecture, Engineering & Construction</div>
-      <div><a href="../about.html" class="hover:text-navy">About MIAEC</a> &bull; &copy; 2026 MIAEC Media LLC</div>
+      <div>Midwest AEC &bull; Building Science, Systems & Assemblies</div>
+      <div><a href="../about.html" class="hover:text-navy">About Midwest AEC</a> &bull; &copy; 2026 Midwest AEC</div>
     </div>
   </footer>
   <script>

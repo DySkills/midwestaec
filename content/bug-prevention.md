@@ -10,7 +10,7 @@ states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "Why chemical spraying fails, the physics of stainless steel weep screens and metal termite shields, and how keeping rim joists dry stops carpenter ants."
 summary: "Rural acreages and wooded Midwest homesteads face intense pest pressure from subterranean termites, carpenter ants, cluster flies, and field mice. Monthly chemical exterminator sprays are an expensive band-aid that never stops the influx. Building science shows that physical envelope barriers—continuous 26-gauge galvanized termite shields, stainless steel weep inserts, and moisture-controlled rim joists—permanently deny pests entry."
 codeTag: "IRC Section R318 / NPMA Guidelines / ASTM E2178"
-author: "MIAEC Building Science"
+author: "Midwest AEC Building Science"
 date: "October 2026"
 readTime: "8 min read"
 referralHook: "Pest Barrier & Envelope Weatherization Match"

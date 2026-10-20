@@ -10,7 +10,7 @@ states: ["IL", "IN", "KS", "MI", "MN", "MO", "NE", "OH", "WI"]
 subtitle: "Why insulating historic solid mass masonry from the interior can trigger catastrophic brick face spalling and rotten floor joists in sub-zero winters, and the hygrothermal blueprint to do it safely."
 summary: "Midwest cities contain hundreds of thousands of pre-1930s solid masonry bungalows, two-flats, and Victorians. These walls were engineered as mass storage systems that dried continuously from interior waste heat. Adding interior insulation drops the exterior brick temperature to sub-zero ambient levels. If rain-saturated clay brick freezes before drying, the 9% volumetric expansion of ice shatters the brick faces and rots embedded wood floor joists. Here is the hygrothermal blueprint to test, detail, and insulate historic brick without structural failure."
 codeTag: "ASTM C67 / ASTM C1324 / IRC Section R702.7"
-author: "MIAEC Building Science"
+author: "Midwest AEC Building Science"
 date: "October 2026"
 readTime: "9 min read"
 referralHook: "Historic Brick Masonry & Weatherization Specification"

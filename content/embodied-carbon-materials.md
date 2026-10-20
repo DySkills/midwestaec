@@ -10,7 +10,7 @@ states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "OH", "WI"]
 subtitle: "Why petrochemical foams take up to 30 years to offset their chemical manufacturing footprint, and how cellulose, wood fiber, and stone wool achieve upfront decarbonization."
 summary: "As Midwest building envelopes become tighter and the regional electric grid transitions to renewables, upfront embodied carbon accounts for over 50% of a high-performance building's lifetime climate impact. Selecting bio-based insulations—such as dense-pack cellulose and continuous wood-fiber board—sequesters atmospheric carbon into the walls while maintaining hygroscopic, vapor-open drying capacity that petrochemical foams cannot match."
 codeTag: "ISO 21930 / ASHRAE 240P / LEED v4.1"
-author: "MIAEC Building Science"
+author: "Midwest AEC Building Science"
 date: "October 2026"
 readTime: "9 min read"
 referralHook: "Low-Carbon Building Materials & Consultation Match"

@@ -10,7 +10,7 @@ states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "An objective building science buyer's guide detailing the 4 conditions that warrant full replacement, and the strict NFRC and installation standards to demand."
 summary: "Full window replacement rarely pays back on energy savings alone, but severe wood rot, lead paint hazards, failed IGU seals, or deep envelope retrofits make new assemblies necessary. Here are the exact engineering specs to require."
 codeTag: "Energy Star v7.0 / ASTM E2112 / NFRC"
-author: "MIAEC Building Science"
+author: "Midwest AEC Building Science"
 date: "October 2026"
 readTime: "8 min read"
 referralHook: "Vetted Window & Glazing Specialists"
@@ -67,7 +67,7 @@ When a home undergoing a major renovation is being wrapped in 2 to 4 inches of c
 
 If your home genuinely requires new windows, do not buy based on marketing brands. Buy based on third-party certification labels verified by the **National Fenestration Rating Council (NFRC)** and **Energy Star Version 7.0**:
 
-| Performance Metric | Minimum Code (IECC 2021) | High-Performance Target (MIAEC Spec) | Building Science Significance |
+| Performance Metric | Minimum Code (IECC 2021) | High-Performance Target (Midwest AEC Spec) | Building Science Significance |
 | :--- | :--- | :--- | :--- |
 | **U-Factor (Thermal Conduction)** | $\le 0.30$ | **$\le 0.22 – 0.25$** | Measures total heat transfer rate. Lower numbers retain heat during sub-zero freezes. |
 | **Solar Heat Gain (SHGC)** | $\ge 0.35$ (Zone 5) | **0.28 – 0.38** | Measures solar radiation admitted. In cold climates, moderate SHGC provides free winter heat. |

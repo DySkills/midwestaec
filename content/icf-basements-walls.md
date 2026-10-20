@@ -10,7 +10,7 @@ states: ["IA", "IL", "IN", "MI", "MN", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "Why dual continuous 2.6-inch EPS foam shells eliminate foundation thermal bridge losses, prevent summer mold sweating, and create an indestructible, waterproof below-grade living space."
 summary: "In Midwest cold climates, basements account for up to 35% of total home heat loss. Standard 8-inch poured concrete walls offer an insulation value of barely R-1.1 and wick ground moisture inward via capillary action. Insulated Concrete Forms (ICF)—interlocking high-density EPS blocks filled with steel-reinforced concrete—deliver continuous R-22+ insulation, eliminate interior framing condensation traps, and create a waterproof, tornado-resistant thermal flywheel."
 codeTag: "ACI 318 / ASTM C578 / IRC Section R404.1.3"
-author: "MIAEC Building Science"
+author: "Midwest AEC Building Science"
 date: "October 2026"
 readTime: "9 min read"
 referralHook: "High-Performance Foundation & ICF Contractor Match"

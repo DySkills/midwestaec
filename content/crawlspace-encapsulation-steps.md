@@ -10,7 +10,7 @@ states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "A practical jobsite manual for sealing foundation vents, detailing 20-mil vapor barriers, insulating stem walls, and installing commercial dehumidification under IRC R408.3."
 summary: "Vented crawlspaces in the Midwest create extreme summer humidity, mold growth, and winter floor heat loss. This step-by-step tutorial details how to execute a code-compliant crawlspace encapsulation under IRC Section R408.3: resolving bulk ground moisture, permanently sealing exterior vents, installing a taped 20-mil Class A polyolefin liner, insulating perimeter stem walls, and commissioning a low-temperature commercial dehumidifier."
 codeTag: "IRC Section R408.3 / ASTM E1745 / ASHRAE 62.2"
-author: "MIAEC Building Science"
+author: "Midwest AEC Building Science"
 date: "October 2026"
 readTime: "8 min read"
 referralHook: "Crawlspace Encapsulation & Dehumidifier Specification Match"

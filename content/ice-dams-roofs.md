@@ -10,7 +10,7 @@ states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "Why zigzag cables and roof rakes fail to stop interior leaks, the thermodynamics of 32°F melting planes, and how balanced cold roofs establish thermal equilibrium."
 summary: "Every winter across the Midwest, snow-covered roofs sprout massive icicles and ice dams that back up under shingles and flood interior ceilings. The problem is never the shingles—it is warm indoor air escaping into the attic, warming the roof deck above 32°F while the unheated eaves freeze."
 codeTag: "IRC Section R806 / R905 / ASTM D1970"
-author: "MIAEC Building Science"
+author: "Midwest AEC Building Science"
 date: "October 2026"
 readTime: "8 min read"
 referralHook: "Attic Air Sealing & Roofing Specialist Quote Match"

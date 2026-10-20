@@ -10,7 +10,7 @@ states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "A building science field specification for stopping drafts, air-sealing weight pockets, and installing AERC-rated storm panels before spending $20,000 on full-frame replacements."
 summary: "If your window frames are structurally sound, spending $20,000 on full replacements is an economic trap. Low-E storm panels combined with weight-pocket air sealing deliver over 80% of new window thermal efficiency for less than $2,500."
 codeTag: "AERC Low-E / PNNL Field Data"
-author: "MIAEC Building Science"
+author: "Midwest AEC Building Science"
 date: "October 2026"
 readTime: "8 min read"
 referralHook: "Weatherization & Air Sealing Quote Match"

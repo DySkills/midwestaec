@@ -11,6 +11,9 @@ if (!fs.existsSync(outputDir)) {
   fs.mkdirSync(outputDir, { recursive: true });
 }
 
+// Configuration: Temporarily withhold images while upgrading artwork via MinekSuite MCP
+const SUPPRESS_IMAGES = true;
+
 const imageMap = {
   'ice-dams-roofs': 'ice-dam-dynamics-diagram.jpg',
   'attic-air-sealing-baffles': 'ice-dam-dynamics-diagram.jpg',
@@ -120,6 +123,11 @@ function markdownToHtml(md) {
         i++;
       }
 
+      if (SUPPRESS_IMAGES) {
+        html += `<!-- [Technical Diagram Carousel withheld for MinekSuite architectural rendering] -->\n`;
+        continue;
+      }
+
       const carouselId = 'carousel-' + Math.random().toString(36).substring(2, 8);
       let slides = [];
       let currentSlide = { title: 'Slide 1', img: '', alt: '', caption: '' };
@@ -194,6 +202,10 @@ function markdownToHtml(md) {
     let standaloneImgMatch = line.match(/^!\[(.*?)\]\((.*?)\)$/);
     if (standaloneImgMatch) {
       let alt = standaloneImgMatch[1];
+      if (SUPPRESS_IMAGES) {
+        html += `<!-- [Technical Diagram Figure withheld for MinekSuite architectural rendering: ${alt}] -->\n`;
+        continue;
+      }
       let src = standaloneImgMatch[2];
       if (src.startsWith('images/')) src = '../' + src;
       html += `<figure class="my-8 rounded-2xl overflow-hidden border border-slate-200 bg-white p-2 sm:p-4 shadow-sm">\n`;
@@ -425,16 +437,18 @@ function buildArticleHtml(frontmatter, htmlBody, bodyMd) {
       "@type": "HowTo",
       "name": frontmatter.title,
       "description": frontmatter.summary || frontmatter.subtitle,
-      "image": {
-        "@type": "ImageObject",
-        "url": imageUrl
-      },
       "estimatedCost": {
         "@type": "MonetaryAmount",
         "currency": "USD"
       },
       "step": steps.length > 0 ? steps : undefined
     };
+    if (!SUPPRESS_IMAGES) {
+      mainSchema.image = {
+        "@type": "ImageObject",
+        "url": imageUrl
+      };
+    }
   } else {
     // Feature or Report or Listicle
     mainSchema = {
@@ -443,7 +457,6 @@ function buildArticleHtml(frontmatter, htmlBody, bodyMd) {
       "headline": frontmatter.title,
       "alternativeHeadline": frontmatter.subtitle,
       "description": frontmatter.summary || frontmatter.subtitle,
-      "image": imageUrl,
       "inLanguage": "en-US",
       "proficiencyLevel": "Expert",
       "genre": frontmatter.format || "Building Science Analysis",
@@ -456,11 +469,7 @@ function buildArticleHtml(frontmatter, htmlBody, bodyMd) {
       "publisher": {
         "@type": "Organization",
         "name": "Midwest Architecture, Engineering & Construction",
-        "url": siteUrl,
-        "logo": {
-          "@type": "ImageObject",
-          "url": `${siteUrl}/images/stack-effect-diagram.jpg`
-        }
+        "url": siteUrl
       },
       "datePublished": "2026-10-01T08:00:00Z",
       "dateModified": "2026-10-19T18:00:00Z",
@@ -483,7 +492,31 @@ function buildArticleHtml(frontmatter, htmlBody, bodyMd) {
         }
       ]
     };
+    if (!SUPPRESS_IMAGES) {
+      mainSchema.image = imageUrl;
+      mainSchema.publisher.logo = {
+        "@type": "ImageObject",
+        "url": `${siteUrl}/images/stack-effect-diagram.jpg`
+      };
+    }
   }
+
+  const imageMetaTags = SUPPRESS_IMAGES ? `  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:url" content="${canonicalUrl}">
+  <meta name="twitter:title" content="${frontmatter.title}">
+  <meta name="twitter:description" content="${cleanSummary}">` : `  <!-- Open Graph / Facebook -->
+  <meta property="og:image" content="${imageUrl}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="675">
+  <meta property="og:image:alt" content="${frontmatter.title} Technical Diagram">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:url" content="${canonicalUrl}">
+  <meta name="twitter:title" content="${frontmatter.title}">
+  <meta name="twitter:description" content="${cleanSummary}">
+  <meta name="twitter:image" content="${imageUrl}">`;
 
   return `<!DOCTYPE html>
 <html lang="en">
@@ -504,21 +537,12 @@ function buildArticleHtml(frontmatter, htmlBody, bodyMd) {
   <meta property="og:url" content="${canonicalUrl}">
   <meta property="og:title" content="${frontmatter.title}">
   <meta property="og:description" content="${cleanSummary}">
-  <meta property="og:image" content="${imageUrl}">
-  <meta property="og:image:width" content="1200">
-  <meta property="og:image:height" content="675">
-  <meta property="og:image:alt" content="${frontmatter.title} Technical Diagram">
   <meta property="article:published_time" content="2026-10-01T08:00:00Z">
   <meta property="article:modified_time" content="2026-10-19T18:00:00Z">
   <meta property="article:section" content="${frontmatter.category}">
   <meta property="article:author" content="${frontmatter.author || 'Midwest AEC Building Science'}">
 
-  <!-- Twitter Card -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:url" content="${canonicalUrl}">
-  <meta name="twitter:title" content="${frontmatter.title}">
-  <meta name="twitter:description" content="${cleanSummary}">
-  <meta name="twitter:image" content="${imageUrl}">
+${imageMetaTags}
 
   <!-- AEO / VEO JSON-LD Structured Data -->
   <script type="application/ld+json">

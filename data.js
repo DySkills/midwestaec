@@ -598,6 +598,47 @@ var miaecData = [
     "url": "articles/expansive-lawncare.html"
   },
   {
+    "title": "The False Spring Thaw: Why Your Attic Rains, Your Basement Sweats, and Your Winter Bills Spiked",
+    "subtitle": "When the first February thaw hits the Midwest, the hidden physics of winter reveals itself in dripping ceiling drywall, buckled basement vinyl, and shocking utility bills.",
+    "format": "Feature",
+    "leadType": "Descriptive",
+    "category": "Envelope",
+    "catSlug": "envelopes",
+    "cities": [
+      "Chicago",
+      "Cincinnati",
+      "Cleveland",
+      "Columbus",
+      "Des Moines",
+      "Detroit",
+      "Indianapolis",
+      "Kansas City",
+      "Milwaukee",
+      "Minneapolis",
+      "Omaha",
+      "Peoria",
+      "Rockford",
+      "South Bend",
+      "St. Louis"
+    ],
+    "states": [
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "MI",
+      "MN",
+      "MO",
+      "NE",
+      "OH",
+      "WI"
+    ],
+    "summary": "Mid-February brings the Midwest's first false spring. As temperatures jump from 12°F to 50°F, attic hoarfrost melts into ceiling insulation, uninsulated concrete slabs sweat beneath waterproof flooring, and January's utility bills arrive. Here is the forensic building science behind the mid-winter thaw.",
+    "codeTag": "IRC Section R806 / ASTM E1745 / ASHRAE 62.2",
+    "type": "Feature",
+    "url": "articles/false-spring-envelope-thaw.html"
+  },
+  {
     "title": "How to Safely Insulate Historic Solid Brick: The Interior Retrofit Blueprint",
     "subtitle": "A step-by-step jobsite execution manual for diagnostic RILEM testing, lime repointing, capillary uncoupling, and smart membrane detailing on 100-year-old masonry.",
     "format": "Tutorial",

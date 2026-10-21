@@ -27,21 +27,13 @@ referralHook: "Vetted Window & Glazing Specialists"
 
 ---
 
-## Sleet on the Glass at 22°F
+## Technical Baseline: Fenestration Economics & Thermal Performance
 
-It is 7:00 PM on a dark February evening on the northwest side of Chicago. Outside, winter sleet is tapping relentlessly against vibrating window panes, streetlights shimmer across frozen sidewalks, and the red bar stops at a chilling 22°F.
+Window replacement represents one of the most aggressively marketed home improvement categories in the Midwest, yet from an energy efficiency perspective, it delivers one of the lowest returns on investment. A standard double-pane window replacement carries an average simple payback period of **26 to 35 years**—well beyond the warranty lifespan of most insulated glass units (IGUs).
 
-Inside, a slick sales representative from a regional window franchise has spent two hours in the living room demonstrating heat lamps and brandishing glossy brochures. He is offering a "limited-time" estimate of $24,500 to replace sixteen double-hung windows, promising they will cut the home's winter heating bills in half.
+If your window frames are structurally sound, installing [Low-E exterior storm windows and air-sealing the rough opening casing](window-alternatives.html) provides up to 80% of the thermal performance of replacement units at less than one-fourth the capital cost.
 
----
-
-## Moving Past the Sales Theater
-
-Window replacement is one of the most aggressive, high-margin sales sectors in residential remodeling. Sales representatives routinely use heat-lamp demonstrations, fictitious "today-only" $5,000 discounts, and claims of 40% energy cuts to pressure homeowners into signing five-figure contracts.
-
-In reality, replacement windows carry a 26-to-35-year simple payback. If your windows are structurally sound, installing [Low-E storm windows and air-sealing the rough openings](articles/window-alternatives.html) is the correct financial decision.
-
-However, an objective building science perspective recognizes that windows do eventually reach the end of their functional lifespan. When physical failure occurs, replacement is warranted—not for energy payback, but for structural preservation, health, and operability.
+However, an objective building science perspective acknowledges that fenestration assemblies do eventually reach physical failure. When structural rot, dangerous lead friction surfaces, or permanent seal failure occur, complete replacement is medically and structurally warranted.
 
 ---
 
@@ -109,6 +101,37 @@ Protect your household budget by establishing clear bidding rules:
 1. **Reject "Today-Only" Discounts:** If a sales estimator states their price drops by $5,000 if you sign before they leave the kitchen table, dismiss them. True professional building science contractors provide written, detailed estimates with 30-day price locks.
 2. **Demand NFRC Window Stickers on Site:** When windows arrive on the delivery truck, inspect the temporary NFRC stickers on the glass before crews remove your old windows. Confirm that the U-factor and SHGC match your contract specifications exactly.
 3. **Refuse Full Replacement if Frames Are Sound:** If your sills and jambs are solid, explore [Low-E storm windows and weight pocket air sealing](articles/window-alternatives.html) to save thousands of dollars while capturing the same seasonal comfort.
+
+---
+
+## Myth Buster: 3 Pervasive Window Replacement Fallacies
+
+### Myth 1: "Replacement Windows Cut Heating & Cooling Bills by 40%"
+* **The Reality:** Windows typically account for only 10% to 15% of a home's total thermal envelope conduction and infiltration loss. Even upgrading single-pane wood windows to Energy Star double-pane units typically reduces total home energy consumption by only **7% to 12%**. Far greater energy savings are achieved for a fraction of the cost through attic air sealing and rim joist insulation.
+
+### Myth 2: "Vinyl Window Frames Last Forever Without Maintenance"
+* **The Reality:** Polyvinyl chloride (PVC) vinyl has a high coefficient of thermal expansion—expanding and contracting at more than double the rate of glass. In Midwest climates with 100°F annual temperature swings, this differential movement stresses corner welds and causes perimeter seal failure within 12 to 18 years. **Pultruded fiberglass** expands at virtually the same rate as glass, offering superior structural longevity.
+
+### Myth 3: "New Windows Automatically Fix Room Drafts"
+* **The Reality:** Over 80% of perceived window drafts do not come through the glass—they leak around the unsealed rough opening behind the interior trim casing. If an installer fails to remove the trim and inject low-expansion polyurethane foam around the weight pockets and frame shims, cold outdoor air will continue to draft into the living space regardless of how expensive the window is.
+
+---
+
+## The Action Plan: Specific Services & Implementation Steps
+
+If your fenestration assemblies meet the criteria for full replacement, enforce these strict procurement and installation specifications:
+
+1. **Mandate Climate Zone 5 NFRC Performance Ratings:**
+   * Demand windows certified under **Energy Star Version 7.0 Northern Climate criteria**: maximum **U-factor &le; 0.22 to 0.25**, a Solar Heat Gain Coefficient (SHGC) &ge; 0.35 (to allow beneficial passive solar winter gain), and an air leakage rating &le; 0.10 cfm/ft².
+   * *Service Link:* Verify product ratings independently on the [National Fenestration Rating Council (NFRC) Certified Product Directory](https://www.nfrc.org).
+2. **Connect with Vetted Window & Envelope Installation Contractors:**
+   * Avoid high-pressure direct-sales franchises. Seek out independent, building-science trained window installers who warrant rough opening flashing and exterior water integration.
+   * *Service Link:* [Connect with Vetted Local Window Specialists &rarr;](../browse.html?cat=efficient-systems) to compare competitive replacement bids.
+3. **Require ASTM E2112 Compliant Rough Opening Flashing in Contract:**
+   * Require your contractor to install a **sloped sill pan with back-dam**, self-adhered flashing membrane lapped shingle-style beneath the weather-resistive barrier (WRB), and non-expanding closed-cell foam around the perimeter.
+   * *Service Link:* Review our companion guide on [Historic Window Alternatives & Storm Retrofits](window-alternatives.html) for cost-effective alternatives before signing window contracts.
+4. **Leverage Federal 25C Energy Efficiency Tax Credits:**
+   * Energy Star Most Efficient windows qualify for the **Section 25C federal tax credit**, covering 30% of product costs up to **$600 per year**. Require the manufacturer's certification statement for tax filing.
 
 ---
 

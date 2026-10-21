@@ -5,3 +5,7 @@ Thumbs.db
 .env
 dist/
 .vscode/
+*credentials*.json
+*gen-lang-client*.json
+*.key
+gsc-credentials.json

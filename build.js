@@ -679,8 +679,16 @@ ${JSON.stringify(mainSchema, null, 2)}
   <!-- Footer -->
   <footer class="border-t border-slate-200 bg-white py-8 text-xs text-slate-500 font-mono mt-12">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-4">
-      <div>Midwest AEC &bull; Building Science, Systems & Assemblies</div>
-      <div><a href="../about.html" class="hover:text-navy">About Midwest AEC</a> &bull; &copy; 2026 Midwest AEC</div>
+      <div class="flex items-center gap-3 flex-wrap">
+        <a href="../about.html" class="hover:text-navy">About</a>
+        <span>&bull;</span>
+        <a href="../privacy.html" class="hover:text-navy">Privacy Policy</a>
+        <span>&bull;</span>
+        <a href="../terms.html" class="hover:text-navy">Terms of Service</a>
+        <span>&bull;</span>
+        <a href="../disclosure.html" class="hover:text-navy">Affiliate Disclosure</a>
+      </div>
+      <div>&copy; 2026 Midwest AEC &bull; Independent Building Science Publication</div>
     </div>
   </footer>
   <script>
@@ -719,7 +727,11 @@ function build() {
   const databaseRecords = [];
   const sitemapUrls = [
     { loc: 'https://midwestaec.com/index.html', priority: '1.0', changefreq: 'weekly' },
-    { loc: 'https://midwestaec.com/browse.html', priority: '0.9', changefreq: 'weekly' }
+    { loc: 'https://midwestaec.com/browse.html', priority: '0.9', changefreq: 'weekly' },
+    { loc: 'https://midwestaec.com/about.html', priority: '0.8', changefreq: 'monthly' },
+    { loc: 'https://midwestaec.com/privacy.html', priority: '0.5', changefreq: 'yearly' },
+    { loc: 'https://midwestaec.com/terms.html', priority: '0.5', changefreq: 'yearly' },
+    { loc: 'https://midwestaec.com/disclosure.html', priority: '0.6', changefreq: 'yearly' }
   ];
 
   files.forEach(file => {

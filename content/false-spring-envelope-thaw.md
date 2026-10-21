@@ -78,6 +78,8 @@ Every square foot of hoarfrost melts simultaneously. Gallons of liquid water pou
 
 Because saturated insulation loses up to 80% of its thermal resistance (R-value), the wet batts can no longer insulate. The water pools on top of the ceiling drywall, stains the paint, and begins dripping through light fixtures and smoke detectors.
 
+> **Deep-Dive Engineering Report:** Read our complete forensic breakdown on **[The Attic Snow Cave: Diagnosing Winter Hoarfrost, Sweating Roof Sheathing & False Spring Leaks](attic-frost-roof-sweating.html)**.
+
 **The Solution:** You do not need a new roof. You need comprehensive **attic air sealing**. Sealing top plates, electrical boxes, and mechanical chases with one-part polyurethane foam and rigid covers permanently halts the convective moisture engine that feeds the attic snow cave.
 
 ---
@@ -111,6 +113,8 @@ But when you lay an impermeable, solid polyvinyl chloride (PVC) plank directly o
 The rising subterranean moisture hits the underside of the vinyl plank and can go no further. It pools. It emulsifies any floor adhesives into a sticky gray goo. Hydrostatic vapor pressure forces liquid moisture upward through the micro-seams of the click-lock joints, causing the edges of the planks to curl, cup, and telegraph across the floor.
 
 Worse, the dark, stagnant, organic environment between the concrete and the plastic underlayment creates a fertile breeding ground for mold and mildew within weeks of the first thaw.
+
+> **Deep-Dive Engineering Report:** Read the complete sub-slab moisture specification on **[Why '100% Waterproof' Basement LVP Flooring Fails: Sub-Slab Vapor Pressure, MVER & Concrete Condensation](basement-lvp-flooring-moisture.html)**.
 
 **The Solution:** LVP is waterproof from the *top down* (pet accidents and spills), but it is completely defenseless against vapor drive from the *bottom up*. Any basement floor finish must be isolated from the concrete by a continuous, taped **ASTM E1745 Class A vapor retarder** (minimum 10-mil virgin polyolefin) combined with a continuous thermal break of rigid continuous insulation (1 to 2 inches of extruded polystyrene [XPS]) to raise the floor surface temperature permanently above the indoor dew point.
 
@@ -164,6 +168,8 @@ Modern building science follows a simple, universal consensus codified by **ASHR
 
 1. **Air-Seal the Envelope Until It Is Airtight:** Use blower door testing to identify and eliminate convective air bypasses. Stopping uncontrolled air leaks stops the moisture transport mechanism that rots wood framing.
 2. **Ventilate Mechanically with Balanced Systems:** Provide continuous, controlled fresh outdoor air using an **Energy Recovery Ventilator (ERV)** or **Heat Recovery Ventilator (HRV)**. 
+
+> **Deep-Dive Engineering Report:** Read the complete fluid dynamics analysis on **[Does an Old House Need to Breathe? Stack Pressure, Infiltration Rot & ERVs](does-house-need-to-breathe.html)**.
 
 An ERV exhausts stale indoor air from bathrooms and kitchens while drawing in fresh outdoor air. Inside the ERV's core, the outgoing warm air transfers up to 80% of its thermal energy and humidity to the incoming fresh air without ever mixing the air streams.
 

@@ -18,8 +18,12 @@
 ## 2. Article Inventory & Content Architecture
 * **Total Published Articles:** **31 live specifications** (17 Reports, 8 Features, 4 Tutorials, 2 Listicles).
 * **Compiler Engine:** [`build.js`](build.js) compiles `content/*.md` into `articles/*.html`, auto-generates Schema.org JSON-LD (`Article`, `FAQPage`, `HowTo`), regenerates [`data.js`](data.js), and generates [`sitemap.xml`](sitemap.xml) (37 indexed URLs).
-* **Staged Backlog:** [`content/backlog/`](content/backlog/) contains pre-written articles staged for scheduled release:
-  * [`rammed-earth-midwest-flooring.md`](content/backlog/rammed-earth-midwest-flooring.md) — Staged for **Monday, October 26 ("Flooring Day")**.
+* **Staged Backlog Inventory (5 Heavy-Hitters Staged):**
+  1. [`rammed-earth-midwest-flooring.md`](content/backlog/rammed-earth-midwest-flooring.md) — Staged for **Monday, Oct 26 ("Flooring Day")**
+  2. [`basement-egress-window-cutting.md`](content/backlog/basement-egress-window-cutting.md) — Staged for **Thursday, Oct 29**
+  3. [`load-bearing-wall-removal-lvl.md`](content/backlog/load-bearing-wall-removal-lvl.md) — Staged for **Monday, Nov 2**
+  4. [`siding-comparison-hardie-lpsmartside-vinyl.md`](content/backlog/siding-comparison-hardie-lpsmartside-vinyl.md) — Staged for **Monday, Nov 9**
+  5. [`emergency-window-repair-seal-failure.md`](content/backlog/emergency-window-repair-seal-failure.md) — Staged for **Monday, Nov 16**
 
 ---
 

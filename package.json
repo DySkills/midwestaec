@@ -14,5 +14,8 @@
     "midwest"
   ],
   "author": "MIAEC",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "googleapis": "^187.0.0"
+  }
 }

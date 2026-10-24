@@ -8,7 +8,7 @@ catSlug: "hvac"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "An engineering teardown of vapor flash-injection, real-world COP curves at sub-zero temperatures, dual-fuel balance points, and the summer humidity oversizing trap."
-summary: "Every January across the Midwest, homeowners question whether a heat pump can survive sub-zero weather without skyrocketing bills. Modern inverter-driven systems with vapor flash-injection deliver 100% rated capacity down to -5°F and operate past -15°F, but real-world comfort hinges on dual-fuel balance points and avoiding summer humidity traps."
+summary: "Every January across the Midwest, homeowners question whether a heat pump can survive sub-zero weather without skyrocketing bills. Modern inverter-driven systems with vapor flash-injection and emerging transcritical R-744 cycles deliver rated capacity down past -15°F, but real-world winter performance hinges on dual-fuel balance points and avoiding summer humidity traps."
 codeTag: "NEEP ccASHP / AHRI 210/240 / ASHRAE 90.1"
 author: "Midwest AEC Building Science"
 date: "October 2026"
@@ -86,6 +86,16 @@ The following table summarizes independent performance ratings certified under t
 *Data Sources: NEEP ccASHP Product List; AHRI Directory of Certified Product Performance (AHRI Standard 210/240).*
 
 Systems engineered with dedicated flash-injection circuits (such as Mitsubishi Hyper-Heat and Fujitsu XLTH) maintain a flat capacity curve down to -5°F or lower. Standard inverter units without injection circuits (such as the Bosch IDS) modulate down smoothly, but begin shedding maximum heating capacity below 15°F, requiring careful sizing evaluation in Climate Zone 5.
+
+---
+
+## Refrigerant Evolution: Transcritical R-744 (CO2) in Severe Winters
+
+While residential retrofits currently rely on synthetic fluorocarbon blends transitioning to low-GWP A2Ls like R-454B and R-32, cold-climate heating engineering is advancing rapidly with **transcritical R-744 (carbon dioxide)**. 
+
+Unlike traditional fluorocarbons that condense into liquid below their critical point, an R-744 heat pump operates in a transcritical refrigeration cycle above 87.8°F and 1,070 PSI. In extreme sub-zero weather down to -25°F, carbon dioxide's exceptionally high volumetric heat capacity allows compact compressors to extract dense heat without capacity loss, yielding hydronic supply temperatures exceeding 150°F without electric heat strip backup.
+
+For severe cold winters across Minnesota, North Dakota, and Wisconsin, an R-744 heat pump for cold winters provides an ultra-low Global Warming Potential (GWP = 1.0) architecture that bypasses synthetic refrigerant phasedowns while maintaining full heating capacity through polar vortex events.
 
 ---
 

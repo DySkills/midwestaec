@@ -8,7 +8,7 @@ catSlug: "envelopes"
 cities: ["Chicago", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls"]
 states: ["IA", "IL", "IN", "MI", "MN", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "Why dual continuous 2.6-inch EPS foam shells eliminate foundation thermal bridge losses, prevent summer mold sweating, and create an indestructible, waterproof below-grade living space."
-summary: "In Midwest cold climates, basements account for up to 35% of total home heat loss. Standard 8-inch poured concrete walls offer an insulation value of barely R-1.1 and wick ground moisture inward via capillary action. Insulated Concrete Forms (ICF)—interlocking high-density EPS blocks filled with steel-reinforced concrete—deliver continuous R-22+ insulation, eliminate interior framing condensation traps, and create a waterproof, tornado-resistant thermal flywheel."
+summary: "In Midwest cold climates, basements account for up to 35% of total home heat loss. Standard 8-inch poured concrete walls offer an insulation value of barely R-1.1 and wick ground moisture inward via capillary action. Insulated Concrete Forms (ICF)—interlocking high-density EPS blocks filled with steel-reinforced concrete—deliver continuous R-22+ below grade insulation, eliminate interior framing condensation traps, and create an airtight, waterproof insulated concrete forms foundation."
 codeTag: "ACI 318 / ASTM C578 / IRC Section R404.1.3"
 author: "Midwest AEC Building Science"
 date: "October 2026"
@@ -120,6 +120,16 @@ While EPS foam is hydrophobic and absorbs less than 1.0% water by volume, an ICF
 >    - Wrapped in needle-punched non-woven geotextile filter fabric (Class 1) to prevent silt clogging.
 >    - Gravity-drained to daylight or interior sealed sump crock with battery backup.
 
+
+---
+
+## ICF Concrete Foundation vs. Poured Wall Footing Integration
+
+Erecting an insulated concrete forms foundation requires a continuous structural interface with the sub-grade footing. Unlike standard formwork stripped after 48 hours, ICF stays permanently bonded, necessitating an engineered capillary break between the footing and the ICF concrete core.
+
+Installers place #4 Grade 60 rebar dowels vertically every 16 inches into the footing before pouring, locking into the ICF concrete foundation core. A fluid-applied crystalline capillary barrier or elastomeric waterproofing strip must be applied across the footing top plate to stop rising damp from migrating through the cold joint into the basement slab.
+
+By locking the exterior EPS block layer flush with below grade insulation and sub-slab perimeter foam, an insulated concrete forms basement eliminates the notorious cold-corner perimeter frost line that plagues conventional Midwest foundation footings.
 
 ---
 

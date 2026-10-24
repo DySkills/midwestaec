@@ -8,7 +8,7 @@ catSlug: "go-green"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Indianapolis", "Milwaukee", "Minneapolis", "Omaha", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "OH", "WI"]
 subtitle: "Why petrochemical foams take up to 30 years to offset their chemical manufacturing footprint, and how cellulose, wood fiber, and stone wool achieve upfront decarbonization."
-summary: "As Midwest building envelopes become tighter and the regional electric grid transitions to renewables, upfront embodied carbon accounts for over 50% of a high-performance building's lifetime climate impact. Selecting bio-based insulations—such as dense-pack cellulose and continuous wood-fiber board—sequesters atmospheric carbon into the walls while maintaining hygroscopic, vapor-open drying capacity that petrochemical foams cannot match."
+summary: "As Midwest building envelopes become tighter and regional grids decarbonize, upfront embodied carbon accounts for over 50% of a home's lifetime climate impact. Selecting low carbon insulation—such as dense-pack cellulose and continuous wood-fiber board—sequesters atmospheric carbon into the walls, minimizing the cellulose insulation carbon footprint while maintaining vapor-open drying capacity."
 codeTag: "ISO 21930 / ASHRAE 240P / LEED v4.1"
 author: "Midwest AEC Building Science"
 date: "October 2026"
@@ -121,6 +121,16 @@ In contrast, cellulose and wood fiber are **hygroscopic and vapor-open**:
 > | **Global Warming Potential** | **Net Negative (-0.42 kg CO₂e/kg)** | **Net Negative (-1.20 kg CO₂e/kg)** |
 
 Cellulose and wood fiber act as a **hygrothermal buffer**. They can absorb and redistribute up to 15% of their dry weight in ambient moisture vapor without degrading their insulating value or fostering mold. When the weather changes and surrounding air dries, the fibers release the stored moisture harmlessly into the atmosphere.
+
+---
+
+## Low Carbon Insulation & Carbon Footprint Life-Cycle Analysis
+
+Evaluating low carbon footprint insulation requires measuring cradle-to-gate Global Warming Potential (GWP) across modules A1 through A3 in Environmental Product Declarations (EPDs). While synthetic foams generate positive carbon emissions during cracking and chemical synthesis, bio-based cavity insulations yield a net-negative carbon balance.
+
+The cellulose insulation carbon footprint stands out in life-cycle assessments because 85% of its weight consists of diverted post-consumer newsprint. Trees capture atmospheric carbon through photosynthesis; converting that clean paper waste into non-convective cavity insulation permanently locks that biogenic carbon into Midwest walls rather than letting it decompose into methane in landfills.
+
+When paired with continuous exterior wood-fiber board, low carbon insulation assemblies offset the embodied footprint of concrete footings and structural framing before the homeowners ever turn on their heating systems.
 
 ---
 

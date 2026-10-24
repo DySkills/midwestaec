@@ -3,7 +3,7 @@
 **Live Domain:** [`https://midwestaec.com`](https://midwestaec.com)  
 **GitHub Repository:** [`https://github.com/DySkills/midwestaec`](https://github.com/DySkills/midwestaec) (Branch: `main`)  
 **DNS & Edge Proxy:** Cloudflare (Edge SSL active)  
-**Last Updated:** October 22, 2026
+**Last Updated:** October 24, 2026
 
 ---
 
@@ -18,12 +18,13 @@
 ## 2. Article Inventory & Content Architecture
 * **Total Published Articles:** **31 live specifications** (17 Reports, 8 Features, 4 Tutorials, 2 Listicles).
 * **Compiler Engine:** [`build.js`](build.js) compiles `content/*.md` into `articles/*.html`, auto-generates Schema.org JSON-LD (`Article`, `FAQPage`, `HowTo`), regenerates [`data.js`](data.js), and generates [`sitemap.xml`](sitemap.xml) (37 indexed URLs).
-* **Staged Backlog Inventory (5 Heavy-Hitters Staged):**
+* **Staged Backlog Inventory (6 Specifications Staged):**
   1. [`rammed-earth-midwest-flooring.md`](content/backlog/rammed-earth-midwest-flooring.md) — Staged for **Monday, Oct 26 ("Flooring Day")**
   2. [`basement-egress-window-cutting.md`](content/backlog/basement-egress-window-cutting.md) — Staged for **Thursday, Oct 29**
   3. [`load-bearing-wall-removal-lvl.md`](content/backlog/load-bearing-wall-removal-lvl.md) — Staged for **Monday, Nov 2**
-  4. [`siding-comparison-hardie-lpsmartside-vinyl.md`](content/backlog/siding-comparison-hardie-lpsmartside-vinyl.md) — Staged for **Monday, Nov 9**
-  5. [`emergency-window-repair-seal-failure.md`](content/backlog/emergency-window-repair-seal-failure.md) — Staged for **Monday, Nov 16**
+  4. [`heat-pump-aux-heat-lockout-balance-point.md`](content/backlog/heat-pump-aux-heat-lockout-balance-point.md) — Staged for **Thursday, Nov 5 (Early Winter Wave Spoke)**
+  5. [`siding-comparison-hardie-lpsmartside-vinyl.md`](content/backlog/siding-comparison-hardie-lpsmartside-vinyl.md) — Staged for **Monday, Nov 9**
+  6. [`emergency-window-repair-seal-failure.md`](content/backlog/emergency-window-repair-seal-failure.md) — Staged for **Monday, Nov 16**
 
 ---
 
@@ -48,6 +49,10 @@ Transitioning from purely seasonal weather triage to high-ticket, year-round eve
   2. `monday-backlog-deployer`: Mondays at 8:00 AM Central (Deploys staged backlog articles).
   3. `weekly-site-health`: Sundays at 11:00 PM Central (Crawls URLs for 200 OK).
   4. `seasonal-editorial-radar`: Daily at 8:00 AM Central (Looks ahead 21 days for coverage gaps).
+* **Latest Telemetry Snapshot (Oct 24, 2026):**
+  * 14 active queries indexed; 37 sitemap URLs successfully submitted and downloaded with 0 errors.
+  * High-momentum clusters: `icf-basements-walls.html` (12 impressions, "icf basement" pos 15.0), `embodied-carbon-materials.html` (8 impressions, cellulose/low-carbon), `cold-climate-heat-pumps.html` (pos 29 for "r744 heat pump for cold winters").
+  * Page 1 organic anchors: `smart-vapor-retarders.html` (pos 1.75), `energy-hikes.html` (pos 1.0), `balloon-framing.html` (pos 2.0, 1 click, 33.3% CTR).
 
 ---
 

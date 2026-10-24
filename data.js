@@ -427,7 +427,7 @@ var miaecData = [
       "SD",
       "WI"
     ],
-    "summary": "Every January across the Midwest, homeowners question whether a heat pump can survive sub-zero weather without skyrocketing bills. Modern inverter-driven systems with vapor flash-injection deliver 100% rated capacity down to -5°F and operate past -15°F, but real-world comfort hinges on dual-fuel balance points and avoiding summer humidity traps.",
+    "summary": "Every January across the Midwest, homeowners question whether a heat pump can survive sub-zero weather without skyrocketing bills. Modern inverter-driven systems with vapor flash-injection and emerging transcritical R-744 cycles deliver rated capacity down past -15°F, but real-world winter performance hinges on dual-fuel balance points and avoiding summer humidity traps.",
     "codeTag": "NEEP ccASHP / AHRI 210/240 / ASHRAE 90.1",
     "type": "Report",
     "url": "articles/cold-climate-heat-pumps.html"
@@ -635,7 +635,7 @@ var miaecData = [
       "OH",
       "WI"
     ],
-    "summary": "As Midwest building envelopes become tighter and the regional electric grid transitions to renewables, upfront embodied carbon accounts for over 50% of a high-performance building's lifetime climate impact. Selecting bio-based insulations—such as dense-pack cellulose and continuous wood-fiber board—sequesters atmospheric carbon into the walls while maintaining hygroscopic, vapor-open drying capacity that petrochemical foams cannot match.",
+    "summary": "As Midwest building envelopes become tighter and regional grids decarbonize, upfront embodied carbon accounts for over 50% of a home's lifetime climate impact. Selecting low carbon insulation—such as dense-pack cellulose and continuous wood-fiber board—sequesters atmospheric carbon into the walls, minimizing the cellulose insulation carbon footprint while maintaining vapor-open drying capacity.",
     "codeTag": "ISO 21930 / ASHRAE 240P / LEED v4.1",
     "type": "Report",
     "url": "articles/embodied-carbon-materials.html"
@@ -877,7 +877,7 @@ var miaecData = [
       "SD",
       "WI"
     ],
-    "summary": "In Midwest cold climates, basements account for up to 35% of total home heat loss. Standard 8-inch poured concrete walls offer an insulation value of barely R-1.1 and wick ground moisture inward via capillary action. Insulated Concrete Forms (ICF)—interlocking high-density EPS blocks filled with steel-reinforced concrete—deliver continuous R-22+ insulation, eliminate interior framing condensation traps, and create a waterproof, tornado-resistant thermal flywheel.",
+    "summary": "In Midwest cold climates, basements account for up to 35% of total home heat loss. Standard 8-inch poured concrete walls offer an insulation value of barely R-1.1 and wick ground moisture inward via capillary action. Insulated Concrete Forms (ICF)—interlocking high-density EPS blocks filled with steel-reinforced concrete—deliver continuous R-22+ below grade insulation, eliminate interior framing condensation traps, and create an airtight, waterproof insulated concrete forms foundation.",
     "codeTag": "ACI 318 / ASTM C578 / IRC Section R404.1.3",
     "type": "Report",
     "url": "articles/icf-basements-walls.html"

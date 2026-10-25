@@ -245,3 +245,19 @@ Major structural masonry, stabilized rammed earth formwork, hydronic in-slab rad
 * [Find Vetted Midwest Masonry & Foundation Contractors &rarr;](../browse.html?cat=water-barriers)
 * [Connect with Regional HVAC & Radiant Hydronic Heating Specialists &rarr;](../browse.html?cat=hvac)
 * [Review All 31 Midwest AEC Building Science Specifications &rarr;](../browse.html?cat=all)
+
+---
+
+## Frequently Asked Questions
+
+### Can you build a code-compliant rammed earth home in Climate Zone 5?
+Yes, but not with traditional uninsulated monolithic earth walls. The International Residential Code (IRC Section R402) mandates an envelope thermal performance of R-20 to R-30 in Climate Zones 4 and 5. Because raw rammed earth provides only R-0.20 to R-0.25 per inch (R-3.6 total for an 18-inch wall), builders must construct **Stabilized Insulated Rammed Earth (SIRE)** walls. SIRE incorporates a 4-inch continuous core of rigid extruded polystyrene (XPS) or polyisocyanurate sandwiched between two 6-inch structural earthen wythes, achieving R-22+ while preserving exposed interior and exterior earthen finishes.
+
+### How do you prevent an earthen floor from dusting and eroding?
+Untreated clay floors will dust under foot traffic and dissolve if exposed to standing water. The building science solution is chemical polymerization via hot boiled linseed oil. Saturating bone-dry clay with four successive coats of linseed oil cut with mineral spirits allows the vegetable oil to penetrate deep into the pores, where atmospheric oxygen cross-links it into a durable, water-resistant linoxin plastic resin. Applying an annual buffing coat of carnauba paste wax provides durable abrasion resistance.
+
+### Why do ceramic and porcelain tiles crack over concrete basement slabs?
+Concrete slabs undergo long-term drying shrinkage and seasonal thermal contraction. When tile is bonded directly to concrete using standard thin-set mortar, the micro-cracks and shear stresses in the concrete transfer directly into the brittle tile and grout lines, causing tenting and fractures. Installing an engineered polyethylene uncoupling membrane (such as Schluter-DITRA) creates a mechanical slip plane that isolates the finished tile surface from substrate movement while allowing sub-slab vapor to equalize.
+
+### Can engineered hardwood or luxury vinyl plank be installed over bare concrete?
+Only if the slab is protected by an intact subterranean vapor barrier. Concrete is porous and continuously wicks subterranean capillary moisture upward. Before installing moisture-sensitive flooring, test the slab using an ASTM F1869 Calcium Chloride test. If Moisture Vapor Emission Rates (MVER) exceed 3.0 lbs/1,000 sq.ft/24 hr, an ASTM E1745 Class A underlayment or a high-solids Class I epoxy moisture mitigation primer must be applied to prevent adhesive bond failure and plank warping.

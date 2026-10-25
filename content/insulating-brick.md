@@ -8,7 +8,7 @@ catSlug: "urban-development"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Detroit", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "St. Louis"]
 states: ["IL", "IN", "KS", "MI", "MN", "MO", "NE", "OH", "WI"]
 subtitle: "Why insulating historic solid mass masonry from the interior can trigger catastrophic brick face spalling and rotten floor joists in sub-zero winters, and the hygrothermal blueprint to do it safely."
-summary: "Midwest cities contain hundreds of thousands of pre-1930s solid masonry bungalows, two-flats, and Victorians. These walls were engineered as mass storage systems that dried continuously from interior waste heat. Adding interior insulation drops the exterior brick temperature to sub-zero ambient levels. If rain-saturated clay brick freezes before drying, the 9% volumetric expansion of ice shatters the brick faces and rots embedded wood floor joists. Here is the hygrothermal blueprint to test, detail, and insulate historic brick without structural failure."
+summary: "Midwest cities contain hundreds of thousands of pre-1930s solid masonry bungalows, two-flats, and Victorians. These walls were built with porous clay insulating brick assemblies that dried continuously from interior waste heat. Adding interior insulation brick retrofits drops exterior masonry to sub-zero temperatures. If rain-saturated clay brick freezes before drying, 9% volumetric ice expansion shatters brick faces and rots floor joists. Here is the hygrothermal blueprint to insulate historic brick safely."
 codeTag: "ASTM C67 / ASTM C1324 / IRC Section R702.7"
 author: "Midwest AEC Building Science"
 date: "October 2026"
@@ -150,6 +150,16 @@ Safely insulating a solid mass brick assembly demands uncoupling the thermal bou
 Within the interior framing cavity, a minimum 1-inch clear air break prevents moisture that penetrates the brick wythes from wicking into the insulation. Combining hydrophobic mineral wool with a dynamic variable-permeance smart vapor retarder ensures the wall remains protected against winter indoor humidity while permitting vital inward drying during hot, humid Midwest summers.
 
 &rarr; **[Step-by-Step Tutorial: How to Safely Insulate Historic Solid Brick](historic-brick-retrofit-steps.html)**
+
+---
+
+## Clay Insulating Brick vs. Dense Structural Brick: Thermal & Absorption Physics
+
+When evaluating historic mass masonry or high-temperature industrial brickwork, understanding the distinction between modern dense brick and historic **clay insulating brick** is critical for envelope performance:
+
+- **Historic Porous Clay Brick:** Fired at lower kiln temperatures (1,600°F–1,800°F) in local Midwest brickyards, 19th-century bricks feature an open micro-capillary pore volume between 15% and 25%. While these open pores provide modest natural thermal resistance ($k \approx 0.60 \text{ to } 0.85 \text{ W/m}\cdot\text{K}$, functioning similarly to soft insulating brick), their high water absorption (12% to 22% by weight via ASTM C67) makes them acutely susceptible to freeze-thaw spalling when interior insulation is added.
+- **Refractory Insulation Brick (IFB):** Engineered lightweight clay insulating brick utilized in high-temperature flues and masonry fireplaces relies on artificially induced porous alumina-silica structures to minimize heat conduction ($k \le 0.25 \text{ W/m}\cdot\text{K}$).
+- **The Retrofit Rule:** Applying an interior **insulation brick** retrofit strategy to exterior mass masonry requires calculating the assembly's critical saturation ($S_{crit}$). If the clay brick's water absorption exceeds the critical limit, the exterior facade must be repointed with vapor-permeable lime mortar and shielded with generous roof overhangs before any interior insulation is installed.
 
 ---
 

@@ -513,7 +513,7 @@ var miaecData = [
       "SD",
       "WI"
     ],
-    "summary": "Vented crawlspaces in the Midwest create extreme summer humidity, mold growth, and winter floor heat loss. This step-by-step tutorial details how to execute a code-compliant crawlspace encapsulation under IRC Section R408.3: resolving bulk ground moisture, permanently sealing exterior vents, installing a taped 20-mil Class A polyolefin liner, insulating perimeter stem walls, and commissioning a low-temperature commercial dehumidifier.",
+    "summary": "Vented crawl spaces in the Midwest create extreme summer humidity, mold growth, and winter floor heat loss. This step-by-step tutorial details how to do crawl space encapsulation under IRC Section R408.3: resolving bulk ground moisture, permanently sealing exterior vents, installing a taped 20-mil Class A polyolefin liner, insulating perimeter stem walls, and commissioning a commercial dehumidifier to permanently encapsulate crawl space foundations.",
     "codeTag": "IRC Section R408.3 / ASTM E1745 / ASHRAE 62.2",
     "type": "Tutorial",
     "url": "articles/crawlspace-encapsulation-steps.html"
@@ -913,7 +913,7 @@ var miaecData = [
       "OH",
       "WI"
     ],
-    "summary": "Midwest cities contain hundreds of thousands of pre-1930s solid masonry bungalows, two-flats, and Victorians. These walls were engineered as mass storage systems that dried continuously from interior waste heat. Adding interior insulation drops the exterior brick temperature to sub-zero ambient levels. If rain-saturated clay brick freezes before drying, the 9% volumetric expansion of ice shatters the brick faces and rots embedded wood floor joists. Here is the hygrothermal blueprint to test, detail, and insulate historic brick without structural failure.",
+    "summary": "Midwest cities contain hundreds of thousands of pre-1930s solid masonry bungalows, two-flats, and Victorians. These walls were built with porous clay insulating brick assemblies that dried continuously from interior waste heat. Adding interior insulation brick retrofits drops exterior masonry to sub-zero temperatures. If rain-saturated clay brick freezes before drying, 9% volumetric ice expansion shatters brick faces and rots floor joists. Here is the hygrothermal blueprint to insulate historic brick safely.",
     "codeTag": "ASTM C67 / ASTM C1324 / IRC Section R702.7",
     "type": "Feature",
     "url": "articles/insulating-brick.html"
@@ -1156,7 +1156,7 @@ var miaecData = [
       "SD",
       "WI"
     ],
-    "summary": "Insulating below-grade building components subjects foam to continuous dampness, soil chemistry, and compressive loads. While extruded polystyrene (XPS) delivers high initial R-values, multi-year field studies show it absorbs moisture under long-term subterranean vapor pressure, losing up to 45% of its thermal resistance. High-density EPS (Type IX) and graphite-infused GPS maintain compressive strength and drain moisture, while two inches of 2.0-lb closed-cell spray foam provides the ultimate air-impermeable seal for drafty rim joists.",
+    "summary": "Specifying below grade insulation for subterranean slabs and foundations subjects foam to continuous dampness, soil chemistry, and compressive loads. While extruded polystyrene (XPS) delivers high initial R-values, multi-year field studies show it absorbs moisture under long-term subterranean vapor pressure, losing up to 45% of its thermal resistance. High-density EPS (Type IX) and graphite-infused GPS maintain compressive strength and drain moisture, making them superior below grade insulation specifications, while two inches of 2.0-lb closed-cell spray foam provides the ultimate air-impermeable seal for drafty rim joists.",
     "codeTag": "ASTM C578 / ASTM D1621 / IRC Section R402.1",
     "type": "Report",
     "url": "articles/sub-slab-insulation-specs.html"

@@ -78,7 +78,7 @@ When builders attempt to "finish" a standard concrete basement by erecting a 2x4
 
 ## The ICF Engineering Solution: Continuous Monolithic Sandwich
 
-Insulated Concrete Forms (ICF) eliminate the thermal bridge and the condensation plane entirely by placing continuous, rigid expanded polystyrene insulation on **both sides** of the structural concrete wall:
+Insulated Concrete Forms (ICF)—sometimes colloquially referred to by Midwest tradesmen as an **ice block foundation** due to the interlocking white foam forms—eliminate the thermal bridge and the condensation plane entirely. By placing continuous, rigid expanded polystyrene insulation on **both sides** of the structural concrete core, builders erect permanent, monolithic **icf foundation walls**:
 
 > ### Insulated Concrete Form (ICF) Structural & Thermal Stack
 >

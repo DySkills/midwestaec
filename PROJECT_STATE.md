@@ -3,7 +3,7 @@
 **Live Domain:** [`https://midwestaec.com`](https://midwestaec.com)  
 **GitHub Repository:** [`https://github.com/DySkills/midwestaec`](https://github.com/DySkills/midwestaec) (Branch: `main`)  
 **DNS & Edge Proxy:** Cloudflare (Edge SSL active)  
-**Last Updated:** October 24, 2026
+**Last Updated:** October 25, 2026
 
 ---
 
@@ -55,10 +55,27 @@ Search volume for seasonal emergencies requires 4 to 8 weeks of prior Googlebot 
   2. `monday-backlog-deployer`: Mondays at 8:00 AM Central (Deploys staged backlog articles).
   3. `weekly-site-health`: Sundays at 11:00 PM Central (Crawls URLs for 200 OK).
   4. `seasonal-editorial-radar`: Daily at 8:00 AM Central (Looks ahead 21 days for coverage gaps).
-* **Latest Telemetry Snapshot (Oct 24, 2026):**
-  * 14 active queries indexed; 37 sitemap URLs successfully submitted and downloaded with 0 errors.
-  * Page 1 organic anchors: `energy-hikes.html` (pos 1.0), `smart-vapor-retarders.html` (pos 1.8), `balloon-framing.html` (pos 2.0, 1 click, 33.3% CTR), `attic-frost-roof-sweating.html` (pos 3.0), `basement-waterproofing.html` (pos 4.5), `bug-prevention.html` (pos 6.5).
-  * Page 2 striking distance breakout: `icf-basements-walls.html` (12 impressions, "icf basement" pos 15.0), `cold-climate-heat-pumps.html` (pos 29.0).
+* **Latest Telemetry Snapshot (Oct 25, 2026):**
+  * **21 active queries indexed (+50% DoD growth)**; 37 sitemap URLs successfully submitted and downloaded by Googlebot on Oct 25 at 03:51 UTC with 0 errors.
+  * **Surging Impression Clusters:**
+    * `icf-basements-walls.html`: **39 impressions (+225% surge)** across 10 query variations ("icf basement" pos 17.3, "icf basements" pos 40.4, "insulated concrete forms basement walls" pos 35.0, "insulated concrete forms foundation" pos 47.8, "ice block foundation" pos 67.0). Micro-tuned with "ice block foundation" and "icf foundation walls".
+    * `embodied-carbon-materials.html`: **16 impressions** across "low carbon insulation" (9 impr), "low carbon footprint insulation" (5 impr), and "cellulose insulation carbon footprint" (1 impr).
+    * `insulating-brick.html`: **12 impressions** ("insulation brick" pos 50.2, "clay insulating brick" pos 90.5). Micro-tuned with dedicated clay insulating brick thermal analysis section.
+  * **New High-Intent Query Breakouts:**
+    * `crawlspace-encapsulation-steps.html`: "how to do crawl space encapsulation" entered GSC at pos 34.0; "how to encapsulate crawl space" at pos 96.0. Micro-tuned with dedicated trade milestones section.
+    * `sub-slab-insulation-specs.html`: "below grade insulation" entered at pos 70.0. Micro-tuned with ASTM C578 below grade insulation specifications.
+  * **Page 1 Organic Anchors:**
+    * `energy-hikes.html` (pos 1.0)
+    * `smart-vapor-retarders.html` (pos 1.75)
+    * Homepage `midwestaec.com` (pos 2.0, 1 click, 100% CTR)
+    * `attic-frost-roof-sweating.html` (pos 3.0)
+    * `balloon-framing-retrofit-steps.html` (pos 4.0)
+    * `basement-waterproofing.html` (pos 4.5)
+    * `bug-prevention.html` (pos 4.75)
+    * `balloon-framing.html` (pos 5.9, 1 click, 14.3% CTR)
+    * `crawlspace-encapsulation.html` (pos 6.0)
+    * `window-alternatives.html` (pos 7.0)
+    * `when-to-replace-windows.html` (pos 11.0, Page 2 striking distance; tuned for "when to replace windows")
 
 ---
 

@@ -29,7 +29,7 @@ referralHook: "Vetted Window & Glazing Specialists"
 
 ## Technical Baseline: Fenestration Economics & Thermal Performance
 
-Window replacement represents one of the most aggressively marketed home improvement categories in the Midwest, yet from an energy efficiency perspective, it delivers one of the lowest returns on investment. A standard double-pane window replacement carries an average simple payback period of **26 to 35 years**—well beyond the warranty lifespan of most insulated glass units (IGUs).
+When deciding **when to replace windows** in Climate Zones 4 and 5, homeowners must weigh fenestration economics against structural and health triggers. Window replacement represents one of the most aggressively marketed home improvement categories in the Midwest, yet from an energy efficiency perspective alone, it delivers one of the lowest returns on investment. A standard double-pane window replacement carries an average simple payback period of **26 to 35 years**—well beyond the warranty lifespan of most insulated glass units (IGUs).
 
 If your window frames are structurally sound, installing [Low-E exterior storm windows and air-sealing the rough opening casing](window-alternatives.html) provides up to 80% of the thermal performance of replacement units at less than one-fourth the capital cost.
 

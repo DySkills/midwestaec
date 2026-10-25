@@ -8,7 +8,7 @@ catSlug: "efficient-systems"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "Why subterranean moisture degrades XPS thermal performance over 15 years, how high-density EPS drains, and why 2-lb closed-cell spray foam dominates the rim joist."
-summary: "Insulating below-grade building components subjects foam to continuous dampness, soil chemistry, and compressive loads. While extruded polystyrene (XPS) delivers high initial R-values, multi-year field studies show it absorbs moisture under long-term subterranean vapor pressure, losing up to 45% of its thermal resistance. High-density EPS (Type IX) and graphite-infused GPS maintain compressive strength and drain moisture, while two inches of 2.0-lb closed-cell spray foam provides the ultimate air-impermeable seal for drafty rim joists."
+summary: "Specifying below grade insulation for subterranean slabs and foundations subjects foam to continuous dampness, soil chemistry, and compressive loads. While extruded polystyrene (XPS) delivers high initial R-values, multi-year field studies show it absorbs moisture under long-term subterranean vapor pressure, losing up to 45% of its thermal resistance. High-density EPS (Type IX) and graphite-infused GPS maintain compressive strength and drain moisture, making them superior below grade insulation specifications, while two inches of 2.0-lb closed-cell spray foam provides the ultimate air-impermeable seal for drafty rim joists."
 codeTag: "ASTM C578 / ASTM D1621 / IRC Section R402.1"
 author: "Midwest AEC Building Science"
 date: "October 2026"
@@ -94,6 +94,16 @@ The definitive building-science detail for rim joists is **two inches of 2.0-lb 
 1. **Monolithic Air Barrier:** Liquid spray expands 30x in seconds, sealing every microscopic crack around the concrete sill, mudsill, rim board, and subfloor, halting 100% of air infiltration.
 2. **Continuous R-13 to R-14 Thermal Break:** Two inches provides full compliance with IECC Climate Zone 5 & 6 prescriptive insulation requirements.
 3. **Certified Class II Vapor Retarder:** Closed-cell foam has a water vapor permeance of **less than 0.8 perms** at 2 inches thickness. Warm interior moisture can never reach the cold wood rim board, completely eliminating winter condensation and hidden structural rot.
+
+---
+
+## Below Grade Insulation: ASTM C578 Specifications & Compressive Resistance
+
+Selecting **below grade insulation** for heavy residential slabs requires balancing thermal resistance ($R\text{-value}$) against long-term compressive creep and subterranean moisture saturation:
+
+1. **ASTM C578 Compressive Classifications:** Sub-slab applications require a minimum compressive strength of 25.0 psi (ASTM D1621) for standard residential slabs, and 40.0 to 60.0 psi for heavy storage or hydronic radiant installations. Expanded polystyrene (Type IX EPS) meets 25.0 psi while preserving long-term compressive rebound.
+2. **Moisture Permeability in Below Grade Insulation:** Unlike above-grade continuous wall sheathing where drying occurs to outdoor air, below grade insulation is buried in 100% relative humidity soil. Closed-cell structures that trap moisture internally lose thermal value over decades; hydrophobic bead-matrix insulations with gravity drainage channels prevent trapped moisture degradation.
+3. **Termite and Pest Protection:** All below grade insulation products installed against subterranean foundation walls must incorporate non-toxic borate treatments to deter subterranean termite tunneling in high-risk zones.
 
 ---
 

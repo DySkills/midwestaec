@@ -8,7 +8,7 @@ catSlug: "water-barriers"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "A practical jobsite manual for sealing foundation vents, detailing 20-mil vapor barriers, insulating stem walls, and installing commercial dehumidification under IRC R408.3."
-summary: "Vented crawlspaces in the Midwest create extreme summer humidity, mold growth, and winter floor heat loss. This step-by-step tutorial details how to execute a code-compliant crawlspace encapsulation under IRC Section R408.3: resolving bulk ground moisture, permanently sealing exterior vents, installing a taped 20-mil Class A polyolefin liner, insulating perimeter stem walls, and commissioning a low-temperature commercial dehumidifier."
+summary: "Vented crawl spaces in the Midwest create extreme summer humidity, mold growth, and winter floor heat loss. This step-by-step tutorial details how to do crawl space encapsulation under IRC Section R408.3: resolving bulk ground moisture, permanently sealing exterior vents, installing a taped 20-mil Class A polyolefin liner, insulating perimeter stem walls, and commissioning a commercial dehumidifier to permanently encapsulate crawl space foundations."
 codeTag: "IRC Section R408.3 / ASTM E1745 / ASHRAE 62.2"
 author: "Midwest AEC Building Science"
 date: "October 2026"
@@ -96,6 +96,18 @@ Provide active mechanical humidity control per IRC Section R408.3:
 - Place a low-temperature commercial crawlspace dehumidifier (rated for 70 to 90 pints per day at 60°F) on a level hanging bracket or elevated vibration-absorbing rubber pad.
 - Hard-pipe the condensate drain port using 3/4-inch rigid PVC pipe directly into the sump pit or gravity-fed to an exterior daylight drain (never use flexible vinyl tubing that can kink).
 - Wire the unit to a dedicated 15-amp GFCI electrical receptacle and set the digital humidistat between **45% and 50% relative humidity**.
+
+---
+
+## How to Do Crawl Space Encapsulation: Summary Protocol & Critical Trade Milestones
+
+Homeowners and contractors asking **how to encapsulate crawl space** foundations successfully in Climate Zones 4 and 5 must execute the conversion in strict building science sequence. Skipping steps—such as laying vapor barrier over unmitigated groundwater or failing to air-seal the rim joist—leads to catastrophic moisture trapping.
+
+### The 4 Non-Negotiable Milestones:
+1. **Bulk Water Diverted First:** Never lay plastic over active mud or seasonal ponding water. Trench French drain perimeter tile to a sealed interior sump pit with battery backup before barrier installation.
+2. **Monolithic Air Boundary (Vents & Joists):** Every exterior foundation vent must be plugged with 2-inch closed-cell foam and sealed with polyurethane caulk. The rim joist and sill plate must receive 2 inches of closed-cell spray foam.
+3. **Class A Continuous Membrane (20-Mil):** Crawl space encapsulation requires a puncture-resistant, virgin polyolefin membrane sealed with double-sided butyl tape and mechanical termination bars along stem walls.
+4. **Mechanical RH Control (Dehumidification):** An encapsulated crawl space is a conditioned envelope. It requires a dedicated commercial low-temperature dehumidifier maintaining 45% to 55% relative humidity year-round.
 
 ---
 

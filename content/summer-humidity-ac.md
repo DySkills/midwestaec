@@ -8,7 +8,7 @@ catSlug: "hvac"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "How oversized single-stage compressors short-cycle before wringing out latent moisture, why basements freeze and sweat, and the engineering fix using inverters and dedicated dehumidifiers."
-summary: "Midwest summers bring intense 'corn sweat' humidity that drives outdoor dew points above 75°F. Homeowners who install oversized, single-stage high-SEER air conditioners frequently find their homes cold, clammy, and smelling of basement mold. Because oversized units satisfy the sensible thermostat in under eight minutes, they shut down before the evaporator coil begins draining condensed water. Understanding the Sensible Heat Ratio (SHR), lowering blower CFM, and integrating dedicated whole-home dehumidification solves the problem."
+summary: "Oversized AC and basement humidity: Why short-cycling high-efficiency air conditioners leave rooms cold and clammy, and how to fix SHR under ACCA Manual S."
 codeTag: "ACCA Manual J & S / AHRI 920 / ASHRAE Standard 55"
 author: "Midwest AEC Building Science"
 date: "October 2026"

@@ -8,7 +8,7 @@ catSlug: "roofing"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "A complete jobsite execution guide: air-sealing ceiling bypasses, fastening rigid wind-wash baffles, and dense-blowing R-60 insulation to eliminate ice dams."
-summary: "Permanent ice dam prevention requires stopping conditioned indoor air from leaking into the attic and maintaining an unobstructed soffit-to-ridge ventilation channel. This step-by-step tutorial details safety protocols, bypass sealing using one-component polyurethane foam, rigid rafter baffle fastening, and uniform R-60 loose-fill cellulose installation."
+summary: "Attic air sealing and eave baffles stop winter ice dams permanently. Step-by-step guide to sealing top plate bypasses and installing R-60 under IECC R402."
 codeTag: "IRC Section R806.2 / IECC R402.4 / ASTM E779"
 author: "Midwest AEC Building Science"
 date: "October 2026"

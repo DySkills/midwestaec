@@ -8,7 +8,7 @@ catSlug: "efficient-systems"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "An objective building science buyer's guide detailing the 4 conditions that warrant full replacement, and the strict NFRC and installation standards to demand."
-summary: "Full window replacement rarely pays back on energy savings alone, but severe wood rot, lead paint hazards, failed IGU seals, or deep envelope retrofits make new assemblies necessary. Here are the exact engineering specs to require."
+summary: "When to replace windows: 4 structural failure triggers that justify the 30-year payback. How to diagnose blown IGU seals and fix drafty frames for 1/4 the cost."
 codeTag: "Energy Star v7.0 / ASTM E2112 / NFRC"
 author: "Midwest AEC Building Science"
 date: "October 2026"

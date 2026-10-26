@@ -8,7 +8,7 @@ catSlug: "water-barriers"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "A practical jobsite manual for sealing foundation vents, detailing 20-mil vapor barriers, insulating stem walls, and installing commercial dehumidification under IRC R408.3."
-summary: "Vented crawl spaces in the Midwest create extreme summer humidity, mold growth, and winter floor heat loss. This step-by-step tutorial details how to do crawl space encapsulation under IRC Section R408.3: resolving bulk ground moisture, permanently sealing exterior vents, installing a taped 20-mil Class A polyolefin liner, insulating perimeter stem walls, and commissioning a commercial dehumidifier to permanently encapsulate crawl space foundations."
+summary: "How to encapsulate crawl space foundations under IRC R408.3: Detail 20-mil Class A liners, seal exterior vents, and commission commercial dehumidification."
 codeTag: "IRC Section R408.3 / ASTM E1745 / ASHRAE 62.2"
 author: "Midwest AEC Building Science"
 date: "October 2026"

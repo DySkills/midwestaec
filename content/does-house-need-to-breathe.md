@@ -8,7 +8,7 @@ catSlug: "air-barriers"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Peoria", "Rockford", "South Bend", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "An engineering teardown of the 'breathing house' fallacy, the fluid dynamics of the neutral pressure plane, and why balanced mechanical ventilation prevents envelope rot."
-summary: "The belief that an old house needs to breathe through random cracks is the most persistent myth in American construction. Random air leaks are not ventilation—they are convective moisture highways that rot wall framing and double winter heating bills. Here is the building science case for building tight and ventilating right with ERVs."
+summary: "Does a house need to breathe? The building science truth behind controlled mechanical ventilation (ERV/HRV) vs uncontrolled wall rot under ASHRAE 62.2."
 codeTag: "ASHRAE Standard 62.2 / IRC Section M1505 / ASTM E779"
 author: "Midwest AEC Building Science"
 date: "October 2026"

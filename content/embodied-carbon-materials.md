@@ -8,7 +8,7 @@ catSlug: "go-green"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Indianapolis", "Milwaukee", "Minneapolis", "Omaha", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "OH", "WI"]
 subtitle: "Why petrochemical foams take up to 30 years to offset their chemical manufacturing footprint, and how cellulose, wood fiber, and stone wool achieve upfront decarbonization."
-summary: "As Midwest building envelopes become tighter and regional grids decarbonize, upfront embodied carbon accounts for over 50% of a home's lifetime climate impact. Selecting low carbon insulation—such as dense-pack cellulose and continuous wood-fiber board—sequesters atmospheric carbon into the walls, minimizing the cellulose insulation carbon footprint while maintaining vapor-open drying capacity."
+summary: "Low carbon insulation specifications: Compare the cradle-to-gate carbon footprint of dense-pack cellulose, wood-fiber board, and stone wool for Climate Zone 5."
 codeTag: "ISO 21930 / ASHRAE 240P / LEED v4.1"
 author: "Midwest AEC Building Science"
 date: "October 2026"

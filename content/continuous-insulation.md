@@ -8,7 +8,7 @@ catSlug: "efficient-systems"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "Why 25% framing thermal bridging derates standard cavity walls, and how outboard insulation prevents hidden winter condensation on OSB sheathing."
-summary: "Wood framing studs conduct heat roughly four times faster than cavity insulation. An uninsulated stud wall rated at R-20 performs at an effective R-15, while continuous exterior insulation eliminates framing thermal bridges and protects structural sheathing from sub-zero rot in Climate Zones 4 and 5."
+summary: "Continuous exterior insulation on 2x6 walls: Calculate dew point planes, prevent sheathing condensation, and eliminate thermal bridging under IRC R702."
 codeTag: "IRC Table R702.7.1 / ASTM C518"
 author: "Midwest AEC Building Science"
 date: "October 2026"

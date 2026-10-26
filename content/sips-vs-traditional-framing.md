@@ -8,7 +8,7 @@ catSlug: "envelopes"
 cities: ["Chicago", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls"]
 states: ["IA", "IL", "IN", "MI", "MN", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "Why 4.5-inch to 8.25-inch foam-core panels cut jobsite framing schedules by 60% and downsize HVAC tonnage, offsetting higher factory material invoices in Midwest cold climates."
-summary: "Structural Insulated Panels (SIPs)—rigid foam insulation bonded between structural OSB skins—eliminate 90% of thermal bridging and deliver sub-1.0 ACH50 airtightness out of the box. While factory panel packages carry a 12% to 18% material premium over dimensional 2x6 lumber, dramatic reductions in crane erection time, eliminated drywall air-sealing labor, and downsized cold-climate heat pump capacities alter the total-cost equation in Climate Zone 5."
+summary: "SIPs vs. traditional stick framing in Zone 5: Compare total build costs, sub-1.0 ACH50 airtightness, crane labor savings, and HVAC downsizing under IRC R610."
 codeTag: "IRC Section R610 / ASTM C578 / ASTM E2178"
 author: "Midwest AEC Building Science"
 date: "October 2026"

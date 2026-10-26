@@ -8,7 +8,7 @@ catSlug: "roofing"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "Why zigzag cables and roof rakes fail to stop interior leaks, the thermodynamics of 32°F melting planes, and how balanced cold roofs establish thermal equilibrium."
-summary: "Every winter across the Midwest, snow-covered roofs sprout massive icicles and ice dams that back up under shingles and flood interior ceilings. The problem is never the shingles—it is warm indoor air escaping into the attic, warming the roof deck above 32°F while the unheated eaves freeze."
+summary: "Ice dams on roofs: The thermodynamic physics of attic heat loss, and how continuous air-sealing and ice-and-water shield prevent gutter dam roof leaks."
 codeTag: "IRC Section R806 / R905 / ASTM D1970"
 author: "Midwest AEC Building Science"
 date: "October 2026"

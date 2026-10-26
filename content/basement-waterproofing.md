@@ -8,7 +8,7 @@ catSlug: "water-barriers"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "How the 'clay bowl' effect generates 500 lbs/sq.ft of hydrostatic head pressure, why cheap 6-mil poly shreds under aggregate, and the ASTM E1745 Class A defense for dry basements."
-summary: "Midwest soils are dominated by expansive clay and glacial till. After heavy spring rains, backfilled soil around foundations acts as an underground funnel, generating massive hydrostatic head pressure that forces liquid water through cove joints and cold seams. Simultaneously, capillary suction draws subterranean moisture vapor up through porous concrete slabs, warping luxury vinyl plank (LVP) and breeding mold. Protecting finished basements requires hydrostatic pressure relief and an uncompromised ASTM E1745 Class A virgin polyolefin vapor barrier."
+summary: "Basement waterproofing after heavy rain: How expansive clay funnels hydrostatic head pressure through cove joints, and the ASTM E1745 Class A barrier fix."
 codeTag: "ASTM E1745 Class A / ACI 302.2R / IRC Section R405.1"
 author: "Midwest AEC Building Science"
 date: "October 2026"

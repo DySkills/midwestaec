@@ -8,7 +8,7 @@ catSlug: "efficient-systems"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "Why subterranean moisture degrades XPS thermal performance over 15 years, how high-density EPS drains, and why 2-lb closed-cell spray foam dominates the rim joist."
-summary: "Specifying below grade insulation for subterranean slabs and foundations subjects foam to continuous dampness, soil chemistry, and compressive loads. While extruded polystyrene (XPS) delivers high initial R-values, multi-year field studies show it absorbs moisture under long-term subterranean vapor pressure, losing up to 45% of its thermal resistance. High-density EPS (Type IX) and graphite-infused GPS maintain compressive strength and drain moisture, making them superior below grade insulation specifications, while two inches of 2.0-lb closed-cell spray foam provides the ultimate air-impermeable seal for drafty rim joists."
+summary: "Below grade insulation for slabs: Why high-density EPS Type IX outperforms XPS under moisture saturation, and how to spray-foam rim joists under ASTM C578."
 codeTag: "ASTM C578 / ASTM D1621 / IRC Section R402.1"
 author: "Midwest AEC Building Science"
 date: "October 2026"

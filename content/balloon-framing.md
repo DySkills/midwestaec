@@ -8,7 +8,7 @@ catSlug: "urban-development"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "How continuous two-story wall cavities act as open thermal chimneys and fire spread corridors in pre-1940s Midwest urban neighborhoods, and how to air-seal them from the basement and attic."
-summary: "Across historic urban neighborhoods from Chicago to St. Louis, millions of pre-WWII two-story homes were built with balloon framing. Because exterior wall studs run continuously from foundation sill to attic rafters without floor breaks, every stud bay acts as an open chimney pulling freezing basement drafts directly into the attic while creating a severe 3-minute fire spread hazard. Here is how to firestop and air-seal them on a budget."
+summary: "Balloon framing air leaks act as open chimneys in pre-1940s homes. Learn how to air-seal open stud bays and install code-approved IRC R302.11 firestops."
 codeTag: "IRC Section R302.11 / ASTM E136 / ASTM E814"
 author: "Midwest AEC Building Science"
 date: "October 2026"

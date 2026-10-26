@@ -8,7 +8,7 @@ catSlug: "hvac"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "An engineering teardown of vapor flash-injection, real-world COP curves at sub-zero temperatures, dual-fuel balance points, and the summer humidity oversizing trap."
-summary: "Every January across the Midwest, homeowners question whether a heat pump can survive sub-zero weather without skyrocketing bills. Modern inverter-driven systems with vapor flash-injection and emerging transcritical R-744 cycles deliver rated capacity down past -15°F, but real-world winter performance hinges on dual-fuel balance points and avoiding summer humidity traps."
+summary: "Cold-climate heat pumps at -20°F: How inverter vapor-injection and R744 transcritical cycles eliminate electric strips and cut winter heating bills in Zone 5."
 codeTag: "NEEP ccASHP / AHRI 210/240 / ASHRAE 90.1"
 author: "Midwest AEC Building Science"
 date: "October 2026"

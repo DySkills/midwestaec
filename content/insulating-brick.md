@@ -8,7 +8,7 @@ catSlug: "urban-development"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Detroit", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "St. Louis"]
 states: ["IL", "IN", "KS", "MI", "MN", "MO", "NE", "OH", "WI"]
 subtitle: "Why insulating historic solid mass masonry from the interior can trigger catastrophic brick face spalling and rotten floor joists in sub-zero winters, and the hygrothermal blueprint to do it safely."
-summary: "Midwest cities contain hundreds of thousands of pre-1930s solid masonry bungalows, two-flats, and Victorians. These walls were built with porous clay insulating brick assemblies that dried continuously from interior waste heat. Adding interior insulation brick retrofits drops exterior masonry to sub-zero temperatures. If rain-saturated clay brick freezes before drying, 9% volumetric ice expansion shatters brick faces and rots floor joists. Here is the hygrothermal blueprint to insulate historic brick safely."
+summary: "Clay insulating brick retrofits: Why interior insulation causes historic brick spalling in sub-zero winters, and the hygrothermal blueprint to do it safely."
 codeTag: "ASTM C67 / ASTM C1324 / IRC Section R702.7"
 author: "Midwest AEC Building Science"
 date: "October 2026"

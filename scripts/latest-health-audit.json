@@ -1,252 +1,258 @@
 {
-  "timestamp": "2026-10-26T04:05:25.165Z",
-  "localTime": "10/25/2026, 11:05:25 PM Central",
+  "timestamp": "2026-10-26T18:44:45.962Z",
+  "localTime": "10/26/2026, 1:44:45 PM Central",
   "inventoryCheck": {
-    "markdownFilesCount": 31,
-    "articlesHtmlCount": 31,
-    "dataJsRecordsCount": 31,
-    "sitemapTotalUrls": 37,
-    "sitemapArticleUrlsCount": 31,
+    "markdownFilesCount": 32,
+    "articlesHtmlCount": 32,
+    "dataJsRecordsCount": 32,
+    "sitemapTotalUrls": 38,
+    "sitemapArticleUrlsCount": 32,
     "sitemapCoreUrlsCount": 6,
     "countsMatch": true
   },
   "sitemapCrawl": {
-    "total": 37,
-    "passed": 37,
+    "total": 38,
+    "passed": 38,
     "failed": 0,
-    "averageLatencyMs": 57,
+    "averageLatencyMs": 136,
     "results": [
       {
         "url": "https://midwestaec.com/index.html",
         "status": 200,
-        "timeMs": 237,
+        "timeMs": 350,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/browse.html",
         "status": 200,
-        "timeMs": 127,
+        "timeMs": 212,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/about.html",
         "status": 200,
-        "timeMs": 59,
+        "timeMs": 144,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/privacy.html",
         "status": 200,
-        "timeMs": 55,
+        "timeMs": 123,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/terms.html",
         "status": 200,
-        "timeMs": 42,
+        "timeMs": 139,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/disclosure.html",
         "status": 200,
-        "timeMs": 56,
+        "timeMs": 260,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/attic-air-sealing-baffles.html",
         "status": 200,
-        "timeMs": 45,
+        "timeMs": 140,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/attic-frost-roof-sweating.html",
         "status": 200,
-        "timeMs": 54,
+        "timeMs": 176,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/balloon-framing-retrofit-steps.html",
         "status": 200,
-        "timeMs": 43,
+        "timeMs": 116,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/balloon-framing.html",
         "status": 200,
-        "timeMs": 58,
+        "timeMs": 179,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/barndominium-post-frame.html",
         "status": 200,
-        "timeMs": 79,
+        "timeMs": 112,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/basement-lvp-flooring-moisture.html",
         "status": 200,
-        "timeMs": 57,
+        "timeMs": 115,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/basement-waterproofing.html",
         "status": 200,
-        "timeMs": 44,
+        "timeMs": 106,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/blower-door-checklist.html",
         "status": 200,
-        "timeMs": 41,
+        "timeMs": 123,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/bug-prevention.html",
         "status": 200,
-        "timeMs": 43,
+        "timeMs": 114,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/cold-climate-heat-pumps.html",
         "status": 200,
-        "timeMs": 42,
+        "timeMs": 111,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/continuous-insulation.html",
         "status": 200,
-        "timeMs": 62,
+        "timeMs": 110,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/crawlspace-encapsulation-steps.html",
         "status": 200,
-        "timeMs": 57,
+        "timeMs": 109,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/crawlspace-encapsulation.html",
         "status": 200,
-        "timeMs": 67,
+        "timeMs": 99,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/does-house-need-to-breathe.html",
         "status": 200,
-        "timeMs": 45,
+        "timeMs": 113,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/embodied-carbon-materials.html",
         "status": 200,
-        "timeMs": 53,
+        "timeMs": 296,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/energy-hikes.html",
         "status": 200,
-        "timeMs": 48,
+        "timeMs": 105,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/expansive-lawncare.html",
         "status": 200,
-        "timeMs": 48,
+        "timeMs": 90,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/false-spring-envelope-thaw.html",
         "status": 200,
-        "timeMs": 51,
+        "timeMs": 158,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/historic-brick-retrofit-steps.html",
         "status": 200,
-        "timeMs": 61,
+        "timeMs": 86,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/ice-dams-roofs.html",
         "status": 200,
-        "timeMs": 41,
+        "timeMs": 134,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/icf-basements-walls.html",
         "status": 200,
-        "timeMs": 39,
+        "timeMs": 132,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/insulating-brick.html",
         "status": 200,
-        "timeMs": 39,
+        "timeMs": 93,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/off-grid-systems.html",
         "status": 200,
-        "timeMs": 42,
+        "timeMs": 91,
+        "ok": true
+      },
+      {
+        "url": "https://midwestaec.com/articles/rammed-earth-midwest-flooring.html",
+        "status": 200,
+        "timeMs": 94,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/rockwool-vs-fiberglass.html",
         "status": 200,
-        "timeMs": 39,
+        "timeMs": 119,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/roof-insulation-over-sheathing.html",
         "status": 200,
-        "timeMs": 73,
+        "timeMs": 94,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/sips-vs-traditional-framing.html",
         "status": 200,
-        "timeMs": 52,
+        "timeMs": 114,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/smart-vapor-retarders.html",
         "status": 200,
-        "timeMs": 46,
+        "timeMs": 93,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/sub-slab-insulation-specs.html",
         "status": 200,
-        "timeMs": 54,
+        "timeMs": 179,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/summer-humidity-ac.html",
         "status": 200,
-        "timeMs": 42,
+        "timeMs": 115,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/when-to-replace-windows.html",
         "status": 200,
-        "timeMs": 40,
+        "timeMs": 127,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/window-alternatives.html",
         "status": 200,
-        "timeMs": 40,
+        "timeMs": 94,
         "ok": true
       }
     ]
   },
   "internalLinksCheck": {
-    "totalChecked": 511,
+    "totalChecked": 524,
     "broken": []
   },
   "externalStandardsCheck": {
-    "total": 8,
-    "passed": 8,
+    "total": 9,
+    "passed": 9,
     "failed": 0,
     "results": [
       {
@@ -254,7 +260,7 @@
         "url": "https://www.bpi.org",
         "status": 200,
         "statusText": "OK",
-        "timeMs": 338,
+        "timeMs": 424,
         "ok": true
       },
       {
@@ -262,7 +268,7 @@
         "url": "https://www.nfrc.org",
         "status": 200,
         "statusText": "OK",
-        "timeMs": 1310,
+        "timeMs": 2161,
         "ok": true
       },
       {
@@ -270,7 +276,7 @@
         "url": "https://fcica.com",
         "status": 200,
         "statusText": "OK",
-        "timeMs": 790,
+        "timeMs": 1426,
         "ok": true
       },
       {
@@ -278,7 +284,7 @@
         "url": "https://www.dsireusa.org",
         "status": 200,
         "statusText": "OK",
-        "timeMs": 460,
+        "timeMs": 573,
         "ok": true
       },
       {
@@ -286,7 +292,7 @@
         "url": "https://www.acca.org",
         "status": 200,
         "statusText": "OK",
-        "timeMs": 482,
+        "timeMs": 636,
         "ok": true
       },
       {
@@ -294,7 +300,7 @@
         "url": "https://codes.iccsafe.org",
         "status": 200,
         "statusText": "OK",
-        "timeMs": 164,
+        "timeMs": 307,
         "ok": true
       },
       {
@@ -302,7 +308,7 @@
         "url": "https://www.networx.com/privacy",
         "status": 200,
         "statusText": "OK",
-        "timeMs": 278,
+        "timeMs": 279,
         "ok": true
       },
       {
@@ -310,7 +316,15 @@
         "url": "https://modernize.com/privacy",
         "status": 200,
         "statusText": "OK",
-        "timeMs": 146,
+        "timeMs": 174,
+        "ok": true
+      },
+      {
+        "name": "Article Reference (https://www.schluter.com)",
+        "url": "https://www.schluter.com",
+        "status": 200,
+        "statusText": "200",
+        "timeMs": 514,
         "ok": true
       }
     ]
@@ -318,13 +332,13 @@
   "edgeHealth": {
     "domain": "https://midwestaec.com",
     "sslActive": true,
-    "cfRay": "a5069521e80e286c-DFW",
+    "cfRay": "a50b9d3b8fe86c30-DFW",
     "cfCache": "DYNAMIC",
     "server": "cloudflare"
   },
   "schemaValidation": {
-    "totalChecked": 31,
-    "passed": 31,
+    "totalChecked": 32,
+    "passed": 32,
     "issues": []
   }
 }

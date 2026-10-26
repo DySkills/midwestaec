@@ -8,7 +8,7 @@ catSlug: "air-barriers"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "A builder's jobsite blueprint for hitting mandatory 3.0 ACH50 code thresholds: rim joists, top-plate penetrations, mechanical chases, and HVAC duct boots."
-summary: "The 2021 and 2024 International Energy Conservation Code (IECC) mandates that residential builds and major alterations pass a calibrated blower door depressurization test below 3.0 ACH50 in Climate Zones 4, 5, and 6. For general contractors and remodelers, failing this test halts the certificate of occupancy and triggers costly teardowns. Passing requires a disciplined, five-point pre-drywall sealing protocol targeting the concealed bypasses responsible for 80% of residential air leakage."
+summary: "Pass the blower door test on your remodel: A contractor checklist for hitting < 3.0 ACH50 under IECC R402.4 by air-sealing top plates and rim joists."
 codeTag: "IECC Section R402.4 / ASTM E779 / RESNET ANSI 380"
 author: "Midwest AEC Building Science"
 date: "October 2026"

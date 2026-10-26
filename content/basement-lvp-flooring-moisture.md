@@ -8,7 +8,7 @@ catSlug: "water-barriers"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Peoria", "Rockford", "South Bend", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "An engineering teardown of below-grade moisture vapor emissions (MVER), why concrete thermal mass causes condensation under vinyl planks, and the sub-slab assembly that prevents cupping."
-summary: "Big-box retailers market Luxury Vinyl Plank (LVP) as 100% waterproof, leading thousands of Midwest homeowners to lay it directly over concrete basement slabs. In winter and early spring, subterranean vapor drive and cold slab condensation trap water beneath the impermeable vinyl, buckling seams and breeding mold. Here is the forensic building science and sub-slab specification fix."
+summary: "Basement LVP flooring moisture: Why waterproof vinyl buckles over concrete slabs, and how to test MVER under ASTM F1869 with Class A vapor retarders."
 codeTag: "ASTM F1869 / ASTM F2170 / ASTM E1745 Class A"
 author: "Midwest AEC Building Science"
 date: "October 2026"

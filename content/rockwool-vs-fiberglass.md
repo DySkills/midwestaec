@@ -8,7 +8,7 @@ catSlug: "go-green"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "Why low-density glass fibers allow convective looping and moisture clumping at -10°F while dense stone mineral wool maintains true rated thermal resistance, friction-fit rigidity, and zero water absorption."
-summary: "Walk into any Midwest home center and fiberglass batts cost 40% less than stone mineral wool. But behind drywall during sub-zero cold snaps, low-density glass fibers suffer severe convective thermal derating, slump under gravity, and sponge moisture, while hydrophobic stone wool locks thermal performance in place."
+summary: "Rockwool vs. fiberglass insulation: Compare R-values (R-4.2 vs R-3.2), fire resistance, soundproofing, and sub-zero convective derating in Midwest walls."
 codeTag: "ASTM C665 / ASTM C612 / ASTM C518"
 author: "Midwest AEC Building Science"
 date: "October 2026"

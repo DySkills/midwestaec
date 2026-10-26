@@ -8,7 +8,7 @@ catSlug: "rural-development"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "Why mowing 5 acres of Kentucky bluegrass creates an impermeable hardpan, civil grading rules for clay swales, and how 15-foot prairie roots stop foundation flooding."
-summary: "Transitioning from a city lot to a 5-acre rural homestead introduces civil drainage realities that zero-turn mowers cannot solve. Repeated mower traffic across glacial clay creates an impermeable hardpan that channels thousands of gallons of stormwater directly into basement foundations. Here is how to engineer bioswales, French berms, and native prairie buffers."
+summary: "Expansive clay soils and foundation cracking: How seasonal moisture swings cause basement settlement, and the soaker hose watering rule to prevent cracks."
 codeTag: "USDA NRCS Standard 412 / Local SWCD / ASTM D698"
 author: "Midwest AEC Building Science"
 date: "October 2026"

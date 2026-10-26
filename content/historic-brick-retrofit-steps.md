@@ -8,7 +8,7 @@ catSlug: "urban-development"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Detroit", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "St. Louis"]
 states: ["IL", "IN", "KS", "MI", "MN", "MO", "NE", "OH", "WI"]
 subtitle: "A step-by-step jobsite execution manual for diagnostic RILEM testing, lime repointing, capillary uncoupling, and smart membrane detailing on 100-year-old masonry."
-summary: "Insulating historic solid mass masonry from the interior without causing brick spalling or rotten joist pockets requires following a strict hygrothermal procedure. This step-by-step tutorial details how to conduct RILEM absorption testing, rake and repoint with breathable lime mortar, erect an offset framed cavity with a 1-inch capillary air break, install hydrophobic mineral wool, and detail an airtight smart vapor retarder."
+summary: "How to insulate historic brick walls safely: Step-by-step interior retrofit detailing 2-inch continuous smart vapor retarders and lime mortar repointing."
 codeTag: "ASTM C67 / ASTM C1324 / IRC Section R702.7"
 author: "Midwest AEC Building Science"
 date: "October 2026"

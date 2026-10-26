@@ -8,7 +8,7 @@ catSlug: "efficient-systems"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "An investigative teardown of Midwest seasonal rate spikes, the stack-effect chimney, and why $20,000 window replacements fail the math."
-summary: "Every winter gas and electric bills increase across the Midwest, but they are rarely caused by failing furnaces. The cost is driven by approved tariff hikes colliding with the stack effect: an instance of hot air rising through unsealed ceilings which pulls cold air into lower portions of a building."
+summary: "Winter utility rate hikes: How air-sealing attic bypasses and setting heat pump balance points protects homeowners against 20–40% Midwest rate surges."
 codeTag: "IECC R-60 / ASTM E779"
 author: "Midwest AEC Building Science"
 date: "October 2026"

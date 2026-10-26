@@ -8,7 +8,7 @@ catSlug: "envelopes"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Peoria", "Rockford", "South Bend", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "NE", "OH", "WI"]
 subtitle: "When the first February thaw hits the Midwest, the hidden physics of winter reveals itself in dripping ceiling drywall, buckled basement vinyl, and shocking utility bills."
-summary: "Mid-February brings the Midwest's first false spring. As temperatures jump from 12°F to 50°F, attic hoarfrost melts into ceiling insulation, uninsulated concrete slabs sweat beneath waterproof flooring, and January's utility bills arrive. Here is the forensic building science behind the mid-winter thaw."
+summary: "False spring freeze-thaw cycles: How 50°F daytime thaws and sub-zero nights tear gutters, crack masonry, and cause hidden ceiling leaks in Climate Zone 5."
 codeTag: "IRC Section R806 / ASTM E1745 / ASHRAE 62.2"
 author: "Midwest AEC Building Science"
 date: "October 2026"

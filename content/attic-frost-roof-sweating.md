@@ -8,7 +8,7 @@ catSlug: "roofing"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Peoria", "Rockford", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "An engineering teardown of attic hoarfrost desublimation, why adding roof vents makes frost worse, and the air-sealing protocol that permanently halts attic rain."
-summary: "During sub-zero cold snaps in Climate Zones 4 and 5, warm indoor air leaking past can lights and top plates freezes into thick hoarfrost on roof sheathing. When temperatures rise during a false spring thaw, that frost melts instantaneously, flooding ceiling drywall. Here is the building science diagnosis and air-sealing fix."
+summary: "Attic frost and sweating roof sheathing: Why bypass air leaks freeze into winter hoarfrost, and how to stop false spring ceiling leaks under IRC R806."
 codeTag: "IRC Section R806 / ASTM E283 / ASTM C518"
 author: "Midwest AEC Building Science"
 date: "October 2026"

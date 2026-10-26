@@ -8,7 +8,7 @@ catSlug: "urban-development"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "A practical jobsite manual for sealing open stud bays, halting the two-story convective chimney, and meeting IRC R302.11 firestop code without tearing down plaster."
-summary: "Historic balloon-framed two-stories contain open, uninterrupted wall cavities spanning from foundation to attic. This step-by-step tutorial details how to execute the two-end air-block retrofit: friction-fitting non-combustible mineral wool blocks at the basement mud sill, sealing perimeters with intumescent firestop mastic, and capping open stud bays at the attic eaves."
+summary: "How to firestop balloon framing: Step-by-step retrofit guide to installing mineral wool blocks and intumescent mastic to stop chimney drafts under IRC R302."
 codeTag: "IRC Section R302.11 / ASTM E136 / ASTM E814"
 author: "Midwest AEC Building Science"
 date: "October 2026"

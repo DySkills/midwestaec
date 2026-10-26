@@ -8,7 +8,7 @@ catSlug: "air-barriers"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Indianapolis", "Kansas City", "Milwaukee", "Omaha", "St. Louis"]
 states: ["IL", "IN", "KS", "MI", "MO", "NE", "OH", "WI"]
 subtitle: "Why installing impermeable polyethylene behind interior drywall creates summer condensation rot in Climate Zones 4 and 5, and how variable polyamide membranes adapt to seasonal vapor drive."
-summary: "In cold Midwest climates, builders frequently copy Canadian construction details by slapping 6-mil polyethylene sheet plastic behind interior drywall. While impermeable poly blocks outward winter moisture, it creates a catastrophic failure in July and August when humid outdoor air drives inward against chilled, air-conditioned drywall. Moisture condenses against the backside of the plastic, feeding toxic black mold inside wall cavities. Intelligent variable-permeance membranes solve this bidirectional dilemma by tightening in winter and opening wide in summer."
+summary: "Smart vapor retarders vs. 6-mil plastic: Why polyethylene traps summer mold behind drywall, and how variable-perm membranes breathe under IRC Section R702.7."
 codeTag: "IRC Section R702.7 / ASTM E96 / Class I vs. Class II"
 author: "Midwest AEC Building Science"
 date: "October 2026"

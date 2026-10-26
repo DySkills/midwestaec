@@ -244,7 +244,7 @@ Do not build walls or pour earthen floors with topsoil or unverified fill dirt. 
 Major structural masonry, stabilized rammed earth formwork, hydronic in-slab radiant heating, and commercial slab vapor mitigation require licensed, specialized equipment:
 * [Find Vetted Midwest Masonry & Foundation Contractors &rarr;](../browse.html?cat=water-barriers)
 * [Connect with Regional HVAC & Radiant Hydronic Heating Specialists &rarr;](../browse.html?cat=hvac)
-* [Review All 31 Midwest AEC Building Science Specifications &rarr;](../browse.html?cat=all)
+* [Review All 32 Midwest AEC Building Science Specifications &rarr;](../browse.html?cat=all)
 
 ---
 

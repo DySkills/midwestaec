@@ -74,6 +74,16 @@ A Structural Insulated Panel is a structural composite engineered according to *
 
 ---
 
+## Framed Panel vs. Stressed Skin Panel: Structural Engineering & Load Distribution
+
+When comparing structural building envelopes, the engineering debate between a **framed panel vs stressed skin panel** highlights fundamentally different approaches to structural load transfer:
+
+- **Framed Panel (Conventional Stud Frame):** A framed panel relies on discrete linear members (2x4 or 2x6 wood studs spaced at 16 or 24 inches on center) to carry all vertical compressive loads and transverse wind forces. The exterior sheathing (OSB or plywood) functions merely as a diaphragm to resist lateral shear (racking). Because structural loads concentrate on individual studs, wood crushing, stud bowing, and thermal bridging at every framing bay are inherent to framed panel assemblies.
+- **Stressed Skin Panel (Structural Insulated Panel):** In an engineered stressed skin panel, the structural facings (outer OSB skins) are continuously laminated with rigid structural adhesive to a solid foam core, operating as an integrated composite I-beam. Under bending or compressive loads, the entire outer skin takes tensile and compressive stresses, while the continuous foam core resists shear stresses and prevents facial buckling. A stressed skin panel eliminates discrete framing studs, redistributing structural loads uniformly across thousands of square inches.
+- **The Performance Verdict:** In a **framed panel vs stressed skin panel** comparison across Climate Zone 5, stressed skin panels deliver twice the transverse load capacity (tested under ASTM E72), eliminate 90% of thermal bridges, and achieve superior airtightness because there are no individual stud seams to crack or leak air under wind pressure.
+
+---
+
 ## The Whole-Wall R-Value Reality: Thermal Bridging
 
 The primary thermodynamic flaw of traditional wood framing is **thermal bridging through dimensional lumber**. 

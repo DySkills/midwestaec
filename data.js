@@ -470,7 +470,7 @@ var miaecData = [
       "SD",
       "WI"
     ],
-    "summary": "Wood framing studs conduct heat roughly four times faster than cavity insulation. An uninsulated stud wall rated at R-20 performs at an effective R-15, while outboard continuous insulation eliminates thermal bridges and protects structural sheathing from sub-zero rot.",
+    "summary": "Wood framing studs conduct heat roughly four times faster than cavity insulation. An uninsulated stud wall rated at R-20 performs at an effective R-15, while continuous exterior insulation eliminates framing thermal bridges and protects structural sheathing from sub-zero rot in Climate Zones 4 and 5.",
     "codeTag": "IRC Table R702.7.1 / ASTM C518",
     "type": "Report",
     "url": "articles/continuous-insulation.html"
@@ -960,6 +960,47 @@ var miaecData = [
     "codeTag": "NEC Article 710 / NFPA 58 / Ten States Standards",
     "type": "Report",
     "url": "articles/off-grid-systems.html"
+  },
+  {
+    "title": "The Midwest Rammed Earth Paradox: Thermal Mass, Freeze-Thaw Spalling & The Sub-Slab Flooring Matrix",
+    "subtitle": "Compact soil promises zero-carbon beauty, but in Climate Zones 4 and 5, raw earth faces brutal freeze-thaw cycles and severe thermal bridging. Here is the forensic physics of when earthen construction works—and when it fails.",
+    "format": "Feature",
+    "leadType": "Descriptive",
+    "category": "Envelope",
+    "catSlug": "envelopes",
+    "cities": [
+      "Chicago",
+      "Cincinnati",
+      "Cleveland",
+      "Columbus",
+      "Des Moines",
+      "Detroit",
+      "Indianapolis",
+      "Kansas City",
+      "Milwaukee",
+      "Minneapolis",
+      "Omaha",
+      "Peoria",
+      "Rockford",
+      "South Bend",
+      "St. Louis"
+    ],
+    "states": [
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "MI",
+      "MN",
+      "MO",
+      "NE",
+      "OH",
+      "WI"
+    ],
+    "summary": "Rammed earth and earthen floors represent the ultimate architectural dream of natural, low-carbon building. But in the humid, freeze-thaw extremes of the Midwest, an 18-inch raw earth wall provides an R-value of just R-3.6. We analyze the thermodynamics of Insulated Rammed Earth (SIRE), earthen floor oils, sub-slab uncoupling membranes, and how tile and engineered wood stack up over cold concrete.",
+    "codeTag": "IRC Section R402 / ASTM D422 / ASTM E1745",
+    "type": "Feature",
+    "url": "articles/rammed-earth-midwest-flooring.html"
   },
   {
     "title": "Does Rockwool Outperform Fiberglass? How Each Holds Up in Midwest Wall Assemblies",

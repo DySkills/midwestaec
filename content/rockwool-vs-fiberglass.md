@@ -87,6 +87,17 @@ Furthermore, kraft paper facing on standard fiberglass carries a significant fla
 
 ---
 
+### The Fiberizing Section for Rock Wool: High-Speed Centrifugal Spinning Physics
+
+Understanding why stone wool resists fire and convective airflow requires examining the **fiberizing section for rock wool** during manufacturing:
+
+1. **Cupola Smelting:** Natural volcanic basalt rock, diabase, and recycled steel-furnace slag are blended with metallurgical coke and melted inside an industrial cupola furnace at temperatures exceeding 2,700°F to 2,900°F (1,500°C).
+2. **The Multi-Wheel Centrifugal Fiberizer:** The liquid basalt stream pours vertically into the **fiberizing section for rock wool**, consisting of a cascade of three or four rapidly spinning centrifugal rotor wheels turning at 3,000 to 7,000 RPM. As the liquid mineral stream hits the spinning wheels, centrifugal acceleration flings microscopic droplets outward, attenuating them into ultra-fine mineral fibers (3 to 5 microns in diameter).
+3. **Binder and Hydrophobic Injection:** Inside the spinning chamber of the fiberizing section, high-pressure air nozzles inject an atomized thermoset binder and a proprietary hydrophobic oil onto the individual mineral filaments.
+4. **Pendulum Mat Collection:** A cross-lapping pendulum arm layers the newly spun rock wool fibers into a multidirectional wool fleece. Passing through a curing oven at 400°F cross-links the binder, permanently locking the dense, spring-back fiber matrix that gives stone wool its 2.0 to 2.5 lb/cu.ft structural rigidity.
+
+---
+
 ## 5. Acoustic Mass & Low-Frequency Vibration Damping
 
 Sound isolation through interior partitions is governed by mass, cavity absorption, and mechanical decoupling. Low-frequency acoustic energy—such as street traffic, heavy diesel trucks, home theater bass, and HVAC duct rumble—travels effortlessly through lightweight, low-density materials. Standard fiberglass batts absorb high-pitched flutter echoes, but lack the physical mass required to block low-frequency vibration.

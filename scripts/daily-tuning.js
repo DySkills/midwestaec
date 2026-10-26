@@ -3,86 +3,127 @@ const path = require('path');
 
 const contentDir = path.join(__dirname, '..', 'content');
 
-function tuneCrawlspaceSteps() {
-  const file = path.join(contentDir, 'crawlspace-encapsulation-steps.md');
+// 1. Continuous Exterior Insulation Tuning
+function tuneContinuousInsulation() {
+  const file = path.join(contentDir, 'continuous-insulation.md');
   let content = fs.readFileSync(file, 'utf8');
 
-  // 1. Update summary
+  // Update summary to feature "continuous exterior insulation"
   content = content.replace(
-    'summary: "Vented crawlspaces in the Midwest create extreme summer humidity, mold growth, and winter floor heat loss. This step-by-step tutorial details how to execute a code-compliant crawlspace encapsulation under IRC Section R408.3: resolving bulk ground moisture, permanently sealing exterior vents, installing a taped 20-mil Class A polyolefin liner, insulating perimeter stem walls, and commissioning a low-temperature commercial dehumidifier."',
-    'summary: "Vented crawl spaces in the Midwest create extreme summer humidity, mold growth, and winter floor heat loss. This step-by-step tutorial details how to do crawl space encapsulation under IRC Section R408.3: resolving bulk ground moisture, permanently sealing exterior vents, installing a taped 20-mil Class A polyolefin liner, insulating perimeter stem walls, and commissioning a commercial dehumidifier to permanently encapsulate crawl space foundations."'
+    'summary: "Wood framing studs conduct heat roughly four times faster than cavity insulation. An uninsulated stud wall rated at R-20 performs at an effective R-15, while outboard continuous insulation eliminates thermal bridges and protects structural sheathing from sub-zero rot."',
+    'summary: "Wood framing studs conduct heat roughly four times faster than cavity insulation. An uninsulated stud wall rated at R-20 performs at an effective R-15, while continuous exterior insulation eliminates framing thermal bridges and protects structural sheathing from sub-zero rot in Climate Zones 4 and 5."'
   );
 
-  // 2. Add milestone section before Verification
-  const targetAnchor = '## Verification & Quality Assurance Tests';
-  if (!content.includes('## How to Do Crawl Space Encapsulation')) {
-    const addition = `## How to Do Crawl Space Encapsulation: Summary Protocol & Critical Trade Milestones\r\n\r\nHomeowners and contractors asking **how to encapsulate crawl space** foundations successfully in Climate Zones 4 and 5 must execute the conversion in strict building science sequence. Skipping steps—such as laying vapor barrier over unmitigated groundwater or failing to air-seal the rim joist—leads to catastrophic moisture trapping.\r\n\r\n### The 4 Non-Negotiable Milestones:\r\n1. **Bulk Water Diverted First:** Never lay plastic over active mud or seasonal ponding water. Trench French drain perimeter tile to a sealed interior sump pit with battery backup before barrier installation.\r\n2. **Monolithic Air Boundary (Vents & Joists):** Every exterior foundation vent must be plugged with 2-inch closed-cell foam and sealed with polyurethane caulk. The rim joist and sill plate must receive 2 inches of closed-cell spray foam.\r\n3. **Class A Continuous Membrane (20-Mil):** Crawl space encapsulation requires a puncture-resistant, virgin polyolefin membrane sealed with double-sided butyl tape and mechanical termination bars along stem walls.\r\n4. **Mechanical RH Control (Dehumidification):** An encapsulated crawl space is a conditioned envelope. It requires a dedicated commercial low-temperature dehumidifier maintaining 45% to 55% relative humidity year-round.\r\n\r\n---\r\n\r\n## Verification & Quality Assurance Tests`;
-    content = content.replace(targetAnchor, addition);
-  }
-
-  fs.writeFileSync(file, content, 'utf8');
-  console.log('Checked crawlspace-encapsulation-steps.md');
-}
-
-function tuneInsulatingBrick() {
-  const file = path.join(contentDir, 'insulating-brick.md');
-  let content = fs.readFileSync(file, 'utf8');
-
-  // 1. Update summary
+  // Update H2 title
   content = content.replace(
-    'summary: "Midwest cities contain hundreds of thousands of pre-1930s solid masonry bungalows, two-flats, and Victorians. These walls were engineered as mass storage systems that dried continuously from interior waste heat. Adding interior insulation drops the exterior brick temperature to sub-zero ambient levels. If rain-saturated clay brick freezes before drying, the 9% volumetric expansion of ice shatters the brick faces and rots embedded wood floor joists. Here is the hygrothermal blueprint to test, detail, and insulate historic brick without structural failure."',
-    'summary: "Midwest cities contain hundreds of thousands of pre-1930s solid masonry bungalows, two-flats, and Victorians. These walls were built with porous clay insulating brick assemblies that dried continuously from interior waste heat. Adding interior insulation brick retrofits drops exterior masonry to sub-zero temperatures. If rain-saturated clay brick freezes before drying, 9% volumetric ice expansion shatters brick faces and rots floor joists. Here is the hygrothermal blueprint to insulate historic brick safely."'
+    '## Material Teardown: Choosing the Right Outboard Layer',
+    '## Continuous Exterior Insulation Material Teardown: Mineral Wool, EPS, XPS & Polyiso'
   );
 
-  // 2. Add Clay Insulating Brick section before Retrofit Performance Comparison
-  const targetAnchor = '## Retrofit Performance Comparison';
-  if (!content.includes('## Clay Insulating Brick vs. Dense Structural Brick')) {
-    const addition = `## Clay Insulating Brick vs. Dense Structural Brick: Thermal & Absorption Physics\r\n\r\nWhen evaluating historic mass masonry or high-temperature industrial brickwork, understanding the distinction between modern dense brick and historic **clay insulating brick** is critical for envelope performance:\r\n\r\n- **Historic Porous Clay Brick:** Fired at lower kiln temperatures (1,600°F–1,800°F) in local Midwest brickyards, 19th-century bricks feature an open micro-capillary pore volume between 15% and 25%. While these open pores provide modest natural thermal resistance ($k \\approx 0.60 \\text{ to } 0.85 \\text{ W/m}\\cdot\\text{K}$, functioning similarly to soft insulating brick), their high water absorption (12% to 22% by weight via ASTM C67) makes them acutely susceptible to freeze-thaw spalling when interior insulation is added.\r\n- **Refractory Insulation Brick (IFB):** Engineered lightweight clay insulating brick utilized in high-temperature flues and masonry fireplaces relies on artificially induced porous alumina-silica structures to minimize heat conduction ($k \\le 0.25 \\text{ W/m}\\cdot\\text{K}$).\r\n- **The Retrofit Rule:** Applying an interior **insulation brick** retrofit strategy to exterior mass masonry requires calculating the assembly's critical saturation ($S_{crit}$). If the clay brick's water absorption exceeds the critical limit, the exterior facade must be repointed with vapor-permeable lime mortar and shielded with generous roof overhangs before any interior insulation is installed.\r\n\r\n---\r\n\r\n## Retrofit Performance Comparison`;
+  // Add rainscreen & window detailing section
+  const targetAnchor = '## The Re-Siding Golden Window';
+  if (!content.includes('## Continuous Exterior Insulation: Rainscreens, Furring & Window Detailing')) {
+    const addition = `## Continuous Exterior Insulation: Rainscreens, Furring & Window Detailing\r\n\r\nSuccessfully installing **continuous exterior insulation** on a Midwest home requires detailing the cladding attachment and window transitions to prevent water intrusion and fastener sagging:\r\n\r\n1. **Vertical Rainscreen Furring Strips:** Fastening siding directly over compressible exterior insulation can cause wavy cladding lines and fastener fatigue. Install 1x3 or 1x4 pressure-treated furring strips vertically over the continuous exterior insulation, aligned directly with the underlying 2x6 wall studs. Use corrosion-resistant structural screws sized to penetrate at least 1.25 inches into the structural framing.\r\n2. **Thermal & Capillary Window Bucks:** When adding 1.5 to 2 inches of continuous exterior insulation, windows must either be recessed ("innie") or pushed out flush with the exterior insulation plane ("outie"). Pushing windows out using 2x extension bucks wrapped with vapor-permeable flashing tape ensures the window flange integrates seamlessly into the continuous drainage plane.\r\n3. **Bug Screens and Bottom Ventilation:** Install perforated stainless steel insect screens along the bottom of the rainscreen cavity to allow air convection and gravity drainage while preventing wasps and rodents from nesting behind the exterior cladding.\r\n\r\n---\r\n\r\n## The Re-Siding Golden Window`;
     content = content.replace(targetAnchor, addition);
-    console.log('Added Clay Insulating Brick section to insulating-brick.md');
+    console.log('Tuned continuous-insulation.md with continuous exterior insulation details.');
   }
 
   fs.writeFileSync(file, content, 'utf8');
 }
 
-function tuneSubSlabInsulation() {
-  const file = path.join(contentDir, 'sub-slab-insulation-specs.md');
+// 2. Rockwool vs Fiberglass: Fiberizing Section Tuning
+function tuneRockwoolVsFiberglass() {
+  const file = path.join(contentDir, 'rockwool-vs-fiberglass.md');
   let content = fs.readFileSync(file, 'utf8');
 
-  // 1. Update summary
-  content = content.replace(
-    'summary: "Insulating below-grade building components subjects foam to continuous dampness, soil chemistry, and compressive loads. While extruded polystyrene (XPS) delivers high initial R-values, multi-year field studies show it absorbs moisture under long-term subterranean vapor pressure, losing up to 45% of its thermal resistance. High-density EPS (Type IX) and graphite-infused GPS maintain compressive strength and drain moisture, while two inches of 2.0-lb closed-cell spray foam provides the ultimate air-impermeable seal for drafty rim joists."',
-    'summary: "Specifying below grade insulation for subterranean slabs and foundations subjects foam to continuous dampness, soil chemistry, and compressive loads. While extruded polystyrene (XPS) delivers high initial R-values, multi-year field studies show it absorbs moisture under long-term subterranean vapor pressure, losing up to 45% of its thermal resistance. High-density EPS (Type IX) and graphite-infused GPS maintain compressive strength and drain moisture, making them superior below grade insulation specifications, while two inches of 2.0-lb closed-cell spray foam provides the ultimate air-impermeable seal for drafty rim joists."'
-  );
-
-  // 2. Add Below Grade Insulation section before Specification Benchmark
-  const targetAnchor = '## Specification Benchmark: Sub-Slab & Rim Joist Insulation Materials';
-  if (!content.includes('## Below Grade Insulation: ASTM C578 Specifications')) {
-    const addition = `## Below Grade Insulation: ASTM C578 Specifications & Compressive Resistance\r\n\r\nSelecting **below grade insulation** for heavy residential slabs requires balancing thermal resistance ($R\\text{-value}$) against long-term compressive creep and subterranean moisture saturation:\r\n\r\n1. **ASTM C578 Compressive Classifications:** Sub-slab applications require a minimum compressive strength of 25.0 psi (ASTM D1621) for standard residential slabs, and 40.0 to 60.0 psi for heavy storage or hydronic radiant installations. Expanded polystyrene (Type IX EPS) meets 25.0 psi while preserving long-term compressive rebound.\r\n2. **Moisture Permeability in Below Grade Insulation:** Unlike above-grade continuous wall sheathing where drying occurs to outdoor air, below grade insulation is buried in 100% relative humidity soil. Closed-cell structures that trap moisture internally lose thermal value over decades; hydrophobic bead-matrix insulations with gravity drainage channels prevent trapped moisture degradation.\r\n3. **Termite and Pest Protection:** All below grade insulation products installed against subterranean foundation walls must incorporate non-toxic borate treatments to deter subterranean termite tunneling in high-risk zones.\r\n\r\n---\r\n\r\n## Specification Benchmark: Sub-Slab & Rim Joist Insulation Materials`;
+  const targetAnchor = '## 5. Acoustic Mass & Low-Frequency Vibration Damping';
+  if (!content.includes('### The Fiberizing Section for Rock Wool: High-Speed Centrifugal Spinning Physics')) {
+    const addition = `### The Fiberizing Section for Rock Wool: High-Speed Centrifugal Spinning Physics\r\n\r\nUnderstanding why stone wool resists fire and convective airflow requires examining the **fiberizing section for rock wool** during manufacturing:\r\n\r\n1. **Cupola Smelting:** Natural volcanic basalt rock, diabase, and recycled steel-furnace slag are blended with metallurgical coke and melted inside an industrial cupola furnace at temperatures exceeding 2,700°F to 2,900°F (1,500°C).\r\n2. **The Multi-Wheel Centrifugal Fiberizer:** The liquid basalt stream pours vertically into the **fiberizing section for rock wool**, consisting of a cascade of three or four rapidly spinning centrifugal rotor wheels turning at 3,000 to 7,000 RPM. As the liquid mineral stream hits the spinning wheels, centrifugal acceleration flings microscopic droplets outward, attenuating them into ultra-fine mineral fibers (3 to 5 microns in diameter).\r\n3. **Binder and Hydrophobic Injection:** Inside the spinning chamber of the fiberizing section, high-pressure air nozzles inject an atomized thermoset binder and a proprietary hydrophobic oil onto the individual mineral filaments.\r\n4. **Pendulum Mat Collection:** A cross-lapping pendulum arm layers the newly spun rock wool fibers into a multidirectional wool fleece. Passing through a curing oven at 400°F cross-links the binder, permanently locking the dense, spring-back fiber matrix that gives stone wool its 2.0 to 2.5 lb/cu.ft structural rigidity.\r\n\r\n---\r\n\r\n## 5. Acoustic Mass & Low-Frequency Vibration Damping`;
     content = content.replace(targetAnchor, addition);
+    console.log('Tuned rockwool-vs-fiberglass.md with fiberizing section details.');
   }
 
   fs.writeFileSync(file, content, 'utf8');
-  console.log('Checked sub-slab-insulation-specs.md');
 }
 
-function tuneWhenToReplaceWindows() {
-  const file = path.join(contentDir, 'when-to-replace-windows.md');
+// 3. SIPs: Framed Panel vs Stressed Skin Panel Tuning
+function tuneSipsVsTraditionalFraming() {
+  const file = path.join(contentDir, 'sips-vs-traditional-framing.md');
   let content = fs.readFileSync(file, 'utf8');
 
-  const targetText = 'Window replacement represents one of the most aggressively marketed home improvement categories in the Midwest, yet from an energy efficiency perspective, it delivers one of the lowest returns on investment.';
-  const replacementText = 'When deciding **when to replace windows** in Climate Zones 4 and 5, homeowners must weigh fenestration economics against structural and health triggers. Window replacement represents one of the most aggressively marketed home improvement categories in the Midwest, yet from an energy efficiency perspective alone, it delivers one of the lowest returns on investment.';
+  const targetAnchor = '## The Whole-Wall R-Value Reality: Thermal Bridging';
+  if (!content.includes('## Framed Panel vs. Stressed Skin Panel: Structural Engineering & Load Distribution')) {
+    const addition = `## Framed Panel vs. Stressed Skin Panel: Structural Engineering & Load Distribution\r\n\r\nWhen comparing structural building envelopes, the engineering debate between a **framed panel vs stressed skin panel** highlights fundamentally different approaches to structural load transfer:\r\n\r\n- **Framed Panel (Conventional Stud Frame):** A framed panel relies on discrete linear members (2x4 or 2x6 wood studs spaced at 16 or 24 inches on center) to carry all vertical compressive loads and transverse wind forces. The exterior sheathing (OSB or plywood) functions merely as a diaphragm to resist lateral shear (racking). Because structural loads concentrate on individual studs, wood crushing, stud bowing, and thermal bridging at every framing bay are inherent to framed panel assemblies.\r\n- **Stressed Skin Panel (Structural Insulated Panel):** In an engineered stressed skin panel, the structural facings (outer OSB skins) are continuously laminated with rigid structural adhesive to a solid foam core, operating as an integrated composite I-beam. Under bending or compressive loads, the entire outer skin takes tensile and compressive stresses, while the continuous foam core resists shear stresses and prevents facial buckling. A stressed skin panel eliminates discrete framing studs, redistributing structural loads uniformly across thousands of square inches.\r\n- **The Performance Verdict:** In a **framed panel vs stressed skin panel** comparison across Climate Zone 5, stressed skin panels deliver twice the transverse load capacity (tested under ASTM E72), eliminate 90% of thermal bridges, and achieve superior airtightness because there are no individual stud seams to crack or leak air under wind pressure.\r\n\r\n---\r\n\r\n## The Whole-Wall R-Value Reality: Thermal Bridging`;
+    content = content.replace(targetAnchor, addition);
+    console.log('Tuned sips-vs-traditional-framing.md with framed panel vs stressed skin panel comparison.');
+  }
 
-  if (content.includes(targetText)) {
+  fs.writeFileSync(file, content, 'utf8');
+}
+
+// 4. Cold Climate Heat Pumps: R744 Tuning
+function tuneColdClimateHeatPumps() {
+  const file = path.join(contentDir, 'cold-climate-heat-pumps.md');
+  let content = fs.readFileSync(file, 'utf8');
+
+  content = content.replace(
+    '## Refrigerant Evolution: Transcritical R-744 (CO2) in Severe Winters',
+    '## Transcritical R744 Heat Pump for Cold Winters: The Polar Vortex Solution'
+  );
+
+  const targetText = 'For severe cold winters across Minnesota, North Dakota, and Wisconsin, an R-744 heat pump for cold winters provides an ultra-low Global Warming Potential (GWP = 1.0) architecture that bypasses synthetic refrigerant phasedowns while maintaining full heating capacity through polar vortex events.';
+  const replacementText = `Specifying an **r744 heat pump for cold winters** across Minnesota, North Dakota, and Wisconsin provides an ultra-low Global Warming Potential (GWP = 1.0) architecture that bypasses synthetic refrigerant phasedowns while maintaining full heating capacity through polar vortex events.\r\n\r\n### Why R744 Dominates Extreme Cold Weather:\r\n- **Zero Low-Temperature Capacity Roll-off:** Unlike fluorocarbon blends (R-410A / R-454B) whose suction pressure drops severely in sub-zero outdoor air, transcritical carbon dioxide operates at high suction pressures (400–600 PSI) even at -20°F, preserving high refrigerant mass flow.\r\n- **High-Temperature Hydronic Delivery:** An **r744 heat pump for cold winters** can produce 150°F to 170°F hydronic radiator water without auxiliary electric heat elements, making it the ideal boiler replacement for historic cast-iron radiator retrofits.\r\n- **Pure Natural Refrigerant:** R-744 is non-flammable (ASHRAE Safety Group A1) and has zero ozone depletion potential, rendering it completely future-proof against EPA PFAS and F-gas regulations.`;
+
+  if (content.includes(targetText) && !content.includes('### Why R744 Dominates Extreme Cold Weather:')) {
     content = content.replace(targetText, replacementText);
+    console.log('Tuned cold-climate-heat-pumps.md with R744 cold winter performance specifications.');
   }
 
   fs.writeFileSync(file, content, 'utf8');
-  console.log('Checked when-to-replace-windows.md');
 }
 
-tuneCrawlspaceSteps();
-tuneInsulatingBrick();
-tuneSubSlabInsulation();
-tuneWhenToReplaceWindows();
-console.log('Daily content tuning routine complete.');
+// 5. ICF Basement: Surging cluster tuning
+function tuneIcfBasement() {
+  const file = path.join(contentDir, 'icf-basements-walls.md');
+  let content = fs.readFileSync(file, 'utf8');
+
+  const targetAnchor = '## The ICF Engineering Solution: Continuous Monolithic Sandwich';
+  if (!content.includes('## Why an ICF Basement Outperforms a Standard Poured Concrete Foundation')) {
+    const addition = `## Why an ICF Basement Outperforms a Standard Poured Concrete Foundation\r\n\r\nFor Midwest homeowners and builders evaluating whether to invest in an **icf basement**, the structural and hygrothermal advantages over a conventional poured basement are decisive:\r\n\r\n1. **A Bone-Dry ICF Concrete Foundation:** Because high-density EPS foam acts as a continuous exterior capillary break, an **icf concrete foundation** eliminates damp underground odors, wet baseboards, and subterranean moisture seepage.\r\n2. **Eliminated Basement Cold Zones:** In an **icf basement**, the interior surface of the wall stays within 2°F of the indoor thermostat setting, turning a sub-grade basement into prime, comfortable living space identical to above-ground rooms.\r\n3. **Zero Condensation on Insulated Concrete Foundations:** Warm summer humidity entering an **insulated concrete foundation** encounters walls that stay well above the 55°F dew point, completely preventing the summertime sweating and mildew common in poured concrete basements.\r\n4. **Storm Shelter Durability:** With continuous steel-reinforced concrete sandwiched between EPS panels, **icf basements** offer superior structural resistance against hydrostatic soil pressure, frost heave forces, and severe Midwest tornadic weather.\r\n\r\n---\r\n\r\n## The ICF Engineering Solution: Continuous Monolithic Sandwich`;
+    content = content.replace(targetAnchor, addition);
+    console.log('Tuned icf-basements-walls.md with ICF basement and concrete foundation cluster tuning.');
+  }
+
+  fs.writeFileSync(file, content, 'utf8');
+}
+
+// 6. Embodied Carbon: Low carbon insulation cluster tuning
+function tuneEmbodiedCarbon() {
+  const file = path.join(contentDir, 'embodied-carbon-materials.md');
+  let content = fs.readFileSync(file, 'utf8');
+
+  // Update H2 title
+  content = content.replace(
+    '## The Petrochemical Foam Trap: Blowing Agent GWP',
+    '## Low Carbon Insulation: The Petrochemical Foam Trap vs. Low Carbon Footprint Insulation'
+  );
+
+  const targetAnchor = '## Life-Cycle Assessment Case Study: 2,400 Sq. Ft. Zone 5 Home';
+  if (!content.includes('## Low Carbon Footprint Insulation: Comparative Life-Cycle Analysis')) {
+    const addition = `## Low Carbon Footprint Insulation: Comparative Life-Cycle Analysis\r\n\r\nWhen engineering a high-performance building envelope, specifying **low carbon insulation** fundamentally alters the upfront climate footprint. The table below benchmarks standard building insulations across embodied carbon per square meter at R-20:\r\n\r\n| Insulation Material Specification | Embodied Carbon ($kg\\,CO_2e/m^2$ at R-20) | Biogenic Carbon Storage | Net Carbon Status |\r\n| :--- | :--- | :--- | :--- |\r\n| **Dense-Pack Cellulose (Recycled Paper)** | **-1.2 to -1.8** | Stores $1.6\\,kg\\,CO_2e/kg$ | **Net Carbon Sink** |\r\n| **Continuous Wood Fiber Board** | **-0.8 to -1.4** | Stores $1.3\\,kg\\,CO_2e/kg$ | **Net Carbon Sink** |\r\n| **Basalt Stone Mineral Wool** | **+2.5 to +3.8** | Zero (Mineral Origin) | Low Upfront Carbon / Class A Fireproof |\r\n| **Blown Fiberglass Cavity Batts** | **+2.8 to +4.2** | Zero (Silica Sand / Glass) | Moderate Industrial Energy Input |\r\n| **Extruded Polystyrene (XPS Foam Board)** | **+14.5 to +22.0** | Zero (Petrochemical Origin) | **Severe Carbon Debt** |\r\n| **Closed-Cell Spray Polyurethane Foam** | **+18.0 to +28.0** | Zero (Petrochemical Origin) | **Severe Carbon Debt** |\r\n\r\n### The Cellulose Insulation Carbon Footprint Advantage\r\nThe negative **cellulose insulation carbon footprint** is achieved because 85% of its mass consists of post-consumer newsprint. Photosynthesis in trees absorbs carbon dioxide from the air; when that timber is turned into paper and subsequently into cellulose insulation, that atmospheric carbon is locked inside the building envelope for the multi-decade life of the structure. For architects and contractors seeking **low carbon footprint insulation**, dense-pack cellulose and wood-fiber boards offer the most cost-effective path to carbon neutrality.\r\n\r\n---\r\n\r\n## Life-Cycle Assessment Case Study: 2,400 Sq. Ft. Zone 5 Home`;
+    content = content.replace(targetAnchor, addition);
+    console.log('Tuned embodied-carbon-materials.md with low carbon footprint insulation benchmarks.');
+  }
+
+  fs.writeFileSync(file, content, 'utf8');
+}
+
+// Execute tuning routines
+tuneContinuousInsulation();
+tuneRockwoolVsFiberglass();
+tuneSipsVsTraditionalFraming();
+tuneColdClimateHeatPumps();
+tuneIcfBasement();
+tuneEmbodiedCarbon();
+
+console.log('Oct 26 search telemetry content tuning complete.');

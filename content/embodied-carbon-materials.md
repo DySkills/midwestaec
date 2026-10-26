@@ -66,7 +66,7 @@ Because operational carbon drops every single year as the grid cleans up, **upfr
 
 ---
 
-## The Petrochemical Foam Trap: Blowing Agent GWP
+## Low Carbon Insulation: The Petrochemical Foam Trap vs. Low Carbon Footprint Insulation
 
 The primary driver of embodied carbon in conventional high-performance buildings is **petroleum-derived plastic foam**.
 

@@ -8,7 +8,7 @@ catSlug: "efficient-systems"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "Why 25% framing thermal bridging derates standard cavity walls, and how outboard insulation prevents hidden winter condensation on OSB sheathing."
-summary: "Wood framing studs conduct heat roughly four times faster than cavity insulation. An uninsulated stud wall rated at R-20 performs at an effective R-15, while outboard continuous insulation eliminates thermal bridges and protects structural sheathing from sub-zero rot."
+summary: "Wood framing studs conduct heat roughly four times faster than cavity insulation. An uninsulated stud wall rated at R-20 performs at an effective R-15, while continuous exterior insulation eliminates framing thermal bridges and protects structural sheathing from sub-zero rot in Climate Zones 4 and 5."
 codeTag: "IRC Table R702.7.1 / ASTM C518"
 author: "Midwest AEC Building Science"
 date: "October 2026"
@@ -67,7 +67,7 @@ Because the wood sheathing never drops below the 41°F dew point, moisture vapor
 
 ---
 
-## Material Teardown: Choosing the Right Outboard Layer
+## Continuous Exterior Insulation Material Teardown: Mineral Wool, EPS, XPS & Polyiso
 
 Selecting continuous exterior insulation requires balancing thermal resistance, vapor permeability, and freeze-thaw moisture durability.
 
@@ -83,6 +83,16 @@ Selecting continuous exterior insulation requires balancing thermal resistance, 
 Mineral wool board (such as Rockwool Comfortboard 80) is the premier specification for Climate Zones 4 and 5. Because stone wool is completely vapor-permeable (> 30 perms), it allows damp wall assemblies to dry outward rapidly while providing a continuous thermal break. 
 
 Foil-faced polyisocyanurate provides the highest R-value per inch (R-6.0), but property owners should note its cold-temperature behavior. Research from the **Building Science Corporation** proved that standard polyiso blowing agents condense at sub-freezing temperatures, derating its real-world performance to roughly R-4.5 per inch when exterior temperatures drop below 15°F.
+
+---
+
+## Continuous Exterior Insulation: Rainscreens, Furring & Window Detailing
+
+Successfully installing **continuous exterior insulation** on a Midwest home requires detailing the cladding attachment and window transitions to prevent water intrusion and fastener sagging:
+
+1. **Vertical Rainscreen Furring Strips:** Fastening siding directly over compressible exterior insulation can cause wavy cladding lines and fastener fatigue. Install 1x3 or 1x4 pressure-treated furring strips vertically over the continuous exterior insulation, aligned directly with the underlying 2x6 wall studs. Use corrosion-resistant structural screws sized to penetrate at least 1.25 inches into the structural framing.
+2. **Thermal & Capillary Window Bucks:** When adding 1.5 to 2 inches of continuous exterior insulation, windows must either be recessed ("innie") or pushed out flush with the exterior insulation plane ("outie"). Pushing windows out using 2x extension bucks wrapped with vapor-permeable flashing tape ensures the window flange integrates seamlessly into the continuous drainage plane.
+3. **Bug Screens and Bottom Ventilation:** Install perforated stainless steel insect screens along the bottom of the rainscreen cavity to allow air convection and gravity drainage while preventing wasps and rodents from nesting behind the exterior cladding.
 
 ---
 

@@ -40,7 +40,7 @@ The house is not defective in its construction. It is simply colliding with the 
 
 ---
 
-## 1. The Thermal Mass Illusion: R-Value vs. Thermal Capacitance
+## The Thermal Mass Illusion: R-Value vs. Thermal Capacitance
 
 The most common misconception in natural building is conflating **thermal mass** with **thermal insulation**.
 
@@ -63,7 +63,7 @@ Once the thermal mass of an uninsulated earthen wall cools down, it ceases to be
 
 ---
 
-## 2. Freeze-Thaw Spalling: The Capillary Destruction of Raw Soil
+## Freeze-Thaw Spalling: The Capillary Destruction of Raw Soil
 
 Conductive heat loss is expensive, but moisture dynamics in the Midwest are structurally fatal.
 
@@ -104,7 +104,7 @@ When wind-driven rain hits a raw earthen wall, the porous capillary network of t
 
 ---
 
-## 3. The Modern Solution: Stabilized & Insulated Rammed Earth (SIRE)
+## Stabilized & Insulated Rammed Earth (SIRE)
 
 To make rammed earth thrive in Climate Zones 4, 5, and 6, building science abandoned historical romanticism in favor of **Stabilized Insulated Rammed Earth (SIRE)**.
 
@@ -134,7 +134,7 @@ To make rammed earth thrive in Climate Zones 4, 5, and 6, building science aband
 
 ---
 
-## 4. The Sub-Slab Flooring Matrix: Comparing Midwest Floor Assemblies
+## The Sub-Slab Flooring Matrix: Comparing Midwest Assemblies
 
 The passion for rammed earth frequently extends to the floor beneath the homeowner’s feet. But whether installing an earthen floor, solid hardwood, porcelain tile, or polished concrete over a Midwest foundation, the flooring material must negotiate two relentless forces: **groundwater vapor transmission** and **thermal conduction to cold earth**.
 
@@ -175,7 +175,7 @@ Here is how the four major Midwest floor finishes perform when installed over su
 
 ---
 
-## 5. The Earthen Floor Deep Dive: When Natural Flooring Works in the Midwest
+## The Earthen Floor Deep Dive: When Natural Flooring Works in the Midwest
 
 An authentic earthen floor—traditionally constructed from clay, sand, chopped straw, and raw linseed oil—is one of the most comfortable, quiet, and beautiful architectural surfaces achievable. Under bare feet, it has a leather-like warmth that concrete can never mimic.
 
@@ -192,7 +192,7 @@ However, in Climate Zones 4 and 5, an earthen floor must be installed strictly a
 
 ---
 
-## 6. The Myth-Buster: "Does Earth Stay Naturally Warm in Winter?"
+## Myth-Buster: Does Earth Stay Naturally Warm in Winter?
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
@@ -220,7 +220,7 @@ However, in Climate Zones 4 and 5, an earthen floor must be installed strictly a
 
 ---
 
-## 7. The Action Plan: How to Build or Remodel Safely
+## The Action Plan: How to Build or Remodel Safely
 
 If you are planning an earthen home, natural renovation, or slab flooring replacement in the Midwest, execute this engineering checklist before breaking ground:
 

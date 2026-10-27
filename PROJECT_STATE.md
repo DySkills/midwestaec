@@ -20,7 +20,7 @@
 * **Compiler Engine:** [`build.js`](build.js) compiles `content/*.md` into `articles/*.html`, auto-generates Schema.org JSON-LD (`Article`, `FAQPage`, `HowTo`), regenerates [`data.js`](data.js), and generates [`sitemap.xml`](sitemap.xml) (38 indexed URLs).
 * **Deployed Today (Monday, Oct 26):**
   * [`rammed-earth-midwest-flooring.md`](content/rammed-earth-midwest-flooring.md) &rarr; [`rammed-earth-midwest-flooring.html`](articles/rammed-earth-midwest-flooring.html) deployed live for **Flooring Day & Thermal Mass Week**.
-* **Staged Backlog Inventory (9 Heavy-Hitter Specifications Remaining):**
+* **Staged Backlog Inventory (10 Heavy-Hitter Specifications Remaining):**
   1. [`basement-egress-window-cutting.md`](content/backlog/basement-egress-window-cutting.md) — Staged for **Thursday, Oct 29**
   2. [`load-bearing-wall-removal-lvl.md`](content/backlog/load-bearing-wall-removal-lvl.md) — Staged for **Monday, Nov 2**
   3. [`heat-pump-aux-heat-lockout-balance-point.md`](content/backlog/heat-pump-aux-heat-lockout-balance-point.md) — Staged for **Thursday, Nov 5 (Early Winter Wave Spoke)**
@@ -30,6 +30,7 @@
   7. [`foundation-freeze-thaw-crack-repair.md`](content/backlog/foundation-freeze-thaw-crack-repair.md) — Staged for **Thursday, Nov 19 (Frost Heave & Wall Bowing)**
   8. [`cold-climate-septic-well-freeze-solutions.md`](content/backlog/cold-climate-septic-well-freeze-solutions.md) — Staged for **Monday, Nov 23 (Rural/Peri-Urban Deep Frost)**
   9. [`sump-pump-failure-spring-thaw-backups.md`](content/backlog/sump-pump-failure-spring-thaw-backups.md) — Staged for **Thursday, Nov 26 (March Hydrostatic Shock & Sump Backups)**
+  10. [`roof-heat-tape-deicing-cables.md`](content/backlog/roof-heat-tape-deicing-cables.md) — Staged for **Monday, Nov 30 (Deep Freeze & Ice Dam Electrical Analysis Spoke)**
 
 ---
 
@@ -41,6 +42,7 @@ Search volume for seasonal emergencies requires 4 to 8 weeks of prior Googlebot 
 3. **Week 3 (Nov 9–13):** Cladding & Polar Vortex HVAC (Hardie vs LP SmartSide + Frozen Furnace PVC Vents).
 4. **Week 4 (Nov 16–20):** Envelope Glazing & Frost Heave (Insulated Glass Unit Seal Failure + Carbon Fiber Bowed Wall Shoring).
 5. **Week 5 (Nov 23–27):** Deep Frost Infrastructure & Spring Flood Prep (Bare-Ground Septic/Well Freezes + Sump Pump Freeze-Relief & Inverters).
+6. **Week 6 (Nov 30–Dec 4):** Polar Freeze & Ice Dam Mitigation (Roof Heat Tape & De-Icing Cables Amps vs. Cold Roof Payback).
 
 ---
 

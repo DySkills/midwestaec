@@ -20,6 +20,8 @@ referralHook: "Structural Engineering & General Contractor Match"
 
 # Load-Bearing Wall Removal: Sizing LVL Beams, Temporary Shoring Walls & Building Permits
 
+> **Quick Summary:** Removing an interior load-bearing wall to create an open-concept living space requires transferring thousands of pounds of dead, live, and winter snow loads into an engineered beam. Success depends on calculating tributary load areas across floor joists, erecting dual temporary shoring walls within 2 to 3 feet of the demo line, choosing between economical drop beams versus seamless flush ceiling beams, and engineering the concentrated end point loads. Without continuous blocking down through floor cavities to dedicated concrete basement footings, concentrated 4,000-pound end loads will crush subfloors and crack basement slabs.
+
 The desire for open-concept floor plans has made interior wall removal the most frequently requested alteration in American residential remodeling. Across the Midwest, thousands of post-war ranches, 1970s split-levels, and two-story center-hall colonials are partitioned by central walls dividing small kitchens, dark dining rooms, and living areas.
 
 However, removing a wall is not merely a demolition task. In standard wood-framed construction, interior walls are primary structural elements designed to transfer **thousands of pounds of gravity loads (dead load + live load + snow load)** from roof rafters and second-floor joists down to the foundation.
@@ -28,7 +30,7 @@ Replacing an interior load-bearing wall requires calculating tributary loading, 
 
 ---
 
-## 1. How to Identify a Load-Bearing Wall
+## How to Identify a Load-Bearing Wall
 
 Before swinging a sledgehammer, a builder or architect must identify the structural load path. Never assume a wall is non-bearing simply because it does not sit on the exterior perimeter.
 
@@ -65,7 +67,7 @@ Before swinging a sledgehammer, a builder or architect must identify the structu
 
 ---
 
-## 2. Calculating Tributary Load & Sizing the Beam
+## Calculating Tributary Load & Sizing the Beam
 
 A structural beam must be sized based on the **tributary area** it supports—not just the length of the opening.
 
@@ -90,7 +92,7 @@ For a 16-foot clear span supporting a second floor and roof, total uniform load 
 
 ---
 
-## 3. Flush Beam vs. Drop Beam Installations
+## Flush Beam vs. Drop Beam Assemblies
 
 When removing a wall, the homeowner must choose between two distinct architectural assemblies:
 
@@ -113,7 +115,7 @@ When removing a wall, the homeowner must choose between two distinct architectur
 
 ---
 
-## 4. Temporary Shoring Wall Engineering
+## Temporary Shoring Wall Engineering
 
 During demolition and beam installation, the structure must be supported by **temporary shoring walls**. A catastrophic failure occurs if the wall is removed before load is safely relieved.
 
@@ -145,7 +147,7 @@ During demolition and beam installation, the structure must be supported by **te
 
 ---
 
-## 5. Point Loads & The Foundation Footing Trap
+## Point Loads & The Foundation Footing Trap
 
 The most common engineering failure in DIY wall removals occurs at the **ends of the new beam**.
 
@@ -174,7 +176,7 @@ The most common engineering failure in DIY wall removals occurs at the **ends of
 
 ---
 
-## 6. The Action Plan: Step-by-Step Project Execution
+## The Action Plan: Step-by-Step Project Execution
 
 If you are planning an open-concept wall removal, follow this professional execution roadmap:
 
@@ -196,4 +198,20 @@ If you are planning an open-concept wall removal, follow this professional execu
 Handling LVL hoisting, point load footings, and structural permits requires licensed trades:
 * [Find Vetted Midwest General Contractors & Structural Framing Pros &rarr;](../browse.html?cat=envelopes)
 * [Connect with Regional Architectural & Engineering Services &rarr;](../browse.html?cat=all)
-* [Review All 31 Midwest AEC Building Science Specifications &rarr;](../browse.html?cat=all)
+* [Review All 32 Midwest AEC Building Science Specifications &rarr;](../browse.html?cat=all)
+
+---
+
+## Frequently Asked Questions
+
+### How do you definitively tell if an interior wall is load-bearing?
+An interior wall is load-bearing if floor joists, ceiling joists, or roof rafters run perpendicular to it and overlap or terminate on its top plate. You can verify this by checking the attic to see if ceiling joists break across the wall, or checking the basement/crawlspace directly beneath to see if an I-beam, girder, or line of posts runs directly parallel under that wall line. Non-bearing partition walls run parallel to joists and do not support structural framing above.
+
+### What is the difference between a drop beam and a flush beam?
+A **drop beam** sits directly underneath existing floor or ceiling joists, leaving a 10-inch to 14-inch visible dropped bulkhead dividing the open rooms. It is faster and significantly less expensive to install because joists do not need to be cut. A **flush beam** is recessed entirely inside the floor or ceiling joist cavity, with joists cut and hung from the beam sides using face-mount metal joist hangers (e.g., Simpson Strong-Tie). A flush beam delivers a completely flat, seamless ceiling plane.
+
+### Can you remove a load-bearing wall without an engineer's stamped calculations?
+No. In almost all Midwest municipal jurisdictions (IRC Section R502), removing a load-bearing wall requires a structural building permit supported by sealed engineering calculations from a licensed Professional Engineer (PE) or architect. Attempting a wall removal without an engineer risks catastrophic structural sagging or roof collapse and creates serious disclosure and title defects that complicate future property sales.
+
+### Why do LVL beam support posts require new concrete footings in the basement?
+A load-bearing wall originally distributed thousands of pounds of gravity load across 16 to 20 feet of continuous floor. Replacing that wall with a beam concentrates that entire load into two intense point loads (often 3,500 to 6,000 lbs each) at the end posts. Standard 4-inch unreinforced basement concrete floor slabs are not designed to support concentrated point loads and will crack or punch through. End loads must be transferred through solid blocking down to dedicated 24" x 24" x 12" concrete spread footings poured beneath the basement slab.

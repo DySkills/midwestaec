@@ -131,6 +131,22 @@ Programming these thresholds requires accessing advanced installer setup menus, 
 
 ---
 
+## Frequently Asked Questions
+
+### What temperature should auxiliary heat be locked out on a heat pump in Zone 5?
+For modern cold-climate inverter heat pumps (NEEP-listed units like Mitsubishi H2i, Daikin Aurora, or Carrier Infinity), set the **Auxiliary Heat Lockout (Aux Heat Max Outdoor Temp) between 15°F and 25°F**. Standard installer defaults leave this lockout disabled or set to 35°F–40°F, which triggers 10 to 15 kW electric resistance heat strips whenever outdoor temps drop into the 30s. High-performance inverters maintain a Coefficient of Performance (COP) above 1.8 down to 5°F, delivering heat at nearly half the operating cost of electric resistance strips.
+
+### Why did my electric bill double after installing a new heat pump?
+If your winter electric bill surged unexpectedly after switching to a heat pump, the culprit is almost always unconfigured thermostat staging. When a smart thermostat (Ecobee, Nest, Honeywell) is left on factory auto-staging, raising the thermostat by just 2 degrees triggers the auxiliary 40-amp electric resistance strip heaters. A 15 kW strip heater consumes 15 kilowatt-hours of electricity every hour it runs—costing $2.40 per hour ($17 to $25 per day) in pure resistance electrical penalty.
+
+### What is the difference between a thermal balance point and an economic balance point?
+The **thermal balance point** is the outdoor ambient temperature where the home’s heat loss rate exactly equals the maximum heating capacity of the heat pump compressor (typically 15°F to 25°F). Below this temperature, supplemental heat is physically required to maintain indoor temperature. The **economic balance point** applies to dual-fuel systems (heat pump paired with a natural gas furnace): it is the exact temperature where the cost per delivered BTU from the gas furnace becomes cheaper than the cost per BTU from the heat pump, calculated by comparing regional electricity rates ($/kWh) against natural gas rates ($/therm).
+
+### Can running auxiliary electric heat strips trip my circuit breaker?
+Yes. Auxiliary heat strips draw tremendous electrical current—a 15 kW heater draws 62.5 amps at 240 volts, requiring multiple dedicated 30A and 60A double-pole circuit breakers. If an older 100-amp or 150-amp residential service panel is nearing capacity while an electric dryer, electric range, or EV charger is operating simultaneously, the massive surge from auxiliary heat strips can trip the main service breaker during sub-zero cold snaps.
+
+---
+
 ### Verifiable Standards & Technical Sources
 
 1. **Air Conditioning Contractors of America (ACCA):**

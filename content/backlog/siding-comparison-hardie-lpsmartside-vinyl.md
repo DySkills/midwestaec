@@ -20,6 +20,8 @@ referralHook: "Exterior Siding, Rainscreen & Trim Contractor Match"
 
 # The $35,000 Siding Decision: James Hardie Fiber Cement vs. LP SmartSide vs. Engineered Vinyl in Zone 5
 
+> **Quick Summary:** Re-siding a 2,500-square-foot Midwest home is an \$18,000 to \$45,000 capital investment that must survive 100°F summer humidity, sub-zero polar vortex freezes, and 60+ mph wind-driven hail. James Hardie (fiber cement) delivers unmatched Class A fireproofing and rigid architectural shadow lines, but is brittle under golf-ball hail and requires strict edge-priming on all field cuts. LP SmartSide (engineered strand wood) provides superior impact elasticity against severe hail and 16-foot seamless runs, but remains an organic composite vulnerable to long-term moisture if kick-out flashings fail. Insulated vinyl (.046"+) offers maintenance-free cost efficiency with continuous R-2.5 foam, but expands 1/2-inch across wall runs. Ultimately, no siding is waterproof: wall longevity depends entirely on a taped Weather-Resistive Barrier (WRB) and a ventilated rainscreen drainage gap.
+
 Exterior siding replacement is one of the largest capital expenditures a Midwest homeowner will ever face. For an average 2,500-square-foot two-story home, full tear-off and cladding replacement routinely ranges from **\$18,000 to over \$45,000** depending on the material, trim details, and structural repairs discovered beneath the old skin.
 
 In DOE Climate Zones 4 and 5, siding faces one of the harshest environmental testing grounds on earth. Midwest exteriors must withstand:
@@ -31,7 +33,7 @@ Below is the objective engineering and durability breakdown between the three do
 
 ---
 
-## 1. Material Science & Technical Comparison
+## Material Science & Technical Comparison
 
 Every siding material achieves weather resistance through a different chemical and mechanical strategy:
 
@@ -57,7 +59,7 @@ Every siding material achieves weather resistance through a different chemical a
 
 ---
 
-## 2. The James Hardie Deep Dive: Strengths and Midwest Failure Modes
+## The James Hardie Deep Dive: Strengths and Midwest Failure Modes
 
 James Hardie dominates the high-end residential market, and for good reason: it has the authentic shadow lines, weight, and texture of painted cedar clapboard, while carrying a **Class A fire rating** that woodpeckers, rodents, and termites cannot penetrate.
 
@@ -92,7 +94,7 @@ James Hardie dominates the high-end residential market, and for good reason: it 
 
 ---
 
-## 3. The LP SmartSide Deep Dive: Impact Toughness vs. Moisture Defense
+## The LP SmartSide Deep Dive: Impact Toughness vs. Moisture Defense
 
 LP SmartSide was engineered to solve the brittleness and heavy weight of fiber cement. Because it uses wood strands compressed with liquid MDI adhesive and zinc borate (the SmartGuard process), it flexes on impact.
 
@@ -106,7 +108,7 @@ It is still fundamentally an engineered wood product. While zinc borate prevents
 
 ---
 
-## 4. The Insulated Vinyl Reality: Low Cost vs. Thermal Realities
+## The Insulated Vinyl Reality: Low Cost vs. Thermal Realities
 
 Standard thin vinyl (.040") has a reputation for looking cheap, rattling in Midwest prairie winds, and warping under summer heat. 
 
@@ -117,7 +119,7 @@ However, **heavy-gauge (.046" to .055") insulated vinyl with contoured EPS foam 
 
 ---
 
-## 5. The Ultimate Truth: Siding is Only a Rain-Screen
+## The Rainscreen Truth: Siding is Only a Weather Deflector
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -144,7 +146,7 @@ However, **heavy-gauge (.046" to .055") insulated vinyl with contoured EPS foam 
 
 ---
 
-## 6. The Action Plan: How to Vet a Midwest Siding Estimate
+## The Action Plan: How to Vet a Midwest Siding Estimate
 
 Before signing a \$30,000+ siding contract, demand these specifications in the written scope of work:
 
@@ -164,4 +166,20 @@ Before signing a \$30,000+ siding contract, demand these specifications in the w
 Cladding failure almost never comes from manufacturing defects—it comes from improper nailing and missing flashings:
 * [Find Vetted James Hardie & LP SmartSide Siding Specialists &rarr;](../browse.html?cat=envelopes)
 * [Connect with Window, Siding & Exterior Envelope Contractors &rarr;](../browse.html?cat=roofing)
-* [Review All 31 Midwest AEC Building Science Specifications &rarr;](../browse.html?cat=all)
+* [Review All 32 Midwest AEC Building Science Specifications &rarr;](../browse.html?cat=all)
+
+---
+
+## Frequently Asked Questions
+
+### Is James Hardie fiber cement better than LP SmartSide for Midwest homes?
+Both are premium cladding systems, but they excel in different stress conditions. James Hardie delivers unmatched **Class A non-combustible fire protection** and will never rot or ignite, but its Portland cement core is brittle under severe hail impacts (golf-ball size and larger). LP SmartSide is an engineered strand wood product with high flexural elasticity that absorbs direct hail impacts with virtually zero cracking, and its 16-foot planks reduce wall seams by 33%. If fire resistance is your primary concern, choose Hardie; if severe hail and impact durability are priorities, choose LP SmartSide.
+
+### Does new siding make a house waterproof against driving rain?
+No. Siding is an aesthetic rainscreen designed to shed bulk water and protect against UV rays; it is **not waterproof**. During severe Midwest convective storms, wind pressure drives up to 15% of rainwater past lap edges, butt joints, and trim seams. Your home’s actual waterproof barrier is the continuous Weather-Resistive Barrier (WRB) and the drainage cavity behind the siding. Trapping water between flat siding and bare housewrap causes structural sheathing rot.
+
+### Why does vinyl siding warp or buckle on Midwest homes?
+Vinyl siding (PVC) expands and contracts dramatically ($0.45\%$ thermal expansion rate)—a 12-foot vinyl panel can grow and shrink by nearly 1/2 inch between sub-zero winter nights and 100°F summer days. If an inexperienced installer nails vinyl panels tightly against the wall studs instead of leaving a 1/32-inch gap and centering fasteners in the elongated nail slots, the panel cannot slide. When summer solar radiation hits the wall, the constrained vinyl has nowhere to expand and buckles into visible waves.
+
+### What is a kick-out flashing and why is it legally required?
+A kick-out flashing (diverter flashing) is a bent metal or molded plastic flashing installed at the intersection where a roof eave terminates against a vertical siding wall (IRC Section R903.2.1). Without a kick-out flashing, roof runoff runs down the roof-wall junction and drains directly behind the siding into the exterior wall cavity, rotting out the rim joist, sheathing, and foundation plate within 3 to 5 years. Missing kick-out flashings are the single leading cause of concealed structural moisture damage on residential sidewalls.

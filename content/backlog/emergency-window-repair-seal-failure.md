@@ -20,6 +20,8 @@ referralHook: "High-Efficiency Replacement Window Contractor Match"
 
 # Emergency Broken Window & Blown Seal Triage: How to Stop Sub-Zero Winter Drafts Before Buying Replacements
 
+> **Quick Summary:** A cracked window pane or blown insulating glass unit (IGU) seal during a Midwest freeze creates an emergency thermal breach that drafts sub-zero air and spikes winter utility bills. Because custom replacement windows require 4 to 8 weeks for manufacturing and installation, homeowners need an airtight triage strategy. Avoid duct tape, which fails in sub-zero temps; instead, apply double-sided all-weather poly repair tape over cracks and install an interior 1.5-mil poly shrink film drum to create a dead air thermal barrier. Commercial defogging is a temporary cosmetic gimmick that permanently derates U-factors; permanent fixes require either an economical glass-only IGU swap or an NFRC-certified U-0.25 replacement window.
+
 Few household failures produce the immediate panic of a cracked window pane or a blown seal during a Midwest winter freeze. 
 
 Whether caused by a stray rock from a snowblower, a settling foundation shifting a window frame, or a **thermal stress fracture** (where extreme temperature differences across the glass exceed the tensile strength of the pane), a breached window compromises the primary thermal and air boundary of the home.
@@ -32,7 +34,7 @@ Because custom replacement windows typically require **4 to 8 weeks for manufact
 
 ---
 
-## 1. Anatomy of Window Failure: Cracks vs. Blown Seals
+## Anatomy of Window Failure: Cracks vs. Blown Seals
 
 Understanding the exact physical nature of the failure determines the immediate and permanent fix:
 
@@ -68,7 +70,7 @@ Unlike impact fractures (which radiate outward like a spiderweb from a central p
 
 ---
 
-## 2. The 3-Step Emergency Winter Triage Protocol
+## The 3-Step Emergency Winter Triage Protocol
 
 Never use standard grey duct tape on window glass. Duct tape adhesive dries out and falls off in sub-zero cold, while leaving a baked-on residue that ruins glass coatings.
 
@@ -105,7 +107,7 @@ If a pane is completely blown out or missing:
 
 ---
 
-## 3. The Myth-Buster: Defogging vs. Replacing
+## Myth-Buster: Defogging vs. Replacing
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -134,7 +136,7 @@ If a pane is completely blown out or missing:
 
 ---
 
-## 4. How to Buy Replacement Windows Without Getting Ripped Off
+## How to Buy Replacement Windows Without Overpaying
 
 When homeowners contact replacement window sales companies under emergency conditions, they frequently receive high-pressure sales pitches quoting **\$1,800 to \$3,200 per window**.
 
@@ -157,7 +159,7 @@ To protect your budget, evaluate replacement quotes using the **National Fenestr
 
 ---
 
-## 5. The Action Plan: Transitioning from Triage to Installation
+## The Action Plan: Transitioning from Triage to Installation
 
 Follow this step-by-step roadmap to resolve a broken window:
 
@@ -177,4 +179,20 @@ Follow this step-by-step roadmap to resolve a broken window:
 Window installation quality matters more than the window brand—improper shimming or uninsulated frame gaps ruin even \$2,000 triple-pane windows:
 * [Find Vetted Replacement Window & Cladding Specialists &rarr;](../browse.html?cat=envelopes)
 * [Connect with Regional Energy Audit & Weatherization Contractors &rarr;](../browse.html?cat=roofing)
-* [Review All 31 Midwest AEC Building Science Specifications &rarr;](../browse.html?cat=all)
+* [Review All 32 Midwest AEC Building Science Specifications &rarr;](../browse.html?cat=all)
+
+---
+
+## Frequently Asked Questions
+
+### What should you do immediately when a window cracks during a sub-zero freeze?
+Never apply standard duct tape, which loses adhesion in freezing temperatures and leaves adhesive residue. Clean the glass with 90% isopropyl alcohol and apply heavy-duty clear all-weather polyethylene repair tape across the entire crack on both the inside and outside glass surfaces, extending 2 inches past the crack tips. Then install an interior polyolefin heat-shrink film kit across the casing using a hairdryer. The film creates an airtight 1-inch thermal dead-air buffer that halts winter air drafts immediately while you wait for replacement glass.
+
+### Can a blown double-pane window seal be repaired or defogged?
+No. Commercial "window defogging" companies drill small holes into the glass to drain condensation and install one-way plastic vents. While this temporarily clears cosmetic water droplets, it cannot restore the factory polyisobutylene seal, and it cannot replace the dense insulating argon gas that escaped. The window is permanently derated from U-0.28 to air-filled U-0.48 performance, and mineral scum etched into the low-e coating will reappear. The only permanent fix is replacing the Insulating Glass Unit (IGU).
+
+### Can you replace just the glass without replacing the entire window frame?
+Yes. If the window frame and sills are structurally sound, square, and unrotted, you can order an **IGU-only replacement** from a local residential glass shop. A glazier removes the interior vinyl glazing stops, lifts out the failed double-pane insulated glass unit, drops in a new factory-sealed low-e argon unit, and snaps the stops back in place. This typically costs **\$150 to \$350 per sash**, compared to \$800 to \$1,800+ for a complete full-frame replacement window.
+
+### What NFRC performance ratings should you demand for Climate Zone 5 windows?
+Look for the official National Fenestration Rating Council (NFRC) label on the glass. In Climate Zone 5, demand a **U-factor $\le 0.25$** (measuring conductive heat loss; lower is better), a **Solar Heat Gain Coefficient (SHGC) between 0.28 and 0.40** (allowing passive winter solar warming without severe summer overheating), an **Air Infiltration rating $\le 0.10 \text{ CFM/ft}$** (ASTM E283), and a **Condensation Resistance (CR) rating $\ge 55$** to prevent winter interior perimeter frost buildup.

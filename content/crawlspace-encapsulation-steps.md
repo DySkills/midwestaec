@@ -1,5 +1,5 @@
 ---
-title: "How to Encapsulate a Crawlspace: The Step-by-Step Conversion Guide"
+title: "How to Encapsulate a Crawl Space: The Step-by-Step Conversion Guide"
 slug: "crawlspace-encapsulation-steps"
 format: "Tutorial"
 leadType: "Process"
@@ -8,7 +8,7 @@ catSlug: "water-barriers"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "A practical jobsite manual for sealing foundation vents, detailing 20-mil vapor barriers, insulating stem walls, and installing commercial dehumidification under IRC R408.3."
-summary: "How to encapsulate crawl space foundations under IRC R408.3: Detail 20-mil Class A liners, seal exterior vents, and commission commercial dehumidification."
+summary: "How to do crawl space encapsulation under IRC R408.3: Step-by-step contractor manual for 20-mil Class A liners, exterior vent sealing, and commercial dehumidification."
 codeTag: "IRC Section R408.3 / ASTM E1745 / ASHRAE 62.2"
 author: "Midwest AEC Building Science"
 date: "October 2026"
@@ -24,6 +24,16 @@ referralHook: "Crawlspace Encapsulation & Dehumidifier Specification Match"
 > - **Primary Code & Standards Mandates:** IRC Section R408.3 (unvented crawlspaces), ASTM E1745 (Class A underslab/ground vapor retarders), and IRC Section R318.4 (termite inspection strip).
 > - **Critical Materials:** 12-mil to 20-mil reinforced virgin polyolefin liner, double-sided butyl mastic tape, 2" polyisocyanurate or XPS rigid foam board, expanding closed-cell foam, and commercial low-temperature dehumidifier.
 > - **Jobsite Verification:** Digital hygrometer tracking (maintain 45%–55% RH), joist wood moisture pin testing (< 14%), and negative-pressure smoke pencil checks.
+
+---
+
+> ### Quick Protocol: How to Do Crawl Space Encapsulation Step-by-Step
+>
+> 1. **Divert Bulk Groundwater:** Excavate an interior perimeter French drain connected to a sealed sump pit with dual battery backup.
+> 2. **Seal All Exterior Vents & Rim Joists:** Friction-fit 2" XPS foam plugs into vent blockouts, seal with polyurethane caulk, and apply 2" closed-cell spray foam (R-13) across the rim joist.
+> 3. **Lay 20-Mil ASTM E1745 Class A Vapor Barrier:** Roll puncture-proof virgin polyolefin across the earth, lap seams 12 inches with butyl mastic, and anchor 12" up stem walls using aluminum termination bars.
+> 4. **Insulate Foundation Stem Walls:** Fasten 2" foil-faced polyiso or XPS board to concrete walls, maintaining a 3-inch bare termite inspection strip below the mud sill.
+> 5. **Install Commercial Dehumidification:** Hard-pipe a dedicated low-temperature dehumidifier to drain, regulating subterranean relative humidity at 45%–50% RH.
 
 ---
 

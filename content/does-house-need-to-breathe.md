@@ -97,6 +97,36 @@ Moisture condenses inside the wall cavity against the cold wood sheathing:
 
 ---
 
+## "Why Do They Say That Then?" The Historical Origins of the Breathing House Myth
+
+When homeowners learn that modern building science mandates an airtight structural envelope, the instinctive question is almost universal: ***"Why do they say that then?"***
+
+If houses don't need to breathe, why do so many experienced contractors, old-school carpenters, and family members passionately insist that sealing an old home will "suffocate" the wood and trap moisture?
+
+The persistence of the "breathing house" myth stems from a half-century of real-world remodeling disasters that occurred when energy efficiency was attempted without building physics:
+
+### 1. The Energy Crisis of 1973 and the "Trap-and-Rot" Wave
+Prior to the 1970s, older homes survived without rotting despite massive rain leaks because they had **infinite drying potential**. They leaked so much heat through uninsulated stud cavities and drafty single-pane windows that wet framing was continuously baked dry by continuous, inexpensive fossil fuel heating.
+
+During the 1970s energy crisis, insulation contractors began densely blowing cellulose and loose fiberglass into uninsulated exterior wall cavities. However, they did this **without air-sealing interior electrical boxes, top plates, or floor-wall junctures, and without installing controlled mechanical ventilation**.
+
+### 2. The Unintended Result: Condensation Trapping
+In winter, warm, humid indoor air (from cooking, showers, and human respiration) leaked into the freshly insulated wall cavities. Because the insulation stopped heat from reaching the outer wood sheathing, the exterior sheathing plunged to sub-freezing temperatures.
+
+When moisture-laden indoor air hit that freezing wood, it condensed into liquid water. Wood rotted, exterior paint blistered and peeled off siding, and toxic mold bloomed inside bedroom walls.
+
+### 3. The Flawed Conclusion: "The House Can't Breathe!"
+Remodelers observed the damage and drew the obvious—but scientifically backwards—conclusion: *"Before we insulated, the house was dry. After we tightened it, the house rotted. Therefore, an old house needs to breathe!"*
+
+They blamed the airtightness rather than the absence of balanced ventilation and interior air barrier detailing.
+
+### 4. The Building Science Resolution
+The lesson of building forensics over the past 40 years is clear: **Airtightness does not rot houses; unmanaged interior moisture and convective exfiltration rot houses.**
+
+Leaving random holes in your walls so moisture can escape is like leaving holes in your boat to let water drain out. The proper engineering solution is **"Build Tight, Ventilate Right"**: seal the structural envelope to eliminate uncontrolled convective leaks, and install dedicated, balanced mechanical ventilation (an ERV or HRV) under ASHRAE 62.2 to continuously exchange indoor stale air with fresh, filtered outdoor air.
+
+---
+
 ## The Modern Standard: Build Tight, Ventilate Right
 
 The solution codified by the **International Energy Conservation Code (IECC)** and **ASHRAE Standard 62.2** is unequivocal:

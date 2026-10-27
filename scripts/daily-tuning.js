@@ -118,6 +118,90 @@ function tuneEmbodiedCarbon() {
   fs.writeFileSync(file, content, 'utf8');
 }
 
+// 7. Sub-Slab Insulation & Vapor Barriers: ASTM E1745 Class A & ASTM E1643 Tuning (Oct 27)
+function tuneSubSlabInsulationOct27() {
+  const file = path.join(contentDir, 'sub-slab-insulation-specs.md');
+  let content = fs.readFileSync(file, 'utf8');
+
+  // Update summary & codeTag
+  content = content.replace(
+    'summary: "Below grade insulation for slabs: Why high-density EPS Type IX outperforms XPS under moisture saturation, and how to spray-foam rim joists under ASTM C578."',
+    'summary: "Below grade insulation & sub-slab specs: ASTM E1745 Class A vapor retarders, ASTM E1643 installation practice, and high-density Type IX EPS vs XPS under ASTM C578."'
+  );
+
+  content = content.replace(
+    'codeTag: "ASTM C578 / ASTM D1621 / IRC Section R402.1"',
+    'codeTag: "ASTM C578 / ASTM E1745 Class A / ASTM E1643 / ACI 302.2R"'
+  );
+
+  const targetAnchor = '## Specification Benchmark: Sub-Slab & Rim Joist Insulation Materials';
+  if (!content.includes('## ASTM E1745 Class A Vapor Retarders & ASTM E1643 Sub-Slab Installation Practice')) {
+    const addition = `## ASTM E1745 Class A Vapor Retarders & ASTM E1643 Sub-Slab Installation Practice\r\n\r\nWhen engineering sub-slab assemblies, thermal insulation cannot be separated from subterranean moisture control. Standard 6-mil construction polyethylene film degrades rapidly and tears under jobsite foot traffic. For high-performance residential foundations, specifying **ASTM E1745 Class A** vapor retarders installed under **ASTM E1643** protocols is the engineering benchmark:\r\n\r\n### ASTM E1745 Performance Classifications (A, B, C)\r\nASTM E1745 benchmarks plastic water vapor retarders across three critical physical criteria:\r\n\r\n| ASTM E1745 Classification | Puncture Resistance (ASTM D1709) | Tensile Strength (ASTM D882) | Water Vapor Permeance (ASTM E96) | Jobsite Application |\r\n| :--- | :--- | :--- | :--- | :--- |\r\n| **Class A (Commercial Grade)** | **> 2,200 grams** | **> 45.0 lbf/in** | **< 0.1 Perms** | Placed directly over crushed stone, rebar chairs, pump trucks |\r\n| **Class B (Intermediate Grade)** | > 1,500 grams | > 30.0 lbf/in | < 0.1 Perms | Light residential over sand beds |\r\n| **Class C (Minimum Code Grade)** | > 475 grams | > 13.6 lbf/in | < 0.1 Perms | Strictly light foot traffic over smoothed sand |\r\n\r\n### ASTM E1643 Field Installation Protocol\r\nUnder **ASTM E1643** (*Standard Practice for Selection, Design, Installation, and Inspection of Water Vapor Retarders Used in Contact with Earth or Granular Fill Under Concrete Slabs*), execution requires four non-negotiable jobsite steps:\r\n1. **Sub-Base Compaction & Layering:** Over compacted subgrade, install a 4-inch capillary break of 3/4-inch washed crushed aggregate. Place high-density Type IX EPS rigid foam insulation over the crushed stone, then lay the 15-mil to 20-mil **ASTM E1745 Class A** vapor retarder directly on top of the foam.\r\n2. **6-Inch Minimum Seam Overlaps:** Lap all vapor retarder sheet seams a minimum of 6 inches. Seal laps continuously using manufacturer-approved heavy-duty acrylic or butyl pressure-sensitive tape. Never rely on duct tape or unbonded laps.\r\n3. **Pipe Penetration & Column Detailing:** Cut circular openings tight around plumbing drains, radon evacuation pipes, and structural column footings. Detail all penetrations using pre-molded pipe boots or elastomeric flash tape, followed by a continuous bead of polyurethane mastic sealant.\r\n4. **Concrete Pouring Direct-to-Membrane:** In modern cold-climate building science (ACI 302.1R / ACI 302.2R), concrete is poured directly in contact with the ASTM E1745 Class A vapor retarder. The outdated practice of placing a sand or cushion layer between the vapor barrier and the slab is strictly obsolete because sand blotter beds act as a hidden water sponge during construction, leading to catastrophic floor moisture emissions and LVP delamination.\r\n\r\n---\r\n\r\n## Specification Benchmark: Sub-Slab & Rim Joist Insulation Materials`;
+    content = content.replace(targetAnchor, addition);
+    console.log('Tuned sub-slab-insulation-specs.md with ASTM E1745 Class A and ASTM E1643 standards.');
+  }
+
+  fs.writeFileSync(file, content, 'utf8');
+}
+
+// 8. "Why Do They Say That Then?" Breathing House Historical Lore Tuning (Oct 27)
+function tuneDoesHouseNeedToBreatheOct27() {
+  const file = path.join(contentDir, 'does-house-need-to-breathe.md');
+  let content = fs.readFileSync(file, 'utf8');
+
+  const targetAnchor = '## The Modern Standard: Build Tight, Ventilate Right';
+  if (!content.includes('## "Why Do They Say That Then?" The Historical Origins of the Breathing House Myth')) {
+    const addition = `## "Why Do They Say That Then?" The Historical Origins of the Breathing House Myth\r\n\r\nWhen homeowners learn that modern building science mandates an airtight structural envelope, the instinctive question is almost universal: ***"Why do they say that then?"***\r\n\r\nIf houses don't need to breathe, why do so many experienced contractors, old-school carpenters, and family members passionately insist that sealing an old home will "suffocate" the wood and trap moisture?\r\n\r\nThe persistence of the "breathing house" myth stems from a half-century of real-world remodeling disasters that occurred when energy efficiency was attempted without building physics:\r\n\r\n### 1. The Energy Crisis of 1973 and the "Trap-and-Rot" Wave\r\nPrior to the 1970s, older homes survived without rotting despite massive rain leaks because they had **infinite drying potential**. They leaked so much heat through uninsulated stud cavities and drafty single-pane windows that wet framing was continuously baked dry by continuous, inexpensive fossil fuel heating.\r\n\r\nDuring the 1970s energy crisis, insulation contractors began densely blowing cellulose and loose fiberglass into uninsulated exterior wall cavities. However, they did this **without air-sealing interior electrical boxes, top plates, or floor-wall junctures, and without installing controlled mechanical ventilation**.\r\n\r\n### 2. The Unintended Result: Condensation Trapping\r\nIn winter, warm, humid indoor air (from cooking, showers, and human respiration) leaked into the freshly insulated wall cavities. Because the insulation stopped heat from reaching the outer wood sheathing, the exterior sheathing plunged to sub-freezing temperatures.\r\n\r\nWhen moisture-laden indoor air hit that freezing wood, it condensed into liquid water. Wood rotted, exterior paint blistered and peeled off siding, and toxic mold bloomed inside bedroom walls.\r\n\r\n### 3. The Flawed Conclusion: "The House Can't Breathe!"\r\nRemodelers observed the damage and drew the obvious—but scientifically backwards—conclusion: *"Before we insulated, the house was dry. After we tightened it, the house rotted. Therefore, an old house needs to breathe!"*\r\n\r\nThey blamed the airtightness rather than the absence of balanced ventilation and interior air barrier detailing.\r\n\r\n### 4. The Building Science Resolution\r\nThe lesson of building forensics over the past 40 years is clear: **Airtightness does not rot houses; unmanaged interior moisture and convective exfiltration rot houses.**\r\n\r\nLeaving random holes in your walls so moisture can escape is like leaving holes in your boat to let water drain out. The proper engineering solution is **"Build Tight, Ventilate Right"**: seal the structural envelope to eliminate uncontrolled convective leaks, and install dedicated, balanced mechanical ventilation (an ERV or HRV) under ASHRAE 62.2 to continuously exchange indoor stale air with fresh, filtered outdoor air.\r\n\r\n---\r\n\r\n## The Modern Standard: Build Tight, Ventilate Right`;
+    content = content.replace(targetAnchor, addition);
+    console.log('Tuned does-house-need-to-breathe.md with "Why do they say that then" historical analysis.');
+  }
+
+  fs.writeFileSync(file, content, 'utf8');
+}
+
+// 9. Crawl Space Encapsulation Steps: "How to Do Crawl Space Encapsulation" Tuning (Oct 27)
+function tuneCrawlspaceEncapsulationStepsOct27() {
+  const file = path.join(contentDir, 'crawlspace-encapsulation-steps.md');
+  let content = fs.readFileSync(file, 'utf8');
+
+  // Update title & summary to capture both single and two-word crawl space queries
+  content = content.replace(
+    'title: "How to Encapsulate a Crawlspace: The Step-by-Step Conversion Guide"',
+    'title: "How to Encapsulate a Crawl Space: The Step-by-Step Conversion Guide"'
+  );
+
+  content = content.replace(
+    'summary: "How to encapsulate crawl space foundations under IRC R408.3: Detail 20-mil Class A liners, seal exterior vents, and commission commercial dehumidification."',
+    'summary: "How to do crawl space encapsulation under IRC R408.3: Step-by-step contractor manual for 20-mil Class A liners, exterior vent sealing, and commercial dehumidification."'
+  );
+
+  // Add quick answer box for featured snippets
+  const targetAnchor = '## Objective & Safety Protocols';
+  if (!content.includes('> ### Quick Protocol: How to Do Crawl Space Encapsulation Step-by-Step')) {
+    const addition = `> ### Quick Protocol: How to Do Crawl Space Encapsulation Step-by-Step\r\n>\r\n> 1. **Divert Bulk Groundwater:** Excavate an interior perimeter French drain connected to a sealed sump pit with dual battery backup.\r\n> 2. **Seal All Exterior Vents & Rim Joists:** Friction-fit 2" XPS foam plugs into vent blockouts, seal with polyurethane caulk, and apply 2" closed-cell spray foam (R-13) across the rim joist.\r\n> 3. **Lay 20-Mil ASTM E1745 Class A Vapor Barrier:** Roll puncture-proof virgin polyolefin across the earth, lap seams 12 inches with butyl mastic, and anchor 12" up stem walls using aluminum termination bars.\r\n> 4. **Insulate Foundation Stem Walls:** Fasten 2" foil-faced polyiso or XPS board to concrete walls, maintaining a 3-inch bare termite inspection strip below the mud sill.\r\n> 5. **Install Commercial Dehumidification:** Hard-pipe a dedicated low-temperature dehumidifier to drain, regulating subterranean relative humidity at 45%–50% RH.\r\n\r\n---\r\n\r\n## Objective & Safety Protocols`;
+    content = content.replace(targetAnchor, addition);
+    console.log('Tuned crawlspace-encapsulation-steps.md with Quick Protocol snippet box.');
+  }
+
+  fs.writeFileSync(file, content, 'utf8');
+}
+
+// 10. ICF Basements: Insulated Concrete Form Foundations & Basement Cluster Tuning (Oct 27)
+function tuneIcfBasementOct27() {
+  const file = path.join(contentDir, 'icf-basements-walls.md');
+  let content = fs.readFileSync(file, 'utf8');
+
+  const targetAnchor = '4. **Storm Shelter Durability:** With continuous steel-reinforced concrete sandwiched between EPS panels, **icf basements** offer superior structural resistance against hydrostatic soil pressure, frost heave forces, and severe Midwest tornadic weather.';
+  const addition = `4. **Storm Shelter Durability:** With continuous steel-reinforced concrete sandwiched between EPS panels, **icf basements** offer superior structural resistance against hydrostatic soil pressure, frost heave forces, and severe Midwest tornadic weather.\r\n5. **Insulated Concrete Form Basement Performance:** Investing in an **insulated concrete form basement** guarantees continuous R-22+ assembly performance without interior cavity rot risks.\r\n6. **Engineered Insulated Concrete Form Foundations:** When engineering **insulated concrete form foundations**, the concrete core hydrates within an insulated thermal jacket, eliminating curing microcracks and boosting compressive load resistance by up to 50% compared to standard poured walls.`;
+
+  if (content.includes(targetAnchor) && !content.includes('5. **Insulated Concrete Form Basement Performance:**')) {
+    content = content.replace(targetAnchor, addition);
+    console.log('Tuned icf-basements-walls.md with insulated concrete form basement and foundation variations.');
+  }
+
+  fs.writeFileSync(file, content, 'utf8');
+}
+
 // Execute tuning routines
 tuneContinuousInsulation();
 tuneRockwoolVsFiberglass();
@@ -125,5 +209,9 @@ tuneSipsVsTraditionalFraming();
 tuneColdClimateHeatPumps();
 tuneIcfBasement();
 tuneEmbodiedCarbon();
+tuneSubSlabInsulationOct27();
+tuneDoesHouseNeedToBreatheOct27();
+tuneCrawlspaceEncapsulationStepsOct27();
+tuneIcfBasementOct27();
 
-console.log('Oct 26 search telemetry content tuning complete.');
+console.log('Oct 27 search telemetry content tuning complete.');

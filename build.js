@@ -14,6 +14,75 @@ if (!fs.existsSync(outputDir)) {
 // Configuration: Temporarily withhold images while upgrading artwork via MinekSuite MCP
 const SUPPRESS_IMAGES = true;
 
+// ==========================================
+// AFFILIATE INTEGRATIONS & LEAD ENGINE
+// ==========================================
+// Networx Affiliate ID (provided by rep Josh upon onboarding)
+// Example format from PickHVAC partner: aff_id=471684d6c43cfc529b30d600113dae63
+const NETWORX_AFF_ID = null; // Staged: set to live partner ID when received
+
+// Category-specific Networx form IDs (or universal default)
+const NETWORX_TRADE_MAP = {
+  'roofing': 2215,
+  'hvac': 2215,
+  'water-barriers': 2215,
+  'air-barriers': 2215,
+  'efficient-systems': 2215,
+  'envelopes': 2215,
+  'urban-development': 2215,
+  'rural-development': 2215,
+  'go-green': 2215,
+  'default': 2215
+};
+
+function renderContractorCTA(frontmatter, citiesStr) {
+  if (NETWORX_AFF_ID) {
+    const formId = NETWORX_TRADE_MAP[frontmatter.catSlug] || NETWORX_TRADE_MAP['default'];
+    return `
+    <!-- Networx Dynamic Live Quote Form Embed -->
+    <div class="mt-14 p-6 sm:p-8 rounded-2xl bg-white border-2 border-steel-border shadow-sm">
+      <div class="flex items-center justify-between gap-2 mb-2">
+        <span class="text-xs font-mono uppercase tracking-widest text-crimson font-bold">Vetted Local Estimates</span>
+        <span class="text-[10px] font-mono text-slate-400">Midwest Region (Climate Zones 4 & 5)</span>
+      </div>
+      <h3 class="text-2xl font-bold text-navy font-serif">
+        Compare Free Local Quotes in Your Area
+      </h3>
+      <p class="text-slate-600 text-sm mt-2 font-sans leading-relaxed mb-6">
+        Connect with licensed, building-science trained contractors serving ${citiesStr}. No obligation, free project estimates.
+      </p>
+      <div class="networx-embed-container min-h-[300px]">
+        <script type="text/javascript" src="https://api.networx.com/iframe.php?aff_id=${NETWORX_AFF_ID}&aff_to_form_id=${formId}"></script>
+      </div>
+    </div>`;
+  }
+
+  // Fallback CTA when waiting for partner credentials
+  return `
+    <!-- Natural Dual CTA 2: Contractor Matching Hook -->
+    <div class="mt-14 p-8 rounded-2xl bg-white border-2 border-steel-border shadow-sm">
+      <div class="flex items-center justify-between gap-2 mb-2">
+        <span class="text-xs font-mono uppercase tracking-widest text-crimson font-bold">Vetted Contractor Network</span>
+        <span class="text-[10px] font-mono text-slate-400">Midwest Region</span>
+      </div>
+      <h3 class="text-2xl font-bold text-navy font-serif">
+        Need Vetted Local Specialists in Your Area?
+      </h3>
+      <p class="text-slate-600 text-sm mt-2 font-sans leading-relaxed">
+        Connect with licensed, building-science trained contractors serving ${citiesStr}. Free estimates with zero obligation.
+      </p>
+
+      <div class="mt-6 flex flex-wrap items-center gap-3">
+        <a href="../browse.html?cat=${frontmatter.catSlug}" class="px-5 py-2.5 rounded-xl bg-crimson hover:bg-crimson-hover text-white text-xs font-mono font-semibold transition shadow-sm">
+          Get Local Contractor Quotes &rarr;
+        </a>
+        <a href="../browse.html?cat=all" class="px-5 py-2.5 rounded-xl bg-slate-50 hover:bg-slate-100 border border-slate-200 text-slate-700 text-xs font-mono font-medium transition">
+          Browse More Specifications
+        </a>
+      </div>
+    </div>`;
+}
+
 const imageMap = {
   'ice-dams-roofs': 'ice-dam-dynamics-diagram.jpg',
   'attic-air-sealing-baffles': 'ice-dam-dynamics-diagram.jpg',
@@ -652,28 +721,8 @@ ${JSON.stringify(mainSchema, null, 2)}
       ${htmlBody}
     </article>
 
-    <!-- Natural Dual CTA 2: Contractor Matching Hook -->
-    <div class="mt-14 p-8 rounded-2xl bg-white border-2 border-steel-border shadow-sm">
-      <div class="flex items-center justify-between gap-2 mb-2">
-        <span class="text-xs font-mono uppercase tracking-widest text-crimson font-bold">Vetted Contractor Network</span>
-        <span class="text-[10px] font-mono text-slate-400">Midwest Region</span>
-      </div>
-      <h3 class="text-2xl font-bold text-navy font-serif">
-        Need Vetted Local Specialists in Your Area?
-      </h3>
-      <p class="text-slate-600 text-sm mt-2 font-sans leading-relaxed">
-        Connect with licensed, building-science trained contractors serving ${citiesStr}. Free estimates with zero obligation.
-      </p>
-
-      <div class="mt-6 flex flex-wrap items-center gap-3">
-        <a href="../browse.html?cat=${frontmatter.catSlug}" class="px-5 py-2.5 rounded-xl bg-crimson hover:bg-crimson-hover text-white text-xs font-mono font-semibold transition shadow-sm">
-          Get Local Contractor Quotes &rarr;
-        </a>
-        <a href="../browse.html?cat=all" class="px-5 py-2.5 rounded-xl bg-slate-50 hover:bg-slate-100 border border-slate-200 text-slate-700 text-xs font-mono font-medium transition">
-          Browse More Specifications
-        </a>
-      </div>
-    </div>
+    <!-- Contractor Referral / Lead-Gen Hook -->
+    ${renderContractorCTA(frontmatter, citiesStr)}
   </main>
 
   <!-- Footer -->

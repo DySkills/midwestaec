@@ -84,6 +84,8 @@ For Midwest homeowners and builders evaluating whether to invest in an **icf bas
 2. **Eliminated Basement Cold Zones:** In an **icf basement**, the interior surface of the wall stays within 2°F of the indoor thermostat setting, turning a sub-grade basement into prime, comfortable living space identical to above-ground rooms.
 3. **Zero Condensation on Insulated Concrete Foundations:** Warm summer humidity entering an **insulated concrete foundation** encounters walls that stay well above the 55°F dew point, completely preventing the summertime sweating and mildew common in poured concrete basements.
 4. **Storm Shelter Durability:** With continuous steel-reinforced concrete sandwiched between EPS panels, **icf basements** offer superior structural resistance against hydrostatic soil pressure, frost heave forces, and severe Midwest tornadic weather.
+5. **Insulated Concrete Form Basement Performance:** Investing in an **insulated concrete form basement** guarantees continuous R-22+ assembly performance without interior cavity rot risks.
+6. **Engineered Insulated Concrete Form Foundations:** When engineering **insulated concrete form foundations**, the concrete core hydrates within an insulated thermal jacket, eliminating curing microcracks and boosting compressive load resistance by up to 50% compared to standard poured walls.
 
 ---
 

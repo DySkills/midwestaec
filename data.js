@@ -476,7 +476,7 @@ var miaecData = [
     "url": "articles/continuous-insulation.html"
   },
   {
-    "title": "How to Encapsulate a Crawlspace: The Step-by-Step Conversion Guide",
+    "title": "How to Encapsulate a Crawl Space: The Step-by-Step Conversion Guide",
     "subtitle": "A practical jobsite manual for sealing foundation vents, detailing 20-mil vapor barriers, insulating stem walls, and installing commercial dehumidification under IRC R408.3.",
     "format": "Tutorial",
     "leadType": "Process",
@@ -513,7 +513,7 @@ var miaecData = [
       "SD",
       "WI"
     ],
-    "summary": "How to encapsulate crawl space foundations under IRC R408.3: Detail 20-mil Class A liners, seal exterior vents, and commission commercial dehumidification.",
+    "summary": "How to do crawl space encapsulation under IRC R408.3: Step-by-step contractor manual for 20-mil Class A liners, exterior vent sealing, and commercial dehumidification.",
     "codeTag": "IRC Section R408.3 / ASTM E1745 / ASHRAE 62.2",
     "type": "Tutorial",
     "url": "articles/crawlspace-encapsulation-steps.html"
@@ -1197,8 +1197,8 @@ var miaecData = [
       "SD",
       "WI"
     ],
-    "summary": "Below grade insulation for slabs: Why high-density EPS Type IX outperforms XPS under moisture saturation, and how to spray-foam rim joists under ASTM C578.",
-    "codeTag": "ASTM C578 / ASTM D1621 / IRC Section R402.1",
+    "summary": "Below grade insulation & sub-slab specs: ASTM E1745 Class A vapor retarders, ASTM E1643 installation practice, and high-density Type IX EPS vs XPS under ASTM C578.",
+    "codeTag": "ASTM C578 / ASTM E1745 Class A / ASTM E1643 / ACI 302.2R",
     "type": "Report",
     "url": "articles/sub-slab-insulation-specs.html"
   },

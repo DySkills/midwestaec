@@ -8,8 +8,8 @@ catSlug: "efficient-systems"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "Why subterranean moisture degrades XPS thermal performance over 15 years, how high-density EPS drains, and why 2-lb closed-cell spray foam dominates the rim joist."
-summary: "Below grade insulation for slabs: Why high-density EPS Type IX outperforms XPS under moisture saturation, and how to spray-foam rim joists under ASTM C578."
-codeTag: "ASTM C578 / ASTM D1621 / IRC Section R402.1"
+summary: "Below grade insulation & sub-slab specs: ASTM E1745 Class A vapor retarders, ASTM E1643 installation practice, and high-density Type IX EPS vs XPS under ASTM C578."
+codeTag: "ASTM C578 / ASTM E1745 Class A / ASTM E1643 / ACI 302.2R"
 author: "Midwest AEC Building Science"
 date: "October 2026"
 readTime: "9 min read"
@@ -104,6 +104,28 @@ Selecting **below grade insulation** for heavy residential slabs requires balanc
 1. **ASTM C578 Compressive Classifications:** Sub-slab applications require a minimum compressive strength of 25.0 psi (ASTM D1621) for standard residential slabs, and 40.0 to 60.0 psi for heavy storage or hydronic radiant installations. Expanded polystyrene (Type IX EPS) meets 25.0 psi while preserving long-term compressive rebound.
 2. **Moisture Permeability in Below Grade Insulation:** Unlike above-grade continuous wall sheathing where drying occurs to outdoor air, below grade insulation is buried in 100% relative humidity soil. Closed-cell structures that trap moisture internally lose thermal value over decades; hydrophobic bead-matrix insulations with gravity drainage channels prevent trapped moisture degradation.
 3. **Termite and Pest Protection:** All below grade insulation products installed against subterranean foundation walls must incorporate non-toxic borate treatments to deter subterranean termite tunneling in high-risk zones.
+
+---
+
+## ASTM E1745 Class A Vapor Retarders & ASTM E1643 Sub-Slab Installation Practice
+
+When engineering sub-slab assemblies, thermal insulation cannot be separated from subterranean moisture control. Standard 6-mil construction polyethylene film degrades rapidly and tears under jobsite foot traffic. For high-performance residential foundations, specifying **ASTM E1745 Class A** vapor retarders installed under **ASTM E1643** protocols is the engineering benchmark:
+
+### ASTM E1745 Performance Classifications (A, B, C)
+ASTM E1745 benchmarks plastic water vapor retarders across three critical physical criteria:
+
+| ASTM E1745 Classification | Puncture Resistance (ASTM D1709) | Tensile Strength (ASTM D882) | Water Vapor Permeance (ASTM E96) | Jobsite Application |
+| :--- | :--- | :--- | :--- | :--- |
+| **Class A (Commercial Grade)** | **> 2,200 grams** | **> 45.0 lbf/in** | **< 0.1 Perms** | Placed directly over crushed stone, rebar chairs, pump trucks |
+| **Class B (Intermediate Grade)** | > 1,500 grams | > 30.0 lbf/in | < 0.1 Perms | Light residential over sand beds |
+| **Class C (Minimum Code Grade)** | > 475 grams | > 13.6 lbf/in | < 0.1 Perms | Strictly light foot traffic over smoothed sand |
+
+### ASTM E1643 Field Installation Protocol
+Under **ASTM E1643** (*Standard Practice for Selection, Design, Installation, and Inspection of Water Vapor Retarders Used in Contact with Earth or Granular Fill Under Concrete Slabs*), execution requires four non-negotiable jobsite steps:
+1. **Sub-Base Compaction & Layering:** Over compacted subgrade, install a 4-inch capillary break of 3/4-inch washed crushed aggregate. Place high-density Type IX EPS rigid foam insulation over the crushed stone, then lay the 15-mil to 20-mil **ASTM E1745 Class A** vapor retarder directly on top of the foam.
+2. **6-Inch Minimum Seam Overlaps:** Lap all vapor retarder sheet seams a minimum of 6 inches. Seal laps continuously using manufacturer-approved heavy-duty acrylic or butyl pressure-sensitive tape. Never rely on duct tape or unbonded laps.
+3. **Pipe Penetration & Column Detailing:** Cut circular openings tight around plumbing drains, radon evacuation pipes, and structural column footings. Detail all penetrations using pre-molded pipe boots or elastomeric flash tape, followed by a continuous bead of polyurethane mastic sealant.
+4. **Concrete Pouring Direct-to-Membrane:** In modern cold-climate building science (ACI 302.1R / ACI 302.2R), concrete is poured directly in contact with the ASTM E1745 Class A vapor retarder. The outdated practice of placing a sand or cushion layer between the vapor barrier and the slab is strictly obsolete because sand blotter beds act as a hidden water sponge during construction, leading to catastrophic floor moisture emissions and LVP delamination.
 
 ---
 

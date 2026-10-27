@@ -1,0 +1,28 @@
+{
+  "sites": {
+    "midwest": {
+      "name": "Midwest AEC",
+      "domain": "midwestaec.com",
+      "gscProperty": "sc-domain:midwestaec.com",
+      "workspace": "C:/Users/Dylen/.gemini/antigravity/scratch/midwest-aec",
+      "conversationId": "63fbd059-e331-49d5-b57d-727590d12336",
+      "active": true
+    },
+    "northwest": {
+      "name": "Northwest AEC",
+      "domain": "northwestaec.com",
+      "gscProperty": "sc-domain:northwestaec.com",
+      "workspace": "C:/Users/Dylen/.gemini/antigravity/scratch/northwest-aec",
+      "conversationId": null,
+      "active": false
+    },
+    "southwest": {
+      "name": "Southwest AEC",
+      "domain": "southwestaec.com",
+      "gscProperty": "sc-domain:southwestaec.com",
+      "workspace": "C:/Users/Dylen/.gemini/antigravity/scratch/southwest-aec",
+      "conversationId": null,
+      "active": false
+    }
+  }
+}

@@ -605,8 +605,8 @@ var miaecData = [
     "url": "articles/does-house-need-to-breathe.html"
   },
   {
-    "title": "Embodied Carbon & Bio-Based Insulation: Decarbonizing Midwest Envelopes",
-    "subtitle": "Why petrochemical foams take up to 30 years to offset their chemical manufacturing footprint, and how cellulose, wood fiber, and stone wool achieve upfront decarbonization.",
+    "title": "Spray Foam vs. Cellulose & Wood Fiber: Why Plastic Foam Traps Moisture, Rots Studs & Fails the 25-Year Payback",
+    "subtitle": "Petrochemical spray foam and XPS promise high R-values, but their impermeable vapor profile creates hidden wall cavity rot while blowing agents take 26 years to offset. Here is why vapor-open cellulose, wood fiber, and stone wool dominate cold-climate envelopes.",
     "format": "Report",
     "leadType": "Fact-First",
     "category": "Go Green",
@@ -635,8 +635,8 @@ var miaecData = [
       "OH",
       "WI"
     ],
-    "summary": "Low carbon insulation specifications: Compare the cradle-to-gate carbon footprint of dense-pack cellulose, wood-fiber board, and stone wool for Climate Zone 5.",
-    "codeTag": "ISO 21930 / ASHRAE 240P / LEED v4.1",
+    "summary": "Spray foam vs cellulose insulation: Closed-cell foam creates non-breathable vapor dams that rot wood studs in Climate Zone 5, while dense-pack cellulose and wood fiber provide vapor-open moisture buffering and net-negative carbon footprints.",
+    "codeTag": "ASTM C739 / ASTM C518 / IRC Section R702.7",
     "type": "Report",
     "url": "articles/embodied-carbon-materials.html"
   },

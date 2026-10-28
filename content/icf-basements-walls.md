@@ -3,8 +3,8 @@ title: "ICF (Insulated Concrete Forms) for Midwest Basements: Eliminating Moistu
 slug: "icf-basements-walls"
 format: "Report"
 leadType: "Performance-First"
-category: "Envelopes"
-catSlug: "envelopes"
+category: "Water Barriers"
+catSlug: "water-barriers"
 cities: ["Chicago", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls"]
 states: ["IA", "IL", "IN", "MI", "MN", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "Why dual continuous 2.6-inch EPS foam shells eliminate foundation thermal bridge losses, prevent summer mold sweating, and create an indestructible, waterproof below-grade living space."

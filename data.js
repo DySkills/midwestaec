@@ -851,8 +851,8 @@ var miaecData = [
     "subtitle": "Why dual continuous 2.6-inch EPS foam shells eliminate foundation thermal bridge losses, prevent summer mold sweating, and create an indestructible, waterproof below-grade living space.",
     "format": "Report",
     "leadType": "Performance-First",
-    "category": "Envelopes",
-    "catSlug": "envelopes",
+    "category": "Water Barriers",
+    "catSlug": "water-barriers",
     "cities": [
       "Chicago",
       "Des Moines",

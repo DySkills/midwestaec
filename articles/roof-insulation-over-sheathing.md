@@ -1,0 +1,176 @@
+# Adding Continuous Insulation When Replacing Your Roof: Over-Sheathing Cathedral Ceilings
+> **Publication:** Midwest AEC (https://midwestaec.com)
+> **Jurisdiction:** Climate Zones 4 & 5 (Midwest Residential & Commercial)
+> **Canonical Article:** https://midwestaec.com/articles/roof-insulation-over-sheathing.html
+> **Building Code Reference:** IRC Section R806.5 / ASTM C1289 / APA EWS
+> **Summary:** Roof insulation over sheathing: How adding continuous rigid polyiso or stone wool above cathedral rafters stops ice dams and cuts drafts under IRC R806.5.
+
+
+# Adding Continuous Insulation When Replacing Your Roof: Over-Sheathing Cathedral Ceilings
+
+> **Quick Summary:** In homes with vaulted cathedral ceilings, finished third-floor attics, or mid-century post-and-beam architecture, shallow rafter bays cannot accommodate modern R-49 or R-60 insulation codes. Tearing down historic plaster, interior drywall, or finished tongue-and-groove wood planking is messy, disruptive, and cost-prohibitive. The premier opportunity to fix these thermal flaws permanently occurs during a scheduled roof replacement: installing continuous rigid insulation *above* the existing structural roof deck before laying new shingles.
+>
+> - **The 2x6 Rafter Limitation:** Standard 2x6 or 2x8 cathedral rafters hold only R-19 to R-25 cavity insulation—less than half of modern building code—while 2x wood rafters create direct thermal bridges across 15% of the roof surface.
+> - **The Over-Deck "Hot Roof" Assembly:** Fastening two staggered layers of rigid polyisocyanurate (R-26) or high-density stone wool directly on top of the original roof deck wraps the building in an uninterrupted thermal envelope.
+> - **The Zone 5 Condensation Ratio (IRC R806.5):** In cold climates, code mandates that at least R-20 of rigid insulation sit above the structural deck if cavity insulation is used underneath, keeping the condensing surface above the 45°F dew point.
+> - **Structural Fastener Engineering:** Sandwiching four inches of rigid foam requires engineered structural timber screws (FastenMaster HeadLOK) driven into rafter centers to resist 115 MPH design wind uplift and downward snow loads.
+
+---
+
+## The Cold Vault at 4°F
+
+It is 8:00 AM on a windy January morning in an Omaha neighborhood overlooking the frozen Missouri River valley. Outside, a winter squall is howling across the bluffs, driving powder against the siding, and the red bar stops at a frigid 4°F.
+
+Inside a 1964 mid-century post-and-beam ranch, the architectural aesthetic is breathtaking: exposed rough-sawn Douglas fir beams span a great room beneath a soaring cathedral ceiling of two-inch tongue-and-groove cedar planks. Yet sitting at the dining room table beneath that vault feels like sitting under an open commercial meat locker. Despite the furnace blasting supply air continuously and the thermostat set to 72°F, the ambient living space hovers around 61°F. Overhead, the historic cedar wood feels cold to the touch.
+
+Up on the roof, the asphalt shingles are twenty-five years old, brittle, and shedding mineral granules into the gutters. Every winter, heavy snow melts rapidly over the center rafters, running down to form massive ice dams along the eaves. 
+
+The homeowner faced an impossible choice: either tear down the historic interior cedar ceiling to stuff thick insulation between rafters, or pay a standard roofing crew $12,000 to nail new shingles over the same cold plywood deck—leaving the uncomfortable drafts, high gas bills, and chronic ice dams untouched for another thirty years.
+
+There is a superior third path: **over-sheathing continuous insulation** (often called an exterior roof retrofit). By installing rigid foam boards directly over the structural deck from the outside during a shingle tear-off, you bring the entire roof framing inside the warm conditioned thermal envelope without disturbing a single nail of interior finish.
+
+---
+
+## The Cathedral Ceiling Dilemma: Why Cavity-Only Framing Fails
+
+Traditional residential roofs feature unconditioned attics where 18 to 20 inches of blown insulation rests flat across the ceiling drywall. But in a cathedral or vaulted ceiling, the roof rafters *are* the ceiling framing. 
+
+This presents three severe physical limitations in Midwest Climate Zones 4, 5, and 6:
+
+- **Physical Depth Starvation:** A standard 2x6 rafter has an actual depth of only 5.5 inches; a 2x8 rafter measures 7.25 inches. Fitting modern code-compliant insulation (requiring R-49 to R-60, or roughly 14 to 18 inches of depth) into a 6-inch cavity is physically impossible. An R-19 fiberglass batt fills the bay completely, leaving zero space for the mandatory 1-inch ventilation air channel between the insulation and roof sheathing.
+- **The Blocked Venting Nightmare:** When fiberglass batts touch the underside of cold plywood sheathing in winter, warm interior vapor condenses against the wood. Without continuous airflow from soffit to ridge, moisture cannot escape. Within a decade, roof sheathing delaminates, mold proliferates, and structural rafter tails rot.
+- **Severe Framing Thermal Bridging:** Solid lumber has an insulating value of only R-1.2 per inch. In a vaulted ceiling framed 16 inches on center, the wood rafters account for **12% to 15% of the total ceiling surface area**. In sub-zero weather, every rafter acts as a conductive cooling fin, pulling heat directly out of the living space and melting rooftop snow in distinct parallel stripes that trigger ice dams.
+
+---
+
+## Over-Sheathing Assembly: Layer-by-Layer Engineering
+
+The over-sheathing retrofit solves the cavity depth problem by building upward. The existing roof deck becomes the interior ceiling plane, and the new thermal and weather barriers are layered on top:
+
+### Over-Sheathing Cathedral Roof Assembly Stack (Top to Bottom)
+
+| Layer Order | Assembly Component | Material Specification | Building Science Function |
+| :--- | :--- | :--- | :--- |
+| **1 (Top)** | Finished Cladding | Architectural Shingles or 24-Ga Standing Seam | Primary exterior water-shedding surface |
+| **2** | Weather Barrier | Self-Adhered High-Temp Underlayment | 100% watertight secondary protection against ice backup |
+| **3** | Nailing Deck | 5/8" CDX Plywood or Structural OSB | Solid fastening substrate for roofing shingles and screws |
+| **4 (Optional)** | Ventilation Cavity | 1.5" Cross-Ventilated Gap (2x4 Sleepers) | Cold-roof airflow matrix; exhausts solar heat & snowmelt vapor |
+| **5** | Continuous Thermal Barrier | Dual 2.0" Staggered Polyiso Boards (R-26) | Monolithic outboard insulation; breaks rafter thermal bridging |
+| **6** | Air & Vapor Barrier | Self-Adhered SBS Modified Bitumen Membrane | Class I vapor retarder; permanently seals ceiling plane air leaks |
+| **7** | Existing Substrate | Original Structural Roof Decking (Plank/OSB) | Interior support platform; remains warm and conditioned |
+| **8 (Base)** | Living Space | Exposed Cathedral Ceiling / Conditioned Volume | Uncompromised architectural volume maintained at 70°F |
+
+### The Primary Air & Vapor Barrier
+Once old shingles are stripped down to the original plywood or plank deck, trades thoroughly inspect and repair damaged wood. The entire roof deck is then covered with a **self-adhered SBS modified bitumen sheet membrane** (such as Grace Ice & Water Shield or Henry Blueskin PE200). 
+
+This membrane serves as the building's permanent airtight seal and Class I vapor retarder. Because it sits on the warm side of the new insulation, interior water vapor cannot bypass it, and the membrane will never experience condensation.
+
+### Staggered Continuous Rigid Insulation
+Install two layers of 2.0-inch **foil-faced polyisocyanurate (polyiso)** or high-density rigid stone wool (Rockwool TopRock). Two layers of 2-inch polyiso deliver **R-26 of continuous thermal resistance** with zero framing thermal breaks.
+
+- **Staggering Joints:** Install the first layer with horizontal joints running across the roof slope. Install the second layer with joints offset by a minimum of 12 inches in both directions. This staggered geometry prevents straight-through convective airflow loops between board edges.
+- **Taping Board Seams:** Seal all exterior foam joints with high-performance acrylic seam tape (such as Siga Wigluv or 3M 8067) to create a secondary backup drainage plane.
+
+### The Top Structural Nailing Deck
+Asphalt shingles and metal roofing cannot be fastened directly into soft foam insulation. A new structural deck of **5/8-inch CDX plywood or OSB** is placed over the insulation to provide a solid nailing base for the new roofing materials.
+
+---
+
+## Dew Point Math: IRC Section R806.5 Unvented Roof Rules
+
+When insulating above a roof deck, the assembly is classified under building code as an **unvented hot roof assembly**. To prevent interstitial condensation rot, the insulation design must comply with *IRC Section R806.5*.
+
+The building code rule is simple: **the condensing surface must be kept warm.**
+
+In an unvented roof, the "condensing surface" is the underside of the structural deck. During a sub-zero winter night when indoor living space sits at 70°F with 40% relative humidity, the indoor dew point temperature is **45.6°F**. If the underside of the structural deck drops below 45.6°F, condensation occurs.
+
+To prevent this, the code mandates a minimum ratio of exterior continuous rigid insulation relative to interior cavity insulation:
+
+| Climate Zone | Total Code Roof Target | Mandatory Minimum Above-Deck Rigid R-Value | Maximum Allowed Below-Deck Cavity R-Value |
+| :--- | :--- | :--- | :--- |
+| **Zone 4 (Central MO, Southern IL/IN)** | R-49 | **R-15 Rigid Foam Outboard** | R-34 Cavity Inboard |
+| **Zone 5 (IA, Northern IL, IN, OH, NE)** | R-60 | **R-20 Rigid Foam Outboard** | R-40 Cavity Inboard |
+| **Zone 6 (MN, WI, ND, Northern MI)** | R-60 | **R-25 Rigid Foam Outboard** | R-35 Cavity Inboard |
+
+*Reference: 2024 International Residential Code (IRC), Section R806.5 ("Unvented Attic and Unvented Enclosed Rafter Assemblies").*
+
+In cathedral ceilings where the rafters are completely exposed (such as timber-frame or post-and-beam construction), **100% of the insulation is outboard**. Installing two layers of 2.5-inch polyiso delivers R-32.5 entirely above the deck. Because there is zero insulation below the deck, the structural wood sheathing remains at roughly 65°F to 68°F year-round—completely eliminating any physical possibility of winter condensation rot.
+
+---
+
+## Engineering Fasteners & Eave Fascia Transitions
+
+Sandwiching four to five inches of rigid insulation between two sheets of structural plywood introduces structural engineering requirements that standard roofing crews rarely encounter.
+
+### Structural Timber Screws (Wind Uplift & Shear)
+Standard roofing nails or common wood screws do not possess the shear strength or pull-out resistance to hold a floating roof deck in place during high winds.
+
+- **Fastener Specification:** Specify heavy-duty, engineered structural timber screws (such as **FastenMaster HeadLOK** or **GRK RSS**) featuring a large-diameter pancake head and proprietary corrosion-resistant coating.
+- **Penetration Depth:** Screws must penetrate a minimum of **1-1/2 inches into the solid wood rafters** beneath the original structural deck. For a 4-inch foam assembly with a 5/8-inch top deck, use 6.5-inch or 7-inch structural screws.
+- **Fastening Pattern:** Drive screws in straight perpendicular rows directly over rafter centers at 12 inches on center in the roof field, tightening to 6 inches on center along eaves, rakes, and ridges to resist high localized wind uplift pressures under *ASCE 7-22*.
+
+### Fascia and Gutter Height Geometry
+Adding four inches of rigid foam and 5/8-inch plywood raises the finished roof plane by approximately 4.75 to 5 inches:
+
+- **Bevel-Cut Eave Blocks:** Install solid 2x4 or 2x6 treated blocking along the eave edge, fastened directly into the rafter tails to create a structural termination stop that resists downward gravitational creep of the foam.
+- **Sub-Fascia Extension:** Extend the exterior fascia board upward using custom aluminum trim coil or composite fascia cladding to conceal the extra thickness.
+- **Gutter Repositioning:** Mount gutters to the new extended sub-fascia so that the top gutter lip sits 1/2-inch below the extended roof drip edge, ensuring rooftop snow cascades over the gutter rather than ripping it off the building.
+
+---
+
+## Specification Benchmark: Above-Deck Roof Retrofit
+
+The following table summarizes the complete material specification for an engineered exterior over-sheathing retrofit in Midwest Climate Zones 4 and 5:
+
+| Assembly Component | Recommended Material Specification | Code / Standard Reference | Engineering Function |
+| :--- | :--- | :--- | :--- |
+| **Existing Deck Preparation** | Cleaned 1/2" CDX, OSB, or 2x Plank | APA EWS Standards | Structural foundation for roof assembly |
+| **Air & Vapor Barrier** | Self-Adhered SBS Modified Bitumen | ASTM D1970 / ASTM E2178 | 100% airtight ceiling seal (< 0.02 L/s·m²) |
+| **Rigid Continuous Layer** | **Two Layers 2" Polyiso (R-26 Total)** | ASTM C1289 (Type II, Class 1) | Halts thermal bridging; keeps deck warm |
+| **Seam Air Seal** | High-Performance Acrylic Seam Tape | AAMA 711 / ASTM D3330 | Blocks convective air bypasses between foam boards |
+| **Structural Fasteners** | Heavy-Duty Structural Screws (HeadLOK) | ICC-ES ESR-1078 | Resists 115+ MPH design wind uplift |
+| **Top Nailing Sheathing** | 5/8" CDX Plywood or Exposure 1 OSB | APA PS 1-19 / PS 2-10 | Solid substrate for shingles; transfers lateral load |
+| **Secondary Underlayment** | Synthetic High-Temp Roofing Felt | ASTM D226 / ASTM D4869 | Water-shedding protective barrier |
+| **Finished Roofing** | Architectural Asphalt or Standing Seam Metal | ASTM D3462 / UL 2218 Class 4 | Primary impact and weather resistance |
+
+---
+
+## Engineering & Lifecycle Economic Baseline
+
+An exterior continuous over-sheathing assembly adds approximately $4.25 to $6.50 per square foot over baseline shingle tear-off costs. This expenditure covers two layers of staggered 2-inch polyiso (R-26), heavy-duty HeadLOK structural timber fasteners, perimeter eave blocking, and a top 5/8-inch CDX structural nailing deck.
+
+By moving the original roof deck inboard of the continuous insulation, the structural framing and interior ceiling planks remain at a stable 68°F year-round. This thermal boundary continuity eliminates the condensing plane entirely, preventing seasonal moisture cycling and rot over the 30-year design life of the cladding.
+
+In contrast, attempting to insulate from below requires demolishing finished interior drywall or historic cedar planking, costing $16,000 to $24,000 while leaving rafter thermal bridges unaddressed. Outboard over-sheathing delivers true continuous thermal resistance that halts winter ice damming and reduces cathedral heating loads by 30% to 38%.
+
+---
+
+### Verifiable Standards & Technical Sources
+
+1. **International Code Council (ICC):** 
+   - *2024 International Residential Code (IRC):* Section R806.5 ("Unvented Attic and Unvented Enclosed Rafter Assemblies").
+   - *2024 International Energy Conservation Code (IECC):* Table R402.1.3 (Roof Insulation Targets for Climate Zones 4, 5, and 6).
+2. **Building Science Corporation (BSC):** *Digest 102: Understanding Attic and Roof Ventilation*, Dr. Joseph Lstiburek, P.Eng.
+3. **APA – The Engineered Wood Association:** *Technical Note EWS Q220: Fastener Uplift Capacity and Load-Duration Factors for Structural Wood Sheathing Over Rigid Foam*.
+4. **ASTM International:**
+   - *ASTM C1289:* Standard Specification for Faced Rigid Cellular Polyisocyanurate Thermal Insulation Board.
+   - *ASTM D1970:* Standard Specification for Self-Adhering Polymer Modified Bituminous Sheet Materials.
+5. **Oak Ridge National Laboratory (ORNL):** *Hytherthermal Analysis of Over-Deck Continuous Insulation Assemblies in Severe Cold Climates*, Building Technologies Research Center.
+
+---
+
+### Related Building Science Guides
+- **Roof Ice Dam Mechanics:** &rarr; **[Read: The Physics of Midwest Ice Dams: The Real Fix (And Why Heat Cables Don't Work)](ice-dams-roofs.html)**
+- **Attic Air Sealing & Baffling Tutorial:** &rarr; **[Read: Attic Air Sealing & Eave Baffling: The Step-by-Step Cold Roof Retrofit](attic-air-sealing-baffles.html)**
+- **Exterior Wall Thermal Breaks:** &rarr; **[Read: Continuous Exterior Insulation: Why R-5 Outboard Beats R-20 Cavity in Freeze-Thaw Climates](continuous-insulation.html)**
+- **Winter Utility Tariffs & Thermal Chimneys:** &rarr; **[Read: Winter Tariff Hikes: Why $20k on Windows Doesn't Hold Up](energy-hikes.html)**
+- **Post-Frame Residential Assemblies:** &rarr; **[Read: Barndominium & Post-Frame Thermal Envelopes: Zone 5 Condensation Control](barndominium-post-frame.html)**
+- **Cavity Insulation Density & Looping:** &rarr; **[Read: Does Rockwool Outperform Fiberglass? How Each Holds Up in Midwest Wall Assemblies](rockwool-vs-fiberglass.html)**
+
+
+
+---
+
+## Verified Professional Referral & Contractor Estimates
+For building-science certified execution, structural repairs, or verified trade estimates in your local jurisdiction, visit:
+-> [Compare Vetted Local Contractors via Midwest AEC](https://midwestaec.com/articles/roof-insulation-over-sheathing.html)

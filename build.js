@@ -860,6 +860,37 @@ var miaecData = ${JSON.stringify(databaseRecords, null, 2)};
 
   fs.writeFileSync(sitemapPath, xml, 'utf8');
   console.log(`✓ Generated sitemap.xml with ${sitemapUrls.length} URLs!`);
+
+  // Write rss.xml (RSS 2.0 Syndication Feed)
+  const rssPath = path.join(__dirname, 'rss.xml');
+  const nowRfc = new Date().toUTCString();
+  let rssXml = `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MidwestAEC™ — Building Science &amp; Envelope Specifications</title>
+    <link>https://midwestaec.com</link>
+    <description>Curated building science specifications, cold-climate envelope assemblies, and architectural trade engineering for Climate Zones 4 and 5.</description>
+    <language>en-us</language>
+    <lastBuildDate>${nowRfc}</lastBuildDate>
+    <atom:link href="https://midwestaec.com/rss.xml" rel="self" type="application/rss+xml" />
+`;
+
+  databaseRecords.forEach(r => {
+    const cleanTitle = (r.title || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    const cleanDesc = (r.summary || r.subtitle || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    const itemUrl = `https://midwestaec.com/${r.url}`;
+    rssXml += `    <item>
+      <title>${cleanTitle}</title>
+      <link>${itemUrl}</link>
+      <guid isPermaLink="true">${itemUrl}</guid>
+      <description>${cleanDesc}</description>
+      <category>${(r.category || 'Building Science').replace(/&/g, '&amp;')}</category>
+    </item>\n`;
+  });
+
+  rssXml += `  </channel>\n</rss>\n`;
+  fs.writeFileSync(rssPath, rssXml, 'utf8');
+  console.log(`✓ Generated rss.xml with ${databaseRecords.length} specifications!`);
 }
 
 build();

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MidwestAEC™ — Building Science &amp; Envelope Specifications</title>
+    <link>https://midwestaec.com</link>
+    <description>Curated building science specifications, cold-climate envelope assemblies, and architectural trade engineering for Climate Zones 4 and 5.</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Oct 2026 01:07:22 GMT</lastBuildDate>
+    <atom:link href="https://midwestaec.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Attic Air Sealing &amp; Eave Baffling: The Step-by-Step Cold Roof Retrofit</title>
+      <link>https://midwestaec.com/articles/attic-air-sealing-baffles.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/attic-air-sealing-baffles.html</guid>
+      <description>Attic air sealing and eave baffles stop winter ice dams permanently. Step-by-step guide to sealing top plate bypasses and installing R-60 under IECC R402.</description>
+      <category>Roofing</category>
+    </item>
+    <item>
+      <title>The Attic Snow Cave: Diagnosing Winter Hoarfrost, Sweating Roof Sheathing &amp; False Spring Leaks</title>
+      <link>https://midwestaec.com/articles/attic-frost-roof-sweating.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/attic-frost-roof-sweating.html</guid>
+      <description>Attic frost and sweating roof sheathing: Why bypass air leaks freeze into winter hoarfrost, and how to stop false spring ceiling leaks under IRC R806.</description>
+      <category>Roofing</category>
+    </item>
+    <item>
+      <title>How to Firestop &amp; Air-Seal Historic Balloon Framing: The Step-by-Step Retrofit</title>
+      <link>https://midwestaec.com/articles/balloon-framing-retrofit-steps.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/balloon-framing-retrofit-steps.html</guid>
+      <description>How to firestop balloon framing: Step-by-step retrofit guide to installing mineral wool blocks and intumescent mastic to stop chimney drafts under IRC R302.</description>
+      <category>Urban Development</category>
+    </item>
+    <item>
+      <title>Balloon Framing Air Leaks: How to Firestop and Seal the Chimney Effect in Pre-1940s Homes</title>
+      <link>https://midwestaec.com/articles/balloon-framing.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/balloon-framing.html</guid>
+      <description>Balloon framing air leaks act as open chimneys in pre-1940s homes. Learn how to air-seal open stud bays and install code-approved IRC R302.11 firestops.</description>
+      <category>Urban Development</category>
+    </item>
+    <item>
+      <title>Barndominium &amp; Post-Frame Thermal Envelopes: Zone 5 Condensation Control</title>
+      <link>https://midwestaec.com/articles/barndominium-post-frame.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/barndominium-post-frame.html</guid>
+      <description>Barndominium insulation and condensation control: How to detail continuous outboard foam and ventilated rainscreens to prevent rotting posts under IBC 1404.</description>
+      <category>Rural Development</category>
+    </item>
+    <item>
+      <title>Why '100% Waterproof' Basement LVP Flooring Fails: Sub-Slab Vapor Pressure, MVER &amp; Concrete Condensation</title>
+      <link>https://midwestaec.com/articles/basement-lvp-flooring-moisture.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/basement-lvp-flooring-moisture.html</guid>
+      <description>Basement LVP flooring moisture: Why waterproof vinyl buckles over concrete slabs, and how to test MVER under ASTM F1869 with Class A vapor retarders.</description>
+      <category>Water Barriers</category>
+    </item>
+    <item>
+      <title>Why Water Enters Midwest Basements After Heavy Rain: Hydrostatic Head and Under-Slab Vapor Barriers</title>
+      <link>https://midwestaec.com/articles/basement-waterproofing.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/basement-waterproofing.html</guid>
+      <description>Basement waterproofing after heavy rain: How expansive clay funnels hydrostatic head pressure through cove joints, and the ASTM E1745 Class A barrier fix.</description>
+      <category>Water Barriers</category>
+    </item>
+    <item>
+      <title>How to Pass the Blower Door Test (&lt; 3.0 ACH50) on a Midwest Remodel</title>
+      <link>https://midwestaec.com/articles/blower-door-checklist.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/blower-door-checklist.html</guid>
+      <description>Pass the blower door test on your remodel: A contractor checklist for hitting &lt; 3.0 ACH50 under IECC R402.4 by air-sealing top plates and rim joists.</description>
+      <category>Air Barriers</category>
+    </item>
+    <item>
+      <title>Rural Bug &amp; Pest Prevention: Termite Shields, Carpenter Ants &amp; Perimeter Envelopes</title>
+      <link>https://midwestaec.com/articles/bug-prevention.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/bug-prevention.html</guid>
+      <description>Pest prevention starts at the building envelope: How air-sealing rim joists, weep screens, and sill gaskets stops insects and termites under IRC P2605.</description>
+      <category>Rural Development</category>
+    </item>
+    <item>
+      <title>Can a Heat Pump Actually Handle -15°F? Cold-Climate Inverters During Midwest Winters</title>
+      <link>https://midwestaec.com/articles/cold-climate-heat-pumps.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/cold-climate-heat-pumps.html</guid>
+      <description>Cold-climate heat pumps at -20°F: How inverter vapor-injection and R744 transcritical cycles eliminate electric strips and cut winter heating bills in Zone 5.</description>
+      <category>HVAC</category>
+    </item>
+    <item>
+      <title>Continuous Exterior Insulation: Why R-5 Outboard Beats R-20 Cavity in Freeze-Thaw Climates</title>
+      <link>https://midwestaec.com/articles/continuous-insulation.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/continuous-insulation.html</guid>
+      <description>Continuous exterior insulation on 2x6 walls: Calculate dew point planes, prevent sheathing condensation, and eliminate thermal bridging under IRC R702.</description>
+      <category>Efficient Systems</category>
+    </item>
+    <item>
+      <title>How to Encapsulate a Crawl Space: The Step-by-Step Conversion Guide</title>
+      <link>https://midwestaec.com/articles/crawlspace-encapsulation-steps.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/crawlspace-encapsulation-steps.html</guid>
+      <description>How to do crawl space encapsulation under IRC R408.3: Step-by-step contractor manual for 20-mil Class A liners, exterior vent sealing, and commercial dehumidification.</description>
+      <category>Water Barriers</category>
+    </item>
+    <item>
+      <title>Crawlspace Encapsulation vs. Open Venting in the Midwest: Mold, Odors &amp; Heating Costs</title>
+      <link>https://midwestaec.com/articles/crawlspace-encapsulation.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/crawlspace-encapsulation.html</guid>
+      <description>Crawl space encapsulation vs vented dirt floors: Why 20-mil sealed liners and commercial dehumidifiers cut floor rot and mold risk under IRC Section R408.</description>
+      <category>Water Barriers</category>
+    </item>
+    <item>
+      <title>Does an Old House Need to Breathe? The Building Science of Stack Pressure, Infiltration Rot &amp; ERVs</title>
+      <link>https://midwestaec.com/articles/does-house-need-to-breathe.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/does-house-need-to-breathe.html</guid>
+      <description>Does a house need to breathe? The building science truth behind controlled mechanical ventilation (ERV/HRV) vs uncontrolled wall rot under ASHRAE 62.2.</description>
+      <category>Air Barriers</category>
+    </item>
+    <item>
+      <title>Embodied Carbon &amp; Bio-Based Insulation: Decarbonizing Midwest Envelopes</title>
+      <link>https://midwestaec.com/articles/embodied-carbon-materials.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/embodied-carbon-materials.html</guid>
+      <description>Low carbon insulation specifications: Compare the cradle-to-gate carbon footprint of dense-pack cellulose, wood-fiber board, and stone wool for Climate Zone 5.</description>
+      <category>Go Green</category>
+    </item>
+    <item>
+      <title>Winter Tariff Hikes: Why $20k on Windows Doesn't Hold Up</title>
+      <link>https://midwestaec.com/articles/energy-hikes.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/energy-hikes.html</guid>
+      <description>Winter utility rate hikes: How air-sealing attic bypasses and setting heat pump balance points protects homeowners against 20–40% Midwest rate surges.</description>
+      <category>Efficient Systems</category>
+    </item>
+    <item>
+      <title>Expansive Lawncare &amp; Acreage Grading: Swales, Prairie Buffers &amp; Soil Drainage</title>
+      <link>https://midwestaec.com/articles/expansive-lawncare.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/expansive-lawncare.html</guid>
+      <description>Expansive clay soils and foundation cracking: How seasonal moisture swings cause basement settlement, and the soaker hose watering rule to prevent cracks.</description>
+      <category>Rural Development</category>
+    </item>
+    <item>
+      <title>The False Spring Thaw: Why Your Attic Rains, Your Basement Sweats, and Your Winter Bills Spiked</title>
+      <link>https://midwestaec.com/articles/false-spring-envelope-thaw.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/false-spring-envelope-thaw.html</guid>
+      <description>False spring freeze-thaw cycles: How 50°F daytime thaws and sub-zero nights tear gutters, crack masonry, and cause hidden ceiling leaks in Climate Zone 5.</description>
+      <category>Envelope</category>
+    </item>
+    <item>
+      <title>How to Safely Insulate Historic Solid Brick: The Interior Retrofit Blueprint</title>
+      <link>https://midwestaec.com/articles/historic-brick-retrofit-steps.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/historic-brick-retrofit-steps.html</guid>
+      <description>How to insulate historic brick walls safely: Step-by-step interior retrofit detailing 2-inch continuous smart vapor retarders and lime mortar repointing.</description>
+      <category>Urban Development</category>
+    </item>
+    <item>
+      <title>The Physics of Midwest Ice Dams: The Real Fix (And Why Heat Cables Don't Work)</title>
+      <link>https://midwestaec.com/articles/ice-dams-roofs.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/ice-dams-roofs.html</guid>
+      <description>Ice dams on roofs: The thermodynamic physics of attic heat loss, and how continuous air-sealing and ice-and-water shield prevent gutter dam roof leaks.</description>
+      <category>Roofing</category>
+    </item>
+    <item>
+      <title>ICF (Insulated Concrete Forms) for Midwest Basements: Eliminating Moisture &amp; Freezing Walls</title>
+      <link>https://midwestaec.com/articles/icf-basements-walls.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/icf-basements-walls.html</guid>
+      <description>ICF basement foundations deliver continuous R-22+ insulation with zero moisture wicking. Compare poured concrete vs. insulated concrete forms cost and IRC R404 specs.</description>
+      <category>Envelopes</category>
+    </item>
+    <item>
+      <title>Insulating 100-Year-Old Brick Homes: Freeze-Thaw Spalling and Interior Vapor Retarders</title>
+      <link>https://midwestaec.com/articles/insulating-brick.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/insulating-brick.html</guid>
+      <description>Clay insulating brick retrofits: Why interior insulation causes historic brick spalling in sub-zero winters, and the hygrothermal blueprint to do it safely.</description>
+      <category>Urban Development</category>
+    </item>
+    <item>
+      <title>Rural Off-Grid Systems in Zone 5: Propane, Battery Backup &amp; Freeze-Proof Wells</title>
+      <link>https://midwestaec.com/articles/off-grid-systems.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/off-grid-systems.html</guid>
+      <description>Off-grid solar and battery storage in Zone 5: How to size LiFePO4 batteries and low-temperature inverters to survive 5 straight days of sub-zero cloud cover.</description>
+      <category>Rural Development</category>
+    </item>
+    <item>
+      <title>The Midwest Rammed Earth Paradox: Thermal Mass, Freeze-Thaw Spalling &amp; The Sub-Slab Flooring Matrix</title>
+      <link>https://midwestaec.com/articles/rammed-earth-midwest-flooring.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/rammed-earth-midwest-flooring.html</guid>
+      <description>Rammed earth and earthen floors in Zone 5: Why uninsulated earth provides only R-3.6, and how to detail Stabilized Insulated Rammed Earth (SIRE) under IRC R402.</description>
+      <category>Envelope</category>
+    </item>
+    <item>
+      <title>Does Rockwool Outperform Fiberglass? How Each Holds Up in Midwest Wall Assemblies</title>
+      <link>https://midwestaec.com/articles/rockwool-vs-fiberglass.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/rockwool-vs-fiberglass.html</guid>
+      <description>Rockwool vs. fiberglass insulation: Compare R-values (R-4.2 vs R-3.2), fire resistance, soundproofing, and sub-zero convective derating in Midwest walls.</description>
+      <category>Go Green</category>
+    </item>
+    <item>
+      <title>Adding Continuous Insulation When Replacing Your Roof: Over-Sheathing Cathedral Ceilings</title>
+      <link>https://midwestaec.com/articles/roof-insulation-over-sheathing.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/roof-insulation-over-sheathing.html</guid>
+      <description>Roof insulation over sheathing: How adding continuous rigid polyiso or stone wool above cathedral rafters stops ice dams and cuts drafts under IRC R806.5.</description>
+      <category>Roofing</category>
+    </item>
+    <item>
+      <title>SIPs (Structural Insulated Panels) in Zone 5: Total Cost vs. Traditional Stick Framing</title>
+      <link>https://midwestaec.com/articles/sips-vs-traditional-framing.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/sips-vs-traditional-framing.html</guid>
+      <description>SIPs vs. traditional stick framing in Zone 5: Compare total build costs, sub-1.0 ACH50 airtightness, crane labor savings, and HVAC downsizing under IRC R610.</description>
+      <category>Envelopes</category>
+    </item>
+    <item>
+      <title>Smart Vapor Retarders vs. 6-Mil Plastic: Why Polyethylene Traps Mold in Midwest Summers</title>
+      <link>https://midwestaec.com/articles/smart-vapor-retarders.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/smart-vapor-retarders.html</guid>
+      <description>Smart vapor retarders vs. 6-mil plastic: Why polyethylene traps summer mold behind drywall, and how variable-perm membranes breathe under IRC Section R702.7.</description>
+      <category>Air Barriers</category>
+    </item>
+    <item>
+      <title>Below-Slab and Rim Joist Foam Spec: Stopping Frost-Heave and Basement Heat Loss</title>
+      <link>https://midwestaec.com/articles/sub-slab-insulation-specs.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/sub-slab-insulation-specs.html</guid>
+      <description>Below grade insulation &amp; sub-slab specs: ASTM E1745 Class A vapor retarders, ASTM E1643 installation practice, and high-density Type IX EPS vs XPS under ASTM C578.</description>
+      <category>Efficient Systems</category>
+    </item>
+    <item>
+      <title>The Midwest Summer Humidity Trap: Why High-Efficiency AC Leaves Your Basement Cold &amp; Clammy</title>
+      <link>https://midwestaec.com/articles/summer-humidity-ac.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/summer-humidity-ac.html</guid>
+      <description>Oversized AC and basement humidity: Why short-cycling high-efficiency air conditioners leave rooms cold and clammy, and how to fix SHR under ACCA Manual S.</description>
+      <category>HVAC</category>
+    </item>
+    <item>
+      <title>When Replacing Windows Actually Makes Sense (And What Specifications to Demand)</title>
+      <link>https://midwestaec.com/articles/when-to-replace-windows.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/when-to-replace-windows.html</guid>
+      <description>When to replace windows: 4 structural failure triggers that justify the 30-year payback. How to diagnose blown IGU seals and fix drafty frames for 1/4 the cost.</description>
+      <category>Efficient Systems</category>
+    </item>
+    <item>
+      <title>Window Replacement Alternatives: How Low-E Storms &amp; Air Sealing Deliver 80% Performance at 1/10th the Cost</title>
+      <link>https://midwestaec.com/articles/window-alternatives.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/window-alternatives.html</guid>
+      <description>Window replacement alternatives: How Low-E storm panels and weight-pocket air sealing deliver 80% of new window thermal efficiency for under ,500.</description>
+      <category>Efficient Systems</category>
+    </item>
+  </channel>
+</rss>

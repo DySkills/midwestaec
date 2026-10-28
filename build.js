@@ -18,21 +18,21 @@ const SUPPRESS_IMAGES = true;
 // AFFILIATE INTEGRATIONS & LEAD ENGINE
 // ==========================================
 // Networx Affiliate ID (provided by rep Josh upon onboarding)
-// Example format from PickHVAC partner: aff_id=471684d6c43cfc529b30d600113dae63
-const NETWORX_AFF_ID = null; // Staged: set to live partner ID when received
+// Live partner ID: 80e4e458131f4edc49cacad3ec586437
+const NETWORX_AFF_ID = '80e4e458131f4edc49cacad3ec586437';
 
-// Category-specific Networx form IDs (or universal default)
+// Category-specific Networx form IDs mapped to user intent
 const NETWORX_TRADE_MAP = {
-  'roofing': 2215,
-  'hvac': 2215,
-  'water-barriers': 2215,
-  'air-barriers': 2215,
-  'efficient-systems': 2215,
-  'envelopes': 2215,
-  'urban-development': 2215,
-  'rural-development': 2215,
-  'go-green': 2215,
-  'default': 2215
+  'roofing': 8213,           // Roofing, Gutters & Flashing
+  'hvac': 8211,              // HVAC & Heat Pumps
+  'water-barriers': 8212,    // Concrete Foundations, Basements & Waterproofing
+  'air-barriers': 8215,      // Insulation & Air Sealing
+  'envelopes': 8214,         // Windows, Siding & Exterior Envelope
+  'efficient-systems': 8211, // High-Efficiency HVAC & Inverters
+  'urban-development': 8216, // AEC All-Trades Master
+  'rural-development': 8216, // AEC All-Trades Master
+  'go-green': 8216,          // AEC All-Trades Master
+  'default': 8216            // Universal AEC Master
 };
 
 function renderContractorCTA(frontmatter, citiesStr) {
@@ -51,8 +51,10 @@ function renderContractorCTA(frontmatter, citiesStr) {
       <p class="text-slate-600 text-sm mt-2 font-sans leading-relaxed mb-6">
         Connect with licensed, building-science trained contractors serving ${citiesStr}. No obligation, free project estimates.
       </p>
-      <div class="networx-embed-container min-h-[300px]">
-        <script type="text/javascript" src="https://api.networx.com/iframe.php?aff_id=${NETWORX_AFF_ID}&aff_to_form_id=${formId}"></script>
+      <div id="networx_form_container" style="margin:0px;padding:0px;" class="w-full">
+        <div id="nx_form" style="height: 660px;">
+          <script type="text/javascript" src="https://api.networx.com/iframe.php?aff_id=${NETWORX_AFF_ID}&aff_to_form_id=${formId}"></script>
+        </div>
       </div>
     </div>`;
   }

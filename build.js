@@ -893,6 +893,15 @@ var miaecData = ${JSON.stringify(databaseRecords, null, 2)};
   rssXml += `  </channel>\n</rss>\n`;
   fs.writeFileSync(rssPath, rssXml, 'utf8');
   console.log(`✓ Generated rss.xml with ${databaseRecords.length} specifications!`);
+
+  if (process.argv.includes('--submit')) {
+    console.log('\n📡 Auto-submitting fresh URLs to Bing Webmaster API...');
+    try {
+      require('./scripts/submit-bing-urls.js');
+    } catch (e) {
+      console.warn('Note: URL submission script skipped:', e.message);
+    }
+  }
 }
 
 build();

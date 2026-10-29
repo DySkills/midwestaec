@@ -218,6 +218,47 @@ var miaecData = [
     "url": "articles/barndominium-post-frame.html"
   },
   {
+    "title": "Legal Basement Finishing: Cutting Egress Windows in Poured Concrete, IRC R310 Codes & Slab Framing",
+    "subtitle": "Adding legal living space to a Midwest basement requires cutting through 8 inches of steel-reinforced concrete. Here is the forensic engineering guide to IRC Section R310 compliance, diamond saw cutting, point load lintels, and frost-depth window well drainage.",
+    "format": "Report",
+    "leadType": "Fact-First",
+    "category": "Envelope",
+    "catSlug": "envelopes",
+    "cities": [
+      "Chicago",
+      "Cincinnati",
+      "Cleveland",
+      "Columbus",
+      "Des Moines",
+      "Detroit",
+      "Indianapolis",
+      "Kansas City",
+      "Milwaukee",
+      "Minneapolis",
+      "Omaha",
+      "Peoria",
+      "Rockford",
+      "South Bend",
+      "St. Louis"
+    ],
+    "states": [
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "MI",
+      "MN",
+      "MO",
+      "NE",
+      "OH",
+      "WI"
+    ],
+    "summary": "Turning an unfinished basement into a legal bedroom or recreation room is the highest-ROI square footage addition in the Midwest. But building inspectors will red-tag any space without code-compliant emergency egress. We break down IRC Section R310 dimensions (5.7 sq ft net clear opening), diamond wet sawing through 8-inch reinforced concrete, structural steel lintel sizing, and why connecting window well drains to perimeter footing tiles prevents basement floods.",
+    "codeTag": "IRC Section R310 / ASTM C39 / ACI 318",
+    "type": "Report",
+    "url": "articles/basement-egress-window-cutting.html"
+  },
+  {
     "title": "Why '100% Waterproof' Basement LVP Flooring Fails: Sub-Slab Vapor Pressure, MVER & Concrete Condensation",
     "subtitle": "An engineering teardown of below-grade moisture vapor emissions (MVER), why concrete thermal mass causes condensation under vinyl planks, and the sub-slab assembly that prevents cupping.",
     "format": "Report",

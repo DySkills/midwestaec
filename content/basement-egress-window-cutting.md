@@ -194,7 +194,7 @@ If you are planning to cut an egress window or finish a basement, execute this c
 Concrete cutting, structural header installation, and foundation drain tile tie-ins require heavy commercial equipment and licensed trades:
 * &rarr; [Find Vetted Concrete Cutting & Basement Egress Specialists](../browse.html?cat=water-barriers)
 * &rarr; [Connect with Regional Basement Waterproofing & Remodeling Pros](../browse.html?cat=envelopes)
-* &rarr; [Review All 32 MidwestAEC™ Building Science Specifications](../browse.html?cat=all)
+* &rarr; [Review All 33 MidwestAEC™ Building Science Specifications](../browse.html?cat=all)
 
 ---
 

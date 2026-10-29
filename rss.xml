@@ -5,7 +5,7 @@
     <link>https://midwestaec.com</link>
     <description>Curated building science specifications, cold-climate envelope assemblies, and architectural trade engineering for Climate Zones 4 and 5.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 23:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 18:52:04 GMT</lastBuildDate>
     <atom:link href="https://midwestaec.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Attic Air Sealing &amp; Eave Baffling: The Step-by-Step Cold Roof Retrofit</title>
@@ -41,6 +41,13 @@
       <guid isPermaLink="true">https://midwestaec.com/articles/barndominium-post-frame.html</guid>
       <description>Barndominium insulation and condensation control: How to detail continuous outboard foam and ventilated rainscreens to prevent rotting posts under IBC 1404.</description>
       <category>Rural Development</category>
+    </item>
+    <item>
+      <title>Legal Basement Finishing: Cutting Egress Windows in Poured Concrete, IRC R310 Codes &amp; Slab Framing</title>
+      <link>https://midwestaec.com/articles/basement-egress-window-cutting.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/basement-egress-window-cutting.html</guid>
+      <description>Turning an unfinished basement into a legal bedroom or recreation room is the highest-ROI square footage addition in the Midwest. But building inspectors will red-tag any space without code-compliant emergency egress. We break down IRC Section R310 dimensions (5.7 sq ft net clear opening), diamond wet sawing through 8-inch reinforced concrete, structural steel lintel sizing, and why connecting window well drains to perimeter footing tiles prevents basement floods.</description>
+      <category>Envelope</category>
     </item>
     <item>
       <title>Why '100% Waterproof' Basement LVP Flooring Fails: Sub-Slab Vapor Pressure, MVER &amp; Concrete Condensation</title>

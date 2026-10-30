@@ -845,6 +845,47 @@ var miaecData = [
     "url": "articles/historic-brick-retrofit-steps.html"
   },
   {
+    "title": "How to Know If You Need an ICF Basement: The 6-Point Inspection Checklist & When to Retrofit",
+    "subtitle": "Grab a flashlight and a weighted string. Here is the homeowner diagnostic checklist for identifying foundation deflection, cold thermal bridging, and hydrostatic pressure—plus when to upgrade to Insulated Concrete Forms.",
+    "format": "Report",
+    "leadType": "Fact-First",
+    "category": "Water Barriers",
+    "catSlug": "water-barriers",
+    "cities": [
+      "Chicago",
+      "Cincinnati",
+      "Cleveland",
+      "Columbus",
+      "Des Moines",
+      "Detroit",
+      "Indianapolis",
+      "Kansas City",
+      "Milwaukee",
+      "Minneapolis",
+      "Omaha",
+      "Peoria",
+      "Rockford",
+      "South Bend",
+      "St. Louis"
+    ],
+    "states": [
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "MI",
+      "MN",
+      "MO",
+      "NE",
+      "OH",
+      "WI"
+    ],
+    "summary": "Unfinished Midwest basements tell clear visual stories if you know what to look for. From horizontal mortar cracks caused by expanding clay soil to white chalky efflorescence and freezing perimeter walls, we break down the 6-point DIY basement inspection checklist. Learn when an existing home warrants an ICF addition or replacement, how monolithic concrete eliminates moisture intrusion, and why structural diagnostics always require licensed professional verification.",
+    "codeTag": "ACI 332 / IRC Section R404 / ASTM C578",
+    "type": "Report",
+    "url": "articles/how-to-know-if-you-need-icf-basement.html"
+  },
+  {
     "title": "The Physics of Midwest Ice Dams: The Real Fix (And Why Heat Cables Don't Work)",
     "subtitle": "Why zigzag cables and roof rakes fail to stop interior leaks, the thermodynamics of 32°F melting planes, and how balanced cold roofs establish thermal equilibrium.",
     "format": "Feature",

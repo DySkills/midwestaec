@@ -17,5 +17,8 @@
   "license": "MIT",
   "devDependencies": {
     "googleapis": "^187.0.0"
+  },
+  "dependencies": {
+    "google-trends-api": "^4.9.2"
   }
 }

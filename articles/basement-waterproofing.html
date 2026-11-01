@@ -5,18 +5,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
   <!-- Primary SEO Tags -->
-  <title>Why Water Enters Midwest Basements After Heavy Rain: Hydrostatic Head and Under-Slab Vapor Barriers | Midwest AEC</title>
+  <title>Why Water Enters Basements After Heavy Rain: The Hydrostatic Fix | Midwest AEC</title>
   <meta name="description" content="Basement waterproofing after heavy rain: How expansive clay funnels hydrostatic head pressure through cove joints, and the ASTM E1745 Class A barrier fix.">
   <meta name="keywords" content="Water Barriers, Midwest building science, Climate Zone 5, ASTM E1745 Class A / ACI 302.2R / IRC Section R405.1, residential construction, thermal boundary, energy efficiency">
   <link rel="canonical" href="https://midwestaec.com/articles/basement-waterproofing.html">
-  <link rel="alternate" type="text/markdown" href="https://midwestaec.com/articles/basement-waterproofing.md" title="Why Water Enters Midwest Basements After Heavy Rain: Hydrostatic Head and Under-Slab Vapor Barriers (Markdown for AI Agents)">
+  <link rel="alternate" type="text/markdown" href="https://midwestaec.com/articles/basement-waterproofing.md" title="Why Water Enters Basements After Heavy Rain: The Hydrostatic Fix (Markdown for AI Agents)">
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="article">
   <meta property="og:site_name" content="Midwest AEC Building Science">
   <meta property="og:url" content="https://midwestaec.com/articles/basement-waterproofing.html">
-  <meta property="og:title" content="Why Water Enters Midwest Basements After Heavy Rain: Hydrostatic Head and Under-Slab Vapor Barriers">
+  <meta property="og:title" content="Why Water Enters Basements After Heavy Rain: The Hydrostatic Fix">
   <meta property="og:description" content="Basement waterproofing after heavy rain: How expansive clay funnels hydrostatic head pressure through cove joints, and the ASTM E1745 Class A barrier fix.">
   <meta property="article:published_time" content="2026-10-01T08:00:00Z">
   <meta property="article:modified_time" content="2026-10-19T18:00:00Z">
@@ -26,7 +26,7 @@
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary">
   <meta name="twitter:url" content="https://midwestaec.com/articles/basement-waterproofing.html">
-  <meta name="twitter:title" content="Why Water Enters Midwest Basements After Heavy Rain: Hydrostatic Head and Under-Slab Vapor Barriers">
+  <meta name="twitter:title" content="Why Water Enters Basements After Heavy Rain: The Hydrostatic Fix">
   <meta name="twitter:description" content="Basement waterproofing after heavy rain: How expansive clay funnels hydrostatic head pressure through cove joints, and the ASTM E1745 Class A barrier fix.">
 
   <!-- AEO / VEO JSON-LD Structured Data -->
@@ -50,7 +50,7 @@
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Why Water Enters Midwest Basements After Heavy Rain: Hydrostatic Head and Under-Slab Vapor Barriers",
+      "name": "Why Water Enters Basements After Heavy Rain: The Hydrostatic Fix",
       "item": "https://midwestaec.com/articles/basement-waterproofing.html"
     }
   ]
@@ -60,7 +60,7 @@
 {
   "@context": "https://schema.org",
   "@type": "TechArticle",
-  "headline": "Why Water Enters Midwest Basements After Heavy Rain: Hydrostatic Head and Under-Slab Vapor Barriers",
+  "headline": "Why Water Enters Basements After Heavy Rain: The Hydrostatic Fix",
   "alternativeHeadline": "How the 'clay bowl' effect generates 500 lbs/sq.ft of hydrostatic head pressure, why cheap 6-mil poly shreds under aggregate, and the ASTM E1745 Class A defense for dry basements.",
   "description": "Basement waterproofing after heavy rain: How expansive clay funnels hydrostatic head pressure through cove joints, and the ASTM E1745 Class A barrier fix.",
   "inLanguage": "en-US",
@@ -204,7 +204,7 @@
 
     <!-- Article Title -->
     <h1 class="text-3xl sm:text-4xl lg:text-5xl font-bold text-navy font-serif tracking-tight leading-tight mb-3" itemprop="headline">
-      Why Water Enters Midwest Basements After Heavy Rain: Hydrostatic Head and Under-Slab Vapor Barriers
+      Why Water Enters Basements After Heavy Rain: The Hydrostatic Fix
     </h1>
 
     
@@ -427,6 +427,69 @@
         }
       });
     }
+  </script>
+  <!-- Zero-Bloat Behavioral Analytics & Readership Telemetry -->
+  <script>
+    (function() {
+      const pageSlug = 'basement-waterproofing';
+      const startTime = Date.now();
+      let maxScroll = 0;
+      const milestones = { 25: false, 50: false, 75: false, 100: false };
+
+      function getScrollPercent() {
+        const h = document.documentElement;
+        const b = document.body;
+        const st = 'scrollTop', sh = 'scrollHeight';
+        return Math.min(100, Math.round(((h[st] || b[st]) / ((h[sh] || b[sh]) - h.clientHeight)) * 100)) || 0;
+      }
+
+      function trackEvent(name, data) {
+        const payload = {
+          event: name,
+          slug: pageSlug,
+          timestamp: new Date().toISOString(),
+          data: data || {}
+        };
+        if (window.dataLayer && Array.isArray(window.dataLayer)) {
+          window.dataLayer.push(payload);
+        }
+        try {
+          const stored = JSON.parse(localStorage.getItem('miaec_telemetry') || '[]');
+          stored.push(payload);
+          if (stored.length > 50) stored.shift();
+          localStorage.setItem('miaec_telemetry', JSON.stringify(stored));
+        } catch(e) {}
+      }
+
+      window.addEventListener('scroll', function() {
+        const p = getScrollPercent();
+        if (p > maxScroll) maxScroll = p;
+        [25, 50, 75, 100].forEach(function(m) {
+          if (!milestones[m] && maxScroll >= m) {
+            milestones[m] = true;
+            trackEvent('scroll_depth', { depth: m });
+          }
+        });
+      }, { passive: true });
+
+      document.addEventListener('click', function(e) {
+        const link = e.target.closest('a');
+        if (!link) return;
+        const href = link.getAttribute('href') || '';
+        if (href.includes('networx') || link.closest('#networx_form_container')) {
+          trackEvent('quote_interaction', { href: href });
+        } else if (href.includes('articles/') || href.startsWith('../')) {
+          trackEvent('internal_navigation', { href: href });
+        }
+      });
+
+      window.addEventListener('visibilitychange', function() {
+        if (document.visibilityState === 'hidden') {
+          const dwellSec = Math.round((Date.now() - startTime) / 1000);
+          trackEvent('dwell_summary', { seconds: dwellSec, maxScroll: maxScroll });
+        }
+      });
+    })();
   </script>
 </body>
 </html>

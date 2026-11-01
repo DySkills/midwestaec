@@ -1,4 +1,4 @@
-# Smart Vapor Retarders vs. 6-Mil Plastic: Why Polyethylene Traps Mold in Midwest Summers
+# Smart Vapor Retarders vs 6-Mil Plastic: Stop Summer Wall Mold
 > **Publication:** Midwest AEC (https://midwestaec.com)
 > **Jurisdiction:** Climate Zones 4 & 5 (Midwest Residential & Commercial)
 > **Canonical Article:** https://midwestaec.com/articles/smart-vapor-retarders.html

@@ -1,5 +1,5 @@
 ---
-title: "Why Water Enters Midwest Basements After Heavy Rain: Hydrostatic Head and Under-Slab Vapor Barriers"
+title: "Why Water Enters Basements After Heavy Rain: The Hydrostatic Fix"
 slug: "basement-waterproofing"
 format: "Feature"
 leadType: "Fact-First"

@@ -1,5 +1,5 @@
 ---
-title: "Rural Bug & Pest Prevention: Termite Shields, Carpenter Ants & Perimeter Envelopes"
+title: "Pest Prevention at the Building Envelope: Termite Shields & Rim Joists"
 slug: "bug-prevention"
 format: "Report"
 leadType: "Fact-First"

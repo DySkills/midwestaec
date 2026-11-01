@@ -1,4 +1,4 @@
-# Why Water Enters Midwest Basements After Heavy Rain: Hydrostatic Head and Under-Slab Vapor Barriers
+# Why Water Enters Basements After Heavy Rain: The Hydrostatic Fix
 > **Publication:** Midwest AEC (https://midwestaec.com)
 > **Jurisdiction:** Climate Zones 4 & 5 (Midwest Residential & Commercial)
 > **Canonical Article:** https://midwestaec.com/articles/basement-waterproofing.html

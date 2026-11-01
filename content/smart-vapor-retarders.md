@@ -1,5 +1,5 @@
 ---
-title: "Smart Vapor Retarders vs. 6-Mil Plastic: Why Polyethylene Traps Mold in Midwest Summers"
+title: "Smart Vapor Retarders vs 6-Mil Plastic: Stop Summer Wall Mold"
 slug: "smart-vapor-retarders"
 format: "Report"
 leadType: "Contrast"

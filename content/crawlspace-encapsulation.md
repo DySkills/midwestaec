@@ -1,5 +1,5 @@
 ---
-title: "Crawlspace Encapsulation vs. Open Venting in the Midwest: Mold, Odors & Heating Costs"
+title: "Crawl Space Encapsulation vs Vented: Stop Mold & High Heating Bills"
 slug: "crawlspace-encapsulation"
 format: "Report"
 leadType: "Contrast"

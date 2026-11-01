@@ -302,7 +302,7 @@ var miaecData = [
     "url": "articles/basement-lvp-flooring-moisture.html"
   },
   {
-    "title": "Why Water Enters Midwest Basements After Heavy Rain: Hydrostatic Head and Under-Slab Vapor Barriers",
+    "title": "Why Water Enters Basements After Heavy Rain: The Hydrostatic Fix",
     "subtitle": "How the 'clay bowl' effect generates 500 lbs/sq.ft of hydrostatic head pressure, why cheap 6-mil poly shreds under aggregate, and the ASTM E1745 Class A defense for dry basements.",
     "format": "Feature",
     "leadType": "Fact-First",
@@ -388,7 +388,7 @@ var miaecData = [
     "url": "articles/blower-door-checklist.html"
   },
   {
-    "title": "Rural Bug & Pest Prevention: Termite Shields, Carpenter Ants & Perimeter Envelopes",
+    "title": "Pest Prevention at the Building Envelope: Termite Shields & Rim Joists",
     "subtitle": "Why chemical spraying fails, the physics of stainless steel weep screens and metal termite shields, and how keeping rim joists dry stops carpenter ants.",
     "format": "Report",
     "leadType": "Fact-First",
@@ -560,7 +560,7 @@ var miaecData = [
     "url": "articles/crawlspace-encapsulation-steps.html"
   },
   {
-    "title": "Crawlspace Encapsulation vs. Open Venting in the Midwest: Mold, Odors & Heating Costs",
+    "title": "Crawl Space Encapsulation vs Vented: Stop Mold & High Heating Bills",
     "subtitle": "Why code-mandated foundation vents act as moisture incubators during humid Midwest summers, and the building-science blueprint for sealed, conditioned encapsulation.",
     "format": "Report",
     "leadType": "Contrast",
@@ -929,7 +929,7 @@ var miaecData = [
     "url": "articles/ice-dams-roofs.html"
   },
   {
-    "title": "ICF (Insulated Concrete Forms) for Midwest Basements: Eliminating Moisture & Freezing Walls",
+    "title": "ICF Basements & Foundations: Eliminating Moisture & Freezing Walls",
     "subtitle": "Why dual continuous 2.6-inch EPS foam shells eliminate foundation thermal bridge losses, prevent summer mold sweating, and create an indestructible, waterproof below-grade living space.",
     "format": "Report",
     "leadType": "Performance-First",
@@ -1207,7 +1207,7 @@ var miaecData = [
     "url": "articles/sips-vs-traditional-framing.html"
   },
   {
-    "title": "Smart Vapor Retarders vs. 6-Mil Plastic: Why Polyethylene Traps Mold in Midwest Summers",
+    "title": "Smart Vapor Retarders vs 6-Mil Plastic: Stop Summer Wall Mold",
     "subtitle": "Why installing impermeable polyethylene behind interior drywall creates summer condensation rot in Climate Zones 4 and 5, and how variable polyamide membranes adapt to seasonal vapor drive.",
     "format": "Report",
     "leadType": "Contrast",

@@ -1,4 +1,4 @@
-# Crawlspace Encapsulation vs. Open Venting in the Midwest: Mold, Odors & Heating Costs
+# Crawl Space Encapsulation vs Vented: Stop Mold & High Heating Bills
 > **Publication:** Midwest AEC (https://midwestaec.com)
 > **Jurisdiction:** Climate Zones 4 & 5 (Midwest Residential & Commercial)
 > **Canonical Article:** https://midwestaec.com/articles/crawlspace-encapsulation.html

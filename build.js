@@ -790,6 +790,69 @@ ${JSON.stringify(mainSchema, null, 2)}
       });
     }
   </script>
+  <!-- Zero-Bloat Behavioral Analytics & Readership Telemetry -->
+  <script>
+    (function() {
+      const pageSlug = '${frontmatter.slug || ''}';
+      const startTime = Date.now();
+      let maxScroll = 0;
+      const milestones = { 25: false, 50: false, 75: false, 100: false };
+
+      function getScrollPercent() {
+        const h = document.documentElement;
+        const b = document.body;
+        const st = 'scrollTop', sh = 'scrollHeight';
+        return Math.min(100, Math.round(((h[st] || b[st]) / ((h[sh] || b[sh]) - h.clientHeight)) * 100)) || 0;
+      }
+
+      function trackEvent(name, data) {
+        const payload = {
+          event: name,
+          slug: pageSlug,
+          timestamp: new Date().toISOString(),
+          data: data || {}
+        };
+        if (window.dataLayer && Array.isArray(window.dataLayer)) {
+          window.dataLayer.push(payload);
+        }
+        try {
+          const stored = JSON.parse(localStorage.getItem('miaec_telemetry') || '[]');
+          stored.push(payload);
+          if (stored.length > 50) stored.shift();
+          localStorage.setItem('miaec_telemetry', JSON.stringify(stored));
+        } catch(e) {}
+      }
+
+      window.addEventListener('scroll', function() {
+        const p = getScrollPercent();
+        if (p > maxScroll) maxScroll = p;
+        [25, 50, 75, 100].forEach(function(m) {
+          if (!milestones[m] && maxScroll >= m) {
+            milestones[m] = true;
+            trackEvent('scroll_depth', { depth: m });
+          }
+        });
+      }, { passive: true });
+
+      document.addEventListener('click', function(e) {
+        const link = e.target.closest('a');
+        if (!link) return;
+        const href = link.getAttribute('href') || '';
+        if (href.includes('networx') || link.closest('#networx_form_container')) {
+          trackEvent('quote_interaction', { href: href });
+        } else if (href.includes('articles/') || href.startsWith('../')) {
+          trackEvent('internal_navigation', { href: href });
+        }
+      });
+
+      window.addEventListener('visibilitychange', function() {
+        if (document.visibilityState === 'hidden') {
+          const dwellSec = Math.round((Date.now() - startTime) / 1000);
+          trackEvent('dwell_summary', { seconds: dwellSec, maxScroll: maxScroll });
+        }
+      });
+    })();
+  </script>
 </body>
 </html>
 `;
@@ -874,9 +937,10 @@ var miaecData = ${JSON.stringify(databaseRecords, null, 2)};
   console.log(`✓ Regenerated data.js with ${databaseRecords.length} specifications!`);
 
   // Write sitemap.xml
+  const todayIso = new Date().toISOString().split('T')[0];
   let xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`;
   sitemapUrls.forEach(u => {
-    xml += `  <url>\n    <loc>${u.loc}</loc>\n    <lastmod>2026-10-19</lastmod>\n    <changefreq>${u.changefreq}</changefreq>\n    <priority>${u.priority}</priority>\n  </url>\n`;
+    xml += `  <url>\n    <loc>${u.loc}</loc>\n    <lastmod>${todayIso}</lastmod>\n    <changefreq>${u.changefreq}</changefreq>\n    <priority>${u.priority}</priority>\n  </url>\n`;
   });
   xml += `</urlset>\n`;
 

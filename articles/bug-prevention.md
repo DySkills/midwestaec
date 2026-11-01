@@ -1,4 +1,4 @@
-# Rural Bug & Pest Prevention: Termite Shields, Carpenter Ants & Perimeter Envelopes
+# Pest Prevention at the Building Envelope: Termite Shields & Rim Joists
 > **Publication:** Midwest AEC (https://midwestaec.com)
 > **Jurisdiction:** Climate Zones 4 & 5 (Midwest Residential & Commercial)
 > **Canonical Article:** https://midwestaec.com/articles/bug-prevention.html

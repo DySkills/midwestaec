@@ -1,5 +1,5 @@
 ---
-title: "ICF (Insulated Concrete Forms) for Midwest Basements: Eliminating Moisture & Freezing Walls"
+title: "ICF Basements & Foundations: Eliminating Moisture & Freezing Walls"
 slug: "icf-basements-walls"
 format: "Report"
 leadType: "Performance-First"

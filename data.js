@@ -468,7 +468,7 @@ var miaecData = [
       "SD",
       "WI"
     ],
-    "summary": "Cold-climate heat pumps at -20°F: How inverter vapor-injection and R744 transcritical cycles eliminate electric strips and cut winter heating bills in Zone 5.",
+    "summary": "Cold-climate heat pumps at -20°F: How vapor-injection works, why ice on outdoor coils in winter is normal (defrost diagnostics), and real-world Zone 5 COP curves.",
     "codeTag": "NEEP ccASHP / AHRI 210/240 / ASHRAE 90.1",
     "type": "Report",
     "url": "articles/cold-climate-heat-pumps.html"

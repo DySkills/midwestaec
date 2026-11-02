@@ -27,15 +27,19 @@ referralHook: "Attic Air Sealing & Roofing Specialist Quote Match"
 
 ---
 
-## The Icicle Curtain at 18°F
+## Immediate Symptom Triage: The Eave Ice Dam & Interior Wall Leaks
 
-It is 7:30 AM on a bright January morning in Minneapolis. Outside, the sun reflects brilliantly off a fresh eight-inch blanket of powder, and the red bar stops at a crisp 18°F. 
+When a midwinter Arctic blast settles across the Great Lakes and Upper Midwest, thousands of homes develop thick ice ridges along their roof eaves, accompanied by interior ceiling leaks:
 
-Along the front eaves of a 1978 colonial home, an ominous row of three-foot icicles hangs suspended like a wall of crystal daggers, bowing the aluminum gutters under hundreds of pounds of solid ice. Inside, a faint, rhythmic sound breaks the morning quiet: *drip... drip... drip...* In the upstairs bedroom, a dark, amber water stain has expanded across the drywall ceiling, and meltwater is slowly leaking around the casing of the north-facing window into a plastic bucket on the carpet.
+### 1. The Active Failure Symptoms
+- **The Eave Ice Wall:** A solid block of ice, 3 to 10 inches thick, freezes inside the gutters and extends 2 to 4 feet up the roof slope, creating a reservoir of trapped liquid water behind it.
+- **The Amber Ceiling Stain:** Meltwater backed up beneath the asphalt shingles bypasses overlapping shingle laps, saturates attic insulation, and drips through drywall or plaster ceilings directly above exterior windows.
+- **Paint Blisters & Siding Seepage:** Trapped water runs down exterior wall framing, bubbling interior latex paint and weeping out through exterior siding laps or soffits.
 
-In a panic, the homeowner drives to the local home center, loading their shopping cart with zigzag electric heating cables, an aluminum telescoping roof rake, and nylon pantyhose stuffed with calcium chloride salt pucks. Within a week, a contractor arrives, proposing an urgent $14,000 mid-winter tear-off to replace the shingles with "heavy-duty architectural asphalt."
-
-Neither purchase solves the problem. A brand-new roof will leak just as quickly as a thirty-year-old roof if the thermal mechanics beneath the plywood decking remain broken. Stopping an ice dam requires looking past the shingles and understanding the thermodynamic laws governing snow, air, and heat transfer.
+### 2. Immediate Emergency Action (Do This Today)
+1. **Never Hack Ice with Shovels or Hammers:** Striking frozen shingles with axes, hammers, or shovels shatters cold asphalt granules and punctures the underlying decking, causing permanent structural leaks.
+2. **Relieve Interior Drywall Pockets:** If ceiling sheetrock is sagging with water, place a bucket beneath and pierce the drywall center with a screwdriver to drain the trapped water cleanly before the ceiling collapses.
+3. **Engage Professional Low-Pressure Steaming:** If water is actively running into your walls, the only safe emergency removal is low-pressure steam (100–250 PSI at 290°F). Avoid high-pressure power washers, which blast off shingle granules.
 
 ![Thermodynamics of a Midwest Roof Ice Dam vs. A Balanced Cold Roof Assembly](images/ice-dam-dynamics-diagram.jpg)
 

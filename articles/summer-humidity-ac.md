@@ -17,21 +17,20 @@
 
 ---
 
-## Corn-Sweat Humidity in Kansas City at 96°F
+## Active Failure Symptoms: The "Cold & Clammy" 70°F / 72% RH Basement Trap
 
-It is 4:00 PM on a blistering July Friday in Kansas City, Missouri. Across the Missouri River basin and the rolling plains of western Missouri, millions of acres of mature corn are pumping billions of gallons of water vapor into the boundary layer through evapotranspiration. 
+During peak Midwest summers, when outdoor dew points exceed 72°F along river basins and the Great Lakes, homeowners experience a baffling mechanical failure: their air conditioner runs constantly, the air is cold, but the house feels sticky, clammy, and smells musty.
 
-The outdoor humidity is sitting at a suffocating 78%, and the red bar stops at an oppressive 96°F.
+### 1. Active Failure Symptoms
+- **The "Meat Locker" Sensation:** The living room thermostat reads a chilly 68°F or 70°F, yet bedsheets feel damp, hardwood floors feel tacky under bare feet, and indoor air feels oppressively heavy.
+- **The Sweating Basement Floor:** Downstairs, the finished basement hovers at 62°F with relative humidity pegged at **75% to 80%**. Liquid moisture beads on vinyl flooring, baseboards swell, and closet clothes develop musty mildew odors.
+- **Rapid AC Short-Cycling:** The outdoor central AC condenser kicks on for only 6 to 10 minutes, blasts cold air through registers, and abruptly shuts off.
 
-The combined heat and moisture generate an outdoor dew point of **77°F**—tropical conditions rivaling the Gulf Coast of Florida.
-
-Inside a suburban two-story home, the homeowners spent $14,000 in May to install a brand-new, top-of-the-line 5-ton 16-SEER2 central air conditioning system. The HVAC sales contractor assured them that "bigger is always better in the Midwest heat."
-
-Yet standing in the living room, the atmosphere is miserable. The digital thermostat reads a frigid 67°F, but the indoor humidity display shows **68% relative humidity**. The leather sofa feels sticky and clammy. 
-
-Downstairs in the finished basement, the environment is far worse. The basement air temperature is 63°F, but the relative humidity is sitting at **82%**. The air smells heavily of musty cellar rot, the baseboard trim behind the television is swelling, and a white powdery dusting of mold is forming across the backs of upholstered chairs.
-
-The homeowners called the HVAC contractor back to complain. The technician checked the refrigerant charge, shrugged, and said: "The system is blowing 52°F air and the compressor is cycling perfectly. If you're still warm, just bump the thermostat down to 64°F."
+### 2. The Failed Band-Aid: Why Lowering the Thermostat Makes It Worse
+When homeowners feel clammy, their natural instinct is to drop the thermostat from 72°F down to 68°F. This creates a severe psychrometric disaster:
+- Lowering temperature without removing water vapor causes **relative humidity to skyrocket**.
+- Cold air holds dramatically less moisture than warm air; chilling an already humid room drives indoor air right to its condensing dew point.
+- The indoor space becomes colder and *more humid*, accelerating mold growth while burning massive electric kilowatt-hours.
 
 The contractor does not understand thermodynamics. Lowering the thermostat further will only make the house colder and clammier, accelerating mold growth while driving electric bills through the roof.
 

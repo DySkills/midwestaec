@@ -27,7 +27,7 @@ referralHook: "Attic Air Sealing & Blower Door Testing Quote Match"
 
 ---
 
-## Technical Baseline: Hygrothermal Physics of Attic Hoarfrost
+## Active Failure Symptoms: The Attic Hoarfrost Cave & Ceiling Rain
 
 Attic hoarfrost is not a roofing failure; it is an indoor air leakage failure governed by psychrometrics and pressure differentials.
 

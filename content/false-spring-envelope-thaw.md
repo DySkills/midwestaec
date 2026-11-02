@@ -27,23 +27,19 @@ referralHook: "Attic Air Sealing & Envelope Insulation Quote Match"
 
 ---
 
-## Mid-February, and the First False Spring Is Around the Corner...
+## Immediate Symptom Triage: The 24-Hour False-Spring Melt Disaster
 
-Mid-February, and the first false spring is around the corner. Across Missouri, Illinois, Indiana, and Ohio, the brutal gray monotony of January suddenly cracks. The wind shifts from the northwest to the Gulf, the thermometer jumps from a biting 14°F on Monday morning to an unseasonable 52°F by Tuesday afternoon, and the heavy crust of dirty snow on the front lawn begins to slush and run.
+In late winter, weather across the Great Lakes and Northern Plains frequently swings from 5°F to 45°F within 36 hours. Under bright sunshine, this rapid temperature spike triggers immediate building envelope distress:
 
-Windows crack open for the first time in three months. Neighbors stand on driveways in light jackets, listening to the roar of gutters discharging snowmelt into the street. 
+### 1. Active Failure Symptoms
+- **The "Raining Attic" Phenomenon:** Water drips from ceiling recessed can lights, bathroom exhaust grilles, and smoke detectors on sunny 40°F days when there has been zero rain.
+- **The Sweating Basement Slab:** Finished basement floors become slick with condensation, and click-lock flooring squishes underfoot as humid warm air contacts deep-soil chilled concrete.
+- **Ice Dam Wall Flooding:** Sun-melted snowpack flows into frozen eave dams, backing liquid water up past the roof perimeter membrane into exterior wall cavities.
 
-And then, inside thousands of homes across the Midwest, the quiet emergencies begin:
-
-* In an upstairs hallway in Peoria, a homeowner hears a faint, rhythmic tapping on the ceiling drywall. They climb into the attic expecting to find a missing asphalt shingle, only to discover that the dark roof plywood is glistening wet, and droplets of water are raining down across eighteen inches of fiberglass insulation like a subterranean cave.
-* In a finished basement in St. Louis, brand-new "100% waterproof" luxury vinyl plank (LVP) flooring begins to feel oddly spongy underfoot. When stepped on, water squishes through the click-lock seams, and a sharp, sour smell of damp concrete fills the recreation room.
-* On the kitchen counter, the January utility bill sits open: \$512 for natural gas and electricity—a 45% jump over last year—despite the thermostat never climbing above 68°F.
-
-Panicked homeowners call roofing contractors for emergency shingle replacements, flooring installers for warranty claims, and HVAC technicians for new furnace bids. In nearly every instance, all three service calls misdiagnose the underlying cause. 
-
-The roof didn't leak, the flooring wasn't defective, and the furnace didn't fail. What the false spring revealed is the forensic reality of the building envelope: **the physics of uncontrolled air leakage, winter moisture condensation, and thermal equilibrium.**
-
----
+### 2. Immediate Diagnostic Triage: Roof Defect vs. Melting Hoarfrost
+Before hiring an emergency roofer to tear off shingles, confirm the water source:
+- If water drips during a sunny thaw without rain, shine a flashlight onto the underside of your attic roof sheathing.
+- If the plywood is black, damp, and dripping water across broad areas with rust rings around every roofing nail, your roof is not leaking from outside. You are witnessing the catastrophic thaw of **indoor winter hoarfrost**.
 
 ## 1. The Raining Attic: How Winter Hoarfrost Melts in an Afternoon
 

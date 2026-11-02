@@ -17,7 +17,7 @@
 
 ---
 
-## Technical Baseline: Hygrothermal Dynamics of Below-Grade Slabs
+## Active Failure Symptoms: Buckled Planks, Musty Odors & Grout Line Oozing
 
 Concrete is a porous, capillary-active sponge. Under microscopic examination, a standard 4-inch poured concrete basement slab consists of millions of interconnected capillary pores and micro-fissures.
 

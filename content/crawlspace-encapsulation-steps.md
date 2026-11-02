@@ -37,7 +37,7 @@ referralHook: "Crawlspace Encapsulation & Dehumidifier Specification Match"
 
 ---
 
-## Objective & Safety Protocols
+## Scope & Hydrology Pre-Flight: IRC R408.3 Soil Gas & Vapor Protocols
 
 The objective of crawlspace encapsulation is to decouple the sub-floor structure from subterranean moisture and humid outdoor air. Transforming the crawlspace into a conditioned zone stops wood rot, prevents indoor stack-effect contamination, and cuts annual space heating and cooling bills by up to 20%.
 
@@ -49,7 +49,7 @@ Working in confined subterranean spaces requires strict adherence to personal an
 
 ---
 
-## Required Tools & Materials
+## 20-Mil Class I Vapor Barrier & Perimeter Fastening Schedule
 
 Assemble the following tools and commercial-grade materials prior to entering the crawlspace:
 
@@ -64,7 +64,7 @@ Assemble the following tools and commercial-grade materials prior to entering th
 
 ---
 
-## Sequential Step-by-Step Execution
+## Phase-by-Phase Encapsulation & Radon Isolation Protocol
 
 Follow these six sequential steps to execute a code-compliant crawlspace encapsulation:
 
@@ -138,7 +138,7 @@ Executing a durable crawl space encapsulation requires professional-grade materi
 
 ---
 
-## Verification & Quality Assurance Tests
+## Quality Commissioning: Hygrometer Calibration & Sub-Slab Depressurization Check
 
 Confirm the hygrothermal performance and environmental safety of the encapsulated assembly:
 

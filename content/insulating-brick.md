@@ -27,19 +27,14 @@ referralHook: "Historic Brick Masonry & Weatherization Specification"
 
 ---
 
-## The Cold Brick of Logan Square at 4°F
+## Historic Multi-Wythe Masonry Physics: Why Interior Spray Foam Causes Freeze-Thaw Spalling
 
-It is 6:00 AM on a January morning in the Logan Square neighborhood of Chicago. A fierce nor'easter is driving sub-zero wind off Lake Michigan, dusting the alleys with powder snow, and the red bar stops at a numbing 4°F.
+Across historic Midwest urban centers—Chicago, St. Louis, Milwaukee, Detroit, and Minneapolis—hundreds of thousands of pre-1940 structures feature multi-wythe structural mass brick walls (typically 2 to 3 wythes of soft, low-fired common clay brick). When planning gut renovations, contractors frequently propose spraying 2 to 3 inches of closed-cell spray polyurethane foam directly onto the interior face of the brick to achieve an airtight R-13 to R-20 assembly.
 
-Inside a classic 1912 two-flat, a gut remodel was completed just two winters ago. The flipper framed 2x4 stud walls directly against the interior face of the two-wythe solid brick exterior walls, sprayed 3 inches of closed-cell spray foam against the masonry, and hung fresh drywall. The interior is a comfortable 70°F, and the heating bills are noticeably lower.
-
-Outside on the sidewalk, however, something alarming is happening. Piles of fine red clay dust and dime-sized flakes of ceramic face are littering the front stairs. Looking up at the windward second-story wall, dozens of Chicago common bricks have lost their outer 3/8-inch vitrified faces, exposing a soft, crumbly, crumb-cake interior core that is visibly disintegrating under the winter frost.
-
-Three doors down, an identical uninsulated 1912 two-flat stands completely intact. Its heating bills are staggering, but its century-old brick facade is crisp, dry, and undamaged.
-
-The renovated building is suffering from **hygrothermal freeze-thaw spalling**—a severe structural degradation triggered by an interior insulation retrofit that failed to account for the thermodynamics of historic mass masonry.
-
----
+Forensic masonry evaluations demonstrate why this approach causes catastrophic structural failure:
+1. **Starving the Brick of Indoor Waste Heat:** For over a century, historic brick envelopes survived sub-zero Midwest winters because escaping indoor heat maintained the brick temperature above 32°F, continually evaporating driving rain and moisture outward.
+2. **Critical Saturation & Exterior Spalling:** Adding interior insulation drops the temperature of the exterior brick wythe to ambient outdoor winter temperatures (-10°F to 10°F). When winter rain or snowmelt drives into the soft brick and the moisture saturation exceeds the critical threshold (typically 80% to 85% of pore volume), freezing water expands by 9%. This generates internal hydraulic pressure exceeding 2,000 PSI, popping off the decorative brick face in sheets (spalling) and turning mortar joints into loose sand.
+3. **Joist Pocket Decay:** Wood timber floor joists embedded in exterior masonry pockets lose heat, becoming condensation cold spots where relative humidity exceeds 90%, rotting joist bearing ends within 5 to 8 years.
 
 ## The Physics of Mass Masonry: The Waste-Heat Storage Engine
 

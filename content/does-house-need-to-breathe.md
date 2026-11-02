@@ -27,7 +27,7 @@ referralHook: "Blower Door Testing & Whole-Home Ventilation Specialist Match"
 
 ---
 
-## Technical Baseline: Fluid Dynamics of Building Air Leakage
+## Fluid Dynamics of the Building Envelope: Why Uncontrolled Infiltration Destroys Framing
 
 Air moves through a building envelope strictly according to physical laws: air requires both an **opening (hole)** and a **pressure differential (driving force)** to move.
 

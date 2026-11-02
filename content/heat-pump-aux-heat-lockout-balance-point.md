@@ -18,7 +18,7 @@ referralHook: "Cold-Climate Heat Pump & HVAC Specialist Match"
 
 # Electric Auxiliary Heat Lockout: Setting the Thermostat Balance Point on Heat Pumps
 
-> **Quick Summary:** In Climate Zones 4 and 5, the primary driver of winter electric utility bill shock is not heat pump compressor failure, but premature staging of auxiliary resistance heat strips. Factory default thermostat programming engages 10 kW to 20 kW electric toaster-coils whenever an indoor setpoint lags by more than 1.5°F or when outdoor temperatures dip below 35°F. Modern inverter-driven cold-climate systems operate at a Coefficient of Performance (COP) above 2.0 down to 5°F; programming a mechanical auxiliary lockout stops emergency heat from firing during standard morning recovery cycles.
+> **Quick Summary:** In the Great Lakes, Upper Midwest, and Northern Plains, the primary driver of winter electric utility bill shock is not heat pump compressor failure, but premature staging of auxiliary resistance heat strips. Factory default thermostat programming engages 10 kW to 20 kW electric toaster-coils whenever an indoor setpoint lags by more than 1.5°F or when outdoor temperatures dip below 35°F. Modern inverter-driven cold-climate systems operate at a Coefficient of Performance (COP) above 2.0 down to 5°F; programming a mechanical auxiliary lockout stops emergency heat from firing during standard morning recovery cycles.
 >
 > - **The 10 kW Resistance Multiplier:** A 10 kW electric auxiliary strip draws 41.6 amps at 240V, consuming 10 kilowatt-hours of power per run-hour at a flat COP of 1.0 ($1.60/hr at $0.16/kWh), compared to an inverter compressor drawing just 2.2 kW at a COP of 2.4.
 > - **Thermostat Aggressive Staging:** Smart thermostats shipped in factory defaults rely on time-and-temperature algorithms that misinterpret slow, steady heat pump warming as mechanical distress, triggering emergency strips when the house is only 2 degrees below setpoint.
@@ -104,7 +104,7 @@ Establishing the exact Auxiliary Heat Lockout temperature requires calculating t
                                 Outdoor Temperature
 ```
 
-In a well-insulated Climate Zone 5 home with an airtight envelope (sub-2.5 ACH50), a 3-ton cold-climate inverter typically meets 100% of the heating load down to **15°F to 18°F**. 
+In a well-insulated Climate the Upper Midwest and Great Lakes home with an airtight envelope (sub-2.5 ACH50), a 3-ton cold-climate inverter typically meets 100% of the heating load down to **15°F to 18°F**. 
 
 Setting the Auxiliary Lockout at 18°F guarantees that resistance strips will never fire during 92% of typical Midwest winter hours.
 
@@ -133,7 +133,7 @@ Programming these thresholds requires accessing advanced installer setup menus, 
 
 ## Frequently Asked Questions
 
-### What temperature should auxiliary heat be locked out on a heat pump in Zone 5?
+### What temperature should auxiliary heat be locked out on a heat pump in the Upper Midwest and Great Lakes?
 For modern cold-climate inverter heat pumps (NEEP-listed units like Mitsubishi H2i, Daikin Aurora, or Carrier Infinity), set the **Auxiliary Heat Lockout (Aux Heat Max Outdoor Temp) between 15°F and 25°F**. Standard installer defaults leave this lockout disabled or set to 35°F–40°F, which triggers 10 to 15 kW electric resistance heat strips whenever outdoor temps drop into the 30s. High-performance inverters maintain a Coefficient of Performance (COP) above 1.8 down to 5°F, delivering heat at nearly half the operating cost of electric resistance strips.
 
 ### Why did my electric bill double after installing a new heat pump?
@@ -159,7 +159,7 @@ Yes. Auxiliary heat strips draw tremendous electrical current—a 15 kW heater d
    - *ASHRAE Handbook of Fundamentals (Chapter 16):* Infiltration and Heating Load Profiles.
 4. **Air-Conditioning, Heating, and Refrigeration Institute (AHRI):**
    - *AHRI Standard 210/240:* Performance Rating of Unitary Air-Conditioning and Air-Source Heat Pump Equipment.
-5. **Iowa Energy Center & Electric Power Research Institute (EPRI):** *Field Monitoring of Cold-Climate Heat Pumps and Auxiliary Resistance Strip Inefficiencies in Zone 5*.
+5. **Iowa Energy Center & Electric Power Research Institute (EPRI):** *Field Monitoring of Cold-Climate Heat Pumps and Auxiliary Resistance Strip Inefficiencies in the Upper Midwest and Great Lakes*.
 
 ---
 

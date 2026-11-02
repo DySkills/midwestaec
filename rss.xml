@@ -5,7 +5,7 @@
     <link>https://midwestaec.com</link>
     <description>Curated building science specifications, cold-climate envelope assemblies, and architectural trade engineering for Climate Zones 4 and 5.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 00:56:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 01:32:30 GMT</lastBuildDate>
     <atom:link href="https://midwestaec.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Attic Air Sealing &amp; Eave Baffling: The Step-by-Step Cold Roof Retrofit</title>
@@ -85,6 +85,13 @@
       <category>HVAC</category>
     </item>
     <item>
+      <title>Cold-Climate Septic Freeze-Ups and Well Pressure Tank Failures: Subterranean Frost in the Upper Midwest and Great Lakes</title>
+      <link>https://midwestaec.com/articles/cold-climate-septic-well-freeze-solutions.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/cold-climate-septic-well-freeze-solutions.html</guid>
+      <description>Throughout the rural and suburban fringe of the Midwest, hundreds of thousands of residential properties rely on private on-site wastewater treatment systems (septic) and private drilled wells. During dry, snow-free winters in the Great Lakes, Upper Midwest, and Northern Plains, ground frost penetrates up to 60 inches deep, freezing shallow 4-inch sewer laterals, paralyzing soil absorption drainfields, and icing well pump pressure switch sensing lines. Understanding thermal snow blankets, installing sub-grade extruded polystyrene frost shields, and maintaining biological wastewater warmth prevents catastrophic mid-winter sewer backups.</description>
+      <category>Water Barriers</category>
+    </item>
+    <item>
       <title>Continuous Exterior Insulation: Why R-5 Outboard Beats R-20 Cavity in Freeze-Thaw Climates</title>
       <link>https://midwestaec.com/articles/continuous-insulation.html</link>
       <guid isPermaLink="true">https://midwestaec.com/articles/continuous-insulation.html</guid>
@@ -139,6 +146,20 @@
       <guid isPermaLink="true">https://midwestaec.com/articles/false-spring-envelope-thaw.html</guid>
       <description>False spring freeze-thaw cycles: How 50°F daytime thaws and sub-zero nights tear gutters, crack masonry, and cause hidden ceiling leaks across the Upper Midwest and Great Lakes.</description>
       <category>Envelope</category>
+    </item>
+    <item>
+      <title>Why High-Efficiency Furnaces Die in Polar Blizzards: Frozen PVC Vents and Pressure Switch Lockouts</title>
+      <link>https://midwestaec.com/articles/furnace-vent-pipe-freeze-lockout.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/furnace-vent-pipe-freeze-lockout.html</guid>
+      <description>During extreme Midwest polar vortexes with wind chills dipping below -20°F, emergency HVAC repair calls spike across the Great Lakes, Upper Midwest, and Northern Plains. Over 60% of these mid-blizzard failures are not cracked heat exchangers or dead blower motors, but frozen exterior PVC vent terminations, iced intake screens, and trapped acidic condensate tripping differential pressure switches. Diagnosing vent terminations, verifying pitch, and safely thawing condensate traps restores heat before pipes burst.</description>
+      <category>HVAC</category>
+    </item>
+    <item>
+      <title>Electric Auxiliary Heat Lockout: Setting the Thermostat Balance Point on Heat Pumps</title>
+      <link>https://midwestaec.com/articles/heat-pump-aux-heat-lockout-balance-point.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/heat-pump-aux-heat-lockout-balance-point.html</guid>
+      <description>During the first Midwest freeze in November, thousands of homeowners see their utility bills triple because their smart thermostats engage electric resistance heat strips whenever indoor temperatures lag by 2 degrees. Modern cold-climate heat pumps maintain efficient thermodynamic lift down to 5°F or lower; locking out auxiliary strips until true thermal balance prevents unnecessary grid demand and cuts hundreds of dollars in unnecessary heating costs.</description>
+      <category>HVAC</category>
     </item>
     <item>
       <title>How to Safely Insulate Historic Solid Brick: The Interior Retrofit Blueprint</title>
@@ -230,6 +251,13 @@
       <guid isPermaLink="true">https://midwestaec.com/articles/summer-humidity-ac.html</guid>
       <description>Oversized AC and basement humidity: Why short-cycling high-efficiency air conditioners leave rooms cold and clammy, and how to fix SHR under ACCA Manual S.</description>
       <category>HVAC</category>
+    </item>
+    <item>
+      <title>Spring Thaw Basement Flooding: Sump Pump Discharge Freezing and Dual Battery Backups</title>
+      <link>https://midwestaec.com/articles/sump-pump-failure-spring-thaw-backups.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/sump-pump-failure-spring-thaw-backups.html</guid>
+      <description>Every March across the Midwest, a destructive meteorological phenomenon occurs: rapid 55°F spring thaws and driving rainstorms arrive while subterranean soil 30 inches deep remains frozen solid. Surface runoff funnels into porous foundation backfill, triggering a massive hydrostatic surge. When continuous sump pump discharge freezes at exterior pipe outlets or severe thunderstorms knock out grid power, basements flood within minutes. Engineering dual cast-iron pumps, freeze-relief discharge fittings, and pure sine wave battery backups prevents catastrophic water damage.</description>
+      <category>Water Barriers</category>
     </item>
     <item>
       <title>When Replacing Windows Actually Makes Sense (And What Specifications to Demand)</title>

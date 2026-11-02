@@ -27,21 +27,13 @@ referralHook: "Attic & Wall Insulation Dense-Packing, Air Sealing & Contractor M
 
 ---
 
-## Winter Cold Along Lake St. Clair: The 26-Year Payback Reality
+## Closed-Cell Foam vs. Dense-Pack Cellulose: Vapor Permeance, Cavity Rot & 25-Year Payback Reality
 
-It is 8:00 AM on a mid-February morning on the east side of Detroit, Michigan. A biting north wind sweeps across the frozen expanse of Lake St. Clair, pushing fine powder snow across Woodward Avenue as the outdoor temperature drops to 8°F.
+Subcontractor bids across the Great Lakes and Upper Midwest frequently push closed-cell spray polyurethane foam (ccSPF) at $2.20 to $2.80 per board foot as the premium standard for exterior wall cavities. At R-6.5 per inch, spray foam promises maximum R-value in a standard 2x6 stud bay while creating an airtight seal in a single trade pass.
 
-In an urban infill development, two adjacent custom homes are built to identical net-zero operational energy specifications. Both feature cold-climate inverter heat pumps, triple-pane windows, and airtight envelopes tested to 1.0 ACH50. Both consume less than \$80 a month in winter heating energy.
-
-Yet from a material longevity and atmospheric carbon standpoint, their wall assemblies are polar opposites.
-
-House A was insulated using four inches of exterior extruded polystyrene (XPS) rigid foam board and three inches of closed-cell polyurethane spray foam filling the 2x6 stud bays. The petrochemical synthesis of the styrene polymers and the halogenated chemical blowing agents emitted an astonishing **18,500 kilograms of greenhouse gases ($CO_2$ equivalent)** into the atmosphere before the front door was ever hung. Even with its ultra-efficient heat pump, it will take **26 years of winter heating savings** just to pay back the carbon emissions generated during the manufacture of its plastic insulation.
-
-House B was insulated using three inches of exterior tongue-and-groove wood-fiber board and dense-pack borate-treated cellulose in the wall cavities. The wood fibers stored biogenic carbon drawn from North American forests, while the cellulose converted post-consumer recycled paper into a permanent building thermal blanket. 
-
-House B is an immediate **net carbon sink**: its thermal envelope locked away **4,200 kilograms of atmospheric carbon** permanently inside its wall cavities on day one.
-
----
+However, forensic building science evaluations reveal two critical liabilities in cold-climate envelopes:
+1. **The Inward Vapor Trap:** Closed-cell spray foam cures into a Class II/Class I vapor retarder (0.8 to 1.2 perms at 2 inches). When driving winter rain or spring humidity bypasses the exterior cladding and penetrates OSB sheathing, the impermeable foam layer prevents inward drying. Trapped moisture against wood framing elevates wood moisture content (MC) above 20%, initiating fungal rot and joist decay behind drywall.
+2. **Embodied Carbon & GWP Payback:** Hydrofluoroolefin (HFO) and traditional HFC blowing agents carry substantial upfront global warming potential. When factored against dense-pack borate-treated cellulose ($0.95–$1.25/sq.ft.) or rigid wood fiber boards, spray foam requires 22 to 26 years of operational heating savings just to offset the greenhouse gas emissions generated during its chemical manufacture.
 
 ## The Petrochemical Foam Trap: Why Closed-Cell Spray Foam Rots Wood Framing
 

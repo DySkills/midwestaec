@@ -35,7 +35,7 @@ Before hiring contractors or budgeting for renovations, walk into your basement 
 
 ---
 
-## 1. The "Cold-Wall" Palm Test (Thermal Sink Deficit)
+## Diagnostic Field Triage: 6 Structural & Moisture Indicators for an ICF Basement Retrofit
 
 Walk over to an exposed exterior concrete or cinder block wall during late autumn or winter and press your flat palm firmly against the surface.
 

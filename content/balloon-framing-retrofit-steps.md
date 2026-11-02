@@ -27,7 +27,7 @@ referralHook: "Historic Weatherization & Air Sealing Contractor Quote Match"
 
 ---
 
-## Objective & Safety Protocols
+## Scope & Structural Safety Pre-Flight: Fireblocking IRC R302.11 Protocols
 
 The objective of this retrofit is to convert open, continuous stud cavities into sealed, compartmentalized assemblies. Eliminating the vertical chimney stops sub-zero basement air infiltration, ends second-floor floor drafts, and increases occupant fire evacuation windows from three minutes to over forty-five minutes.
 
@@ -39,7 +39,7 @@ Historic balloon-framed homes present specific vintage jobsite hazards:
 
 ---
 
-## Required Tools & Materials
+## Mineral Wool Firestop & Intumescent Materials Schedule
 
 Assemble the following tools and code-approved materials on site:
 
@@ -54,7 +54,7 @@ Assemble the following tools and code-approved materials on site:
 
 ---
 
-## Sequential Step-by-Step Execution
+## Phase-by-Phase Chimney-Break Execution Protocol
 
 Follow these five sequential steps to execute a code-compliant two-end balloon frame retrofit:
 
@@ -105,7 +105,7 @@ Retrofitting fireblocking into existing balloon-framed cavities requires strict 
 
 ---
 
-## Verification & Quality Assurance Tests
+## Quality Commissioning: Blower Door Stack-Effect Verification
 
 Confirm the thermal and structural airtightness of the assembly before completing the project:
 

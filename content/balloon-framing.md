@@ -27,19 +27,13 @@ referralHook: "Historic Home Weatherization & Insulation Match"
 
 ---
 
-## Drafts in the Old City at 12°F
+## Structural Flues & Convective Drafts: Why Historic Balloon Framing Leaks 40% of Whole-House Energy
 
-It is 10:00 PM on a bitter January night in the historic Tower Grove neighborhood of St. Louis. Outside, a biting wind is sweeping in off the Mississippi River, snow is dusting the limestone sidewalks, and the red bar stops at a punishing 12°F.
+Constructed extensively between 1880 and 1940 across Midwest urban centers and rail towns, balloon-framed structures utilize continuous full-height 2x4 wall studs running uninterrupted from the basement foundation sill plate directly up to the second-story attic top plate. Intermediate floor joists rest on a 1x4 or 1x6 ribbon board notched into the interior stud edge, leaving every stud bay completely open from bottom to top.
 
-Inside a beautifully restored 1908 two-story brick and timber home, the cast-iron steam radiators are clanking and radiating intense heat. Yet standing next to the baseboards in the second-floor nursery feels like standing in front of an open freezer. Cold air is visibly rippling the floor curtains, and a thermometer placed on the carpet reads an uncomfortable 56°F. 
-
-Down in the stone basement, looking up with a flashlight where the floor joists meet the mud sill reveals a startling sight: between every pair of 2x4 exterior wall studs is a gaping black rectangular opening. A hand placed into the pocket immediately feels a brisk upward draft of freezing air rushing up into the wall cavity.
-
-The homeowner has spent hundreds of dollars on outlet gaskets, weatherstripping, and radiator thermostatic valves, yet the gas meter spins relentlessly to the tune of $480 a month. 
-
-The problem is not the windows or the radiators. The house was built with **balloon framing**—and without realizing it, the homeowner is living inside a giant two-story wooden chimney that continuously siphons cold air from the ground and ejects conditioned heat into the sky.
-
----
+In modern building science and life-safety engineering, unmitigated balloon framing creates two severe liabilities:
+1. **The Uncontrolled Two-Story Convective Chimney:** Standard platform framing provides natural horizontal fireblocking at every floor level via bottom and top wall plates. In balloon framing, unblocked stud cavities act as continuous pneumatic chimneys. Under stack-effect pressure in sub-zero weather, cold outdoor air sucked through stone foundations and basement sill plates accelerates upward through wall cavities, cooling interior plaster walls to 50°F and dumping expensive interior heat into the attic at rates exceeding 800 to 1,200 CFM50.
+2. **The 3-Minute Life-Safety Fire Hazard (IRC R302.11):** In the event of a basement fire, these open vertical cavities draw combustion gases upward like a furnace flue. Toxic smoke and active flames bypass intermediate plaster walls, spreading from basement to attic in under 180 seconds before occupants can safely evacuate.
 
 ## Anatomy of a Balloon-Framed House: Ribbons & Open Flues
 

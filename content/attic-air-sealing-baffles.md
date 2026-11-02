@@ -27,7 +27,7 @@ referralHook: "Attic Insulation & Air Sealing Contractor Quote Match"
 
 ---
 
-## Objective & Safety Protocols
+## Scope & Thermal Boundary Pre-Flight: R-60 Air-Barrier Protocols
 
 The objective of this retrofit is to mechanically separate conditioned living space from the unconditioned attic. Halting warm air leakage stops snowmelt on the upper roof deck, while rigid eave baffles ensure cold outdoor air circulates freely from soffit to ridge vent.
 
@@ -39,7 +39,7 @@ Working in unfinished attics presents significant physical and environmental haz
 
 ---
 
-## Required Tools & Materials
+## Mechanical Fasteners & Firestop Materials Schedule
 
 Assemble all materials and tools on site before entering the attic hatch to minimize trips across unfinished joists:
 
@@ -55,7 +55,7 @@ Assemble all materials and tools on site before entering the attic hatch to mini
 
 ---
 
-## Sequential Step-by-Step Execution
+## Phase-by-Phase Cold Roof Execution Protocol
 
 Follow these six sequential steps to execute an airtight, balanced cold roof assembly:
 
@@ -113,7 +113,7 @@ Homeowners evaluating whether to hire a weatherization contractor or tackle atti
 
 ---
 
-## Verification & Quality Assurance Tests
+## Quality Commissioning: Depressurization & Thermal Boundary Verification
 
 Confirm the physical performance of the retrofit before closing the project:
 

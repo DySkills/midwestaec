@@ -17,7 +17,7 @@
 
 ---
 
-## Objective & Safety Protocols
+## Scope & Masonry Preservation Pre-Flight: ASTM C270 Type N/O Mortar Protocols
 
 The objective of this retrofit is to install high-performance interior thermal insulation while preserving the hygrothermal equilibrium of historic solid mass brick walls. Doing so safely requires eliminating bulk water entry, decoupling the framing from capillary contact, preventing winter moisture condensation, and allowing inward summer vapor drying.
 
@@ -29,7 +29,7 @@ Working with century-old masonry involves critical structural and health safety 
 
 ---
 
-## Required Tools & Materials
+## Vapor-Permeable Lime Mortar & Rainscreen Materials Schedule
 
 Assemble the following diagnostic tools and specialized materials on site:
 
@@ -44,7 +44,7 @@ Assemble the following diagnostic tools and specialized materials on site:
 
 ---
 
-## Sequential Step-by-Step Execution
+## Phase-by-Phase Repointing & Vapor-Open Interior Retrofit Protocol
 
 Follow these six sequential steps to safely insulate a historic solid mass brick wall:
 
@@ -108,7 +108,7 @@ The single most destructive error made by general masonry contractors on histori
 
 ---
 
-## Verification & Quality Assurance Tests
+## Quality Commissioning: RILEM Tube Water Absorption & Freeze-Thaw Verification
 
 Confirm the thermal and moisture integrity of the completed wall assembly:
 

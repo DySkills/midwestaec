@@ -24,21 +24,13 @@ referralHook: "Basement Waterproofing, Concrete & Flooring Contractor Match"
 
 ---
 
-## Dawn on the River Bluffs: The Seduction of Compacted Soil
+## Soil Physics vs. Midwest Frost: Thermal Mass, Freeze-Thaw Durability & Foundation Integration
 
-There is an undeniable, visceral magnetism to walking inside a home built from raw earth. 
+Unstabilized rammed earth and traditional poured earthen floors possess undeniable aesthetic appeal and low embodied carbon. Composed of subsoil, clay binders, graded sand aggregates, and natural oils, compacted earthen assemblies deliver high volumetric heat capacity and acoustic dampening.
 
-On a sharp, mist-laden October morning in the Missouri River Valley, the interior of a rammed earth room feels quiet in a way that modern 2x6 drywall construction never achieves. The walls are monolithic—eighteen inches of compacted sand, gravel, and clay, pressed into formwork with pneumatic tamps until the geology of the hillside becomes the structural envelope of the house. The striations of red clay and buff-colored limestone aggregates read like a sedimentary cross-section of the earth itself. The room smells faintly of dry mineral dust and dried river loam.
-
-In architectural studios and sustainable design circles, rammed earth and polished earthen floors are often hailed as the holy grail of low-embodied-carbon construction. They eliminate drywall, synthetic insulation, fiberglass batt off-gassing, and industrial manufacturing footprints.
-
-And then comes January.
-
-Outdoor air drops to -12°F with a sustained 25 mph wind roaring across the prairie. Inside the house, the homeowner cranks the thermostat to 72°F, but the interior face of the earthen wall feels like an enormous block of quarry stone pulled from a frozen creek bed. The furnace runs continuously for eighteen hours without cycling off. Near the exterior baseboards, where wind-driven sleet soaked into the exterior grade three weeks earlier, fine mineral granules begin sloughing off the wall face, crumbling onto the floor like coarse brown sugar.
-
-The house is not defective in its construction. It is simply colliding with the unforgiving laws of cold-climate thermodynamics.
-
----
+However, building with earth in the Upper Midwest and Northern Plains requires strict adherence to soil mechanics and thermodynamic boundaries that warm, arid regions never encounter:
+1. **Thermal Mass vs. True Thermal Resistance:** Compacted soil delivers an R-value of barely **R-0.20 to R-0.25 per inch**. A standard 12-inch rammed earth wall provides only R-2.4 to R-3.0 of thermal resistance—grossly deficient compared to the IECC mandatory baseline of R-20+ to R-30 for above-grade walls. Uninsulated earth functions as an immense thermal sink, drawing heat out of the living space during sub-zero cold snaps.
+2. **Capillary Spalling & Freeze-Thaw Destruction:** Without chemical stabilization (such as 6% to 9% Portland cement or hydraulic lime) and continuous sub-slab extruded polystyrene (XPS R-10 minimum), groundwater migrating through clay subgrades saturates the soil matrix. During winter freeze cycles, trapped water expands 9% by volume, destroying the clay-aggregate bond and crumbling earthen surfaces into loose silt.
 
 ## The Thermal Mass Illusion: R-Value vs. Thermal Capacitance
 

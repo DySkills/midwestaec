@@ -27,25 +27,11 @@ referralHook: "Crawlspace Encapsulation & Dehumidifier Specification Match"
 
 ---
 
-## Ohio Summer Heat in Columbus at 88°F
+## The Sub-Floor Psychrometric Trap: Why Vented Crawlspaces Rot Joists Across the Midwest
 
-It is 2:30 PM on a sweltering July afternoon on the south side of Columbus, Ohio. The air is stagnant, heavy with river-basin humidity; outdoor relative humidity is sitting at 84%, and the red bar stops at a sweltering 88°F.
+For decades, municipal residential building codes mandated open foundation vents under the flawed assumption that outdoor cross-ventilation would dry out crawlspaces. Across the Midwest—from the humid summer river valleys of the Ohio and Missouri Rivers to the lake-effect belts—this practice has produced catastrophic moisture failures in hundreds of thousands of residential subfloors.
 
-Inside a three-bedroom ranch home with an open-vented crawlspace, the central air conditioner has been running continuously for six hours. The thermostat reads 70°F, but the air inside the living room feels clammy and heavy, and a distinct earthy, mushroom-like odor drifts up from the floor registers.
-
-Crawling through the exterior access well into the 36-inch crawlspace reveals a shocking environment. 
-
-The outdoor foundation vents are wide open, supposedly "ventilating" the space according to 1970s building practices. 
-
-Yet shining a flashlight across the floor joists reveals beads of liquid condensation dripping from every wood surface. The uninsulated sheet metal supply ducts are sweating profusely, with puddle rings forming in the exposed dirt below. 
-
-Pink fiberglass batts, shoved between the 2x10 floor joists decades ago, are heavy, soaked with water, and drooping down toward the ground like sodden blankets. Pulling down a section of wet fiberglass exposes the subfloor: the old-growth pine boards are covered in a dense, fuzzy layer of white and olive-green mold (*Penicillium* and *Cladosporium*). 
-
-The wood moisture content of the joists measures **24.5%**—far above the 19% threshold where wood-rotting fungi begin digesting the cellulose fibers that support the home.
-
-The homeowner assumed opening the vents wider would dry the crawlspace out. In reality, the open vents are the precise mechanism destroying the house.
-
----
+When outdoor air at 88°F and 75% relative humidity (dew point: 79°F) enters foundation vents and contacts earth-cooled floor joists and subfloors sitting at 62°F to 65°F, psychrometric physics forces immediate bulk condensation. Fiberglass batt insulation installed between floor joists absorbs this moisture like a sponge, pulling away from subfloors, fostering toxic mold colonies, and driving subfloor moisture content above 25%—the critical rot threshold for structural wood framing.
 
 ## The Psychrometric Trap of Summer Crawlspace Venting
 

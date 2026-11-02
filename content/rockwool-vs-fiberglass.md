@@ -27,17 +27,11 @@ referralHook: "Insulation Contractor & Material Supplier Quote Match"
 
 ---
 
-## The Lumberyard Aisle at 15°F
+## Jobsite Reality vs. Shelf Pricing: Why Cheap Fiberglass Batts Fail Sub-Zero Midwest Wall Assemblies
 
-On a freezing Tuesday morning in early December, you are standing in the building materials aisle of a contractor lumberyard on the south side of Peoria, Illinois. Outside, a biting winter wind is rattling the warehouse loading docks, and the red bar stops at a crisp 15°F. 
+On paper, standard R-15 fiberglass batts cost roughly $0.62 to $0.78 per square foot of cavity wall area, while dense stone mineral wool (Rockwool Comfortbatt) runs $1.15 to $1.35 per square foot—a 40% to 50% upfront material premium that totals $1,200 to $1,800 across an average 2,200 sq. ft. home.
 
-In front of you are two stacks of insulation bundles. On the left sits a familiar bundle of pink or yellow fiberglass batts priced at roughly $48. On the right sits a dense, heavyweight green bundle of stone mineral wool priced at $78. For an entire 2,200-square-foot residential framing project, that 40% shelf price difference adds up to roughly $1,400 to $1,800 in raw material costs.
-
-On a contractor's bid sheet or a DIY budget spreadsheet, opting for the lower upfront material cost seems like an easy win. But insulation is not an aesthetic finish that can be swapped out later—it is a permanent structural component sealed behind taped, mudded, and painted drywall for thirty or forty years. When a polar vortex drives the exterior sheathing down to -10°F while your interior drywall sits at 70°F, that 80-degree thermal gradient triggers physical phenomena that nominal shelf R-values never account for.
-
-![Low-Density Fiberglass Batt vs. High-Density Stone Mineral Wool in a Midwest Wall Cavity at -10°F](images/rockwool-vs-fiberglass-diagram.jpg)
-
----
+However, laboratory environmental chamber testing and jobsite thermal imaging demonstrate that low-density spun fiberglass (0.7 to 1.0 lb/cu.ft.) experiences dramatic thermal derating during Midwest polar cold snaps. When outdoor temperatures plunge below 0°F, extreme temperature differentials between interior drywall (70°F) and exterior OSB sheathing create internal convective air currents within low-density fiberglass batts, dropping their effective thermal resistance by up to 35%. Dense mineral wool (2.0 to 2.5 lbs/cu.ft.) physically arrests convective airflow loops, maintains dimensional spring-tension against stud cavities without stapling, and remains completely unaffected by water or fire.
 
 ## 1. Density & Winter Convective Air Looping
 

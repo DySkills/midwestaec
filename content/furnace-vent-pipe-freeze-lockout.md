@@ -8,7 +8,7 @@ catSlug: "hvac"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "Why 90%+ condensing gas furnaces shut down during sub-zero cold snaps, how acidic flue condensate freezes exterior terminations, and how to clear differential pressure switch lockouts."
-summary: "During extreme Midwest polar vortexes with wind chills dipping below -20°F, emergency HVAC repair calls spike across Climate Zones 4 and 5. Over 60% of these mid-blizzard failures are not cracked heat exchangers or dead blower motors, but frozen exterior PVC vent terminations, iced intake screens, and trapped acidic condensate tripping differential pressure switches. Diagnosing vent terminations, verifying pitch, and safely thawing condensate traps restores heat before pipes burst."
+summary: "During extreme Midwest polar vortexes with wind chills dipping below -20°F, emergency HVAC repair calls spike across the Great Lakes, Upper Midwest, and Northern Plains. Over 60% of these mid-blizzard failures are not cracked heat exchangers or dead blower motors, but frozen exterior PVC vent terminations, iced intake screens, and trapped acidic condensate tripping differential pressure switches. Diagnosing vent terminations, verifying pitch, and safely thawing condensate traps restores heat before pipes burst."
 codeTag: "NFPA 54 / ANSI Z223.1 / CSA B149.1 / IRC G2427"
 author: "Midwest AEC Building Science"
 date: "November 2026"
@@ -18,7 +18,7 @@ referralHook: "Emergency Heating & HVAC Contractor Dispatch"
 
 # Why High-Efficiency Furnaces Die in Polar Blizzards: Frozen PVC Vents and Pressure Switch Lockouts
 
-> **Quick Summary:** In modern Category IV (90%+ AFUE) gas furnaces, latent heat extraction cools exhaust flue gases to the point where water vapor condenses into liquid inside the venting system. During sustained sub-zero blizzards in Climate Zones 4 and 5, this acidic flue condensate (producing 1 to 2 gallons of water daily) freezes solid at exterior PVC sidewall terminations. When ice restricts the flue or windward intake pipe, internal differential pressure switches detect draft imbalance and immediately lock out ignition to prevent carbon monoxide poisoning.
+> **Quick Summary:** In modern Category IV (90%+ AFUE) gas furnaces, latent heat extraction cools exhaust flue gases to the point where water vapor condenses into liquid inside the venting system. During sustained sub-zero blizzards in the Great Lakes, Upper Midwest, and Northern Plains, this acidic flue condensate (producing 1 to 2 gallons of water daily) freezes solid at exterior PVC sidewall terminations. When ice restricts the flue or windward intake pipe, internal differential pressure switches detect draft imbalance and immediately lock out ignition to prevent carbon monoxide poisoning.
 >
 > - **Condensate Latent Heat Penalty:** Condensing furnaces extract 90% to 98% of thermal energy by dropping flue temperatures below 130°F, condensing flue moisture into liquid. In -10°F ambient air, this liquid water glazes into solid icicles at the exterior discharge termination.
 > - **The Differential Pressure Switch Trigger:** A sensitive diaphragm switch measures draft pressure in inches of water column (typically -0.40" to -0.80" WC). If an exhaust termination is choked by rime ice or an intake screen is blinded by wind-blown snow, the switch opens, locking the furnace into a 3-flash error code.
@@ -131,7 +131,7 @@ Over 80% of furnace freeze lockouts can be traced to installation defects that g
 ### 2. Fine-Mesh Insect Screens Left in Place During Winter
 * Installers frequently cement protective wire mesh screens into exterior termination elbows to keep rodents and wasps out during the summer.
 * In sub-zero weather with drifting snow, supercooled water vapor condenses across the wire grid. Within 20 minutes of blizzard conditions, hoarfrost glazes over the fine mesh, forming an airtight ice plug.
-* **Best Practice:** Insect screens must be removed from the intake and exhaust termination before November 1 in Climate Zones 4 and 5, leaving only code-approved 1/2-inch coarse wire hardware cloth or open elbows.
+* **Best Practice:** Insect screens must be removed from the intake and exhaust termination before November 1 in the Great Lakes, Upper Midwest, and Northern Plains, leaving only code-approved 1/2-inch coarse wire hardware cloth or open elbows.
 
 ### 3. Insufficient Snow Clearance Above Finished Grade
 * **Code Requirement (IRC G2427.8):** Vent terminations must maintain a minimum clearance of **12 inches above finished grade or the anticipated maximum snow depth**, whichever is greater.

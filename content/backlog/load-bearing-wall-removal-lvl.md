@@ -21,6 +21,11 @@ referralHook: "Structural Engineering & General Contractor Match"
 # Load-Bearing Wall Removal: Sizing LVL Beams, Temporary Shoring Walls & Building Permits
 
 > **Quick Summary:** Removing an interior load-bearing wall to create an open-concept living space requires transferring thousands of pounds of dead, live, and winter snow loads into an engineered beam. Success depends on calculating tributary load areas across floor joists, erecting dual temporary shoring walls within 2 to 3 feet of the demo line, choosing between economical drop beams versus seamless flush ceiling beams, and engineering the concentrated end point loads. Without continuous blocking down through floor cavities to dedicated concrete basement footings, concentrated 4,000-pound end loads will crush subfloors and crack basement slabs.
+>
+> - **Tributary Load Math:** Beams must be sized for cumulative dead, live, and regional snow loads (ranging from 20 to 40+ PSF) across the full tributary joist span.
+> - **Drop vs. Flush Beam Assemblies:** Drop beams sit beneath existing joists for faster, lower-cost installation; flush beams require cutting joists and hanging them with Simpson Strong-Tie hangers for a seamless ceiling.
+> - **Dual Shoring Walls:** Temporary shoring walls must be erected within 2 to 3 feet on both sides of the demo line and mirrored in the basement to avoid punching shear.
+> - **Point Load Foundation Transfer:** Concentrated 4,000-pound end reactions cannot rest on standard subfloor; they must transfer via solid wood blocking down to dedicated concrete spread footings.
 
 The desire for open-concept floor plans has made interior wall removal the most frequently requested alteration in American residential remodeling. Across the Midwest, thousands of post-war ranches, 1970s split-levels, and two-story center-hall colonials are partitioned by central walls dividing small kitchens, dark dining rooms, and living areas.
 
@@ -196,9 +201,29 @@ If you are planning an open-concept wall removal, follow this professional execu
 
 ### Step 4: Connect with Licensed Midwest Structural Pros
 Handling LVL hoisting, point load footings, and structural permits requires licensed trades:
-* [Find Vetted Midwest General Contractors & Structural Framing Pros &rarr;](../browse.html?cat=envelopes)
-* [Connect with Regional Architectural & Engineering Services &rarr;](../browse.html?cat=all)
-* [Review All 32 Midwest AEC Building Science Specifications &rarr;](../browse.html?cat=all)
+* &rarr; [Find Vetted Midwest General Contractors & Structural Framing Pros](../browse.html?cat=envelopes)
+* &rarr; [Connect with Regional Architectural & Engineering Services](../browse.html?cat=all)
+* &rarr; [Review All 34 MidwestAEC™ Building Science Specifications](../browse.html?cat=all)
+
+---
+
+### Related Building Science Guides
+- **Historic Wood Wall Retrofits:** &rarr; **[Read: Balloon Framing Firestops: Halting the Two-Story Convective Draft Chimney](balloon-framing.html)**
+- **Basement Foundation Cutting:** &rarr; **[Read: Legal Basement Finishing: Cutting Egress Windows in Poured Concrete, IRC R310 Codes & Slab Framing](basement-egress-window-cutting.html)**
+- **Panelized Wall Alternatives:** &rarr; **[Read: SIPs (Structural Insulated Panels) in Zone 5: Total Cost vs. Traditional Stick Framing](sips-vs-traditional-framing.html)**
+- **Monolithic Foundation Walls:** &rarr; **[Read: ICF Basements & Foundations: Eliminating Moisture & Freezing Walls](icf-basements-walls.html)**
+
+---
+
+### Verifiable Standards & Technical Sources
+1. **International Code Council (ICC):**
+   - *2024 International Residential Code (IRC):* Section R502 ("Wood Floor Framing") and Section R602 ("Wood Wall Framing").
+   - *2024 International Building Code (IBC):* Chapter 16 ("Structural Design - Design Load Combinations").
+2. **American Wood Council (AWC):**
+   - *National Design Specification (NDS) for Wood Construction:* Structural Composite Lumber (LVL) Design Values.
+3. **ASTM International:**
+   - *ASTM D5456:* Standard Specification for Evaluation of Structural Composite Lumber Products (LVL Mechanical Properties).
+   - *ASTM A36 / A36M:* Standard Specification for Carbon Structural Steel (W-Beam Sections).
 
 ---
 

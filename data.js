@@ -468,7 +468,7 @@ var miaecData = [
       "SD",
       "WI"
     ],
-    "summary": "Cold-climate heat pumps at -20°F: How vapor-injection works, why ice on outdoor coils in winter is normal (defrost diagnostics), and real-world Zone 5 COP curves.",
+    "summary": "Cold-climate heat pumps at -20°F: How vapor-injection works, why ice on outdoor coils in winter is normal (defrost diagnostics), and real-world Great Lakes and Plains COP curves.",
     "codeTag": "NEEP ccASHP / AHRI 210/240 / ASHRAE 90.1",
     "type": "Report",
     "url": "articles/cold-climate-heat-pumps.html"

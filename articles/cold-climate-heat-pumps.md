@@ -3,7 +3,7 @@
 > **Jurisdiction:** Climate Zones 4 & 5 (Midwest Residential & Commercial)
 > **Canonical Article:** https://midwestaec.com/articles/cold-climate-heat-pumps.html
 > **Building Code Reference:** NEEP ccASHP / AHRI 210/240 / ASHRAE 90.1
-> **Summary:** Cold-climate heat pumps at -20°F: How vapor-injection works, why ice on outdoor coils in winter is normal (defrost diagnostics), and real-world Zone 5 COP curves.
+> **Summary:** Cold-climate heat pumps at -20°F: How vapor-injection works, why ice on outdoor coils in winter is normal (defrost diagnostics), and real-world Great Lakes and Plains COP curves.
 
 
 # Can a Heat Pump Actually Handle -15°F? Cold-Climate Inverters During Midwest Winters
@@ -17,15 +17,15 @@
 
 ---
 
-## Engineering Evaluation: Heat Pump Operational Boundaries in Zone 5
+## Engineering Evaluation: Heat Pump Operational Boundaries Across the Great Lakes & Plains
 
-The fundamental thermodynamic challenge of winter heating in the Midwest (Climate Zones 4, 5, and 6) is the divergence between building heating load and equipment output: as outdoor ambient temperatures fall, a home's heat loss increases linearly, while standard single-stage heat pumps lose up to 70% of their heating capacity.
+The fundamental thermodynamic challenge of winter heating across the Great Lakes, the Corn Belt, and the Northern Plains is the divergence between building heating load and equipment output: as outdoor ambient temperatures fall, a home's heat loss increases linearly, while standard single-stage heat pumps lose up to 70% of their heating capacity.
 
 For decades, legacy equipment earned a poor regional reputation because single-speed rotary compressors could not maintain compression ratios in sub-zero outdoor air without internal discharge temperatures exceeding safe lubricating limits (240°F). Modern cold-climate air-source heat pumps (ccASHPs) certified under **NEEP standards (v4.0)** and **AHRI 210/240** solve this deficit using inverter-driven variable-speed compressors equipped with vapor flash-injection cycles. 
 
 Heat exists in the ambient atmosphere all the way down to absolute zero (-459.67°F). Inverter technology allows heat extraction at -15°F to operate as a reliable, primary heating specification rather than an emergency experiment.
 
-![Cold-Climate Heat Pump Capacity and COP vs Outdoor Temperature in Climate Zones 4 and 5](images/cold-climate-heat-pump-diagram.jpg)
+![Cold-Climate Heat Pump Capacity and COP vs Outdoor Temperature in Midwest and Great Lakes Winters](images/cold-climate-heat-pump-diagram.jpg)
 
 ---
 
@@ -122,7 +122,7 @@ Thermostat "Emergency Heat" mode physically locks out the outdoor heat pump comp
 Heavy Upper Midwest snowfalls can bury outdoor condensing units. Ensure that drifting snow is cleared at least 24 inches around the perimeter of the unit so airflow is not choked off. Crucially, never position an outdoor heat pump directly beneath an un-guttered roof valley or eave. Meltwater dripping from the roof into the top fan grill will freeze into solid icicles, locking the fan motor and destroying the blade assembly.
 
 ### 4. Verify Outdoor Unit Elevation (Minimum 12" to 18" Snow Stand)
-In Climate Zones 5 and 6, local mechanical codes and manufacturer installation manuals require heat pumps to be mounted on elevated stands or heavy-duty wall brackets 12 to 18 inches above the local 100-year average snow line. If your installer placed your outdoor unit flat on a plastic pad at ground level, demand that they return and reinstall the unit on an engineered snow stand with an integral pan heater.
+Across Great Lakes and Upper Midwest snow belts, local mechanical codes and manufacturer installation manuals require heat pumps to be mounted on elevated stands or heavy-duty wall brackets 12 to 18 inches above the local 100-year average snow line. If your installer placed your outdoor unit flat on a plastic pad at ground level, demand that they return and reinstall the unit on an engineered snow stand with an integral pan heater.
 
 ---
 
@@ -140,7 +140,7 @@ The following table summarizes independent performance ratings certified under t
 
 *Data Sources: NEEP ccASHP Product List; AHRI Directory of Certified Product Performance (AHRI Standard 210/240).*
 
-Systems engineered with dedicated flash-injection circuits (such as Mitsubishi Hyper-Heat and Fujitsu XLTH) maintain a flat capacity curve down to -5°F or lower. Standard inverter units without injection circuits (such as the Bosch IDS) modulate down smoothly, but begin shedding maximum heating capacity below 15°F, requiring careful sizing evaluation in Climate Zone 5.
+Systems engineered with dedicated flash-injection circuits (such as Mitsubishi Hyper-Heat and Fujitsu XLTH) maintain a flat capacity curve down to -5°F or lower. Standard inverter units without injection circuits (such as the Bosch IDS) modulate down smoothly, but begin shedding maximum heating capacity below 15°F, requiring careful sizing evaluation across cold Great Lakes and Plains climates.
 
 ---
 
@@ -208,7 +208,7 @@ Executing an efficient cold-climate heat pump conversion requires following stri
    * *Service Link:* Find certified HVAC design technicians through the [Air Conditioning Contractors of America (ACCA) Directory](https://www.acca.org) or require an engineered load audit before equipment purchase.
 2. **Connect with Vetted Cold-Climate Heat Pump Specialists:**
    * Ensure your installer has documented experience with cold-climate variable-speed inverters (e.g., Mitsubishi Hyper-Heat, Fujitsu XLTH, Daikin Aurora) and verifies proper outdoor unit elevation (minimum 18 inches above the local snow line).
-   * *Service Link:* [Connect with Vetted Local Heat Pump Specialists &rarr;](../browse.html?cat=hvac) to receive free, competitive bids from verified Climate Zone 5 mechanical contractors.
+   * *Service Link:* [Connect with Vetted Local Heat Pump Specialists &rarr;](../browse.html?cat=hvac) to receive free, competitive bids from verified Great Lakes and Midwest mechanical contractors.
 3. **Conduct a Pre-Installation Blower Door Air-Sealing Audit:**
    * Air-sealing the ceiling plane and basement rim joists can reduce your home's design heating load by 1.5 to 2.5 tons, allowing you to install a smaller, quieter, and significantly less expensive heat pump.
    * *Service Link:* Follow our [Blower Door Testing & Air Leakage Checklist](blower-door-checklist.html) to locate convective bypasses before sizing equipment.

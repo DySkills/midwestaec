@@ -1,0 +1,38 @@
+{
+  "furnace-vent-pipe-freeze-lockout": {
+    "title": "Furnace Vent Pipe Freeze Lockout",
+    "doc_id": "1Mi8l65Q1i_YeMJzbI3F5_eXqwloarvNS9bMU28WU20w",
+    "url": "https://docs.google.com/document/d/1Mi8l65Q1i_YeMJzbI3F5_eXqwloarvNS9bMU28WU20w/edit",
+    "file": "content/furnace-vent-pipe-freeze-lockout.md"
+  },
+  "heat-pump-aux-heat-lockout-balance-point": {
+    "title": "Heat Pump Aux Heat Lockout & Balance Point",
+    "doc_id": "1W5jeKS3BDNpRoWNP3AioZFLab57rp4cANThstUwsZ0o",
+    "url": "https://docs.google.com/document/d/1W5jeKS3BDNpRoWNP3AioZFLab57rp4cANThstUwsZ0o/edit",
+    "file": "content/heat-pump-aux-heat-lockout-balance-point.md"
+  },
+  "sump-pump-failure-spring-thaw-backups": {
+    "title": "Sump Pump Failure & Thaw Backups",
+    "doc_id": "1o2nKNvN1kuNelLkt3wy7djL8dIoN79E42wz1UCp9Yzw",
+    "url": "https://docs.google.com/document/d/1o2nKNvN1kuNelLkt3wy7djL8dIoN79E42wz1UCp9Yzw/edit",
+    "file": "content/sump-pump-failure-spring-thaw-backups.md"
+  },
+  "cold-climate-septic-well-freeze-solutions": {
+    "title": "Cold Climate Septic & Well Freeze Solutions",
+    "doc_id": "1ob0UlyrSbV1vDwx-xX0wiVD7W7lbk_Gl7z6Ci2X5eLc",
+    "url": "https://docs.google.com/document/d/1ob0UlyrSbV1vDwx-xX0wiVD7W7lbk_Gl7z6Ci2X5eLc/edit",
+    "file": "content/cold-climate-septic-well-freeze-solutions.md"
+  },
+  "ice-dams-roofs": {
+    "title": "Ice Dam Prevention & Remediation",
+    "doc_id": "1ZrX_MeE8rYAzxtqmJ0Wcn75ksBngKiWmwDiLLSggYfw",
+    "url": "https://docs.google.com/document/d/1ZrX_MeE8rYAzxtqmJ0Wcn75ksBngKiWmwDiLLSggYfw/edit",
+    "file": "content/ice-dams-roofs.md"
+  },
+  "icf-basements-walls": {
+    "title": "ICF Basements & Frost Protection",
+    "doc_id": "1YVXl7jZHy4PQIMzFwbcOlmPBChcMM4nmvVe_u9HwSCY",
+    "url": "https://docs.google.com/document/d/1YVXl7jZHy4PQIMzFwbcOlmPBChcMM4nmvVe_u9HwSCY/edit",
+    "file": "content/icf-basements-walls.md"
+  }
+}

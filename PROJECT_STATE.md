@@ -3,34 +3,34 @@
 **Live Domain:** [`https://midwestaec.com`](https://midwestaec.com)  
 **GitHub Repository:** [`https://github.com/DySkills/midwestaec`](https://github.com/DySkills/midwestaec) (Branch: `main`)  
 **DNS & Edge Proxy:** Cloudflare (Edge SSL active)  
-**Last Updated:** November 1, 2026
+**Last Updated:** November 2, 2026
 
 ---
 
 ## 1. Project & Author Overview
 * **Publication:** **Midwest AEC** (Midwest Architecture, Engineering & Construction).
-* **Mission:** Independent building science publication focusing on residential envelope performance, cold-climate HVAC, moisture remediation, and capital construction across Climate Zones 4 and 5.
+* **Mission:** Independent building science publication focusing on residential envelope performance, cold-climate HVAC, moisture remediation, and capital construction across Climate Zones 4A, 5A, and 6A.
 * **Founder Background:** NAAB B.Arch, multigenerational Missouri construction family heritage, lived experience in old, drafty, and modern homes. Narrative-meets-physics editorial philosophy.
 * **Legal Status:** Sole proprietorship / independent digital publisher. Zero corporate "LLC" or physical address claims. Full legal compliance deployed at `privacy.html`, `terms.html`, and `disclosure.html` (FTC 16 CFR Part 255).
+* **Network Structure:** Strictly standalone. Zero phantom networks or placeholder regional domains.
 
 ---
 
 ## 2. Article Inventory & Content Architecture
-* **Total Published Articles:** **34 live specifications** (18 Reports, 10 Features, 4 Tutorials, 2 Listicles).
-* **Compiler Engine:** [`build.js`](build.js) compiles `content/*.md` into `articles/*.html` and native `.md` AEO twins, auto-generates Schema.org JSON-LD (`Article`, `TechArticle`, `FAQPage`, `HowTo`), regenerates [`data.js`](data.js), [`rss.xml`](rss.xml), [`llms.txt`](llms.txt), and [`sitemap.xml`](sitemap.xml) (40 URLs with dynamic `<lastmod>`).
-* **Recent Production Deployments:**
-  * **Thursday, Oct 29:** [`basement-egress-window-cutting.md`](content/basement-egress-window-cutting.md) &rarr; [`basement-egress-window-cutting.html`](articles/basement-egress-window-cutting.html) deployed live with IRC Section R310 structural compliance, track diamond sawing, and footing gravel drainage.
-  * **Friday, Oct 30:** [`how-to-know-if-you-need-icf-basement.md`](content/how-to-know-if-you-need-icf-basement.md) &rarr; [`how-to-know-if-you-need-icf-basement.html`](articles/how-to-know-if-you-need-icf-basement.html) deployed live as a diagnostic spoke reinforcing the surging ICF search cluster.
-* **Staged Backlog Inventory (9 Specifications Remaining):**
-  1. [`load-bearing-wall-removal-lvl.md`](content/backlog/load-bearing-wall-removal-lvl.md) — Staged for **Monday, Nov 2**
-  2. [`heat-pump-aux-heat-lockout-balance-point.md`](content/backlog/heat-pump-aux-heat-lockout-balance-point.md) — Staged for **Thursday, Nov 5 (Early Winter Wave Spoke)**
-  3. [`siding-comparison-hardie-lpsmartside-vinyl.md`](content/backlog/siding-comparison-hardie-lpsmartside-vinyl.md) — Staged for **Monday, Nov 9**
-  4. [`furnace-vent-pipe-freeze-lockout.md`](content/backlog/furnace-vent-pipe-freeze-lockout.md) — Staged for **Thursday, Nov 12 (January Polar Wave Emergency HVAC)**
-  5. [`emergency-window-repair-seal-failure.md`](content/backlog/emergency-window-repair-seal-failure.md) — Staged for **Monday, Nov 16**
-  6. [`foundation-freeze-thaw-crack-repair.md`](content/backlog/foundation-freeze-thaw-crack-repair.md) — Staged for **Thursday, Nov 19 (Frost Heave & Wall Bowing)**
-  7. [`cold-climate-septic-well-freeze-solutions.md`](content/backlog/cold-climate-septic-well-freeze-solutions.md) — Staged for **Monday, Nov 23 (Rural/Peri-Urban Deep Frost)**
-  8. [`sump-pump-failure-spring-thaw-backups.md`](content/backlog/sump-pump-failure-spring-thaw-backups.md) — Staged for **Thursday, Nov 26 (March Hydrostatic Shock & Sump Backups)**
-  9. [`roof-heat-tape-deicing-cables.md`](content/backlog/roof-heat-tape-deicing-cables.md) — Staged for **Monday, Nov 30 (Deep Freeze & Ice Dam Electrical Analysis Spoke)**
+* **Total Published Articles:** **38 live specifications** across all building science disciplines.
+* **Compiler Engine:** [`build.js`](build.js) compiles `content/*.md` into `articles/*.html` and native `.md` AEO twins, auto-generates Schema.org JSON-LD (`Article`, `TechArticle`, `FAQPage`, `HowTo`), regenerates [`data.js`](data.js), [`rss.xml`](rss.xml), [`llms.txt`](llms.txt), and [`sitemap.xml`](sitemap.xml) (44 URLs with dynamic `<lastmod>`).
+* **Recent Production Deployments (Nov 2, 2026):**
+  * [`furnace-vent-pipe-freeze-lockout.md`](content/furnace-vent-pipe-freeze-lockout.md) &rarr; [`articles/furnace-vent-pipe-freeze-lockout.html`](articles/furnace-vent-pipe-freeze-lockout.html) (Emergency winter Category IV condensing flue icing and pressure switch diagnostics).
+  * [`heat-pump-aux-heat-lockout-balance-point.md`](content/heat-pump-aux-heat-lockout-balance-point.md) &rarr; [`articles/heat-pump-aux-heat-lockout-balance-point.html`](articles/heat-pump-aux-heat-lockout-balance-point.html) (Dual-fuel COP curves and economic balance point staging).
+  * [`sump-pump-failure-spring-thaw-backups.md`](content/sump-pump-failure-spring-thaw-backups.md) &rarr; [`articles/sump-pump-failure-spring-thaw-backups.html`](articles/sump-pump-failure-spring-thaw-backups.html) (Exterior discharge pipe freezing and rapid thaw hydrostatic head mitigation).
+  * [`cold-climate-septic-well-freeze-solutions.md`](content/cold-climate-septic-well-freeze-solutions.md) &rarr; [`articles/cold-climate-septic-well-freeze-solutions.html`](articles/cold-climate-septic-well-freeze-solutions.html) (Rural deep frost line penetration, uninsulated transport piping, and pressure switch protection).
+* **Recent Major Overhauls (Nov 2, 2026):**
+  * **Batch 3 Library Destructuring:** All 38 articles converted to bespoke Blueprints (Material Teardowns, Retrofit SOPs, Forensic Diagnostics).
+  * **Zero Em-Dash Rule Enforced:** 129 em-dashes eliminated across the entire site.
+  * **AI Diction Cleaned:** 45 formulaic bullet prefixes and dramatic jargon replaced with direct jobsite diagnostics.
+  * **Phantom Network Purge:** Removed placeholder top bar across 48 templates and pages.
+  * **In-Body Contextual Internal Linking:** 104 contextual links injected under Google's Reasonable Surfer Model.
+  * **Google Docs Two-Way Sync:** Top 6 winter emergency specifications exported to Google Docs for direct user rewriting (`docs-sync.json`).
 
 ---
 

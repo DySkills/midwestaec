@@ -31,6 +31,9 @@ referralHook: "Historic Brick Masonry & Weatherization Specification"
 
 The objective of this retrofit is to install high-performance interior thermal insulation while preserving the hygrothermal equilibrium of historic solid mass brick walls. Doing so safely requires eliminating bulk water entry, decoupling the framing from capillary contact, preventing winter moisture condensation, and allowing inward summer vapor drying.
 
+Before applying interior insulation, review the critical freeze-thaw spalling physics in our [historic brick insulation guide](insulating-brick.html). Check embedded floor joist pockets for open vertical air channels explained in our [historic balloon framing report](balloon-framing.html).
+
+
 Working with century-old masonry involves critical structural and health safety protocols:
 
 - **Respirable Crystalline Silica & Lead Dust:** Raking historic mortar joints and vacuuming masonry cavities generates hazardous airborne silica and lead dust. Workers must wear NIOSH-approved P100 respirators, sealed eye protection, and employ HEPA-shrouded dust extraction tools compliant with OSHA 29 CFR 1926.1153.

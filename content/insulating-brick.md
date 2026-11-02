@@ -31,6 +31,9 @@ referralHook: "Historic Brick Masonry & Weatherization Specification"
 
 Across historic Midwest urban centers (Chicago, St. Louis, Milwaukee, Detroit, and Minneapolis), hundreds of thousands of pre-1940 structures feature multi-wythe structural mass brick walls (typically 2 to 3 wythes of soft, low-fired common clay brick). When planning gut renovations, contractors frequently propose spraying 2 to 3 inches of closed-cell spray polyurethane foam directly onto the interior face of the brick to achieve an airtight R-13 to R-20 assembly.
 
+Executing a safe interior insulation retrofit requires following our [historic brick repointing and interior retrofit manual](historic-brick-retrofit-steps.html). Inspectors evaluating older masonry buildings must also identify open floor joist flues detailed in our [balloon framing field guide](balloon-framing.html).
+
+
 Forensic masonry evaluations demonstrate why this approach causes catastrophic structural failure:
 1. **Starving the Brick of Indoor Waste Heat:** For over a century, historic brick envelopes survived sub-zero Midwest winters because escaping indoor heat maintained the brick temperature above 32°F, continually evaporating driving rain and moisture outward.
 2. **Critical Saturation & Exterior Spalling:** Adding interior insulation drops the temperature of the exterior brick wythe to ambient outdoor winter temperatures (-10°F to 10°F). When winter rain or snowmelt drives into the soft brick and the moisture saturation exceeds the critical threshold (typically 80% to 85% of pore volume), freezing water expands by 9%. This generates internal hydraulic pressure exceeding 2,000 PSI, popping off the decorative brick face in sheets (spalling) and turning mortar joints into loose sand.

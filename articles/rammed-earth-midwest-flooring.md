@@ -16,6 +16,9 @@
 
 Unstabilized rammed earth and traditional poured earthen floors possess undeniable aesthetic appeal and low embodied carbon. Composed of subsoil, clay binders, graded sand aggregates, and natural oils, compacted earthen assemblies deliver high volumetric heat capacity and acoustic dampening.
 
+Earthen slabs in cold climates must be thermally decoupled from ground frost by installing [sub-slab rigid foam insulation](sub-slab-insulation-specs.html). Compare natural soil acoustics and capacitance against other sustainable assemblies in our [embodied carbon materials teardown](embodied-carbon-materials.html).
+
+
 However, building with earth in the Upper Midwest and Northern Plains requires strict adherence to soil mechanics and thermodynamic boundaries that warm, arid regions never encounter:
 1. **Thermal Mass vs. True Thermal Resistance:** Compacted soil delivers an R-value of barely **R-0.20 to R-0.25 per inch**. A standard 12-inch rammed earth wall provides only R-2.4 to R-3.0 of thermal resistance, grossly deficient compared to the IECC mandatory baseline of R-20+ to R-30 for above-grade walls. Uninsulated earth functions as an immense thermal sink, drawing heat out of the living space during sub-zero cold snaps.
 2. **Capillary Spalling & Freeze-Thaw Destruction:** Without chemical stabilization (such as 6% to 9% Portland cement or hydraulic lime) and continuous sub-slab extruded polystyrene (XPS R-10 minimum), groundwater migrating through clay subgrades saturates the soil matrix. During winter freeze cycles, trapped water expands 9% by volume, destroying the clay-aggregate bond and crumbling earthen surfaces into loose silt.

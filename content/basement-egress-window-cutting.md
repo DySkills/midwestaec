@@ -29,6 +29,9 @@ referralHook: "Basement Remodeling, Concrete Cutting & Egress Contractor Match"
 
 Basements represent the most cost-effective untapped square footage in Midwest residential architecture. Finishing an existing 1,000-square-foot basement typically costs \$40 to \$75 per square foot, compared to \$200 to \$350 per square foot for an above-grade room addition.
 
+While saw-cutting into existing concrete demands heavy hydraulic equipment, new builds utilizing [insulated concrete forms (ICF)](icf-basements-walls.html) allow builders to pre-form window bucks with zero structural sawing. In either scenario, exterior window wells must tie directly into your [basement waterproofing perimeter drainage tile](basement-waterproofing.html) to prevent rainwater from pooling against the sill.
+
+
 However, municipal building departments across the Midwest and Great Lakes region operate under strict life-safety standards: **any basement space classified as a habitable bedroom must feature at least one code-compliant Emergency Escape and Rescue Opening (EERO)**. 
 
 Cutting an egress window opening through an existing 8-inch to 10-inch steel-reinforced poured concrete foundation wall involves significant structural, moisture, and geotechnical engineering. Below is the technical compliance baseline for executing a legal basement egress installation.

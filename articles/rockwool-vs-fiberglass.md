@@ -31,6 +31,9 @@ When outdoor temperatures drop to -10°F and indoor air is heated to 70°F acros
 
 Stone wool's dense, tightly packed mineral fiber matrix mechanically halts internal air currents before convective loops can establish. Even under severe sub-zero thermal pressure, stagnant air pockets remain locked in place, ensuring the wall assembly delivers its full laboratory-tested thermal resistance when your furnace or heat pump is working hardest.
 
+To completely eliminate thermal bridging through studs, cavity insulation should be paired with [exterior continuous insulation over sheathing](continuous-insulation.html). In variable Midwest climates, stone wool assemblies perform best when protected with a [smart vapor retarder membrane](smart-vapor-retarders.html) rather than polyethylene, while delivering the low environmental impact explored in our [embodied carbon materials teardown](embodied-carbon-materials.html).
+
+
 - **Jobsite Rule:** On exterior walls facing prevailing north and west winter winds, specify high-density stone wool (or dense-packed cellulose) over low-density batts to eliminate convective thermal derating.
 
 ---

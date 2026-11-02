@@ -31,6 +31,9 @@ referralHook: "Custom Home & High-Performance Framing Quote Match"
 
 When budgeting a custom home or rural acreage build across the Great Lakes and Northern Plains, the framing bid represents one of the largest single capital expenditures in the project. Builders and owners are frequently caught between conventional stick framing and high-performance Structural Insulated Panels (SIPs):
 
+To maximize whole-envelope efficiency, builders frequently mount precision-cut structural insulated panels directly onto an [ICF basement foundation](icf-basements-walls.html), establishing an unbroken thermal shell. For conventional stick framing, achieving a comparable thermal envelope requires adding [exterior continuous insulation over sheathing](continuous-insulation.html).
+
+
 ### 1. The Two Competing Construction Bids
 - **Conventional 2x6 Stick Framing (R-20 Cavity):** Wood studs spaced 16 inches on center, insulated with fiberglass batts and wrapped in housewrap. While material costs are lower, wood framing members (studs, plates, headers) account for **25% of the exterior wall surface area**, acting as continuous thermal bridges that bleed heat in -15°F winter winds.
 - **Monolithic SIPs Envelopes (6.5" Walls / 10.25" Roofs):** Monolithic panels featuring continuous expanded polystyrene (EPS) or graphite polystyrene (GPS) foam cores factory-laminated between two sheets of structural OSB. Delivers uninterrupted R-24 to R-40 insulation with studs eliminated every 16 inches.

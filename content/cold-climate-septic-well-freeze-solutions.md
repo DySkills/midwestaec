@@ -9,6 +9,9 @@ cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroi
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "Why rural and peri-urban Midwest septic drainfields and well systems freeze solid without snow cover, and how to engineer sub-grade insulation and pressure switch protection."
 summary: "Throughout the rural and suburban fringe of the Midwest, hundreds of thousands of residential properties rely on private on-site wastewater treatment systems (septic) and private drilled wells. During dry, snow-free winters in the Great Lakes, Upper Midwest, and Northern Plains, ground frost penetrates up to 60 inches deep, freezing shallow 4-inch sewer laterals, paralyzing soil absorption drainfields, and icing well pump pressure switch sensing lines. Understanding thermal snow blankets, installing sub-grade extruded polystyrene frost shields, and maintaining biological wastewater warmth prevents catastrophic mid-winter sewer backups."
+
+Protecting rural well pumps from extended winter power outages coordinates directly with the microgrid sizing in our [rural off-grid systems guide](off-grid-systems.html). Furthermore, directing surface water away from drainfields requires the civil grading principles in our [expansive lawncare and swale drainage guide](expansive-lawncare.html).
+
 codeTag: "IRC Appendix I / NSF/ANSI 40 / EPA Onsite Wastewater Manual"
 author: "Midwest AEC Building Science"
 date: "February 2027"

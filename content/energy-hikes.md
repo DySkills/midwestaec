@@ -31,6 +31,9 @@ referralHook: "Attic Insulation & Air Sealing Quote Match"
 
 When winter natural gas tariffs and electric heating rates spike across the Midwest, homeowners look for ways to cut utility costs. Window replacement companies aggressively pitch $20,000 to $30,000 contracts, claiming new windows will slash energy bills in half. Building science thermodynamics proves this is one of the worst capital investments a homeowner can make:
 
+Homeowners can counter escalating utility rates by replacing outdated heating equipment with high-COP [cold-climate heat pumps](cold-climate-heat-pumps.html). Before investing in high-cost windows, evaluate true energy payback curves in our [window replacement financial guide](when-to-replace-windows.html), or capture fast returns with [low-cost attic air sealing](attic-air-sealing-baffles.html).
+
+
 ### 1. The Capital Payback Reality Check
 - **$25,000 Window Investment:** Delivers an annual heating energy savings of roughly **$250 to $450 per year**. The simple payback period spans **40 to 60 years**, well past the 20-year lifespan of insulated glass seals.
 - **$2,500 Air-Sealing & Attic Insulation Alternative:** Sealing attic bypasses and basement rim joists with expanding foam and blowing R-60 cellulose cuts winter heating bills by **$350 to $650 per year**. The simple payback period is **2 to 4 years**!

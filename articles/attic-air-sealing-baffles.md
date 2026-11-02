@@ -9,6 +9,9 @@
 # Attic Air Sealing & Eave Baffling: The Step-by-Step Cold Roof Retrofit
 
 > **Quick Summary:** Eliminating ice dams and cutting winter ceiling heat loss requires converting your attic into a true balanced cold roof assembly. By mechanically sealing ceiling bypasses and installing rigid rafter baffles before blowing insulation, you prevent warm indoor air from warming the roof sheathing above 32°F.
+
+Stopping convective ceiling bypasses is the single most effective permanent defense against [destructive winter ice dams](ice-dams-roofs.html). Unsealed attic air leaks also channel warm, humid indoor air into freezing rafters, causing [winter attic frost and roof sheathing sweating](attic-frost-roof-sweating.html). On low-slope or cathedral ceilings where rafter baffles cannot fit, builders utilize [continuous roof insulation over sheathing](roof-insulation-over-sheathing.html).
+
 >
 > - **Execution Difficulty & Time:** Advanced DIY or Professional Trade; 12 to 16 labor hours for an average 1,200 sq. ft. attic footprint.
 > - **Primary Thermal Target:** Whole-house envelope airtightness under 3.0 ACH50, zero convective bypasses into attic, and continuous R-60 thermal boundary.

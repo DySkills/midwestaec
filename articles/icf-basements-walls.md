@@ -138,6 +138,9 @@ The following matrix details realistic 2026 installed costs for a 2,000 sq. ft. 
 
 Insulated Concrete Forms (ICF), often called an "ice block foundation" by tradespeople because of the interlocking white foam blocks, eliminate the thermal bridge and the condensation plane entirely. By placing continuous, rigid expanded polystyrene insulation on **both sides** of the structural concrete core, builders erect permanent, monolithic **icf foundation walls**:
 
+Even with continuous EPS insulation, managing hydrostatic pressure in heavy clay requires proper [basement waterproofing and perimeter drainage](basement-waterproofing.html). To achieve an unbroken thermal envelope, connect wall forms to [sub-slab rigid foam insulation](sub-slab-insulation-specs.html), or diagnose existing wall failure symptoms with our guide on [how to know if you need an ICF basement](how-to-know-if-you-need-icf-basement.html).
+
+
 > ### Insulated Concrete Form (ICF) Structural & Thermal Stack
 >
 > | Layer Position | Material Specification | Building Science Function |

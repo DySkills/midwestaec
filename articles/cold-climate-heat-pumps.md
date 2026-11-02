@@ -50,6 +50,9 @@ Modern cold-climate systems solve this through **vapor flash-injection** (acting
 
 Evaluating heat pump performance requires understanding the **Coefficient of Performance (COP)**: the ratio of useful heat delivered to electrical energy consumed. A high-efficiency condensing natural gas furnace operating at 96% annual fuel utilization efficiency (AFUE) operates at the thermodynamic equivalent of a COP of 0.96. Electric resistance heat strips convert electricity directly into heat with zero mechanical advantage, yielding a fixed COP of exactly 1.0.
 
+To unlock maximum seasonal efficiency and protect utility bills, homeowners must configure thermostats for [proper auxiliary heat lockout and thermal balance points](heat-pump-aux-heat-lockout-balance-point.html). Protecting your home against [regional winter energy rate hikes](energy-hikes.html) also means ensuring that dual-fuel backup systems do not suffer from [furnace vent pipe freeze lockouts](furnace-vent-pipe-freeze-lockout.html).
+
+
 In mild 47°F shoulder-season conditions, an inverter-driven cold-climate heat pump operates at a COP between 3.6 and 4.2. Every single kilowatt-hour of electricity consumed extracts and delivers 3.6 to 4.2 kilowatt-hours of thermal energy into the living space. As outdoor temperatures plunge, thermodynamic lift increases and efficiency gradually declines:
 
 - **At 47°F Ambient:** COP ranges from **3.6 to 4.2** (Delivers over 350% efficiency).

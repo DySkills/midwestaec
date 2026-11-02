@@ -21,6 +21,9 @@
 
 Transitioning from a typical suburban quarter-acre lot to a 3- to 10-acre parcel across the Corn Belt and Missouri River basin introduces civil drainage dynamics that standard residential landscaping practices cannot support.
 
+Grading acreage swales to shed runoff prevents catastrophic foundation saturation analyzed in our [basement waterproofing guide](basement-waterproofing.html). Civil swale routing must also safeguard private utilities as outlined in our [cold-climate septic and well freeze solutions](cold-climate-septic-well-freeze-solutions.html).
+
+
 When property owners attempt to maintain expansive acres of manicured Kentucky bluegrass using heavy commercial zero-turn mowers (1,000 to 1,400 lbs), two hydrological failures occur:
 1. **The Sub-Surface Mower Hardpan:** Repeated passes over damp spring clay soils compact topsoil at a 2- to 3-inch depth, transforming natural soil into an impermeable hardpan that slashes rain infiltration by over 80%.
 2. **Shallow Turf Root Systems:** Bluegrass and turf fescues develop root depths of barely 2 to 4 inches. In contrast to deep-rooted native prairie buffers, turf cannot sponge heavy spring cloudbursts, generating thousands of gallons of surface runoff that overwhelm perimeter swales and flood basement foundation walls.

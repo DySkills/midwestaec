@@ -31,6 +31,9 @@ referralHook: "Basement Waterproofing & Sump Pump Specialist Match"
 
 Across the upper Midwest, March brings dramatic temperature swings. A week of 55°F weather with driving rainstorms frequently follows a month of sub-zero polar temperatures. 
 
+A sump basin operates as the mechanical heart of an integrated [basement waterproofing and perimeter drainage assembly](basement-waterproofing.html). In monolithic foundations like [ICF basement walls](icf-basements-walls.html), structural resistance against lateral soil water is substantially higher, especially during the acute freeze-thaw cycles explored in our [false spring envelope thaw report](false-spring-envelope-thaw.html).
+
+
 This creates a severe geotechnical hydraulic trap:
 
 1. **Permafrost-Like Subsoil Barrier:** While air temperatures are warm and topsoil thaws into mud, the earth **24 to 36 inches below grade remains frozen solid** as a dense, impervious frost lens.

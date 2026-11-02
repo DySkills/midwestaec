@@ -9,6 +9,9 @@ cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroi
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "Why default thermostat staging triggers expensive 10 kW resistance strips prematurely at 35°F, and how to program compressor lockout temperatures to cut winter utility spikes by 40%."
 summary: "During the first Midwest freeze in November, thousands of homeowners see their utility bills triple because their smart thermostats engage electric resistance heat strips whenever indoor temperatures lag by 2 degrees. Modern cold-climate heat pumps maintain efficient thermodynamic lift down to 5°F or lower; locking out auxiliary strips until true thermal balance prevents unnecessary grid demand and cuts hundreds of dollars in unnecessary heating costs."
+
+Modern inverter compressors maintain impressive heating capacity down to -15°F, as itemized in our [cold-climate heat pump performance teardown](cold-climate-heat-pumps.html). For dual-fuel installations backed up by gas, homeowners must also protect sidewall terminations against [condensing furnace vent pipe freeze lockouts](furnace-vent-pipe-freeze-lockout.html).
+
 codeTag: "AHRI 210/240 / ASHRAE 90.1 / ACCA Manual S"
 author: "Midwest AEC Building Science"
 date: "November 2026"

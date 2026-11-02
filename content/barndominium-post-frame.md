@@ -33,7 +33,7 @@ Post-frame construction ("barndominiums") is marketed across rural Midwest acrea
 
 ### 1. The Bare Shell vs. Turnkey Reality
 - **$55 to $75/Sq. Ft. Structural Shell:** Covers laminated structural posts, clear-span steel roof trusses, 29-gauge metal siding and roofing, basic vinyl windows, and concrete pier footings. (This leaves an unconditioned, dirt-floor agricultural barn).
-- **$145 to $195/Sq. Ft. Finished Living Quarters:** Turning that shell into a home requires sub-slab continuous R-10 insulation, frost-depth perimeter thermal breaks, interior stud framing, electrical, plumbing, cold-climate heat pump mechanicals, drywall, interior finishes, and engineered condensation-control insulation.
+- **$145 to $195/Sq. Ft. Finished Living Quarters:** Turning that shell into a home requires [sub-slab continuous rigid insulation](sub-slab-insulation-specs.html), frost-depth perimeter thermal breaks, interior stud framing, electrical, plumbing, [cold-climate heat pump systems](cold-climate-heat-pumps.html), and [continuous exterior insulation](continuous-insulation.html) to prevent condensation. Prospective builders should also compare turnkey post-frame costs against [structural insulated panels (SIPs)](sips-vs-traditional-framing.html).
 - **Real Cost:** A 2,400 sq. ft. finished barndominium costs **$340,000 to $460,000 turnkey**, delivering roughly 15% to 25% savings over conventional stick-built custom homes, rather than the fictional 60% discounts promised online.
 
 ### 2. The #1 Structural Risk: Building an Agricultural Envelope for Residential Moisture

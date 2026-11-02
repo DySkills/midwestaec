@@ -21,6 +21,9 @@
 
 Constructed extensively between 1880 and 1940 across Midwest urban centers and rail towns, balloon-framed structures utilize continuous full-height 2x4 wall studs running uninterrupted from the basement foundation sill plate directly up to the second-story attic top plate. Intermediate floor joists rest on a 1x4 or 1x6 ribbon board notched into the interior stud edge, leaving every stud bay completely open from bottom to top.
 
+Halting the vertical stack effect in open cavities requires the step-by-step procedures in our [balloon framing firestopping retrofit tutorial](balloon-framing-retrofit-steps.html). Many historic balloon-frame homes also feature masonry envelopes that require the moisture precautions in our [historic brick insulation guide](insulating-brick.html), using non-combustible mineral wool evaluated in our [rockwool vs fiberglass insulation teardown](rockwool-vs-fiberglass.html).
+
+
 In modern building science and life-safety engineering, unmitigated balloon framing creates two severe liabilities:
 1. **The Uncontrolled Two-Story Convective Chimney:** Standard platform framing provides natural horizontal fireblocking at every floor level via bottom and top wall plates. In balloon framing, unblocked stud cavities act as continuous pneumatic chimneys. Under stack-effect pressure in sub-zero weather, cold outdoor air sucked through stone foundations and basement sill plates accelerates upward through wall cavities, cooling interior plaster walls to 50°F and dumping expensive interior heat into the attic at rates exceeding 800 to 1,200 CFM50.
 2. **The 3-Minute Life-Safety Fire Hazard (IRC R302.11):** In the event of a basement fire, these open vertical cavities draw combustion gases upward like a furnace flue. Toxic smoke and active flames bypass intermediate plaster walls, spreading from basement to attic in under 180 seconds before occupants can safely evacuate.

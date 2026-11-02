@@ -21,6 +21,9 @@
 
 Air moves through a building envelope strictly according to physical laws: air requires both an **opening (hole)** and a **pressure differential (driving force)** to move.
 
+Verifying whole-house envelope airtightness begins with an ASTM E779 audit using our [blower door testing checklist](blower-door-checklist.html). Proper mechanical ventilation prevents the muggy indoor air problems analyzed in our [summer humidity and AC short cycling guide](summer-humidity-ac.html), while allowing builders to right-size efficient [cold-climate heat pump systems](cold-climate-heat-pumps.html).
+
+
 In Midwestern homes during the winter heating season (the Midwest and Great Lakes region), pressure differentials are driven by three continuous forces:
 1. **Wind Pressure:** Velocity pressure pushing against the windward facade and creating negative suction on the leeward facade.
 2. **Mechanical Pressure:** Unbalanced HVAC duct leakage, exhaust fans, and clothes dryers pulling the living space into negative or positive pressure.

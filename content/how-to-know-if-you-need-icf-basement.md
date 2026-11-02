@@ -37,6 +37,9 @@ Before hiring contractors or budgeting for renovations, walk into your basement 
 
 ## Diagnostic Field Triage: 6 Structural & Moisture Indicators for an ICF Basement Retrofit
 
+Homeowners evaluating whether to repair existing failing masonry or invest in a structural rebuild should review our itemized contractor cost breakdown for [ICF basement wall construction](icf-basements-walls.html), as well as our forensic guide on [basement waterproofing and hydrostatic head pressure](basement-waterproofing.html).
+
+
 Walk over to an exposed exterior concrete or cinder block wall during late autumn or winter and press your flat palm firmly against the surface.
 
 ```

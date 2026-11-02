@@ -33,6 +33,9 @@ For decades, municipal residential building codes mandated open foundation vents
 
 When outdoor air at 88°F and 75% relative humidity (dew point: 79°F) enters foundation vents and contacts earth-cooled floor joists and subfloors sitting at 62°F to 65°F, psychrometric physics forces immediate bulk condensation. Fiberglass batt insulation installed between floor joists absorbs this moisture like a sponge, pulling away from subfloors, fostering toxic mold colonies, and driving subfloor moisture content above 25%, the critical rot threshold for structural wood framing.
 
+Converting a vented foundation into a clean, conditioned space requires executing our [step-by-step crawlspace encapsulation protocol](crawlspace-encapsulation-steps.html). Soil moisture barriers should coordinate with [sub-slab rigid foam insulation specifications](sub-slab-insulation-specs.html), permanently denying pests the damp timber detailed in our [building envelope bug prevention guide](bug-prevention.html).
+
+
 ## Summer Crawlspace Condensation: How Humid Outdoor Air Rots Cool Subfloors
 
 The physics of crawlspace moisture failure is governed by **psychrometrics** (the relationship between air temperature, absolute moisture content, and relative humidity).

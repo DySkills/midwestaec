@@ -55,6 +55,9 @@ The physical cycle unfolds in three sequential stages:
 
 - **Attic Convective Bypass:** Warm, conditioned air from the living space (at 70°F) escapes into the unconditioned attic through unsealed ceiling penetrations, recessed can lights, attic access hatches, electrical wiring holes, and open framing top plates. This rising warm air creates a pressurized pocket of heat beneath the roof ridge, warming the attic air to 36°F to 42°F.
 - **32°F Melting Plane:** The escaping heat conducts through the plywood or OSB roof sheathing, raising the sheathing temperature above 32°F (0°C). The bottom layer of snow contacting the warm shingles begins to melt, shielded from the cold outside air by the snowpack above. This liquid meltwater trickles down the roof slope under the blanket of snow toward the gutters.
+
+Stopping this heat escape requires executing the top-plate sealing detailed in our [attic air sealing and eave baffling tutorial](attic-air-sealing-baffles.html). These same ceiling bypasses are responsible for [winter attic frost and sweating roof sheathing](attic-frost-roof-sweating.html) during extreme sub-zero cold snaps.
+
 - **Sub-Freezing Overhang Freeze:** The moment the meltwater passes the exterior wall line of the home, the physical environment changes abruptly. The roof overhang (the eave and soffit) extends past the conditioned envelope of the building. With no heated living space below it, the overhang temperature matches the outdoor air, sitting at 15°F or 20°F. The trickle of meltwater instantly refreezes, depositing a razor-thin layer of ice at the roof edge.
 
 As warm attic air continues to melt rooftop snow hour after hour, this refreezing process repeats millions of times. Within 48 to 72 hours, the thin ice layer grows into an impenetrable solid ice ridge four to twelve inches thick.

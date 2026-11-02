@@ -94,6 +94,9 @@ Window replacement salesmen frequently promise that new triple-pane windows will
 
 ### 2. The 35-Year Energy Payback Reality
 Replacing 20 single-pane windows with high-efficiency double-pane units typically saves **$250 to $450 per year** in heating and cooling energy. On a $20,000 to $28,000 window replacement project, the simple financial payback spans **35 to 55 years**, exceeding the 20- to 25-year service lifespan of the window's insulated glass unit (IGU) seals!
+
+Before signing high-cost replacement bids, compare your payback against [historic window alternatives and Low-E storm retrofits](window-alternatives.html). Verifying whether drafts leak through glass or around rough openings requires a [blower door air leakage test](blower-door-checklist.html), especially when fighting [spiking winter energy costs](energy-hikes.html).
+
 - **When Replacement Makes Sense:** Rotted wood sills, broken balances that slam shut, shattered glass, or when remodeling exterior siding.
 - **When Replacement Is a Financial Trap:** Spending $25,000 purely for "energy efficiency" when drafty attic bypasses and uninsulated basement rim joists are losing five times more heat for one-tenth the cost.
 

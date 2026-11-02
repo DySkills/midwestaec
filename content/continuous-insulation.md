@@ -31,6 +31,9 @@ referralHook: "Siding & Exterior Insulation Quote Match"
 
 Under the 2021/2024 International Energy Conservation Code (IECC Section R402.1), energy codes across the Great Lakes and Northern Plains require exterior wood-framed walls to incorporate continuous exterior insulation:
 
+When selecting exterior board materials, compare stone wool against rigid foam in our [rockwool vs fiberglass insulation teardown](rockwool-vs-fiberglass.html). Exterior continuous insulation shifts the cavity dew point outward, which directly impacts the specification of [interior smart vapor retarders](smart-vapor-retarders.html).
+
+
 ### 1. Code Compliance Paths for Cold-Climate Walls
 - **Path 1 (Prescriptive Continuous Foam):** **R-20 cavity insulation + R-5 continuous exterior insulation**, or **R-13 cavity + R-10 continuous insulation**.
 - **Path 2 (U-Factor Equivalent):** Total assembly U-factor of **U-0.045 or lower** (delivering whole-wall R-22+ true performance).

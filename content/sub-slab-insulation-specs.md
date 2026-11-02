@@ -59,6 +59,9 @@ Because uninsulated concrete provides virtually no thermal resistance ($R \appro
 
 In a standard basement with forced-air heating, uninsulated slabs cause floor surface temperatures to linger between **52°F and 58°F**. In radiant-heated slabs, the absence of insulation constitutes an energy catastrophe, turning the boiler into a ground heater.
 
+To eliminate the perimeter thermal bridge where the concrete slab meets the exterior stem wall, connecting horizontal sub-slab foam directly to continuous [ICF basement wall assemblies](icf-basements-walls.html) creates an unbroken thermal boundary from footing to rafters. Furthermore, below-slab rigid foam must always coordinate with [basement waterproofing and under-slab drainage tiles](basement-waterproofing.html) to prevent trapped moisture from creating the dew-point condensation detailed in our [basement LVP flooring moisture report](basement-lvp-flooring-moisture.html).
+
+
 ---
 
 ## The 15-Year Moisture Dilemma: XPS vs. Type IX EPS

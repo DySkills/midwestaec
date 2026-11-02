@@ -31,6 +31,9 @@ referralHook: "Pest Barrier & Envelope Weatherization Match"
 
 Homeowners in rural, peri-urban, and wooded Midwest parcels routinely spend $400 to $900 annually on recurring exterior pesticide spraying to combat subterranean termites, carpenter ants, stink bugs, and field mice.
 
+Closing off insect entry routes requires eliminating crawlspace moisture through [crawlspace encapsulation](crawlspace-encapsulation.html). When insulating foundations, protect below-grade foam from insect tunneling using borate-treated products specified in our [sub-slab insulation guide](sub-slab-insulation-specs.html).
+
+
 However, building science field diagnostics show that chemical perimeter treatments are inherently temporary:
 1. **UV and Rain Degradation:** Surface-applied synthetic pyrethroids degrade under ultraviolet exposure and Midwest storm runoff within 21 to 30 days, completely losing efficacy along foundation walls.
 2. **The Thermal Scent Bypass:** Insects and rodents do not invade homes at random; they follow air exfiltration trails escaping through unsealed mud sills, rim joist cracks, and utility wall penetrations. In autumn, warm air escaping through 1/8-inch framing gaps attracts overwintering insects directly into wall cavities.

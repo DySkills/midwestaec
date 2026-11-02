@@ -9,6 +9,9 @@ cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroi
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "Why 90%+ condensing gas furnaces shut down during sub-zero cold snaps, how acidic flue condensate freezes exterior terminations, and how to clear differential pressure switch lockouts."
 summary: "During extreme Midwest polar vortexes with wind chills dipping below -20°F, emergency HVAC repair calls spike across the Great Lakes, Upper Midwest, and Northern Plains. Over 60% of these mid-blizzard failures are not cracked heat exchangers or dead blower motors, but frozen exterior PVC vent terminations, iced intake screens, and trapped acidic condensate tripping differential pressure switches. Diagnosing vent terminations, verifying pitch, and safely thawing condensate traps restores heat before pipes burst."
+
+When a high-efficiency gas furnace locks out during a polar cold snap, homeowners with dual-fuel equipment rely on emergency staging as explained in our [auxiliary heat balance point lockout guide](heat-pump-aux-heat-lockout-balance-point.html). Many homeowners tired of winter combustion venting failures transition to all-electric [cold-climate heat pumps](cold-climate-heat-pumps.html).
+
 codeTag: "NFPA 54 / ANSI Z223.1 / CSA B149.1 / IRC G2427"
 author: "Midwest AEC Building Science"
 date: "November 2026"

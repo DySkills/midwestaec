@@ -31,6 +31,9 @@ referralHook: "Basement Waterproofing & Vapor Barrier Specialist Match"
 
 Concrete is a porous, capillary-active sponge. Under microscopic examination, a standard 4-inch poured concrete basement slab consists of millions of interconnected capillary pores and micro-fissures.
 
+Unlike traditional poured concrete slabs that remain cold and damp, homes built with continuous [ICF basement foundation walls](icf-basements-walls.html) and [sub-slab rigid foam insulation](sub-slab-insulation-specs.html) elevate slab surface temperatures, preventing the subterranean condensation that destroys click-lock vinyl planks.
+
+
 In Midwestern residential construction (the Midwest and Great Lakes region), basement floor slabs are poured directly over excavated soil or crushed stone. Unless an unpunctured, heavy-duty vapor retarder was detailed prior to the pour, the slab exists in direct hydraulic and vapor communication with the damp earth below.
 
 ### The Two Modes of Moisture Transport

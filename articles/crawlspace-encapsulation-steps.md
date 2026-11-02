@@ -29,6 +29,9 @@
 
 ## Scope & Hydrology Pre-Flight: IRC R408.3 Soil Gas & Vapor Protocols
 
+Before rolling out heavy poly, review the thermodynamic physics behind [summer vented crawlspace joist rot](crawlspace-encapsulation.html). Sealing foundation perimeter penetrations also stops subterranean pests as outlined in our [pest prevention and envelope weatherization guide](bug-prevention.html).
+
+
 The objective of crawlspace encapsulation is to decouple the sub-floor structure from subterranean moisture and humid outdoor air. Transforming the crawlspace into a conditioned zone stops wood rot, prevents indoor stack-effect contamination, and cuts annual space heating and cooling bills by up to 20%.
 
 Working in confined subterranean spaces requires strict adherence to personal and structural safety protocols:

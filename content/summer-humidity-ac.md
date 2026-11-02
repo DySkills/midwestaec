@@ -31,6 +31,9 @@ referralHook: "High-Efficiency HVAC & Dehumidification Quote Match"
 
 During peak Midwest summers, when outdoor dew points exceed 72°F along river basins and the Great Lakes, homeowners experience a baffling mechanical failure: their air conditioner runs constantly, the air is cold, but the house feels sticky, clammy, and smells musty.
 
+Variable-speed inverter systems provide superior continuous dehumidification compared to single-stage units, as shown in our [cold-climate heat pump analysis](cold-climate-heat-pumps.html). In homes over crawlspaces, indoor humidity is often driven by moisture rising from damp soil, requiring complete [crawlspace encapsulation](crawlspace-encapsulation.html).
+
+
 ### 1. Active Failure Symptoms
 - **"Meat Locker" Sensation:** The living room thermostat reads a chilly 68°F or 70°F, yet bedsheets feel damp, hardwood floors feel tacky under bare feet, and indoor air feels oppressively heavy.
 - **Sweating Basement Floor:** Downstairs, the finished basement hovers at 62°F with relative humidity pegged at **75% to 80%**. Liquid moisture beads on vinyl flooring, baseboards swell, and closet clothes develop musty mildew odors.

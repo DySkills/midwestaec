@@ -21,6 +21,9 @@
 
 Under the International Energy Conservation Code (IECC Section R402.4), municipal building inspectors across the Great Lakes and Northern Plains mandate a certified third-party **blower door test** prior to issuing a Certificate of Occupancy:
 
+Depressurization testing directly refutes the misconception that buildings need drafts, as explained in [why houses do not need to breathe](does-house-need-to-breathe.html). When blower door diagnostics identify severe ceiling leakage, the primary fix is systematic [attic air sealing and eave baffling](attic-air-sealing-baffles.html).
+
+
 ### 1. The 3.0 ACH50 Pass/Fail Line
 - **Legal Limit:** In cold northern climates, whole-house air leakage must not exceed **3.0 Air Changes per Hour at 50 Pascals pressure (3.0 ACH50)**.
 - **Financial Consequence of Failure:** If a newly framed home or substantial remodel tests at 3.2 or 4.0 ACH50, building departments will **red-tag the project**. You cannot close on your construction loan, and contractors must spend thousands of dollars hunting and sealing concealed leaks behind finished drywall.

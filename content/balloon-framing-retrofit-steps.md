@@ -19,6 +19,9 @@ referralHook: "Historic Weatherization & Air Sealing Contractor Quote Match"
 # How to Firestop & Air-Seal Historic Balloon Framing: The Step-by-Step Retrofit
 
 > **Quick Summary:** Halting the severe stack-effect drafts and fire hazards inherent to pre-1940s balloon framing does not require tearing down interior plaster. By mechanically firestopping and air-sealing the two accessible terminal ends (the basement mud sill and attic eaves), you permanently break the two-story convective chimney.
+
+Before cutting firestops, examine the structural cavity flues detailed in our [historic balloon framing engineering overview](balloon-framing.html). Verifying draft elimination after air sealing requires depressurization testing via our [blower door testing checklist](blower-door-checklist.html).
+
 >
 > - **Execution Difficulty & Time:** Intermediate DIY or Professional Trade; 8 to 12 labor hours for an average 1,500 sq. ft. two-story home.
 > - **Primary Code & Safety Mandate:** IRC Section R302.11 / ASTM E136 non-combustible mechanical fireblocking; ASTM E814 intumescent perimeter air seal.

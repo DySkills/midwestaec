@@ -75,6 +75,9 @@ While 3.5 psi sounds small, across an 8-foot by 40-foot foundation wall, that re
 
 Water under 500 lbs/sq.ft of pressure will exploit the smallest microscopic pathway. The primary failure point is the **cove joint**, the cold joint where the horizontal floor slab meets the vertical foundation footing. Because concrete does not chemically bond across separate pours, the cove joint acts as an open seam, allowing pressurized groundwater to jet straight into the basement interior.
 
+While traditional poured concrete foundations wick moisture through continuous capillary action, an [ICF basement foundation](icf-basements-walls.html) encases the structural concrete core in continuous expanded polystyrene (EPS) foam, eliminating cold joints and condensation planes entirely. Additionally, stopping subterranean moisture vapor from degrading finishes requires pairing Class A vapor retarders with [sub-slab rigid foam insulation specifications](sub-slab-insulation-specs.html) and verifying limits for [basement LVP flooring moisture emissions](basement-lvp-flooring-moisture.html).
+
+
 ---
 
 ## Capillary Suction & Vapor Diffusion: The Flooring Killer

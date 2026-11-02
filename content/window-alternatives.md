@@ -35,6 +35,9 @@ Homeowners living in classic bungalows, Victorians, and mid-century homes across
 Extensive field testing by the Pacific Northwest National Laboratory (PNNL) proves that homeowners do not need to spend five figures to achieve thermal comfort:
 - **80% Performance at 10% Cost:** Adding an engineered, AERC-rated Low-E storm window over an existing single-pane window drops the overall assembly U-factor from U-1.10 down to **U-0.30 to U-0.34**, virtually identical to brand-new $1,000 double-pane vinyl replacement windows.
 - **Capital Differential:** Equipping 20 windows with Low-E exterior storm windows costs **$3,600 to $5,800 installed**, compared to **$22,000 to $32,000** for full-frame window replacements.
+
+To determine whether your existing frames justify repair or replacement, review our financial analysis on [when to replace windows vs when to repair](when-to-replace-windows.html). Capital saved on windows can be reinvested in high-ROI upgrades like [exterior continuous insulation](continuous-insulation.html).
+
 - **Preservation of Old-Growth Lumber:** Original pre-1950s wood window frames were milled from dense, rot-resistant old-growth heartwood that will last another 100 years if maintained. Replacing them with hollow vinyl units discards irreplaceable architectural timber for plastic frames that warp and fail within 20 years.
 
 ---

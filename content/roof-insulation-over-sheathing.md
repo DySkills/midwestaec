@@ -31,6 +31,9 @@ referralHook: "Roofing & Continuous Insulation Specialist Quote Match"
 
 When converting an unvented cathedral ceiling or installing rigid continuous foam above structural roof decking, contractors must strictly adhere to **IRC Section R806.5 ("Unvented Attic and Unvented Enclosed Rafter Assemblies")**:
 
+Keeping the structural roof deck warm permanently eliminates the thermal bypasses that trigger [destructive winter ice dams](ice-dams-roofs.html). For accessible vented attics, compare this exterior approach against our [attic air sealing and rafter eave baffling tutorial](attic-air-sealing-baffles.html).
+
+
 ### 1. The Critical Outboard Dew-Point Ratio
 Building codes prohibit arbitrary foam thicknesses above a cathedral roof. If the outboard rigid foam is too thin:
 - Indoor water vapor migrating through rafter cavities contacts cold interior roof sheathing and condenses, rotting the deck within 3 to 5 years.

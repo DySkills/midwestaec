@@ -1,5 +1,5 @@
 ---
-title: "Rural Off-Grid Systems in Zone 5: Propane, Battery Backup & Freeze-Proof Wells"
+title: "Rural Off-Grid Systems in the Great Lakes and Plains: Propane, Battery Backup & Freeze-Proof Wells"
 slug: "off-grid-systems"
 format: "Report"
 leadType: "Fact-First"
@@ -8,15 +8,15 @@ catSlug: "rural-development"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "How to design sub-zero propane vaporization capacity, thermal battery rooms, and 60-inch frost-line pitless wellhead protection for Midwest homesteads."
-summary: "Off-grid solar and battery storage in Zone 5: How to size LiFePO4 batteries and low-temperature inverters to survive 5 straight days of sub-zero cloud cover."
+summary: "Off-grid solar and battery storage in the Great Lakes and Plains: How to size LiFePO4 batteries and low-temperature inverters to survive 5 straight days of sub-zero cloud cover."
 codeTag: "NEC Article 710 / NFPA 58 / Ten States Standards"
 author: "Midwest AEC Building Science"
 date: "October 2026"
-readTime: "9 min read"
+readTime: "11 min read"
 referralHook: "Rural Energy & Well System Consultation"
 ---
 
-# Rural Off-Grid Systems in Zone 5: Propane, Battery Backup & Freeze-Proof Wells
+# Rural Off-Grid Systems in the Great Lakes and Plains: Propane, Battery Backup & Freeze-Proof Wells
 
 > **Quick Summary:** Building a rural home or homestead outside municipal utility infrastructure requires strict winter engineering. When multi-day polar vortexes drop temperatures below -15°F and knock down rural electric co-op transmission lines, typical residential backup systems fail in sequence: undersized propane tanks lose vapor pressure and starve furnaces, lithium battery banks enter sub-freezing thermal lockout, and shallow well lines freeze under cleared driveways. Ensuring survival beyond city limits requires designing for low-temperature physics.
 >
@@ -68,7 +68,7 @@ However, when an acreage owner plows or snowblows the gravel driveway down to ba
 
 ---
 
-## Battery Storage in Zone 5: The LiFePO4 Thermal Lockout
+## Battery Storage in the Great Lakes and Plains: The LiFePO4 Thermal Lockout
 
 Modern off-grid and hybrid solar installations have transitioned from flooded lead-acid batteries to **Lithium Iron Phosphate (LiFePO4)** chemistry. LiFePO4 offers 4,000 to 6,000 charge cycles, zero off-gassing, 95% round-trip efficiency, and 100% usable depth of discharge.
 

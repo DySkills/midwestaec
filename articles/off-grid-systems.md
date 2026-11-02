@@ -1,12 +1,12 @@
-# Rural Off-Grid Systems in Zone 5: Propane, Battery Backup & Freeze-Proof Wells
+# Rural Off-Grid Systems in the Great Lakes and Plains: Propane, Battery Backup & Freeze-Proof Wells
 > **Publication:** Midwest AEC (https://midwestaec.com)
 > **Jurisdiction:** Climate Zones 4 & 5 (Midwest Residential & Commercial)
 > **Canonical Article:** https://midwestaec.com/articles/off-grid-systems.html
 > **Building Code Reference:** NEC Article 710 / NFPA 58 / Ten States Standards
-> **Summary:** Off-grid solar and battery storage in Zone 5: How to size LiFePO4 batteries and low-temperature inverters to survive 5 straight days of sub-zero cloud cover.
+> **Summary:** Off-grid solar and battery storage in the Great Lakes and Plains: How to size LiFePO4 batteries and low-temperature inverters to survive 5 straight days of sub-zero cloud cover.
 
 
-# Rural Off-Grid Systems in Zone 5: Propane, Battery Backup & Freeze-Proof Wells
+# Rural Off-Grid Systems in the Great Lakes and Plains: Propane, Battery Backup & Freeze-Proof Wells
 
 > **Quick Summary:** Building a rural home or homestead outside municipal utility infrastructure requires strict winter engineering. When multi-day polar vortexes drop temperatures below -15°F and knock down rural electric co-op transmission lines, typical residential backup systems fail in sequence: undersized propane tanks lose vapor pressure and starve furnaces, lithium battery banks enter sub-freezing thermal lockout, and shallow well lines freeze under cleared driveways. Ensuring survival beyond city limits requires designing for low-temperature physics.
 >
@@ -58,7 +58,7 @@ However, when an acreage owner plows or snowblows the gravel driveway down to ba
 
 ---
 
-## Battery Storage in Zone 5: The LiFePO4 Thermal Lockout
+## Battery Storage in the Great Lakes and Plains: The LiFePO4 Thermal Lockout
 
 Modern off-grid and hybrid solar installations have transitioned from flooded lead-acid batteries to **Lithium Iron Phosphate (LiFePO4)** chemistry. LiFePO4 offers 4,000 to 6,000 charge cycles, zero off-gassing, 95% round-trip efficiency, and 100% usable depth of discharge.
 

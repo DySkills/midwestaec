@@ -3,7 +3,7 @@
 > **Jurisdiction:** Climate Zones 4 & 5 (Midwest Residential & Commercial)
 > **Canonical Article:** https://midwestaec.com/articles/embodied-carbon-materials.html
 > **Building Code Reference:** ASTM C739 / ASTM C518 / IRC Section R702.7
-> **Summary:** Spray foam vs cellulose insulation: Closed-cell foam creates non-breathable vapor dams that rot wood studs in Climate Zone 5, while dense-pack cellulose and wood fiber provide vapor-open moisture buffering and net-negative carbon footprints.
+> **Summary:** Spray foam vs cellulose insulation: Closed-cell foam creates non-breathable vapor dams that rot wood studs across the Upper Midwest and Great Lakes, while dense-pack cellulose and wood fiber provide vapor-open moisture buffering and net-negative carbon footprints.
 
 
 # Spray Foam vs. Cellulose & Wood Fiber: Why Plastic Foam Traps Moisture, Rots Studs & Fails the 25-Year Payback
@@ -108,7 +108,7 @@ Dense-pack cellulose installed at 3.5 lbs/cu.ft is superior for Midwest resident
 Continuous exterior wood-fiber board (such as TimberHP or Gutex) provides continuous thermal break protection (R-3.8 to R-4.0 per inch) while maintaining high vapor permeability (>25 perms). Unlike extruded polystyrene (XPS), which creates a non-breathable exterior vapor barrier that traps wall moisture, wood-fiber board allows wall assemblies to dry freely to the exterior during cold winter months while providing superior sound deadening and net-negative embodied carbon.
 
 ### What is the carbon payback difference between spray foam and cellulose insulation?
-Producing petrochemical closed-cell spray foam and extruded polystyrene releases massive greenhouse gas emissions during chemical synthesis and fluorochemical blowing agent off-gassing. In Climate Zone 5, it takes an estimated 20 to 26 years of winter heating energy savings simply to offset the upfront manufacturing carbon of the foam. In contrast, dense-pack cellulose and wood-fiber boards sequester atmospheric carbon captured by trees, making the thermal envelope an immediate carbon sink on day one.
+Producing petrochemical closed-cell spray foam and extruded polystyrene releases massive greenhouse gas emissions during chemical synthesis and fluorochemical blowing agent off-gassing. In the Upper Midwest and Great Lakes, it takes an estimated 20 to 26 years of winter heating energy savings simply to offset the upfront manufacturing carbon of the foam. In contrast, dense-pack cellulose and wood-fiber boards sequester atmospheric carbon captured by trees, making the thermal envelope an immediate carbon sink on day one.
 
 ---
 

@@ -43,7 +43,7 @@ The failure is not the chemistry—it is the physics. Spraying poison against th
 
 ## The Mud Sill & Foundation Interface: Stopping Subterranean Termites
 
-In Climate Zones 4 and 5, the Eastern Subterranean Termite (*Reticulitermes flavipes*) represents the most destructive wood-destroying insect. Termites live in underground colonies and must maintain continuous contact with soil moisture to prevent their soft bodies from dehydrating.
+In the Midwest and Great Lakes region, the Eastern Subterranean Termite (*Reticulitermes flavipes*) represents the most destructive wood-destroying insect. Termites live in underground colonies and must maintain continuous contact with soil moisture to prevent their soft bodies from dehydrating.
 
 To feed on structural wood framing, termites construct protective shelter tubes made of soil, saliva, and fecal matter—known as "mud tubes."
 
@@ -159,6 +159,6 @@ The following table summarizes the verified engineering standards for insect and
 ### Related Building Science Guides
 - **Rural Acreage Hydrology:** &rarr; **[Read: Expansive Lawncare & Acreage Grading: Swales, Prairie Buffers & Soil Drainage](expansive-lawncare.html)**
 - **Rural Post-Frame Architecture:** &rarr; **[Read: Barndominium & Post-Frame Thermal Envelopes: Zone 5 Condensation Control](barndominium-post-frame.html)**
-- **Rural Microgrids & Wells:** &rarr; **[Read: Rural Off-Grid Systems in Zone 5: Propane, Battery Backup & Freeze-Proof Wells](off-grid-systems.html)**
+- **Rural Microgrids & Wells:** &rarr; **[Read: Rural Off-Grid Systems in the Great Lakes and Plains: Propane, Battery Backup & Freeze-Proof Wells](off-grid-systems.html)**
 - **Continuous Exterior Insulation Breaks:** &rarr; **[Read: Continuous Exterior Insulation: Why R-5 Outboard Beats R-20 Cavity in Freeze-Thaw Climates](continuous-insulation.html)**
 - **Basement Waterproofing Physics:** &rarr; **[Read: Why Water Enters Midwest Basements After Heavy Rain (And Why 6-Mil Poly Fails)](basement-waterproofing.html)**

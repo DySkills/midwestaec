@@ -1,14 +1,14 @@
-# SIPs (Structural Insulated Panels) in Zone 5: Total Cost vs. Traditional Stick Framing
+# SIPs (Structural Insulated Panels) in the Great Lakes and Plains: Total Cost vs. Traditional Stick Framing
 > **Publication:** Midwest AEC (https://midwestaec.com)
 > **Jurisdiction:** Climate Zones 4 & 5 (Midwest Residential & Commercial)
 > **Canonical Article:** https://midwestaec.com/articles/sips-vs-traditional-framing.html
 > **Building Code Reference:** IRC Section R610 / ASTM C578 / ASTM E2178
-> **Summary:** SIPs vs. traditional stick framing in Zone 5: Compare total build costs, sub-1.0 ACH50 airtightness, crane labor savings, and HVAC downsizing under IRC R610.
+> **Summary:** SIPs vs. traditional stick framing in the Great Lakes and Plains: Compare total build costs, sub-1.0 ACH50 airtightness, crane labor savings, and HVAC downsizing under IRC R610.
 
 
-# SIPs (Structural Insulated Panels) in Zone 5: Total Cost vs. Traditional Stick Framing
+# SIPs (Structural Insulated Panels) in the Great Lakes and Plains: Total Cost vs. Traditional Stick Framing
 
-> **Quick Summary:** In the deep freeze of Climate Zone 5, building an energy-efficient home with conventional 2x6 stick framing requires a complex, multi-trade sandwich of wood studs, cavity batts, interior air-sealing tapes, exterior continuous rigid foam, and rainscreen furring. Structural Insulated Panels (SIPs) collapse these disparate steps into an engineered, factory-manufactured composite of rigid foam core bonded between two structural Oriented Strand Board (OSB) facings. While raw SIP factory packages cost 12% to 18% more than a pile of framing lumber, they erect in one-third the time, eliminate framing thermal bridges, and achieve sub-1.0 ACH50 airtightness—enabling builders to downsize mechanical heating systems by up to 40%.
+> **Quick Summary:** In the deep freeze of the Upper Midwest and Great Lakes, building an energy-efficient home with conventional 2x6 stick framing requires a complex, multi-trade sandwich of wood studs, cavity batts, interior air-sealing tapes, exterior continuous rigid foam, and rainscreen furring. Structural Insulated Panels (SIPs) collapse these disparate steps into an engineered, factory-manufactured composite of rigid foam core bonded between two structural Oriented Strand Board (OSB) facings. While raw SIP factory packages cost 12% to 18% more than a pile of framing lumber, they erect in one-third the time, eliminate framing thermal bridges, and achieve sub-1.0 ACH50 airtightness—enabling builders to downsize mechanical heating systems by up to 40%.
 >
 > - **The Whole-Wall R-Value Advantage:** Standard 2x6 stick walls advertised as "R-20" actually deliver an effective whole-wall rating of R-14.8 due to a 25% framing factor. A 6.5-inch EPS SIP wall delivers a true, uninterrupted whole-wall R-24 with less than 3% framing fraction.
 > - **Inherent Monolithic Airtightness:** By replacing hundreds of individual stud bays and plate joints with 8-foot by 24-foot pre-cut panels, SIPs easily achieve 0.60 to 1.20 ACH50 blower door test results with basic joint sealing.
@@ -70,7 +70,7 @@ When comparing structural building envelopes, the engineering debate between a *
 
 - **Framed Panel (Conventional Stud Frame):** A framed panel relies on discrete linear members (2x4 or 2x6 wood studs spaced at 16 or 24 inches on center) to carry all vertical compressive loads and transverse wind forces. The exterior sheathing (OSB or plywood) functions merely as a diaphragm to resist lateral shear (racking). Because structural loads concentrate on individual studs, wood crushing, stud bowing, and thermal bridging at every framing bay are inherent to framed panel assemblies.
 - **Stressed Skin Panel (Structural Insulated Panel):** In an engineered stressed skin panel, the structural facings (outer OSB skins) are continuously laminated with rigid structural adhesive to a solid foam core, operating as an integrated composite I-beam. Under bending or compressive loads, the entire outer skin takes tensile and compressive stresses, while the continuous foam core resists shear stresses and prevents facial buckling. A stressed skin panel eliminates discrete framing studs, redistributing structural loads uniformly across thousands of square inches.
-- **The Performance Verdict:** In a **framed panel vs stressed skin panel** comparison across Climate Zone 5, stressed skin panels deliver twice the transverse load capacity (tested under ASTM E72), eliminate 90% of thermal bridges, and achieve superior airtightness because there are no individual stud seams to crack or leak air under wind pressure.
+- **The Performance Verdict:** In a **framed panel vs stressed skin panel** comparison across the Upper Midwest and Great Lakes, stressed skin panels deliver twice the transverse load capacity (tested under ASTM E72), eliminate 90% of thermal bridges, and achieve superior airtightness because there are no individual stud seams to crack or leak air under wind pressure.
 
 ---
 
@@ -113,7 +113,7 @@ In contrast, SIPs are fundamentally airtight by design:
 
 ## The Critical Joint Detail: Cold-Climate Roof Rot Prevention
 
-While SIP walls are exceptionally forgiving, **SIP roof assemblies in Climate Zones 5, 6, and 7 carry one unforgiving failure mode** that every builder and inspector must understand: moisture condensation at panel splines.
+While SIP walls are exceptionally forgiving, **SIP roof assemblies across the Great Lakes, the Upper Midwest, and the Northern Plains carry one unforgiving failure mode** that every builder and inspector must understand: moisture condensation at panel splines.
 
 In winter, the **stack effect** creates high positive indoor air pressure against the second-floor cathedral ceiling. Indoor air typically carries 35% to 45% relative humidity at 70°F (dew point ~45°F).
 
@@ -134,11 +134,33 @@ If a roof panel spline is installed without a continuous, airtight vapor seal on
 | **Exterior Underlayment** | Full-Coverage Vapor-Permeable Synthetic & Ice Shield | Secondary weather barrier; prevents shingle-blowoff water intrusion |
 
 
-**The Absolute Rule for SIP Roofs in Zone 5:** Never rely on exterior underlayment to stop air leaks. Roof splines must have two continuous beads of expanding urethane foam sealant inside the spline pocket, and every interior panel seam must be sealed with high-performance acrylic vapor-sealing tape before electrical chases or drywall are installed.
+**The Absolute Rule for SIP Roofs in the Great Lakes and Plains:** Never rely on exterior underlayment to stop air leaks. Roof splines must have two continuous beads of expanding urethane foam sealant inside the spline pocket, and every interior panel seam must be sealed with high-performance acrylic vapor-sealing tape before electrical chases or drywall are installed.
 
 ---
 
-## Total-Cost Breakdown: 2,500 Sq. Ft. Home in Zone 5
+## Turnkey Cost Breakdown: 2,500 Sq. Ft. Home (SIPs vs. 2x6 Stick Framing)
+
+Homeowners considering Structural Insulated Panels (SIPs) for a custom Midwest build often struggle to compare initial panel bids against conventional stick framing:
+
+### 1. Comprehensive Construction Cost Comparison (2,500 Sq. Ft. Two-Story)
+| Scope Item / Trade | Conventional 2x6 Stick Framing + R-20 Cavity + R-5 Polyiso | Monolithic SIPs Envelope (6.5" Walls + 10.25" Roof) |
+| :--- | :--- | :--- |
+| **Framing Materials Package** | $32,000 to $38,000 | **$46,000 to $56,000** (Pre-cut factory package) |
+| **Framing Crew Labor & Crane** | $28,000 to $36,000 (3 to 4 weeks on site) | **$16,000 to $22,000** (3 to 5 days dry-in with crane) |
+| **Separate Insulation Subcontractor** | $7,500 to $11,000 (Batts, poly, foam sealing) | **$0 (Insulation is already integrated in panels)** |
+| **Total Shell Dry-In Cost** | **$67,500 to $85,000** ($27.00 to $34.00 / sq. ft.) | **$62,000 to $78,000** ($24.80 to $31.20 / sq. ft.) |
+| **Whole-House Blower Door Rating** | 2.5 to 3.5 ACH50 | **0.8 to 1.5 ACH50 (Extreme airtightness)** |
+
+### 2. The Critical SIPs Roof Joint Warning
+The #1 failure point of SIPs in cold northern climates is **roof joint air leakage**:
+- In winter, warm interior humidity (heated to 70°F) is pushed upward by stack pressure against the roof ceiling.
+- If the contractor fails to apply continuous expanding foam and mastic tape to every tongue-and-groove panel spline joint, moisture slips into the joint seam.
+- Meeting the freezing exterior OSB skin, moisture condenses and rots the structural panel from the inside out within 7 to 10 years.
+- **Contractor Mandate:** Require third-party mastic sealing and tape inspection on all SIPs roof seams prior to dried-in underlayment placement.
+
+---
+
+## Total-Cost Breakdown: 2,500 Sq. Ft. Home in the Great Lakes and Plains
 
 The table below provides a comprehensive jobsite financial comparison for a 2,500-square-foot two-story home built in the upper Midwest (labor rates based on prevailing 2026 regional averages):
 
@@ -167,12 +189,12 @@ The table below provides a comprehensive jobsite financial comparison for a 2,50
    - *ASTM E72:* Standard Test Methods of Conducting Strength Tests of Panels for Building Construction.
 3. **Oak Ridge National Laboratory (ORNL):** *Whole Wall Thermal Performance Calculator and Framing Factor Field Evaluation*.
 4. **Structural Insulated Panel Association (SIPA):** *Building Science Considerations for Structural Insulated Panel Walls and Roofs in Cold Climates (Technical Bulletin No. 008)*.
-5. **U.S. Department of Energy (DOE) Building Technologies Office:** *Building America Solution Center: Structural Insulated Panel (SIP) Envelopes in Climate Zone 5 & 6*.
+5. **U.S. Department of Energy (DOE) Building Technologies Office:** *Building America Solution Center: Structural Insulated Panel (SIP) Envelopes across the Great Lakes and Northern Plains*.
 
 ---
 
 ### Related Building Science Guides
-- **Insulated Concrete Form Envelopes:** &rarr; **[Read: ICF (Insulated Concrete Forms) Basements & Above-Grade Walls in Zone 5](icf-basements-walls.html)**
+- **Insulated Concrete Form Envelopes:** &rarr; **[Read: ICF (Insulated Concrete Forms) Basements & Above-Grade Walls in the Great Lakes and Plains](icf-basements-walls.html)**
 - **Continuous Exterior Insulation Specs:** &rarr; **[Read: Continuous Exterior Insulation: Why R-5 Outboard Beats R-20 Cavity in Freeze-Thaw Climates](continuous-insulation.html)**
 - **Cold-Climate Heat Pump Sizing:** &rarr; **[Read: Can a Heat Pump Actually Handle -15°F? Cold-Climate Inverters During Midwest Winters](cold-climate-heat-pumps.html)**
 - **Unvented Roofs & Insulation Sheathing:** &rarr; **[Read: Unvented Roof Assemblies: Rigid Foam Over Sheathing vs. Spray Foam in Cold Climates](roof-insulation-over-sheathing.html)**

@@ -92,6 +92,31 @@ When a contractor installs high exhaust vents or motorized fans on a home with a
 
 ---
 
+## Attic Frost Emergency Diagnostics: The "False Spring" Ceiling Drip & Fan Venting Errors
+
+When sub-zero Arctic air grips the Upper Midwest, moisture exfiltrating from the warm living space into the unconditioned attic condenses directly onto freezing roof sheathing, forming thick layers of white hoarfrost. Homeowners rarely look into their attics in January, leaving this hidden ice cave undiscovered until the weather abruptly warms.
+
+### 1. The "False Spring" Ceiling Rain Disaster
+The crisis occurs during a "false spring" thaw—when outdoor temperatures jump from 5°F to 40°F in 36 hours under bright sunshine:
+- Solar radiation strikes the dark roof shingles, heating the plywood or OSB deck to 50°F+ even while outdoor air remains brisk.
+- Inches of accumulated hoarfrost melt simultaneously across hundreds of square feet of roof deck.
+- Meltwater saturates fiberglass or cellulose attic insulation, destroying its thermal resistance, and pours through ceiling penetrations: recessed can lights, smoke detectors, bathroom exhaust grilles, and drywall tape seams.
+- Homeowners call roofers assuming their shingles blew off, but the water originated 100% from inside their own home.
+
+### 2. The #1 Mistake: Bathroom Fans Terminating at the Soffit
+Over 60% of frosted Midwest attics share the same mechanical flaw: a bathroom exhaust fan vented into the soffit overhang.
+- **The Stack Effect Loop:** Unconditioned attics draw cold outdoor air inward through the soffit vents via thermal buoyancy. 
+- When an installer runs flexible ductwork to the soffit grille, the humid shower air (100% RH at 95°F) exhausted outward is immediately vacuumed right back into the attic through adjacent soffit perforations.
+- Within weeks, the roof sheathing directly above the soffit is encased in solid ice.
+- **The Required Fix:** Reroute exhaust ductwork using rigid, smooth-walled galvanized metal pipe wrapped in minimum R-6 insulation. Terminate through an approved roof jack or gable wall cap equipped with a gravity backdraft damper.
+
+### 3. Emergency Attic Remediation: What to Do Today
+1. **Immediate Dehumidification & Air Circulation:** If sheathing is soaked, place an axial air mover and a low-temperature commercial dehumidifier in the attic space to dry the plywood before fungal spores bloom into wood-decay mold.
+2. **Do Not Spray Bleach:** Bleach is 90% water and corrodes metal truss plates and roof fasteners. Use an EPA-registered fungicidal encapsulant (such as Fiberlock or Benefect) only after structural drying.
+3. **Seal the Big Chases First:** Before adding more attic insulation, crawl the perimeter with expanding foam and polyiso boards to seal the open plumbing stacks, electrical wire drops, and furnace flue chases where warm, humid house air is surging into the roof space.
+
+---
+
 ## The Action Plan: Specific Services & Implementation Steps
 
 Permanently solving attic hoarfrost and thaw leaks requires a systematic, four-step air-sealing and diagnostic protocol:

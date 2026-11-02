@@ -144,9 +144,28 @@ Solving the Midwest summer humidity trap requires an integrated building-science
 
 ---
 
+## Whole-House Dehumidifiers vs. Oversized AC: Cost Breakdown & Sizing Rules
+
+During July and August across the Corn Belt and Great Lakes, outdoor dew points routinely surge past 74°F. Homeowners frequently complain: *"My thermostat is set to 70°F, the air feels cold, but my home feels sticky, clammy, and my basement baseboards smell musty."*
+
+### 1. The Physics of the "Cold & Clammy" Trap
+When an air conditioner is oversized (e.g., a 4-ton unit installed where Manual J calculated a 2.5-ton load):
+- The massive compressor satisfies the sensible temperature setpoint in just **6 to 10 minutes** and shuts off.
+- To remove latent moisture from the air, the indoor evaporator coil must remain below the dew point (45°F to 50°F) for at least **15 to 20 minutes of continuous runtime**.
+- In an oversized system, moisture condensed on the coil fins doesn't have time to drain; when the compressor short-cycles off and the fan keeps running, that moisture evaporates straight back into the supply ductwork.
+- **The Relative Humidity Spike:** Relative humidity is temperature-dependent. When you lower indoor air temperature from 76°F to 70°F without removing water vapor, **relative humidity increases by 12% to 18%**. The result is a cold, clammy 70°F room with 72% RH—the exact biological breeding ground for dust mites and mildew.
+
+### 2. Dedicated Central Dehumidifiers: Installed Price Breakdown
+Rather than replacing your existing air conditioner, the building science solution is adding a dedicated whole-home dehumidifier integrated into your central ductwork:
+- **Turnkey Installed Cost:** **$2,400 to $3,800** (featuring an Energy Star AHRI 920 certified unit such as the Aprilaire e100 / Santa Fe Ultra120).
+- **Independent Humidity Control:** Operates completely independently of cooling calls. It samples return air and removes up to 100 to 120 pints of water per day, using 40% less electricity than running a short-cycling central AC compressor.
+- **Thermostat Setpoint Lift:** Maintaining 45% to 50% relative humidity allows homeowners to comfortably set their summer AC thermostat to **75°F instead of 70°F**, cutting summer cooling bills by **15% to 25%** while eliminating clamminess.
+
+---
+
 ## Equipment Performance Benchmark: Humidity Control
 
-The table below contrasts standard cooling equipment configurations against variable-speed and dedicated dehumidification systems in Climate Zones 4 and 5:
+The table below contrasts standard cooling equipment configurations against variable-speed and dedicated dehumidification systems in the Midwest and Great Lakes region:
 
 | System Architecture | Standard Single-Stage (14 SEER) | Two-Stage Compressor (16 SEER2) | Inverter Variable-Speed (18+ SEER2) | Inverter AC + Dedicated Whole-Home Dehumidifier |
 | :--- | :--- | :--- | :--- | :--- |
@@ -179,7 +198,7 @@ The table below contrasts standard cooling equipment configurations against vari
 
 ### Related Building Science Guides
 - **Cold-Climate Heat Pump Inverters:** &rarr; **[Read: Can a Heat Pump Actually Handle -15°F? Cold-Climate Inverters During Midwest Winters](cold-climate-heat-pumps.html)**
-- **Crawlspace Moisture Encapsulation:** &rarr; **[Read: Crawlspace Encapsulation in Zone 5: Why Vented Crawlspaces Rot Floors](crawlspace-encapsulation.html)**
+- **Crawlspace Moisture Encapsulation:** &rarr; **[Read: Crawlspace Encapsulation in the Great Lakes and Plains: Why Vented Crawlspaces Rot Floors](crawlspace-encapsulation.html)**
 - **Basement Waterproofing & Vapor:** &rarr; **[Read: Why Water Enters Midwest Basements After Heavy Rain: Hydrostatic Head and Under-Slab Vapor Barriers](basement-waterproofing.html)**
 - **Blower Door Air Sealing Checklist:** &rarr; **[Read: How to Pass the Blower Door Test (< 3.0 ACH50) on a Midwest Remodel](blower-door-checklist.html)**
 - **Smart Vapor Retarders vs. Poly:** &rarr; **[Read: Smart Vapor Retarders vs. 6-Mil Plastic: Why Polyethylene Traps Mold in Midwest Summers](smart-vapor-retarders.html)**

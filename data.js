@@ -175,7 +175,7 @@ var miaecData = [
     "url": "articles/balloon-framing.html"
   },
   {
-    "title": "Barndominium & Post-Frame Thermal Envelopes: Zone 5 Condensation Control",
+    "title": "Barndominium & Post-Frame Envelopes: Stopping Winter Roof Sweating in the Midwest",
     "subtitle": "Why corrugated steel screwed directly to wood girts creates hidden rot, how to engineer continuous outboard breaks, and the concrete perma-column foundation standard.",
     "format": "Feature",
     "leadType": "Contrast",
@@ -676,7 +676,7 @@ var miaecData = [
       "OH",
       "WI"
     ],
-    "summary": "Spray foam vs cellulose insulation: Closed-cell foam creates non-breathable vapor dams that rot wood studs in Climate Zone 5, while dense-pack cellulose and wood fiber provide vapor-open moisture buffering and net-negative carbon footprints.",
+    "summary": "Spray foam vs cellulose insulation: Closed-cell foam creates non-breathable vapor dams that rot wood studs across the Upper Midwest and Great Lakes, while dense-pack cellulose and wood fiber provide vapor-open moisture buffering and net-negative carbon footprints.",
     "codeTag": "ASTM C739 / ASTM C518 / IRC Section R702.7",
     "type": "Report",
     "url": "articles/embodied-carbon-materials.html"
@@ -803,7 +803,7 @@ var miaecData = [
       "OH",
       "WI"
     ],
-    "summary": "False spring freeze-thaw cycles: How 50°F daytime thaws and sub-zero nights tear gutters, crack masonry, and cause hidden ceiling leaks in Climate Zone 5.",
+    "summary": "False spring freeze-thaw cycles: How 50°F daytime thaws and sub-zero nights tear gutters, crack masonry, and cause hidden ceiling leaks across the Upper Midwest and Great Lakes.",
     "codeTag": "IRC Section R806 / ASTM E1745 / ASHRAE 62.2",
     "type": "Feature",
     "url": "articles/false-spring-envelope-thaw.html"
@@ -1001,7 +1001,7 @@ var miaecData = [
     "url": "articles/insulating-brick.html"
   },
   {
-    "title": "Rural Off-Grid Systems in Zone 5: Propane, Battery Backup & Freeze-Proof Wells",
+    "title": "Rural Off-Grid Systems in the Great Lakes and Plains: Propane, Battery Backup & Freeze-Proof Wells",
     "subtitle": "How to design sub-zero propane vaporization capacity, thermal battery rooms, and 60-inch frost-line pitless wellhead protection for Midwest homesteads.",
     "format": "Report",
     "leadType": "Fact-First",
@@ -1038,14 +1038,14 @@ var miaecData = [
       "SD",
       "WI"
     ],
-    "summary": "Off-grid solar and battery storage in Zone 5: How to size LiFePO4 batteries and low-temperature inverters to survive 5 straight days of sub-zero cloud cover.",
+    "summary": "Off-grid solar and battery storage in the Great Lakes and Plains: How to size LiFePO4 batteries and low-temperature inverters to survive 5 straight days of sub-zero cloud cover.",
     "codeTag": "NEC Article 710 / NFPA 58 / Ten States Standards",
     "type": "Report",
     "url": "articles/off-grid-systems.html"
   },
   {
     "title": "The Midwest Rammed Earth Paradox: Thermal Mass, Freeze-Thaw Spalling & The Sub-Slab Flooring Matrix",
-    "subtitle": "Compact soil promises zero-carbon beauty, but in Climate Zones 4 and 5, raw earth faces brutal freeze-thaw cycles and severe thermal bridging. Here is the forensic physics of when earthen construction works—and when it fails.",
+    "subtitle": "Compact soil promises zero-carbon beauty, but in the Midwest and Great Lakes region, raw earth faces brutal freeze-thaw cycles and severe thermal bridging. Here is the forensic physics of when earthen construction works—and when it fails.",
     "format": "Feature",
     "leadType": "Descriptive",
     "category": "Envelope",
@@ -1079,7 +1079,7 @@ var miaecData = [
       "OH",
       "WI"
     ],
-    "summary": "Rammed earth and earthen floors in Zone 5: Why uninsulated earth provides only R-3.6, and how to detail Stabilized Insulated Rammed Earth (SIRE) under IRC R402.",
+    "summary": "Rammed earth and earthen floors in the Great Lakes and Plains: Why uninsulated earth provides only R-3.6, and how to detail Stabilized Insulated Rammed Earth (SIRE) under IRC R402.",
     "codeTag": "IRC Section R402 / ASTM D422 / ASTM E1745",
     "type": "Feature",
     "url": "articles/rammed-earth-midwest-flooring.html"
@@ -1171,7 +1171,7 @@ var miaecData = [
     "url": "articles/roof-insulation-over-sheathing.html"
   },
   {
-    "title": "SIPs (Structural Insulated Panels) in Zone 5: Total Cost vs. Traditional Stick Framing",
+    "title": "SIPs (Structural Insulated Panels) in the Great Lakes and Plains: Total Cost vs. Traditional Stick Framing",
     "subtitle": "Why 4.5-inch to 8.25-inch foam-core panels cut jobsite framing schedules by 60% and downsize HVAC tonnage, offsetting higher factory material invoices in Midwest cold climates.",
     "format": "Report",
     "leadType": "Cost-First",
@@ -1201,14 +1201,14 @@ var miaecData = [
       "SD",
       "WI"
     ],
-    "summary": "SIPs vs. traditional stick framing in Zone 5: Compare total build costs, sub-1.0 ACH50 airtightness, crane labor savings, and HVAC downsizing under IRC R610.",
+    "summary": "SIPs vs. traditional stick framing in the Great Lakes and Plains: Compare total build costs, sub-1.0 ACH50 airtightness, crane labor savings, and HVAC downsizing under IRC R610.",
     "codeTag": "IRC Section R610 / ASTM C578 / ASTM E2178",
     "type": "Report",
     "url": "articles/sips-vs-traditional-framing.html"
   },
   {
     "title": "Smart Vapor Retarders vs 6-Mil Plastic: Stop Summer Wall Mold",
-    "subtitle": "Why installing impermeable polyethylene behind interior drywall creates summer condensation rot in Climate Zones 4 and 5, and how variable polyamide membranes adapt to seasonal vapor drive.",
+    "subtitle": "Why installing impermeable polyethylene behind interior drywall creates summer condensation rot in the Midwest and Great Lakes region, and how variable polyamide membranes adapt to seasonal vapor drive.",
     "format": "Report",
     "leadType": "Contrast",
     "category": "Air Barriers",

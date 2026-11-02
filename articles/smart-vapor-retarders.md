@@ -100,9 +100,28 @@ The 2024 International Residential Code (IRC Section R702.7) explicitly regulate
 
 
 ### The Code Mandate for Climate Zones 4, 5, and 6:
-1. **Air-Conditioned Buildings:** In Climate Zones 4 and 5, **Class I vapor retarders are strictly prohibited** on the interior side of framed walls unless the wall assembly incorporates continuous exterior insulation with an R-value meeting Table R702.7.1.
+1. **Air-Conditioned Buildings:** In the Midwest and Great Lakes region, **Class I vapor retarders are strictly prohibited** on the interior side of framed walls unless the wall assembly incorporates continuous exterior insulation with an R-value meeting Table R702.7.1.
 2. **Prescriptive Standard:** For standard 2x6 walls with cavity-only insulation, the code prescribes a **Class II vapor retarder** (such as smart variable-permeance membranes or factory kraft paper facing).
-3. **Latex Paint Alone (Class III):** Class III retarders are only permitted if exterior sheathing is vented or if continuous outboard rigid insulation ($R_{outboard} \ge R-5$ in Zone 4, $\ge R-7.5$ in Zone 5) is installed to keep the sheathing above the winter dew point.
+3. **Latex Paint Alone (Class III):** Class III retarders are only permitted if exterior sheathing is vented or if continuous outboard rigid insulation ($R_{outboard} \ge R-5$ in Zone 4, $\ge R-7.5$ in the Great Lakes and Plains) is installed to keep the sheathing above the winter dew point.
+
+---
+
+## Material Costs & The Summer Mold Rot Trap: 6-Mil Poly vs. Smart Retarders
+
+For decades, building contractors stapled standard 6-mil clear polyethylene sheeting across interior studs before hanging drywall. In modern air-conditioned homes, building scientists now recognize that 6-mil poly is a leading cause of concealed structural mold:
+
+### 1. The Summer Condensation Sandwich
+- **Winter Operation:** In January, 6-mil poly performs well: it blocks warm indoor humidity from entering the cold exterior wall cavity.
+- **Summer Failure:** In July and August, outdoor conditions reach 88°F with high humidity (dew point 74°F). Outdoor heat and vapor drive moisture inward through exterior siding and sheathing.
+- **The Cold Drywall Trap:** Indoor central air conditioning chills the interior drywall to 68°F.
+- When inward-driven water vapor encounters the back of the impermeable 6-mil plastic sheet, it hits a surface colder than its dew point.
+- Liquid condensation pools inside the dark wall cavity against the wooden bottom plates and paper drywall facing. Because 6-mil plastic is completely vapor-impermeable (<0.06 perms), the moisture cannot dry inward. Toxic black mold blooms undetected within 24 to 36 months.
+
+### 2. The Smart Membrane Fix ($0.35 to $0.55 / Sq. Ft.)
+Smart variable-permeance membranes (e.g., CertainTeed MemBrain or ProClima Intello Plus) solve this through dynamic pore physics:
+- **Winter (<1.0 Perm):** When surrounding relative humidity is low, the polymer pores close, functioning as a Class II vapor retarder to block interior moisture from entering cold walls.
+- **Summer (>10 Perms):** When high relative humidity develops inside the wall cavity, the molecular pores open, allowing inward drying into the air-conditioned living space.
+- **Material Cost:** Smart membranes cost **$0.35 to $0.55 per sq. ft.** (an extra $350 to $650 for an entire home), delivering permanent peace of mind against seasonal mold rot.
 
 ---
 
@@ -125,7 +144,7 @@ The table below contrasts standard interior vapor management methods in Midwest 
 ## Myth Buster: 3 Pervasive Vapor Retarder Misconceptions
 
 ### Myth 1: "Every Wall in the Midwest Needs a 6-Mil Plastic Vapor Barrier"
-* **The Reality:** Installing continuous 6-mil poly on the interior face of stud walls in Climate Zone 5 is one of the leading causes of summer interstitial mold. The International Residential Code (**IRC Section R702.7**) explicitly permits Class II variable-permeance membranes or Class III vapor retarders (latex paint on drywall) when paired with continuous exterior insulation or ventilated rainscreen assemblies.
+* **The Reality:** Installing continuous 6-mil poly on the interior face of stud walls across the Upper Midwest and Great Lakes is one of the leading causes of summer interstitial mold. The International Residential Code (**IRC Section R702.7**) explicitly permits Class II variable-permeance membranes or Class III vapor retarders (latex paint on drywall) when paired with continuous exterior insulation or ventilated rainscreen assemblies.
 
 ### Myth 2: "Vapor Barriers Stop Winter Drafts"
 * **The Reality:** Homeowners frequently confuse vapor barriers with air barriers. Water vapor moves through building assemblies primarily via **air leakage (bulk convection)**, which carries 100 times more moisture than vapor diffusion through solid materials. An unsealed sheet of plastic with holes for electrical outlets does nothing to stop air leakage; airtight drywall and taped exterior sheathing are what stop drafts.
@@ -165,7 +184,7 @@ When specifying or retrofitting interior wall assemblies across the Midwest, fol
 4. **Building Science Corporation (BSC):**
    - *Building Science Digest BSD-106:* "Understanding Vapor Barriers" (Dr. Joseph Lstiburek).
    - *Research Report RR-0410:* "Vapor Barriers and Wall Assemblies in Cold and Mixed Climates".
-5. **Oak Ridge National Laboratory (ORNL):** *Hygrothermal Performance of Next-Generation Variable Permeability Membranes in Climate Zones 4 and 5*.
+5. **Oak Ridge National Laboratory (ORNL):** *Hygrothermal Performance of Next-Generation Variable Permeability Membranes in the Midwest and Great Lakes region*.
 
 ---
 

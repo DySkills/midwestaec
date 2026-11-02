@@ -12,7 +12,7 @@ summary: "Roof insulation over sheathing: How adding continuous rigid polyiso or
 codeTag: "IRC Section R806.5 / ASTM C1289 / APA EWS"
 author: "Midwest AEC Building Science"
 date: "October 2026"
-readTime: "8 min read"
+readTime: "11 min read"
 referralHook: "Roofing & Continuous Insulation Specialist Quote Match"
 ---
 
@@ -128,9 +128,24 @@ Adding four inches of rigid foam and 5/8-inch plywood raises the finished roof p
 
 ---
 
+## Over-Sheathing Cost vs. Interior Spray Foam: The Cathedral Ceiling Payback
+
+When renovating a mid-century home or a 1.5-story bungalow with unvented cathedral ceilings, homeowners face a critical structural decision: tear down interior drywall to spray foam from the inside, or install rigid continuous insulation above the roof deck during their next shingle replacement.
+
+### 1. Installed Cost Comparison: Above-Deck Foam vs. Interior Spray Foam
+- **Above-Deck Rigid Polyiso / EPS (R-20 to R-30 Over Sheathing):** **$4.50 to $7.50 per sq. ft.** added to standard roof replacement. When coordinated with a scheduled shingle tear-off, labor efficiency is maximized: crews lay 4 inches of staggered polyiso foam boards over the bare deck, install 2x4 nailers with engineered HeadLOK fasteners, screw a secondary 5/8" plywood nailer deck, and shingle over the assembly.
+- **Interior Closed-Cell Spray Foam Retrofit:** **$3.50 to $5.50 per sq. ft.** for foam *plus* **$4.00 to $7.00 per sq. ft.** for interior drywall demolition, disposal, electrical box extensions, new sheetrock hanging, taping, painting, and trim. The total interior job routinely exceeds **$8.00 to $12.50 per sq. ft.** while displacing occupants for weeks.
+
+### 2. Why Over-Sheathing Delivers Superior Longevity
+1. **Preserves Finished Interior Spaces:** On historic timber frames or finished tongue-and-groove ceilings, interior foam is impossible without destroying architectural character. Above-deck insulation keeps all messy work outside.
+2. **Eliminates the "Thermal Bridge" of Rafters:** Standard rafter cavities only achieve R-15 to R-21, with wood 2x8 rafters conducting heat every 16 inches. Over-sheathing covers 100% of the roof in continuous, uninterrupted thermal foam, preventing interior "ghosting" dust stripes along rafters.
+3. **Moisture Safety:** By placing the structural roof sheathing *inside* the heated thermal boundary, the wood deck stays warm (above 60°F year-round), completely eliminating interior condensation and rot risks.
+
+---
+
 ## Specification Benchmark: Above-Deck Roof Retrofit
 
-The following table summarizes the complete material specification for an engineered exterior over-sheathing retrofit in Midwest Climate Zones 4 and 5:
+The following table summarizes the complete material specification for an engineered exterior over-sheathing retrofit in Midwest the Midwest and Great Lakes region:
 
 | Assembly Component | Recommended Material Specification | Code / Standard Reference | Engineering Function |
 | :--- | :--- | :--- | :--- |

@@ -17,7 +17,7 @@
 
 Basements represent the most cost-effective untapped square footage in Midwest residential architecture. Finishing an existing 1,000-square-foot basement typically costs \$40 to \$75 per square foot, compared to \$200 to \$350 per square foot for an above-grade room addition.
 
-However, municipal building departments across Climate Zones 4 and 5 operate under strict life-safety standards: **any basement space classified as a habitable bedroom must feature at least one code-compliant Emergency Escape and Rescue Opening (EERO)**. 
+However, municipal building departments across the Midwest and Great Lakes region operate under strict life-safety standards: **any basement space classified as a habitable bedroom must feature at least one code-compliant Emergency Escape and Rescue Opening (EERO)**. 
 
 Cutting an egress window opening through an existing 8-inch to 10-inch steel-reinforced poured concrete foundation wall involves significant structural, moisture, and geotechnical engineering. Below is the technical compliance baseline for executing a legal basement egress installation.
 
@@ -50,7 +50,7 @@ The International Residential Code (IRC Section R310) establishes non-negotiable
 
 Not all window styles deliver the same net clear opening when the sash is open. Sizing the rough concrete opening depends directly on the window hinge mechanism:
 
-| Window Mechanism | Net Clear Opening Efficiency | Rough Concrete Opening Required (for 5.7 sq ft) | Midwest Climate Zone 5 Suitability |
+| Window Mechanism | Net Clear Opening Efficiency | Rough Concrete Opening Required (for 5.7 sq ft) | Midwest the Upper Midwest and Great Lakes Suitability |
 |---|:---:|:---:|---|
 | **Casement (Crank-Out with Egress Hinge)** | **High (~90%)** | **32" Wide $\times$ 42" High** | **Superior:** Compression bulb gaskets seal tightly against winter stack-effect drafts; lowest air infiltration (< 0.05 CFM/ft). |
 | **Gliding / Sliding (Double Slider)** | **Low (~45%)** | **52" Wide $\times$ 44" High** | **Moderate:** Only half the window opens; requires cutting a significantly wider horizontal trench through foundation rebar. |
@@ -205,6 +205,29 @@ Concrete cutting, structural header installation, and foundation drain tile tie-
    - *ASTM E1745:* Standard Specification for Plastic Water Vapor Retarders Used in Contact with Soil or Granular Fill under Concrete Slabs.
 4. **American Wood Protection Association (AWPA):**
    - *Standard UC4A:* Preservative Treatment for Ground-Contact Lumber Components.
+
+---
+
+## Turnkey Egress Window Cost Breakdown: Saw Cutting, Well Drainage & Codes
+
+Adding a legal egress window to an existing concrete basement transforms dark storage into a legally permitted bedroom, immediately adding $20,000 to $35,000 in home appraisal value across the Midwest.
+
+### 1. Installed Project Cost Breakdown (Per Egress Window)
+- **Turnkey Professional Installation:** **$3,600 to $6,500** total completed cost. Covers:
+  - Exterior excavation of a 5x5 ft. pit down to the foundation footing ($600 to $1,000).
+  - Hydraulic track-mounted diamond diamond-blade saw cutting through 8-inch to 10-inch reinforced poured concrete ($1,000 to $1,600).
+  - Concrete chunk removal and structural steel lintel installation where rough opening exceeds 48 inches ($400 to $600).
+  - Pressure-treated wood rough buck anchored with 1/2" Simpson wedge anchors ($300 to $500).
+  - Energy Star double-pane Low-E vinyl casement or in-swing egress window ($450 to $800).
+  - Heavy-duty corrugated galvanized steel or composite egress well with permanent safety ladder ($600 to $1,200).
+  - Footing drain connection with 4-inch PVC and washed drainage gravel ($400 to $600).
+- **DIY Cost:** **$1,600 to $2,800** for window, well, ladder, concrete saw rental ($250/day), and gravel.
+
+### 2. The Critical Window Well Drainage Detail
+Over 80% of basement egress window leaks occur because the contractor failed to connect the window well drain to the foundation drain tile:
+- The bottom of the egress well must sit at least **8 inches below the window sill**.
+- A 4-inch vertical PVC standpipe surrounded by 12 inches of washed 3/4" crushed stone must tie directly into the perforated exterior footing drain tile.
+- If the well drain is omitted, heavy spring downpours will fill the window well like a fish tank, eventually breaking through the window seals and flooding the basement with hundreds of gallons of water.
 
 ---
 

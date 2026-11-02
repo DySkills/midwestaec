@@ -97,6 +97,22 @@ With all air bypasses sealed and baffles secured, apply the thermal blanket:
 
 ---
 
+## Attic Air Sealing Cost Breakdown & Contractor Bid Checklist
+
+Homeowners evaluating whether to hire a weatherization contractor or tackle attic air sealing as a DIY weekend project need realistic regional price benchmarks.
+
+### 1. Typical Midwest Installed Costs (1,200 to 1,800 Sq. Ft. Attic)
+- **Turnkey Professional Air-Sealing & Baffle Package:** **$1,600 to $2,800** ($1.30 to $1.75 per sq. ft.). This scope covers clearing insulation back from exterior top plates, sealing all top plate drywall junctions, wire drops, and plumbing chases with two-part expanding foam, installing rigid cardboard or PVC rafter baffles with wind-wash blockers, and building an insulated, weatherstripped attic hatch box.
+- **Full Air-Seal + R-60 Blown Cellulose Package:** **$3,200 to $4,800** ($2.20 to $2.90 per sq. ft.). Covers air sealing plus blowing 16 to 18 inches of stabilized borate-treated cellulose over existing settled insulation.
+- **DIY Material Cost:** **$450 to $750** for professional-grade DIY kit: one 200 board-foot two-part spray foam kit (Touch 'n Foam / Froth-Pak), 30 rigid PVC rafter baffles, acoustic caulk, foil tape, and sheet metal for chimney clearances.
+
+### 2. High-Risk Contractor Shortcuts to Watch For
+1. **Blowing Cellulose Without Baffles:** Cheap contractors will blow insulation directly against the roof sheathing at the eaves, completely choking off soffit ventilation. Within one winter, the roof sheathing will rot from trapped condensation.
+2. **Missing Chimney Fireblocking:** Code (IRC Section R1003.18) strictly prohibits spraying expanding foam directly against a masonry or metal B-vent chimney flue. The gap must be sealed with 26-gauge galvanized sheet metal and fire-rated non-combustible silicone.
+3. **Leaving Can Lights Unsealed:** Standard non-IC rated recessed incandescent can lights act as roaring thermal chimneys. Ensure they are replaced with IC-rated airtight LED wafer fixtures or enclosed in sealed fire-rated covers (Tenmat boxes) prior to insulation.
+
+---
+
 ## Verification & Quality Assurance Tests
 
 Confirm the physical performance of the retrofit before closing the project:

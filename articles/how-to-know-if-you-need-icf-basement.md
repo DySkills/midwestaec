@@ -41,7 +41,7 @@ Walk over to an exposed exterior concrete or cinder block wall during late autum
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
-Standard poured concrete has an insulation rating of roughly R-1.1 to R-1.3, while concrete masonry units (cinder blocks) provide almost zero thermal resistance. Because deep subsoil in Climate Zones 4 and 5 hovers between 45°F and 52°F year-round, uninsulated foundation walls act as massive radiant cooling panels.
+Standard poured concrete has an insulation rating of roughly R-1.1 to R-1.3, while concrete masonry units (cinder blocks) provide almost zero thermal resistance. Because deep subsoil in the Midwest and Great Lakes region hovers between 45°F and 52°F year-round, uninsulated foundation walls act as massive radiant cooling panels.
 
 If the wall feels ice-cold to the touch and your upper-floor heating bills spike every November, your foundation is bleeding thermal energy into the surrounding earth. ICF walls integrate 2.5 to 2.75 inches of expanded polystyrene (EPS) on both sides of a solid concrete core, delivering an uninterrupted R-22 to R-26 performance envelope that keeps basement walls warm and dry.
 

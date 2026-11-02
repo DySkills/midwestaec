@@ -70,7 +70,7 @@ Selecting continuous exterior insulation requires balancing thermal resistance, 
 
 *Sources: Building Science Corporation Research Reports; ASTM C518 Thermal Transmission Testing.*
 
-Mineral wool board (such as Rockwool Comfortboard 80) is the premier specification for Climate Zones 4 and 5. Because stone wool is completely vapor-permeable (> 30 perms), it allows damp wall assemblies to dry outward rapidly while providing a continuous thermal break. 
+Mineral wool board (such as Rockwool Comfortboard 80) is the premier specification for the Midwest and Great Lakes region. Because stone wool is completely vapor-permeable (> 30 perms), it allows damp wall assemblies to dry outward rapidly while providing a continuous thermal break. 
 
 Foil-faced polyisocyanurate provides the highest R-value per inch (R-6.0), but property owners should note its cold-temperature behavior. Research from the **Building Science Corporation** proved that standard polyiso blowing agents condense at sub-freezing temperatures, derating its real-world performance to roughly R-4.5 per inch when exterior temperatures drop below 15°F.
 
@@ -145,7 +145,7 @@ Third, confirm that the contractor leaves a 3/8-inch screened ventilation gap at
 ### Related Building Science Guides
 - **Winter Utility Tariffs & Thermal Chimneys:** &rarr; **[Read: Winter Tariff Hikes: Why $20k on Windows Doesn't Hold Up](articles/energy-hikes.html)**
 - **Wall Cavity Insulation Comparison:** &rarr; **[Read: Rockwool vs. Fiberglass in Midwest Walls: The 5 Physical Differences That Matter](articles/rockwool-vs-fiberglass.html)**
-- **Interior Vapor Control in Cold Climates:** &rarr; **[Read: Smart Vapor Retarders: How Variable-Permeance Membranes Function in Climate Zone 5](articles/smart-vapor-retarders.html)**
+- **Interior Vapor Control in Cold Climates:** &rarr; **[Read: Smart Vapor Retarders: How Variable-Permeance Membranes Function across the Upper Midwest and Great Lakes](articles/smart-vapor-retarders.html)**
 
 
 ---

@@ -29,7 +29,7 @@ The reality isn't your furnace constantly kicking up or failing. It is the bypro
 
 ## Increasing Costs Are More than Mechanical
 
-Recent utility hikes across Climate Zones 4 and 5 are not temporary blips in the billing cycle. Public service commission dockets confirm a structural baseline shift in how energy delivery is priced across the region:
+Recent utility hikes across the Midwest and Great Lakes region are not temporary blips in the billing cycle. Public service commission dockets confirm a structural baseline shift in how energy delivery is priced across the region:
 
 - **Ameren Missouri & Ameren Illinois (MPSC ER-2022-0337 / ICC 23-0067):** Multi-year grid modernization plans and volumetric delivery rate hikes impacting over 2.4 million customers across Missouri and central/southern Illinois.
 - **Spire Missouri (MPSC GR-2022-0179 / GR-2024-0100):** Escalating Infrastructure System Replacement Surcharges (ISRS) and wholesale therm index true-ups affecting 1.2 million gas meters in St. Louis and Kansas City.

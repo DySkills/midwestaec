@@ -101,13 +101,30 @@ Provide active mechanical humidity control per IRC Section R408.3:
 
 ## How to Do Crawl Space Encapsulation: Summary Protocol & Critical Trade Milestones
 
-Homeowners and contractors asking **how to encapsulate crawl space** foundations successfully in Climate Zones 4 and 5 must execute the conversion in strict building science sequence. Skipping steps—such as laying vapor barrier over unmitigated groundwater or failing to air-seal the rim joist—leads to catastrophic moisture trapping.
+Homeowners and contractors asking **how to encapsulate crawl space** foundations successfully in the Midwest and Great Lakes region must execute the conversion in strict building science sequence. Skipping steps—such as laying vapor barrier over unmitigated groundwater or failing to air-seal the rim joist—leads to catastrophic moisture trapping.
 
 ### The 4 Non-Negotiable Milestones:
 1. **Bulk Water Diverted First:** Never lay plastic over active mud or seasonal ponding water. Trench French drain perimeter tile to a sealed interior sump pit with battery backup before barrier installation.
 2. **Monolithic Air Boundary (Vents & Joists):** Every exterior foundation vent must be plugged with 2-inch closed-cell foam and sealed with polyurethane caulk. The rim joist and sill plate must receive 2 inches of closed-cell spray foam.
 3. **Class A Continuous Membrane (20-Mil):** Crawl space encapsulation requires a puncture-resistant, virgin polyolefin membrane sealed with double-sided butyl tape and mechanical termination bars along stem walls.
 4. **Mechanical RH Control (Dehumidification):** An encapsulated crawl space is a conditioned envelope. It requires a dedicated commercial low-temperature dehumidifier maintaining 45% to 55% relative humidity year-round.
+
+---
+
+## Crawl Space Encapsulation Materials Shopping List & Contractor Bid Scrutiny
+
+Executing a durable crawl space encapsulation requires professional-grade materials that resist hydrostatic water pressure, puncture, and soil off-gassing:
+
+### 1. Essential Materials Specification Schedule
+- **Vapor Barrier:** Never use standard 6-mil clear construction poly (it tears easily and degrades within 3 to 5 years). Demand **minimum 12-mil to 20-mil multi-layer virgin polyolefin reinforced with polyester cord grid** (e.g., Stego Wrap 20-mil or CleanSpace).
+- **Seam Tape & Mastic:** High-tack butyl rubber tape (minimum 4-inch width) for overlapping seams and sealing around interior piers. Standard duct tape or silver foil tape fails within 60 days in subterranean humidity.
+- **Mechanical Fasteners:** Heavy-duty aluminum termination bars fastened into concrete masonry with 1/4" concrete drive anchors spaced every 12 inches on center.
+- **Dedicated Dehumidifier:** Residential portable dehumidifiers cannot operate below 65°F without freezing up. Install an Energy Star certified low-temperature crawl space unit (AHRI 920 rated, minimum 70 pints/day at 60°F).
+
+### 2. Red Flags on Contractor Quotes
+1. **Leaving Dirt Walls Unsealed:** Contractors who only lay plastic on the floor while leaving dirt ledges or masonry walls bare leave an open highway for humidity and water intrusion.
+2. **No Dedicated Condensate Drainage:** Dehumidifier lines must drain either to an active sump basin or gravity-drain to the home exterior. Draining condensate directly back onto the vapor barrier creates an indoor swimming pool.
+3. **Covering Combustion Air Openings:** If your furnace or water heater is located in the crawl space, ensure proper makeup combustion air is hard-piped from outside before sealing all foundation vents (per NFPA 54 / IRC Section G2407).
 
 ---
 

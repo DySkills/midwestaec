@@ -8,7 +8,7 @@ catSlug: "envelopes"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Peoria", "Rockford", "South Bend", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "NE", "OH", "WI"]
 subtitle: "When the first February thaw hits the Midwest, the hidden physics of winter reveals itself in dripping ceiling drywall, buckled basement vinyl, and shocking utility bills."
-summary: "False spring freeze-thaw cycles: How 50°F daytime thaws and sub-zero nights tear gutters, crack masonry, and cause hidden ceiling leaks in Climate Zone 5."
+summary: "False spring freeze-thaw cycles: How 50°F daytime thaws and sub-zero nights tear gutters, crack masonry, and cause hidden ceiling leaks across the Upper Midwest and Great Lakes."
 codeTag: "IRC Section R806 / ASTM E1745 / ASHRAE 62.2"
 author: "Midwest AEC Building Science"
 date: "October 2026"
@@ -18,7 +18,7 @@ referralHook: "Attic Air Sealing & Envelope Insulation Quote Match"
 
 # The False Spring Thaw: Why Your Attic Rains, Your Basement Sweats, and Your Winter Bills Spiked
 
-> **Quick Summary:** Every mid-February across Climate Zones 4 and 5, the Midwest experiences its notorious "false spring"—a sudden, deceptive 48-hour warm front where sub-zero polar air gives way to 50°F sunshine and melting snowpack. Within hours of the thaw, thousands of homeowners discover mysterious water dripping through hallway ceilings, musty condensation pooling beneath basement luxury vinyl plank (LVP) flooring, and staggering gas and electric bills in their mailboxes. These are not roof shingle failures or furnace breakdowns; they are the visible forensic byproducts of convective stack-effect air bypasses and subterranean vapor drive.
+> **Quick Summary:** Every mid-February across the Midwest and Great Lakes region, the Midwest experiences its notorious "false spring"—a sudden, deceptive 48-hour warm front where sub-zero polar air gives way to 50°F sunshine and melting snowpack. Within hours of the thaw, thousands of homeowners discover mysterious water dripping through hallway ceilings, musty condensation pooling beneath basement luxury vinyl plank (LVP) flooring, and staggering gas and electric bills in their mailboxes. These are not roof shingle failures or furnace breakdowns; they are the visible forensic byproducts of convective stack-effect air bypasses and subterranean vapor drive.
 >
 > - **The "Raining Attic" Phenomenon:** Weeks of sub-zero winter temperatures turn unsealed attics into industrial freezers. Warm, humid indoor air escaping through can lights and top plates freezes into thick hoarfrost on the underside of roof sheathing. When false spring sunlight warms the shingles, that frost melts instantaneously, raining down through insulation and ceiling drywall.
 > - **The Cold Slab Condensation Trap:** Soil temperatures lag ambient air by four to six weeks. While outdoor air surges to 55°F, below-grade concrete slabs remain locked at 38°F. Warm, humid air meeting cold concrete creates instant condensation beneath "100% waterproof" flooring, trapping moisture and buckling click-lock seams.
@@ -54,7 +54,7 @@ When the contractor climbs into the attic, they find the roof deck soaked, insul
 Yet, if you inspect that roof from the outside, every shingle is intact, sealed, and undamaged. The water didn't come from the sky. It came from the kitchen, the shower, and the lungs of the family living downstairs.
 
 ### The Physics of the "Attic Snow Cave"
-During December and January, outdoor temperatures in Climate Zone 5 frequently drop below 0°F. The ventilated attic space above your ceiling is designed to stay cold, matching the outdoor ambient air. The plywood or OSB roof sheathing drops to 5°F or -10°F.
+During December and January, outdoor temperatures across the Upper Midwest and Great Lakes frequently drop below 0°F. The ventilated attic space above your ceiling is designed to stay cold, matching the outdoor ambient air. The plywood or OSB roof sheathing drops to 5°F or -10°F.
 
 Meanwhile, inside the conditioned living space, the furnace is maintaining 70°F air at roughly 35% to 45% relative humidity. Every time someone takes a shower, boils pasta, or exhales, water vapor is added to that warm air.
 

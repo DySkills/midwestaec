@@ -91,7 +91,7 @@ The following table summarizes the verifiable code and building science standard
 | Building Science Component | Code Reference | Minimum Engineering Specification | Function in Ice Dam Prevention |
 | :--- | :--- | :--- | :--- |
 | **Ceiling Plane Airtightness** | IECC Section R402.4 / ASTM E779 | **< 3.0 ACH50 Whole-House (100% Top Plate Seal)** | Halts warm convective air bypasses into attic space |
-| **Attic Insulation Depth** | 2024 IECC Climate Zone 5/6 | **R-60 Blown Cellulose or Mineral Wool (18–20")** | Reduces conductive thermal transfer through drywall |
+| **Attic Insulation Depth** | 2024 IECC the Upper Midwest and Great Lakes/6 | **R-60 Blown Cellulose or Mineral Wool (18–20")** | Reduces conductive thermal transfer through drywall |
 | **Ventilation Intake Baffles** | IRC Section R806.2 / R806.3 | **Rigid Baffles with Integrated Wind-Wash Dams** | Guarantees 2" clear airflow path over exterior wall top plates |
 | **Net Free Vent Area (NFVA)** | IRC Section R806.2 | **1:150 Ratio (or 1:300 with 50% Ridge / 50% Soffit)** | Flushes residual solar/conductive heat with outdoor air |
 | **Self-Adhered Eave Membrane** | IRC Section R905.1.2 / ASTM D1970 | **Extend 24" Inside Heated Interior Wall Line** | Secondary waterproof seal against hydrostatic backups |

@@ -3,12 +3,12 @@
 > **Jurisdiction:** Climate Zones 4 & 5 (Midwest Residential & Commercial)
 > **Canonical Article:** https://midwestaec.com/articles/rammed-earth-midwest-flooring.html
 > **Building Code Reference:** IRC Section R402 / ASTM D422 / ASTM E1745
-> **Summary:** Rammed earth and earthen floors in Zone 5: Why uninsulated earth provides only R-3.6, and how to detail Stabilized Insulated Rammed Earth (SIRE) under IRC R402.
+> **Summary:** Rammed earth and earthen floors in the Great Lakes and Plains: Why uninsulated earth provides only R-3.6, and how to detail Stabilized Insulated Rammed Earth (SIRE) under IRC R402.
 
 
 # The Midwest Rammed Earth Paradox: Thermal Mass, Freeze-Thaw Spalling & The Sub-Slab Flooring Matrix
 
-> **Quick Summary:** In the arid American Southwest, rammed earth is an ancient, proven triumph. But transport that same building assembly to Missouri, Illinois, or Iowa, and the physics changes violently. An 18-inch monolithic raw earth wall offers an insulating value of only R-3.6, turning natural walls into conductive heat drains during a -10°F polar vortex. Meanwhile, freeze-thaw cycles expand subterranean capillary water by 9%, pulverizing unprotected earthen surfaces into dust. To make earthen construction and natural floors survive in Climate Zones 4 and 5, builders must master the physics of Insulated Rammed Earth (SIRE), sub-slab vapor breaks, and the exact material boundaries that govern tile, concrete, and engineered wood.
+> **Quick Summary:** In the arid American Southwest, rammed earth is an ancient, proven triumph. But transport that same building assembly to Missouri, Illinois, or Iowa, and the physics changes violently. An 18-inch monolithic raw earth wall offers an insulating value of only R-3.6, turning natural walls into conductive heat drains during a -10°F polar vortex. Meanwhile, freeze-thaw cycles expand subterranean capillary water by 9%, pulverizing unprotected earthen surfaces into dust. To make earthen construction and natural floors survive in the Midwest and Great Lakes region, builders must master the physics of Insulated Rammed Earth (SIRE), sub-slab vapor breaks, and the exact material boundaries that govern tile, concrete, and engineered wood.
 
 ---
 
@@ -47,7 +47,7 @@ In New Mexico, Arizona, or Morocco, rammed earth performs brilliantly because of
 
 In the Midwest, however, a January cold snap does not offer a diurnal swing. Temperatures drop to 5°F and stay below 20°F for two straight weeks. 
 
-Once the thermal mass of an uninsulated earthen wall cools down, it ceases to be a heater—it becomes an uninsulated **conductive thermal sink**. Because 18 inches of compacted earth offers only **R-3.6 to R-4.5**, indoor heat rapidly conducts straight through the soil matrix into the freezing outdoor atmosphere. Meeting the 2024 International Residential Code (IRC) requirement of **R-20 or R-30** in Climate Zones 4 and 5 with raw earth alone would require a wall **eight feet thick**.
+Once the thermal mass of an uninsulated earthen wall cools down, it ceases to be a heater—it becomes an uninsulated **conductive thermal sink**. Because 18 inches of compacted earth offers only **R-3.6 to R-4.5**, indoor heat rapidly conducts straight through the soil matrix into the freezing outdoor atmosphere. Meeting the 2024 International Residential Code (IRC) requirement of **R-20 or R-30** in the Midwest and Great Lakes region with raw earth alone would require a wall **eight feet thick**.
 
 ---
 
@@ -94,7 +94,7 @@ When wind-driven rain hits a raw earthen wall, the porous capillary network of t
 
 ## Stabilized & Insulated Rammed Earth (SIRE)
 
-To make rammed earth thrive in Climate Zones 4, 5, and 6, building science abandoned historical romanticism in favor of **Stabilized Insulated Rammed Earth (SIRE)**.
+To make rammed earth thrive across the Great Lakes, the Corn Belt, and the Northern Plains, building science abandoned historical romanticism in favor of **Stabilized Insulated Rammed Earth (SIRE)**.
 
 ```
        EXTERIOR FACE                                               INTERIOR FACE
@@ -167,7 +167,7 @@ Here is how the four major Midwest floor finishes perform when installed over su
 
 An authentic earthen floor—traditionally constructed from clay, sand, chopped straw, and raw linseed oil—is one of the most comfortable, quiet, and beautiful architectural surfaces achievable. Under bare feet, it has a leather-like warmth that concrete can never mimic.
 
-However, in Climate Zones 4 and 5, an earthen floor must be installed strictly as an **interior finish assembly**, not as an extension of the raw ground.
+However, in the Midwest and Great Lakes region, an earthen floor must be installed strictly as an **interior finish assembly**, not as an extension of the raw ground.
 
 ### The 4-Layer Midwest Earthen Floor Assembly:
 1. **Sub-Slab Capillary Break:** 4 inches of 3/4-inch washed, crushed clean limestone (zero dust or fines). Liquid water cannot defy gravity to climb across the large voids between crushed stones.
@@ -238,8 +238,8 @@ Major structural masonry, stabilized rammed earth formwork, hydronic in-slab rad
 
 ## Frequently Asked Questions
 
-### Can you build a code-compliant rammed earth home in Climate Zone 5?
-Yes, but not with traditional uninsulated monolithic earth walls. The International Residential Code (IRC Section R402) mandates an envelope thermal performance of R-20 to R-30 in Climate Zones 4 and 5. Because raw rammed earth provides only R-0.20 to R-0.25 per inch (R-3.6 total for an 18-inch wall), builders must construct **Stabilized Insulated Rammed Earth (SIRE)** walls. SIRE incorporates a 4-inch continuous core of rigid extruded polystyrene (XPS) or polyisocyanurate sandwiched between two 6-inch structural earthen wythes, achieving R-22+ while preserving exposed interior and exterior earthen finishes.
+### Can you build a code-compliant rammed earth home across the Upper Midwest and Great Lakes?
+Yes, but not with traditional uninsulated monolithic earth walls. The International Residential Code (IRC Section R402) mandates an envelope thermal performance of R-20 to R-30 in the Midwest and Great Lakes region. Because raw rammed earth provides only R-0.20 to R-0.25 per inch (R-3.6 total for an 18-inch wall), builders must construct **Stabilized Insulated Rammed Earth (SIRE)** walls. SIRE incorporates a 4-inch continuous core of rigid extruded polystyrene (XPS) or polyisocyanurate sandwiched between two 6-inch structural earthen wythes, achieving R-22+ while preserving exposed interior and exterior earthen finishes.
 
 ### How do you prevent an earthen floor from dusting and eroding?
 Untreated clay floors will dust under foot traffic and dissolve if exposed to standing water. The building science solution is chemical polymerization via hot boiled linseed oil. Saturating bone-dry clay with four successive coats of linseed oil cut with mineral spirits allows the vegetable oil to penetrate deep into the pores, where atmospheric oxygen cross-links it into a durable, water-resistant linoxin plastic resin. Applying an annual buffing coat of carnauba paste wax provides durable abrasion resistance.

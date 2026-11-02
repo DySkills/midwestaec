@@ -82,7 +82,7 @@ Every joist bay contains irregular cutouts, anchor bolts, electrical conduit, an
 ### The 2-Inch Closed-Cell Spray Foam Standard:
 The definitive building-science detail for rim joists is **two inches of 2.0-lb medium-density closed-cell spray polyurethane foam (ccSPF)**:
 1. **Monolithic Air Barrier:** Liquid spray expands 30x in seconds, sealing every microscopic crack around the concrete sill, mudsill, rim board, and subfloor, halting 100% of air infiltration.
-2. **Continuous R-13 to R-14 Thermal Break:** Two inches provides full compliance with IECC Climate Zone 5 & 6 prescriptive insulation requirements.
+2. **Continuous R-13 to R-14 Thermal Break:** Two inches provides full compliance with IECC the Upper Midwest and Great Lakes & 6 prescriptive insulation requirements.
 3. **Certified Class II Vapor Retarder:** Closed-cell foam has a water vapor permeance of **less than 0.8 perms** at 2 inches thickness. Warm interior moisture can never reach the cold wood rim board, completely eliminating winter condensation and hidden structural rot.
 
 ---
@@ -116,6 +116,22 @@ Under **ASTM E1643** (*Standard Practice for Selection, Design, Installation, an
 2. **6-Inch Minimum Seam Overlaps:** Lap all vapor retarder sheet seams a minimum of 6 inches. Seal laps continuously using manufacturer-approved heavy-duty acrylic or butyl pressure-sensitive tape. Never rely on duct tape or unbonded laps.
 3. **Pipe Penetration & Column Detailing:** Cut circular openings tight around plumbing drains, radon evacuation pipes, and structural column footings. Detail all penetrations using pre-molded pipe boots or elastomeric flash tape, followed by a continuous bead of polyurethane mastic sealant.
 4. **Concrete Pouring Direct-to-Membrane:** In modern cold-climate building science (ACI 302.1R / ACI 302.2R), concrete is poured directly in contact with the ASTM E1745 Class A vapor retarder. The outdated practice of placing a sand or cushion layer between the vapor barrier and the slab is strictly obsolete because sand blotter beds act as a hidden water sponge during construction, leading to catastrophic floor moisture emissions and LVP delamination.
+
+---
+
+## Sub-Slab Foam Cost vs. Return: Why R-10 Under Slab Pays for Itself in the Midwest
+
+Pouring a concrete basement or garage slab directly on dirt or crushed gravel without continuous sub-slab insulation is a permanent thermal mistake. In cold Midwest climates, sub-slab foam delivers critical financial and comfort dividends:
+
+### 1. Material & Installation Cost Breakdown
+- **Type IX High-Density EPS Foam (R-10, 2-Inch Thick, 25 PSI):** **$1.15 to $1.55 per sq. ft.** of slab area. For a 1,500 sq. ft. basement floor, materials cost **$1,725 to $2,325**.
+- **Type IV XPS Foam (R-10, 2-Inch Thick, 25 PSI):** **$1.45 to $1.95 per sq. ft.** ($2,175 to $2,925 total). Note: Long-term field studies by Oak Ridge National Laboratory show XPS loses up to 40% of its R-value below grade over 15 years due to water vapor infiltration, whereas Type IX closed-cell EPS maintains 95%+ of its R-value permanently.
+- **ASTM E1745 Class A 15-Mil True Polyolefin Vapor Retarder (Stego Wrap):** **$0.40 to $0.60 per sq. ft.** Tape all seams with manufacturer-approved acrylic seam tape.
+
+### 2. The Payback: Energy, Radiant Heat, and Sweat Elimination
+1. **Comfort & Usability:** An uninsulated slab hovers at 50°F to 54°F year-round, making bare feet chilly and causing carpets to trap mildew. An R-10 insulated slab hovers at 64°F to 67°F, matching ambient room temperatures.
+2. **Hydronic Radiant Heat Efficiency:** If installing in-slab PEX hydronic radiant heating, sub-slab insulation is mandatory. Without R-10 to R-15 foam beneath the tubing, over 45% of your hydronic heat is siphoned straight down into the cold infinite heat sink of the subsoil.
+3. **Summer Sweating Halted:** In July and August, warm humid air entering the basement will not condense on a slab that stays above the 55°F dew point.
 
 ---
 
@@ -159,7 +175,7 @@ The table below contrasts standard insulation materials across structural, therm
 - **ICF Below-Grade Foundations:** &rarr; **[Read: ICF (Insulated Concrete Forms) for Midwest Basements: Eliminating Moisture & Freezing Walls](icf-basements-walls.html)**
 - **Continuous Exterior Insulation Breaks:** &rarr; **[Read: Continuous Exterior Insulation: Why R-5 Outboard Beats R-20 Cavity in Freeze-Thaw Climates](continuous-insulation.html)**
 - **Blower Door Air-Sealing Checklist:** &rarr; **[Read: How to Pass the Blower Door Test (< 3.0 ACH50) on a Midwest Remodel](blower-door-checklist.html)**
-- **Crawlspace Ground Vapor Sealing:** &rarr; **[Read: Crawlspace Encapsulation in Zone 5: Why Vented Crawlspaces Rot Floors](crawlspace-encapsulation.html)**
+- **Crawlspace Ground Vapor Sealing:** &rarr; **[Read: Crawlspace Encapsulation in the Great Lakes and Plains: Why Vented Crawlspaces Rot Floors](crawlspace-encapsulation.html)**
 
 
 ---

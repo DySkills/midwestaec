@@ -108,6 +108,23 @@ Once the top and bottom cavities are friction-fit with non-combustible mineral w
 
 ---
 
+## Field Identification & Fireblocking Costs: How to Inspect & Seal Open Flues
+
+Pre-1940s homes across Chicago, Milwaukee, Minneapolis, St. Louis, and Detroit were built using balloon framing—a construction method where exterior 2x4 wall studs run continuously from the foundation sill plate all the way up to the attic roof rafters without floor platform interruptions.
+
+### 1. How to Identify Balloon Framing in 5 Minutes
+You do not need to tear down plaster to verify if your home is balloon framed:
+- **The Basement Rim Inspection:** Go to your basement and look up where the floor joists meet the exterior foundation wall. If you can shine a flashlight up between the floor joists and see open, continuous cavities extending straight up into the second-floor walls, your home is balloon framed.
+- **The Attic Floor Scan:** Look at the perimeter floor joists in the attic. If you see open, dark stud chutes dropping straight down into the exterior walls with drafts billowing upward, the cavities are unblocked.
+- **Exterior Wall Stud Continuity:** On a two-story home, if second-floor windows align perfectly vertically with first-floor windows and exterior walls sound hollow from floor to attic, it is classic balloon construction.
+
+### 2. Fireblocking Retrofit Cost & Scope ($1,400 to $2,800)
+- **Turnkey Professional Air-Seal & Fireblock Package:** **$1,400 to $2,800** for a typical 2-story home footprint.
+- **The Scope of Work:** A crew installs non-combustible mineral wool batts (Roxul Safe'n'Silent) tightly friction-fitted into the bottom and top of every exterior wall cavity, sealed with intumescent fire-rated acrylic sealant (3M CP 25WB+) and backed with 2-inch solid lumber fireblocking per IRC Section R302.11.
+- **The Heating Payback:** In an unblocked balloon-framed home, the continuous stud flues act as open thermal chimneys, pulling thousands of cubic feet of cold basement air into attic crawlspaces 24 hours a day. Sealing the two ends typically yields a **20% to 35% reduction in whole-house air infiltration** on a blower door test, saving $350 to $600 annually in winter gas heating.
+
+---
+
 ## Payback and Whole-House Blower Door Reduction
 
 Air-sealing the open cavities in a balloon-framed house delivers the highest thermodynamic return of any weatherization retrofit:

@@ -120,7 +120,7 @@ Never insulate historic masonry without diagnostic verification. Testing proves 
 
 ## The Safe Interior Insulation Blueprint
 
-To insulate a solid mass brick wall safely in Climate Zones 4, 5, and 6 without inducing spalling or joist rot, contractors must follow a strictly specified hygrothermal assembly:
+To insulate a solid mass brick wall safely across the Great Lakes, the Corn Belt, and the Northern Plains without inducing spalling or joist rot, contractors must follow a strictly specified hygrothermal assembly:
 
 > ### The Engineered Historic Brick Retrofit Assembly (Outside to Inside)
 >
@@ -193,7 +193,7 @@ The table below contrasts standard uninsulated baseline conditions against impro
 - **Cavity Insulation Hydrophobicity:** &rarr; **[Read: Does Rockwool Outperform Fiberglass? How Each Holds Up in Midwest Wall Assemblies](rockwool-vs-fiberglass.html)**
 - **Attic Air Sealing Over Old Ceilings:** &rarr; **[Read: Winter Tariff Hikes: Why $20k on Windows Doesn't Hold Up](energy-hikes.html)**
 - **Continuous Exterior Insulation Rainscreens:** &rarr; **[Read: Continuous Exterior Insulation: Why R-5 Outboard Beats R-20 Cavity in Freeze-Thaw Climates](continuous-insulation.html)**
-- **Variable Permeance Membranes in Cold Climates:** &rarr; **[Read: Smart Vapor Retarders: Class I, II, and III Membrane Specs for Climate Zone 5 & 6](smart-vapor-retarders.html)**
+- **Variable Permeance Membranes in Cold Climates:** &rarr; **[Read: Smart Vapor Retarders: Class I, II, and III Membrane Specs for the Upper Midwest and Great Lakes & 6](smart-vapor-retarders.html)**
 
 
 ---

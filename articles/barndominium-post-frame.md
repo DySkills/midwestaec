@@ -1,4 +1,4 @@
-# Barndominium & Post-Frame Thermal Envelopes: Zone 5 Condensation Control
+# Barndominium & Post-Frame Envelopes: Stopping Winter Roof Sweating in the Midwest
 > **Publication:** Midwest AEC (https://midwestaec.com)
 > **Jurisdiction:** Climate Zones 4 & 5 (Midwest Residential & Commercial)
 > **Canonical Article:** https://midwestaec.com/articles/barndominium-post-frame.html
@@ -27,7 +27,7 @@ Yet behind that designer shiplap, invisible physics is wreaking silent destructi
 
 The moment the vapor touches the freezing metal, it condenses into liquid water. Gallons of moisture trickle down the back of the steel, soaking cavity insulation, pooling on horizontal 2x6 framing girts, and rusting structural screws. Within five years, the building's hidden timber frame will show the first signs of structural wood rot.
 
-![Traditional Pole Barn Wall vs. Engineered Residential Barndominium Assembly in Climate Zone 5](images/barndominium-post-frame-diagram.jpg)
+![Traditional Pole Barn Wall vs. Engineered Residential Barndominium Assembly across the Upper Midwest and Great Lakes](images/barndominium-post-frame-diagram.jpg)
 
 ---
 
@@ -63,7 +63,7 @@ This creates three critical building science failures:
 
 ## The Engineered Solution: Outboard Insulation & Ventilated Rainscreen
 
-To build a residential post-frame home that lasts 50 to 100 years in Climate Zones 4, 5, and 6, the building envelope must be engineered under residential commercial standards (*IBC Section 1404.2* and *IRC Section R702.7*).
+To build a residential post-frame home that lasts 50 to 100 years across the Great Lakes, the Corn Belt, and the Northern Plains, the building envelope must be engineered under residential commercial standards (*IBC Section 1404.2* and *IRC Section R702.7*).
 
 The assembly must decouple the cold metal siding from the warm structural timber:
 
@@ -101,14 +101,30 @@ Engineered residential post-frame structures replace direct ground burial with *
 
 ---
 
+## Midwest Barndominium Construction Costs: Shell vs. Turnkey Living Space
+
+Post-frame residential construction ("barndominiums") has surged in popularity across rural Illinois, Indiana, Iowa, Ohio, Wisconsin, and Missouri. However, marketing claims promising a finished custom home for "$60 per square foot" are dangerously misleading:
+
+### 1. Realistic Price Benchmarks (2,400 Sq. Ft. Living Area + 1,200 Sq. Ft. Shop)
+- **Bare Structural Shell Only:** **$45 to $75 per sq. ft.** ($160,000 to $270,000 total). Covers concrete perimeter piers or thickened slab, laminated wood posts, roof trusses, 29-gauge steel siding and metal roof, basic windows, and garage doors. (This leaves an unfinished, uninsulated barn with a dirt or flat concrete slab).
+- **Turnkey Finished Living Space:** **$140 to $195 per sq. ft.** ($336,000 to $468,000 for the living quarters). Covers full interior framing, sub-slab continuous R-10 insulation, electrical rough-in, plumbing, septic, HVAC cold-climate heat pump, drywall, kitchen/bath finishes, and code-compliant continuous envelope insulation.
+
+### 2. The "Sweating Metal Roof" Disaster in Sub-Zero Weather
+When agricultural pole barns are converted into heated living spaces, occupants generate 25 to 40 pounds of water vapor daily (cooking, breathing, showers):
+- If the steel roof is insulated merely with thin foil bubble wrap or cheap fiberglass blankets pressed against the metal, indoor humidity touches the freezing exterior steel sheeting (often -10°F).
+- Water condensates rapidly, creating an indoor rainstorm that saturates drywall and shorts out electrical fixtures.
+- **The Engineered Fix:** Install a minimum of **2 inches of continuous polyiso or closed-cell spray foam** directly against the steel sheathing to move the condensing dew point completely outside the structural frame, or build a flat ceiling joist plane to create an unconditioned, ventilated cold attic above the living space.
+
+---
+
 ## Specification Comparison: Agricultural Barn vs. Residential Barndominium
 
-The following table contrasts standard pole barn practices against the mandatory building science specifications for residential occupancy in Climate Zones 4, 5, and 6:
+The following table contrasts standard pole barn practices against the mandatory building science specifications for residential occupancy across the Great Lakes, the Corn Belt, and the Northern Plains:
 
 | Building Component | Standard Pole Barn (Agricultural) | Engineered Residential Barndominium | Code / Science Standard |
 | :--- | :--- | :--- | :--- |
 | **Exterior Siding Mounting** | Screwed directly to wood girts | **Mounted over 1x4 vertical furring (3/4" rainscreen)** | IBC Section 1404.2 / ASTM E2273 |
-| **Continuous Outboard Layer** | None or single-bubble foil | **R-7.5 to R-10 Rigid Polyiso or Mineral Board** | 2024 IECC Climate Zone 5 |
+| **Continuous Outboard Layer** | None or single-bubble foil | **R-7.5 to R-10 Rigid Polyiso or Mineral Board** | 2024 IECC the Upper Midwest and Great Lakes |
 | **Air & Weather Barrier** | None (siding serves as sole barrier) | **Commercial Taped Housewrap / Outboard WRB** | ASTM E2178 / ASTM E2357 |
 | **Structural Frame Posts** | Solid sawn 6x6 pressure-treated | **Glue-Laminated Columns on Concrete Perma-Columns** | NFBA Post-Frame Design Guide |
 | **Cavity Wall Insulation** | R-19 low-density fiberglass batts | **R-23 Dense Stone Wool or High-Density Cellulose** | ASTM C518 / ASTM C665 |
@@ -132,7 +148,7 @@ The following table contrasts standard pole barn practices against the mandatory
 ---
 
 ### Related Building Science Guides
-- **Rural Off-Grid Infrastructure:** &rarr; **[Read: Rural Off-Grid Systems in Zone 5: Propane, Battery Backup & Freeze-Proof Wells](off-grid-systems.html)**
+- **Rural Off-Grid Infrastructure:** &rarr; **[Read: Rural Off-Grid Systems in the Great Lakes and Plains: Propane, Battery Backup & Freeze-Proof Wells](off-grid-systems.html)**
 - **Exterior Thermal Break Engineering:** &rarr; **[Read: Continuous Exterior Insulation: Why R-5 Outboard Beats R-20 Cavity in Freeze-Thaw Climates](continuous-insulation.html)**
 - **Cavity Insulation Density & Looping:** &rarr; **[Read: Does Rockwool Outperform Fiberglass? How Each Holds Up in Midwest Wall Assemblies](rockwool-vs-fiberglass.html)**
 - **Roof Ice Dam Mechanics:** &rarr; **[Read: The Physics of Midwest Ice Dams: The Real Fix (And Why Heat Cables Don't Work)](ice-dams-roofs.html)**

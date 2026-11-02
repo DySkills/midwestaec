@@ -12,7 +12,7 @@ summary: "Crawl space encapsulation vs vented dirt floors: Why 20-mil sealed lin
 codeTag: "IRC Section R408.3 / ASTM E1745 / ASHRAE 62.2"
 author: "Midwest AEC Building Science"
 date: "October 2026"
-readTime: "9 min read"
+readTime: "11 min read"
 referralHook: "Crawlspace Encapsulation & Dehumidifier Specification Match"
 ---
 
@@ -126,7 +126,7 @@ By closing the foundation vents, installing a monolithic 20-mil Class A vapor ba
 
 ## Specification Benchmark: Open Vented vs. Conditioned Encapsulation
 
-The table below contrasts traditional open-vented crawlspaces against fully sealed, conditioned crawlspaces in Climate Zones 4, 5, and 6:
+The table below contrasts traditional open-vented crawlspaces against fully sealed, conditioned crawlspaces across the Great Lakes, the Corn Belt, and the Northern Plains:
 
 | Environmental & Performance Metric | Traditional Open Vented Crawlspace | Sealed Conditioned Encapsulation (IRC R408.3) |
 | :--- | :--- | :--- |

@@ -80,6 +80,21 @@ With the two open ends permanently blocked and firestopped, prepare the hollow c
 
 ---
 
+## Balloon Framing Firestop Materials & Contractor Scope Checklist
+
+Retrofitting fireblocking into existing balloon-framed cavities requires strict adherence to fire safety codes (IRC Section R302.11 / ASTM E136):
+
+### 1. Approved Material Specifications
+- **Fireblocking Insulation:** Mineral wool batts (Rockwool Safe'n'Silent or Thermafiber) with a minimum density of 2.5 lbs/cu.ft. Never use fiberglass batts for fireblocking—fiberglass melts at 1,100°F within minutes during a chimney fire, whereas mineral wool withstands temperatures above 2,150°F.
+- **Intumescent Fire Caulk:** ASTM E814 / UL 1479 certified intumescent acrylic caulk (red/gray) that expands up to 3x when exposed to intense heat, sealing microscopic gaps against flame passage.
+- **Solid Wood Blocking:** Minimum 2-inch nominal dimensional lumber (2x4 or 2x6) or structural wood-structural panels (minimum 23/32" plywood/OSB) fastened securely into studs.
+
+### 2. High-Risk Contractor Omissions
+1. **Using Standard Expanding Polyurethane Foam:** Standard yellow foam is combustible plastic that burns rapidly and emits toxic fumes during a structural fire. Only fireblock-rated expanding foam (orange) tested per ASTM E814 is permitted.
+2. **Missing the Center Balloon Partitions:** Many pre-1920s homes also feature interior balloon-framed load-bearing walls running through the center hallway. These open interior flues must be fireblocked just like the exterior perimeter walls.
+
+---
+
 ## Verification & Quality Assurance Tests
 
 Confirm the thermal and structural airtightness of the assembly before completing the project:

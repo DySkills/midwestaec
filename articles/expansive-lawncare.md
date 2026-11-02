@@ -89,13 +89,13 @@ Transitioning from an unmanaged 5-acre lawn to an engineered Three-Zone acreage 
    - *ASTM D6459:* Standard Test Method for Determination of Rolled Erosion Control Product (RECP) Performance in Protecting Hillslopes from Rainfall-Induced Erosion.
 3. **Iowa State University Extension and Outreach:** *PM 1751: Establishing and Managing Native Prairie Buffers on Rural Acreages*.
 4. **University of Missouri Extension:** *Guide G1509: Establishing and Managing Native Warm-Season Grasses in the Midwest*.
-5. **Local Soil and Water Conservation Districts (SWCD):** *Rural Drainage, Swale Permitting, and Native Cost-Share Standards for Climate Zones 4 and 5*.
+5. **Local Soil and Water Conservation Districts (SWCD):** *Rural Drainage, Swale Permitting, and Native Cost-Share Standards for the Midwest and Great Lakes region*.
 
 ---
 
 ### Related Building Science Guides
 - **Rural Post-Frame Architecture:** &rarr; **[Read: Barndominium & Post-Frame Thermal Envelopes: Zone 5 Condensation Control](barndominium-post-frame.html)**
-- **Rural Microgrids & Wellhead Freeze Protection:** &rarr; **[Read: Rural Off-Grid Systems in Zone 5: Propane, Battery Backup & Freeze-Proof Wells](off-grid-systems.html)**
+- **Rural Microgrids & Wellhead Freeze Protection:** &rarr; **[Read: Rural Off-Grid Systems in the Great Lakes and Plains: Propane, Battery Backup & Freeze-Proof Wells](off-grid-systems.html)**
 - **Basement Hydrostatic Defense:** &rarr; **[Read: Why Water Enters Midwest Basements After Heavy Rain (And Why 6-Mil Poly Fails)](basement-waterproofing.html)**
 - **Exterior Envelope Thermal Breaks:** &rarr; **[Read: Continuous Exterior Insulation: Why R-5 Outboard Beats R-20 Cavity in Freeze-Thaw Climates](continuous-insulation.html)**
 - **Roof Ice Dam Mechanics:** &rarr; **[Read: The Physics of Midwest Ice Dams: The Real Fix (And Why Heat Cables Don't Work)](ice-dams-roofs.html)**

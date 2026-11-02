@@ -180,8 +180,8 @@ A permanently dry basement in Midwest clay requires a two-tiered defense: hydros
 ### Related Building Science Guides
 - **Sub-Slab & Rim Joist Thermal Breaks:** &rarr; **[Read: Below-Slab and Rim Joist Foam Spec: Stopping Frost-Heave and Basement Heat Loss](sub-slab-insulation-specs.html)**
 - **Insulated Concrete Form Foundations:** &rarr; **[Read: ICF (Insulated Concrete Forms) for Midwest Basements: Eliminating Moisture & Freezing Walls](icf-basements-walls.html)**
-- **Crawlspace Ground Vapor Sealing:** &rarr; **[Read: Crawlspace Encapsulation in Zone 5: Why Vented Crawlspaces Rot Floors](crawlspace-encapsulation.html)**
-- **Variable Permeance Wall Membranes:** &rarr; **[Read: Smart Vapor Retarders: Class I, II, and III Membrane Specs for Climate Zone 5 & 6](smart-vapor-retarders.html)**
+- **Crawlspace Ground Vapor Sealing:** &rarr; **[Read: Crawlspace Encapsulation in the Great Lakes and Plains: Why Vented Crawlspaces Rot Floors](crawlspace-encapsulation.html)**
+- **Variable Permeance Wall Membranes:** &rarr; **[Read: Smart Vapor Retarders: Class I, II, and III Membrane Specs for the Upper Midwest and Great Lakes & 6](smart-vapor-retarders.html)**
 - **Continuous Exterior Foundation Foam:** &rarr; **[Read: Continuous Exterior Insulation: Why R-5 Outboard Beats R-20 Cavity in Freeze-Thaw Climates](continuous-insulation.html)**
 
 

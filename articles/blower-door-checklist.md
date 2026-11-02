@@ -174,7 +174,7 @@ The table below details standard air-barrier materials, proper application zones
 
 ### Related Building Science Guides
 - **Chimney Effect in Historic Envelopes:** &rarr; **[Read: Balloon Framing Air Leaks: How to Firestop and Seal the Chimney Effect in Pre-1940s Homes](balloon-framing.html)**
-- **Variable Permeance Interior Membranes:** &rarr; **[Read: Smart Vapor Retarders: Class I, II, and III Membrane Specs for Climate Zone 5 & 6](smart-vapor-retarders.html)**
+- **Variable Permeance Interior Membranes:** &rarr; **[Read: Smart Vapor Retarders: Class I, II, and III Membrane Specs for the Upper Midwest and Great Lakes & 6](smart-vapor-retarders.html)**
 - **Attic Air Sealing Mechanics:** &rarr; **[Read: Winter Tariff Hikes: Why $20k on Windows Doesn't Hold Up](energy-hikes.html)**
 - **Cold-Climate Heat Pump Load Calculations:** &rarr; **[Read: Can a Heat Pump Actually Handle -15°F? Cold-Climate Inverters During Midwest Winters](cold-climate-heat-pumps.html)**
 - **Continuous Exterior Insulation Air Barriers:** &rarr; **[Read: Continuous Exterior Insulation: Why R-5 Outboard Beats R-20 Cavity in Freeze-Thaw Climates](continuous-insulation.html)**

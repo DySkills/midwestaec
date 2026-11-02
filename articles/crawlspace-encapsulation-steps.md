@@ -101,7 +101,7 @@ Provide active mechanical humidity control per IRC Section R408.3:
 
 ## How to Do Crawl Space Encapsulation: Summary Protocol & Critical Trade Milestones
 
-Homeowners and contractors asking **how to encapsulate crawl space** foundations successfully in the Midwest and Great Lakes region must execute the conversion in strict building science sequence. Skipping steps—such as laying vapor barrier over unmitigated groundwater or failing to air-seal the rim joist—leads to catastrophic moisture trapping.
+Homeowners and contractors asking **how to encapsulate crawl space** foundations successfully in the Midwest and Great Lakes region must execute the conversion in strict building science sequence. Skipping steps, such as laying vapor barrier over unmitigated groundwater or failing to air-seal the rim joist, leads to catastrophic moisture trapping.
 
 ### The 4 Non-Negotiable Milestones:
 1. **Bulk Water Diverted First:** Never lay plastic over active mud or seasonal ponding water. Trench French drain perimeter tile to a sealed interior sump pit with battery backup before barrier installation.

@@ -8,9 +8,9 @@
 
 # Smart Vapor Retarders vs. 6-Mil Plastic: Why Polyethylene Traps Mold in Midwest Summers
 
-> **Quick Summary:** In sub-arctic regions like northern Canada and Alaska, installing continuous 6-mil polyethylene sheet plastic directly behind interior drywall is code-standard because building vapor drive pushes outward for ten months of the year. In the Midwest (Climate Zones 4, 5, and 6), copying this northern practice is a recipe for wall rot. While Midwest winters drive moisture outward toward the cold sheathing, Midwest summers bring subtropical humidity that drives moisture forcefully *inward* toward air-conditioned rooms. When inward-migrating water vapor hits an impermeable sheet of 6-mil plastic chilled to 66°F by central air conditioning, it condenses into liquid water—trapping gallons of moisture inside the stud cavity and breeding toxic mold. Smart variable-permeance membranes solve this bidirectional paradox through responsive polymer physics that seal tight in winter and open wide in summer.
+> **Quick Summary:** In sub-arctic regions like northern Canada and Alaska, installing continuous 6-mil polyethylene sheet plastic directly behind interior drywall is code-standard because building vapor drive pushes outward for ten months of the year. In the Midwest (Climate Zones 4, 5, and 6), copying this northern practice is a recipe for wall rot. While Midwest winters drive moisture outward toward the cold sheathing, Midwest summers bring subtropical humidity that drives moisture forcefully *inward* toward air-conditioned rooms. When inward-migrating water vapor hits an impermeable sheet of 6-mil plastic chilled to 66°F by central air conditioning, it condenses into liquid water, trapping moisture inside the stud cavity and breeding toxic mold. Smart variable-permeance membranes adapt to seasonal vapor drive, sealing tight against winter exfiltration and opening to allow inward drying during humid summers.
 >
-> - **The Bidirectional Vapor Dilemma:** Unlike single-direction cold climates, the Midwest experiences severe seasonal vapor reversals—outward winter vapor drive at 0°F shifting to inward summer vapor drive at 95°F and 85% relative humidity.
+> - **The Bidirectional Vapor Dilemma:** Unlike single-direction cold climates, the Midwest experiences severe seasonal vapor reversals: outward winter vapor drive at 0°F shifts to inward summer vapor drive at 95°F and 85% relative humidity.
 > - **The Summer Condensation Trap:** Outdoor humidity penetrating brick or vinyl siding diffuses through exterior sheathing into the wall cavity; upon contacting impermeable interior poly chilled below the outdoor dew point (74°F), it liquefies on the plastic.
 > - **Molecular Polymer Dynamics:** Smart membranes utilize polyamide (Nylon 6) films whose polymer chains swell and relax under high relative humidity, opening microscopic pore structures from an airtight 0.8 perms in winter to over 13.0 perms in summer.
 > - **IRC Section R702.7 Compliance:** The International Residential Code prohibits Class I impermeable vapor retarders on the interior of air-conditioned walls in mixed climates unless balanced by exterior continuous insulation, prescribing Class II variable retarders as the safest standard.
@@ -35,7 +35,7 @@ In cold northern climates (Canada, Alaska, Zone 7), interior air is heated for n
 
 In the American Midwest, however, copying this sub-arctic practice creates catastrophic envelope failures. Midwest winters generate intense outward vapor drive, but Midwest summers bring subtropical humidity (dew points exceeding 74°F) that drives moisture forcefully *inward* toward air-conditioned interiors. 
 
-When inward-migrating moisture hits an impermeable sheet of 6-mil plastic chilled to 66°F by central air conditioning, it condenses into liquid water—trapping gallons of moisture inside the stud cavity and breeding toxic mold.
+When inward-migrating moisture hits an impermeable sheet of 6-mil plastic chilled to 66°F by central air conditioning, it condenses into liquid water, trapping moisture inside the stud cavity and breeding toxic mold.
 
 ---
 
@@ -66,7 +66,7 @@ If you install an impermeable Class I barrier on the interior, you create a **va
 > | **Taped OSB Sheathing** | 88°F (Vapor Permeable) | Allows high-pressure moisture vapor to pass into cavity |
 > | **Cavity Insulation** | 76°F (Air-permeable batt) | Convective moisture vapor migrates toward conditioned space |
 > | **6-Mil Polyethylene Plastic** | **66°F (Chilled by AC)** | **Condensation Plane:** Surface is 12°F below dew point; water pools on plastic |
-> | **Interior Drywall** | 68°F Conditioned Space (50% RH) | Trapped water rots wood bottom plates and fosters *Stachybotrys* mold |
+> | **Interior Drywall** | 68°F Conditioned Space (50% RH) | Trapped water rots wood bottom plates and causes *Stachybotrys* mold growth |
 
 ---
 
@@ -123,7 +123,7 @@ For decades, building contractors stapled standard 6-mil clear polyethylene shee
 ### 1. The Summer Condensation Sandwich
 - **Winter Operation:** In January, 6-mil poly performs well: it blocks warm indoor humidity from entering the cold exterior wall cavity.
 - **Summer Failure:** In July and August, outdoor conditions reach 88°F with high humidity (dew point 74°F). Outdoor heat and vapor drive moisture inward through exterior siding and sheathing.
-- **The Cold Drywall Trap:** Indoor central air conditioning chills the interior drywall to 68°F.
+- **Cold Drywall Trap:** Indoor central air conditioning chills the interior drywall to 68°F.
 - When inward-driven water vapor encounters the back of the impermeable 6-mil plastic sheet, it hits a surface colder than its dew point.
 - Liquid condensation pools inside the dark wall cavity against the wooden bottom plates and paper drywall facing. Because 6-mil plastic is completely vapor-impermeable (<0.06 perms), the moisture cannot dry inward. Toxic black mold blooms undetected within 24 to 36 months.
 

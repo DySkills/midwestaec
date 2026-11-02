@@ -10,7 +10,7 @@
 
 > **Quick Summary:** Converting an unfinished basement into legal living space or a compliant bedroom requires cutting through 8 to 10 inches of steel-reinforced concrete. Municipal building codes under IRC Section R310 mandate an Emergency Escape and Rescue Opening (EERO) with at least 5.7 square feet of net clear opening, a minimum 24-inch clear height, 20-inch clear width, and a sill height no greater than 44 inches above the finished floor. Sizing requires understanding the geometric math trap (a 20" x 24" window is illegal), engineering structural steel lintels for openings exceeding 36 inches, wet diamond track-sawing through rebar, and tying 4-inch vertical standpipe drains into perimeter footing tiles to prevent catastrophic window well flooding.
 >
-> - **The IRC R310 Dimensional Trap:** While code allows a 20-inch minimum width and 24-inch minimum height, combining them yields only 3.33 sq ft—far below the mandatory 5.7 sq ft net clear opening.
+> - **The IRC R310 Dimensional Trap:** While code allows a 20-inch minimum width and 24-inch minimum height, combining them yields only 3.33 sq ft, well below the mandatory 5.7 sq ft net clear opening.
 > - **Track-Mounted Diamond Sawing:** Hydraulic diamond blades cut cleanly through 3,500 psi concrete and #4/#5 rebar without micro-fracturing adjacent structural walls.
 > - **Lintel Load Transfer:** Openings wider than 36 inches or beneath concentrated floor joist point loads require engineered A36 steel angle lintels or double-LVL headers.
 > - **Window Well Flood Prevention:** A 12-inch bed of washed 3/4-inch stone and a dedicated 4-inch vertical standpipe tied directly into the exterior footing tile prevent basement flooding.
@@ -55,7 +55,7 @@ The International Residential Code (IRC Section R310) establishes non-negotiable
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
-> **The Mathematical Trap:** A window that is 20 inches wide by 24 inches high is **NOT code-compliant**. While it meets the individual minimum dimensions, $20\text{ in} \times 24\text{ in} = 480\text{ sq in} = 3.33\text{ sq ft}$—far below the mandatory **5.7 sq ft net clear opening**. 
+> **The Mathematical Trap:** A window that is 20 inches wide by 24 inches high is **NOT code-compliant**. While it meets the individual minimum dimensions, $20\text{ in} \times 24\text{ in} = 480\text{ sq in} = 3.33\text{ sq ft}$, well below the mandatory **5.7 sq ft net clear opening**. 
 > * To achieve 5.7 sq ft with a 20-inch wide opening, the height must be at least **41.1 inches**.
 > * To achieve 5.7 sq ft with a 24-inch high opening, the width must be at least **34.2 inches**.
 

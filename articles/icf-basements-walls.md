@@ -13,13 +13,13 @@
 > - **The Concrete Thermal Bridge:** An uninsulated 8-inch poured concrete foundation leaks heat at 0.91 BTU/hr·ft²·°F, conducting expensive indoor warmth directly into sub-freezing soil down to the 48-inch to 60-inch regional frost line.
 > - **The Summer Condensation Trap:** In humid Midwest summers, warm outdoor air (85°F, 70% RH, dew point 74°F) enters cool basements; contacting cold 58°F concrete walls causes immediate condensation, saturating traditional fiberglass batt insulation.
 > - **The Dual-EPS Monolithic Sandwich:** ICF systems combine two 2.625-inch high-density EPS panels (Type II, 1.5 lb/cu.ft) held by high-strength polypropylene webs, encasing a continuous 6-inch or 8-inch poured concrete core that functions as a structural thermal flywheel.
-> - **Eliminated Framing & Labor:** ICF blocks feature internal polypropylene fastening flanges every 8 inches on center, allowing interior drywall and exterior siding to screw directly into the wall—eliminating the need for secondary wood stud framing and cavity insulation.
+> - **Eliminated Framing & Labor:** ICF blocks feature internal polypropylene fastening flanges every 8 inches on center, allowing interior drywall and exterior siding to screw directly into the wall, eliminating the need for secondary wood stud framing and cavity insulation.
 
 ---
 
 ## Sub-Grade Thermal Dynamics: Why Standard Poured Basements Hemorrhage Heat in the Northern Plains & Great Lakes
 
-Across the Upper Midwest—from the Red River Valley of North Dakota to southern Wisconsin, Iowa, and northern Illinois—winter design temperatures regularly plumb -10°F to -25°F. Under these persistent sub-zero conditions, the frost depth extends 48 to 60 inches below finished grade into heavy glaciated clay soils.
+Across the Upper Midwest, from the Red River Valley of North Dakota to southern Wisconsin, Iowa, and northern Illinois, winter design temperatures regularly plumb -10°F to -25°F. Under these persistent sub-zero conditions, the frost depth extends 48 to 60 inches below finished grade into heavy glaciated clay soils.
 
 When a home is built on an uninsulated 8-inch poured concrete foundation, the sub-grade structure functions as an open thermal radiator. Concrete is dense rock ($k \approx 1.30 \text{ W/m}\cdot\text{K}$); its nominal thermal resistance is barely **R-1.1 to R-1.3**. In midwinter, placing an infrared radiometer against the interior face of an uninsulated 8-inch concrete basement wall reveals temperature stratifications of **32°F to 36°F near the rim joist line** and **40°F to 44°F at mid-height**.
 
@@ -53,7 +53,7 @@ To understand why traditional basements fail in Midwest cold climates, builders 
 
 ## The Traditional Remodeling Disaster: Interior Studs & Fiberglass Batts
 
-When builders attempt to "finish" a standard concrete basement by erecting a 2x4 wood stud wall packed with fiberglass batts and faced with 6-mil polyethylene sheet plastic, they assemble what building scientists call the "basement mold sandwich." The assembly layers—cold 8-inch concrete, an unventilated air space, permeable fiberglass insulation, impermeable plastic sheeting, and paper-faced drywall—trap interior and ground moisture inside a dark cavity with zero drying potential.
+When builders attempt to "finish" a standard concrete basement by erecting a 2x4 wood stud wall packed with fiberglass batts and faced with 6-mil polyethylene sheet plastic, they assemble what building scientists call the "basement mold sandwich." The assembly layers, cold 8-inch concrete, an unventilated air space, permeable fiberglass insulation, impermeable plastic sheeting, and paper-faced drywall, trap interior and ground moisture inside a dark cavity with zero drying potential.
 
 1. **Winter Freeze:** The fiberglass batt insulates the room, but it also completely cuts off interior furnace heat from reaching the concrete wall. The concrete wall drops from 45°F down to **25°F to 30°F**, freezing solid.
 2. **Convective Air Loops:** Warm, moist basement air slips through cracks in the drywall and fiberglass, contacting the freezing concrete. Moisture condenses on the cold wall, running down to pool on the wood bottom plate.
@@ -110,7 +110,7 @@ When you calculate the total "ready-for-drywall" envelope, the financial equatio
 
 $\text{Net ICF Premium} = (\text{ICF Wall Cost: } \$21.25/\text{sq.ft.}) - (\text{Poured Wall: } \$15.75/\text{sq.ft.} + \text{Framing/Insulation: } \$6.50/\text{sq.ft.}) = -\$1.00/\text{sq.ft.}$
 
-On a custom build or finished basement plan, an ICF foundation costs virtually the same—and frequently less—than paying a concrete crew to pour bare walls, followed weeks later by a framing crew and an insulation crew building wood walls inside a damp concrete box.
+On a custom build or finished basement plan, an ICF foundation costs virtually the same, and frequently less, than paying a concrete crew to pour bare walls, followed weeks later by a framing crew and an insulation crew building wood walls inside a damp concrete box.
 
 ### 3. Lifetime Operating Economics & HVAC Downsizing Payback
 
@@ -136,7 +136,7 @@ The following matrix details realistic 2026 installed costs for a 2,000 sq. ft. 
 
 ## The ICF Engineering Solution: Continuous Monolithic Sandwich
 
-Insulated Concrete Forms (ICF)—sometimes colloquially referred to by Midwest tradesmen as an **ice block foundation** due to the interlocking white foam forms—eliminate the thermal bridge and the condensation plane entirely. By placing continuous, rigid expanded polystyrene insulation on **both sides** of the structural concrete core, builders erect permanent, monolithic **icf foundation walls**:
+Insulated Concrete Forms (ICF), often called an "ice block foundation" by tradespeople because of the interlocking white foam blocks, eliminate the thermal bridge and the condensation plane entirely. By placing continuous, rigid expanded polystyrene insulation on **both sides** of the structural concrete core, builders erect permanent, monolithic **icf foundation walls**:
 
 > ### Insulated Concrete Form (ICF) Structural & Thermal Stack
 >
@@ -150,7 +150,7 @@ Insulated Concrete Forms (ICF)—sometimes colloquially referred to by Midwest t
 
 ### Key Engineering Features of ICF:
 - **Continuous Dual Insulation:** With 2.625 inches of Type II EPS on the exterior and 2.625 inches on the interior, the assembly delivers a verified, continuous **R-23 to R-26** with **zero thermal bridging**. 
-- **The Thermal Mass Flywheel:** The heavy concrete core (approximately 145 lbs/cu.ft) is locked between two thermal blankets. Concrete has a high volumetric heat capacity ($c_p = 0.88 \text{ kJ/kg}\cdot\text{K}$). Because it is protected from outdoor temperature swings, the core absorbs and stores interior ambient heat, acting as a massive thermal battery that moderates heating cycles. Under real-world dynamic testing in Midwest climates, ICF foundations exhibit performance equivalent to **R-35 to R-45** steady-state wood walls.
+- **Thermal Mass Flywheel:** The heavy concrete core (approximately 145 lbs/cu.ft) is locked between two thermal blankets. Concrete has a high volumetric heat capacity ($c_p = 0.88 \text{ kJ/kg}\cdot\text{K}$). Because it is protected from outdoor temperature swings, the core absorbs and stores interior ambient heat, acting as a massive thermal battery that moderates heating cycles. Under real-world dynamic testing in Midwest climates, ICF foundations exhibit performance equivalent to **R-35 to R-45** steady-state wood walls.
 - **Warm Interior Surface Temperatures:** In -15°F winter weather, the interior face of an ICF basement wall stays at **66°F to 68°F** (within 2 degrees of living space air temperature). It is physiologically impossible for winter condensation to form on an interior surface above the indoor dew point.
 - **Integral Drywall Fastening Flanges:** Molded into the EPS blocks every 8 inches on center are heavy-duty recycled polypropylene webs. These vertical flanges have a 1.5-inch face that accepts standard drywall coarse-thread screws, eliminating the expense, materials, and labor of framing wood stud walls inside the foundation.
 

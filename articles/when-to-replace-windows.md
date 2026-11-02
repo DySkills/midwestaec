@@ -22,10 +22,10 @@
 Homeowners across the Midwest are aggressively targeted by window replacement contractors promising that new double- or triple-pane windows will slash winter heating bills in half. Before committing $20,000 to $40,000 to a window replacement contract, building science economics reveals the mathematical truth:
 
 ### 1. The Physics Gap: R-3 Windows vs. R-20 Walls
-- Even a brand-new, top-tier Energy Star double-pane window (U-0.27) provides an insulating value of barely **R-3.7**—compared to an R-20 exterior wall or an R-60 attic.
+- Even a brand-new, top-tier Energy Star double-pane window (U-0.27) provides an insulating value of barely **R-3.7**, compared to an R-20 exterior wall or an R-60 attic.
 - Windows account for only **15% to 22%** of a typical home's total heat loss.
 - Slashing your heating bills by 50% through windows alone is a thermodynamic impossibility. On an annual heating bill of $2,000, replacing all windows typically saves **$250 to $450 per year**.
-- On a $25,000 window replacement contract, the simple financial payback spans **45 to 65 years**—far exceeding the 20- to 25-year service life of the insulated glass seals!
+- On a $25,000 window replacement contract, the simple financial payback spans **45 to 65 years**, far exceeding the 20- to 25-year service life of insulated glass seals.
 
 ### 2. When Capital Investment Makes Sense vs. When to Pass
 - **INVEST:** If original wood jambs have structural wet rot, balances are physically broken, glass is shattered, or during a full siding tear-off where full-frame flashing can be seamlessly integrated.
@@ -83,7 +83,7 @@ Window replacement salesmen frequently promise that new triple-pane windows will
 - **Exterior Low-E Storm Windows (AERC Rated):** **$180 to $350 per window installed**. Fits over existing single-pane windows, delivering U-factors comparable to standard double-pane replacements at a fraction of the cost.
 
 ### 2. The 35-Year Energy Payback Reality
-Replacing 20 single-pane windows with high-efficiency double-pane units typically saves **$250 to $450 per year** in heating and cooling energy. On a $20,000 to $28,000 window replacement project, the simple financial payback spans **35 to 55 years**—exceeding the 20- to 25-year service lifespan of the window's insulated glass unit (IGU) seals!
+Replacing 20 single-pane windows with high-efficiency double-pane units typically saves **$250 to $450 per year** in heating and cooling energy. On a $20,000 to $28,000 window replacement project, the simple financial payback spans **35 to 55 years**, exceeding the 20- to 25-year service lifespan of the window's insulated glass unit (IGU) seals!
 - **When Replacement Makes Sense:** Rotted wood sills, broken balances that slam shut, shattered glass, or when remodeling exterior siding.
 - **When Replacement Is a Financial Trap:** Spending $25,000 purely for "energy efficiency" when drafty attic bypasses and uninsulated basement rim joists are losing five times more heat for one-tenth the cost.
 
@@ -122,10 +122,10 @@ Protect your household budget by establishing clear bidding rules:
 * **The Reality:** Windows typically account for only 10% to 15% of a home's total thermal envelope conduction and infiltration loss. Even upgrading single-pane wood windows to Energy Star double-pane units typically reduces total home energy consumption by only **7% to 12%**. Far greater energy savings are achieved for a fraction of the cost through attic air sealing and rim joist insulation.
 
 ### Myth 2: "Vinyl Window Frames Last Forever Without Maintenance"
-* **The Reality:** Polyvinyl chloride (PVC) vinyl has a high coefficient of thermal expansion—expanding and contracting at more than double the rate of glass. In Midwest climates with 100°F annual temperature swings, this differential movement stresses corner welds and causes perimeter seal failure within 12 to 18 years. **Pultruded fiberglass** expands at virtually the same rate as glass, offering superior structural longevity.
+* **The Reality:** Polyvinyl chloride (PVC) vinyl has a high coefficient of thermal expansion, expanding and contracting at more than double the rate of glass. In Midwest climates with 100°F annual temperature swings, this differential movement stresses corner welds and causes perimeter seal failure within 12 to 18 years. **Pultruded fiberglass** expands at virtually the same rate as glass, offering superior structural longevity.
 
 ### Myth 3: "New Windows Automatically Fix Room Drafts"
-* **The Reality:** Over 80% of perceived window drafts do not come through the glass—they leak around the unsealed rough opening behind the interior trim casing. If an installer fails to remove the trim and inject low-expansion polyurethane foam around the weight pockets and frame shims, cold outdoor air will continue to draft into the living space regardless of how expensive the window is.
+* **The Reality:** Over 80% of perceived window drafts do not come through the glass. They leak around the unsealed rough opening behind the interior trim casing. If an installer fails to remove the trim and inject low-expansion polyurethane foam around the weight pockets and frame shims, cold outdoor air will continue to draft into the living space regardless of how expensive the window is.
 
 ---
 

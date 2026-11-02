@@ -22,9 +22,9 @@
 When winter natural gas tariffs and electric heating rates spike across the Midwest, homeowners look for ways to cut utility costs. Window replacement companies aggressively pitch $20,000 to $30,000 contracts, claiming new windows will slash energy bills in half. Building science thermodynamics proves this is one of the worst capital investments a homeowner can make:
 
 ### 1. The Capital Payback Reality Check
-- **The $25,000 Window Investment:** Delivers an annual heating energy savings of roughly **$250 to $450 per year**. The simple payback period spans **40 to 60 years**—exceeding the 20-year lifespan of insulated glass seals.
-- **The $2,500 Air-Sealing & Attic Insulation Alternative:** Sealing attic bypasses and basement rim joists with expanding foam and blowing R-60 cellulose cuts winter heating bills by **$350 to $650 per year**. The simple payback period is **2 to 4 years**!
-- **The Capital Allocation Rule:** Before spending $25,000 on windows, invest $3,000 to $5,000 in comprehensive envelope air-sealing and mechanical duct sealing. You achieve double the energy savings at one-fifth the capital expenditure.
+- **$25,000 Window Investment:** Delivers an annual heating energy savings of roughly **$250 to $450 per year**. The simple payback period spans **40 to 60 years**, well past the 20-year lifespan of insulated glass seals.
+- **$2,500 Air-Sealing & Attic Insulation Alternative:** Sealing attic bypasses and basement rim joists with expanding foam and blowing R-60 cellulose cuts winter heating bills by **$350 to $650 per year**. The simple payback period is **2 to 4 years**!
+- **Capital Allocation Rule:** Before spending $25,000 on windows, invest $3,000 to $5,000 in comprehensive envelope air-sealing and mechanical duct sealing. You achieve double the energy savings at one-fifth the capital expenditure.
 
 ---
 ## Increasing Costs Are More than Mechanical
@@ -50,16 +50,16 @@ How the air escapes is equally straightforward: every recessed light fixture, ga
 :::carousel
 ### Two-Story Home
 ![Technical Cross-Section: Stack-Effect Air Dynamics and Neutral Pressure Plane in a Two-Story Midwest Home](images/stack-effect-diagram.jpg)
-Figure 1.1: Two-Story Home — The extended vertical stack height doubles buoyant convective pressure, pulling freezing air across basement rim joists.
+Figure 1.1: Two-Story Home, The extended vertical stack height doubles buoyant convective pressure, pulling freezing air across basement rim joists.
 
 ### Single-Story Ranch
 ![Technical Cross-Section: Stack-Effect Air Dynamics in a Single-Story Midwest Ranch Home](images/stack-effect-ranch.jpg)
-Figure 1.2: Single-Story Ranch — Ceiling-plane drywall cuts and recessed lighting fixtures act as the primary convective bypass into the cold vented attic.
+Figure 1.2: Single-Story Ranch, Ceiling-plane drywall cuts and recessed lighting fixtures act as the primary convective bypass into the cold vented attic.
 :::
 
 The hot air out equals cold air in, by volume. If you lose 100 cubic feet of warm air out of the ceiling, a 100 cubic feet of freezing air comes rushing into the bottom! 
 
-If your main-level floor is freezing cold, it's the cold outdoor air being drawn in through mud sills, rim joist transitions, and floor-to-wall joints—an issue your carpet was never cut out to handle.
+If your main-level floor is freezing cold, it's the cold outdoor air being drawn in through mud sills, rim joist transitions, and floor-to-wall joints, an issue your carpet was never cut out to handle.
 
 ---
 
@@ -81,7 +81,7 @@ The empirical data compiled by the **U.S. Department of Energy (DOE)** and **Law
 
 The shortcoming of window replacement is simple: windows only make up for 8% to 12% of your home's exterior surface area. Upgrading your windows increases thermal resistance on only about 10% of your home's exterior envelope.
 
-Moreso, most of the draft isn't through the glass—it's through shrunk wood jambs and unsealed rough openings. Replacing the glazing doesn't help gaps around the window assembly and the wall cavity.
+Moreso, most of the draft isn't through the glass, it's through shrunk wood jambs and unsealed rough openings. Replacing the glazing doesn't help gaps around the window assembly and the wall cavity.
 
 ---
 

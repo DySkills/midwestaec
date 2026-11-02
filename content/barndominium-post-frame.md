@@ -32,9 +32,9 @@ referralHook: "Post-Frame & Barndominium Builder Quote Match"
 Post-frame construction ("barndominiums") is marketed across rural Midwest acreages as a revolutionary way to build a custom home for "$60 to $80 per square foot." While that price accurately covers an agricultural storage shell, turning a steel pole barn into a safe, code-compliant, and durable residential home requires a much different capital budget:
 
 ### 1. The Bare Shell vs. Turnkey Reality
-- **The $55 to $75/Sq. Ft. Structural Shell:** Covers laminated structural posts, clear-span steel roof trusses, 29-gauge metal siding and roofing, basic vinyl windows, and concrete pier footings. (This leaves an unconditioned, dirt-floor agricultural barn).
-- **The $145 to $195/Sq. Ft. Finished Living Quarters:** Turning that shell into a home requires sub-slab continuous R-10 insulation, frost-depth perimeter thermal breaks, interior stud framing, electrical, plumbing, cold-climate heat pump mechanicals, drywall, interior finishes, and engineered condensation-control insulation.
-- **The Real Cost:** A 2,400 sq. ft. finished barndominium costs **$340,000 to $460,000 turnkey**—delivering roughly 15% to 25% savings over conventional stick-built custom homes, rather than the fictional 60% discounts promised online.
+- **$55 to $75/Sq. Ft. Structural Shell:** Covers laminated structural posts, clear-span steel roof trusses, 29-gauge metal siding and roofing, basic vinyl windows, and concrete pier footings. (This leaves an unconditioned, dirt-floor agricultural barn).
+- **$145 to $195/Sq. Ft. Finished Living Quarters:** Turning that shell into a home requires sub-slab continuous R-10 insulation, frost-depth perimeter thermal breaks, interior stud framing, electrical, plumbing, cold-climate heat pump mechanicals, drywall, interior finishes, and engineered condensation-control insulation.
+- **Real Cost:** A 2,400 sq. ft. finished barndominium costs **$340,000 to $460,000 turnkey**, delivering roughly 15% to 25% savings over conventional stick-built custom homes, rather than the fictional 60% discounts promised online.
 
 ### 2. The #1 Structural Risk: Building an Agricultural Envelope for Residential Moisture
 Agricultural barns house tractors and hay; they generate zero interior moisture. Residential homes house families who generate **25 to 40 pounds of water vapor daily** through cooking, bathing, and respiration. If a post-frame builder applies agricultural construction details to a residential barndominium, interior humidity contacts sub-zero exterior metal sheeting, causing catastrophic ceiling rain and structural framing rot.
@@ -42,7 +42,7 @@ Agricultural barns house tractors and hay; they generate zero interior moisture.
 ---
 ## The Residential Moisture Multiplier: Barns vs. Living Spaces
 
-Post-frame construction was originally developed for agricultural pole barns—unheated machinery sheds, livestock run-ins, and grain storage. In those applications, the structure performs admirably for decades. 
+Post-frame construction was originally developed for agricultural pole barns: unheated machinery sheds, livestock run-ins, and grain storage. In those applications, the structure performs admirably for decades. 
 
 Why do agricultural pole barns survive without rot, while residential barndominiums fail?
 
@@ -52,7 +52,7 @@ Why do agricultural pole barns survive without rot, while residential barndomini
 
 1. **Moisture Generation:** A family of four releases **2.5 to 3.5 gallons of liquid water vapor** into the indoor atmosphere every 24 hours through breathing, perspiration, hot showers, cooking, and laundry.
 2. **Vapor Drive Pressure:** Warm indoor air expands and exerts continuous outward vapor pressure against the exterior building envelope. In January, indoor air at 70°F and 40% relative humidity has a dew point of **45.6°F**.
-3. **The Cold Condensing Surface:** Any surface inside the wall cavity that drops below 45.6°F will cause air moisture to instantly liquefy. While standard residential wood sheathing (OSB or plywood) buffers and breathes moisture, exterior steel is completely vapor-impermeable (0.0 perms). Liquid water cannot escape to the outside—it is trapped inside the wall cavity forever.
+3. **The Cold Condensing Surface:** Any surface inside the wall cavity that drops below 45.6°F will cause air moisture to instantly liquefy. While standard residential wood sheathing (OSB or plywood) buffers and breathes moisture, exterior steel is completely vapor-impermeable (0.0 perms). Liquid water cannot escape to the outside. It remains trapped inside the wall cavity.
 
 ---
 
@@ -65,7 +65,7 @@ When converted into a residential home, builders often place R-19 low-density fi
 This creates three critical building science failures:
 
 - **Thermal Bridging Across Metal Skin:** Corrugated steel siding has virtually zero thermal resistance (R-0.0003). At -8°F outdoor ambient, the metal skin instantly conducts freezing temperatures deep into the wall framing.
-- **The Sponge Effect:** As liquid condensation runs down the corrugated ribs on the back of the steel, fiberglass batts soak up the water like a giant sponge. Once saturated, wet fiberglass permanently loses its loft and thermal resistance, derating an R-19 wall to less than R-5.
+- **Sponge Effect:** As liquid condensation runs down the corrugated ribs on the back of the steel, fiberglass batts soak up the water like a giant sponge. Once saturated, wet fiberglass permanently loses its loft and thermal resistance, derating an R-19 wall to less than R-5.
 - **Horizontal Shelf Rot:** Horizontal wood girts act as catchment shelves for cascading water. Trapped moisture sits directly against untreated lumber and steel fasteners, inducing rust, fungal rot, and framing degradation hidden entirely behind interior drywall.
 
 ---
@@ -87,7 +87,7 @@ The assembly must decouple the cold metal siding from the warm structural timber
 
 By placing **R-7.5 to R-10 continuous rigid insulation** outboard of the wood girts, the condensing plane is physically moved away from the structural framing. The temperature of the structural wood girts remains above 50°F even when it is -10°F outside. Because the framing stays above the indoor dew point, condensation physically cannot form inside the wall cavity.
 
-Furthermore, the vertical 1x4 furring strips create a **3/4-inch ventilated rainscreen drainage cavity**. Any wind-driven rain that bypasses the metal screw grommets simply drains downward along the face of the rigid insulation and exits harmlessly through stainless-steel insect-screened weep flashing at the base of the wall.
+Additionally, the vertical 1x4 furring strips create a **3/4-inch ventilated rainscreen drainage cavity**. Any wind-driven rain that bypasses the metal screw grommets simply drains downward along the face of the rigid insulation and exits harmlessly through stainless-steel insect-screened weep flashing at the base of the wall.
 
 ---
 
@@ -98,7 +98,7 @@ The second major vulnerability of rural post-frame homes is the ground interface
 While chemical treatments (such as CCA or ACQ) delay wood decay, they do not prevent it indefinitely:
 
 - **Prairie Clay Chemistry:** Midwest soils feature dense, moisture-retentive clay that traps moisture around the wood fiber.
-- **The Groundline Oxygen Zone:** Wood rot does not occur six feet deep where oxygen is scarce; it accelerates in the top 12 to 18 inches of soil, where moisture, warmth, and oxygen foster wood-decaying fungi. After 15 to 20 years, even treated posts exhibit soft-rot decay and reduced bending strength.
+- **Groundline Oxygen Zone:** Wood rot does not occur six feet deep where oxygen is scarce; it accelerates in the top 12 to 18 inches of soil, where moisture, warmth, and oxygen foster wood-decaying fungi. After 15 to 20 years, even treated posts exhibit soft-rot decay and reduced bending strength.
 - **Settlement & Frost Heave:** Structural point loads from residential barndominiums are three to four times heavier than agricultural sheds due to drywall, cabinetry, granite countertops, and tile. Setting posts on loose soil or unreinforced pads risks differential foundation settlement.
 
 ### The Modern Standard: Precast Concrete Perma-Columns
@@ -122,7 +122,7 @@ Post-frame residential construction ("barndominiums") has surged in popularity a
 When agricultural pole barns are converted into heated living spaces, occupants generate 25 to 40 pounds of water vapor daily (cooking, breathing, showers):
 - If the steel roof is insulated merely with thin foil bubble wrap or cheap fiberglass blankets pressed against the metal, indoor humidity touches the freezing exterior steel sheeting (often -10°F).
 - Water condensates rapidly, creating an indoor rainstorm that saturates drywall and shorts out electrical fixtures.
-- **The Engineered Fix:** Install a minimum of **2 inches of continuous polyiso or closed-cell spray foam** directly against the steel sheathing to move the condensing dew point completely outside the structural frame, or build a flat ceiling joist plane to create an unconditioned, ventilated cold attic above the living space.
+- **Engineered Fix:** Install a minimum of **2 inches of continuous polyiso or closed-cell spray foam** directly against the steel sheathing to move the condensing dew point completely outside the structural frame, or build a flat ceiling joist plane to create an unconditioned, ventilated cold attic above the living space.
 
 ---
 

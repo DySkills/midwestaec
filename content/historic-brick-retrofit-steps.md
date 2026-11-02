@@ -112,7 +112,7 @@ Before adding any interior insulation to a historic brick structure, the exterio
 The single most destructive error made by general masonry contractors on historic pre-1930s homes is using modern **Portland cement mortar (Type S or Type M)**:
 - Pre-1930s bricks were low-fired in wood or coal kilns; they are soft, porous, and ductile.
 - Modern Portland cement dries ultra-hard (1,800 to 2,500 PSI compressive strength) and impermeable to water vapor.
-- **The Golden Rule of Masonry:** The mortar must always be *softer and more vapor-permeable* than the surrounding brick.
+- **Golden Rule of Masonry:** The mortar must always be *softer and more vapor-permeable* than the surrounding brick.
 - When modern Portland mortar is packed against soft historic brick, the mortar cannot flex during seasonal expansion. Under freeze-thaw cycles, the hard Portland mortar crushes the softer brick, permanently fracturing the wall.
 - **Required Mortar Specification:** Demand high-lime, low-cement **Type O mortar** (350 PSI) or pure **Natural Hydraulic Lime (NHL 2.0 / NHL 3.5)** mortar without Portland cement additives.
 

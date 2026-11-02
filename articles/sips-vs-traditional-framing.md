@@ -8,7 +8,7 @@
 
 # SIPs (Structural Insulated Panels) in the Great Lakes and Plains: Total Cost vs. Traditional Stick Framing
 
-> **Quick Summary:** In the deep freeze of the Upper Midwest and Great Lakes, building an energy-efficient home with conventional 2x6 stick framing requires a complex, multi-trade sandwich of wood studs, cavity batts, interior air-sealing tapes, exterior continuous rigid foam, and rainscreen furring. Structural Insulated Panels (SIPs) collapse these disparate steps into an engineered, factory-manufactured composite of rigid foam core bonded between two structural Oriented Strand Board (OSB) facings. While raw SIP factory packages cost 12% to 18% more than a pile of framing lumber, they erect in one-third the time, eliminate framing thermal bridges, and achieve sub-1.0 ACH50 airtightness—enabling builders to downsize mechanical heating systems by up to 40%.
+> **Quick Summary:** In the deep freeze of the Upper Midwest and Great Lakes, building an energy-efficient home with conventional 2x6 stick framing requires a complex, multi-trade sandwich of wood studs, cavity batts, interior air-sealing tapes, exterior continuous rigid foam, and rainscreen furring. Structural Insulated Panels (SIPs) collapse these disparate steps into an engineered, factory-manufactured composite of rigid foam core bonded between two structural Oriented Strand Board (OSB) facings. While raw SIP factory packages cost 12% to 18% more than a pile of framing lumber, they erect in one-third the time, eliminate framing thermal bridges, and achieve sub-1.0 ACH50 airtightness, enabling builders to downsize mechanical heating systems by up to 40%.
 >
 > - **The Whole-Wall R-Value Advantage:** Standard 2x6 stick walls advertised as "R-20" actually deliver an effective whole-wall rating of R-14.8 due to a 25% framing factor. A 6.5-inch EPS SIP wall delivers a true, uninterrupted whole-wall R-24 with less than 3% framing fraction.
 > - **Inherent Monolithic Airtightness:** By replacing hundreds of individual stud bays and plate joints with 8-foot by 24-foot pre-cut panels, SIPs easily achieve 0.60 to 1.20 ACH50 blower door test results with basic joint sealing.
@@ -30,11 +30,11 @@ While SIPs factory packages carry an upfront material premium of **$14,000 to $2
 :::carousel
 ### Conventional 2x6 Framing
 ![Technical Cross-Section: Conventional 2x6 Stick Framing with 25% Framing Factor Thermal Bridging](images/sips-stick-framing.jpg)
-Figure 1.1: Conventional 2x6 Framing — Dimensional lumber studs account for 25% of the wall area, acting as continuous thermal bridges that derate nominal R-20 batts down to an effective whole-wall R-14.8 while creating air leakage seams at every plate joint.
+Figure 1.1: Conventional 2x6 Framing, Dimensional lumber studs account for 25% of the wall area, acting as continuous thermal bridges that derate nominal R-20 batts down to an effective whole-wall R-14.8 while creating air leakage seams at every plate joint.
 
 ### Structural Insulated Panel (SIP)
 ![Technical Cross-Section: 6.5-Inch Structural Insulated Panel Monolithic Envelope](images/sips-monolithic-panel.jpg)
-Figure 1.2: Structural Insulated Panel (SIP) — Monolithic 6.5-inch composite of solid EPS rigid foam bonded between 7/16-inch structural OSB skins delivers an uninterrupted whole-wall R-24 with less than 3% framing fraction, airtight plate connections, and an integrated rainscreen drainage cavity.
+Figure 1.2: Structural Insulated Panel (SIP), Monolithic 6.5-inch composite of solid EPS rigid foam bonded between 7/16-inch structural OSB skins delivers an uninterrupted whole-wall R-24 with less than 3% framing fraction, airtight plate connections, and an integrated rainscreen drainage cavity.
 :::
 
 ---
@@ -68,7 +68,7 @@ When comparing structural building envelopes, the engineering debate between a *
 
 - **Framed Panel (Conventional Stud Frame):** A framed panel relies on discrete linear members (2x4 or 2x6 wood studs spaced at 16 or 24 inches on center) to carry all vertical compressive loads and transverse wind forces. The exterior sheathing (OSB or plywood) functions merely as a diaphragm to resist lateral shear (racking). Because structural loads concentrate on individual studs, wood crushing, stud bowing, and thermal bridging at every framing bay are inherent to framed panel assemblies.
 - **Stressed Skin Panel (Structural Insulated Panel):** In an engineered stressed skin panel, the structural facings (outer OSB skins) are continuously laminated with rigid structural adhesive to a solid foam core, operating as an integrated composite I-beam. Under bending or compressive loads, the entire outer skin takes tensile and compressive stresses, while the continuous foam core resists shear stresses and prevents facial buckling. A stressed skin panel eliminates discrete framing studs, redistributing structural loads uniformly across thousands of square inches.
-- **The Performance Verdict:** In a **framed panel vs stressed skin panel** comparison across the Upper Midwest and Great Lakes, stressed skin panels deliver twice the transverse load capacity (tested under ASTM E72), eliminate 90% of thermal bridges, and achieve superior airtightness because there are no individual stud seams to crack or leak air under wind pressure.
+- **Performance Verdict:** In a **framed panel vs stressed skin panel** comparison across the Upper Midwest and Great Lakes, stressed skin panels deliver twice the transverse load capacity (tested under ASTM E72), eliminate 90% of thermal bridges, and achieve superior airtightness because there are no individual stud seams to crack or leak air under wind pressure.
 
 ---
 
@@ -76,7 +76,7 @@ When comparing structural building envelopes, the engineering debate between a *
 
 The primary thermodynamic flaw of traditional wood framing is **thermal bridging through dimensional lumber**. 
 
-In conventional stick framing, builders assume walls consist mostly of insulation. In reality, building science field studies by Oak Ridge National Laboratory (ORNL) show that framing accounts for **22% to 27% of the total wall surface area** once you calculate bottom plates, double top plates, corner stud clusters, king studs, jack studs, cripples, and solid solid wood headers.
+In conventional stick framing, builders assume walls consist mostly of insulation. Field testing by Oak Ridge National Laboratory (ORNL) shows that framing actually accounts for **22% to 27% of total wall surface area** once you calculate bottom plates, double top plates, corner stud clusters, king studs, jack studs, cripples, and solid wood headers.
 
 Because softwood lumber has an R-value of only R-1.25 per inch (R-6.9 for a 2x6), every stud acts as a thermal conduit leaking interior heat directly to the exterior.
 

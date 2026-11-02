@@ -18,7 +18,7 @@ referralHook: "Blower Door Testing & Whole-Home Ventilation Specialist Match"
 
 # Does an Old House Need to Breathe? The Building Science of Stack Pressure, Infiltration Rot & ERVs
 
-> **Quick Summary:** Among Midwestern homeowners, remodelers, and traditional trades, no misconception is more deeply entrenched than the belief that a house "needs to breathe through its walls." Homeowners are routinely warned that sealing drafts, tightening attics, or wrapping foundations will trap moisture, create stale air, and "suffocate" the structure. Building science proves the exact opposite: random envelope leakage is not fresh-air ventilation—it is an uncontrolled, destructive convective engine that rots framing, fuels attic hoarfrost, and dramatically elevates utility costs. 
+> **Quick Summary:** Among Midwestern homeowners, remodelers, and traditional trades, no misconception is more deeply entrenched than the belief that a house "needs to breathe through its walls." Homeowners are routinely warned that sealing drafts, tightening attics, or wrapping foundations will trap moisture, create stale air, and "suffocate" the structure. Building science proves the exact opposite: random envelope leakage is not fresh-air ventilation, it is an uncontrolled, destructive convective engine that rots framing, fuels attic hoarfrost, and dramatically elevates utility costs. 
 >
 > - **The Physiological Distinction:** Houses do not need to breathe; *human occupants* need to breathe. Buildings require an impermeable, airtight structural envelope paired with continuous, dedicated, filtered mechanical ventilation.
 > - **The Convective Moisture Highway:** In cold climates, air leakage carries over 100 times more moisture into wall cavities than material vapor diffusion. When indoor air "breathes" outward through unsealed framing, it deposits moisture against cold sheathing, creating mold and structural decay.
@@ -41,7 +41,7 @@ Because air expands when heated, 70°F indoor air is significantly less dense ($
 
 This density gradient causes warm indoor air to rise toward the highest ceilings, exerting outward positive pressure against the upper envelope. To balance this upward buoyant force, sub-zero outdoor air is drawn inward through the lower envelope.
 
-Between these two pressure zones lies the **Neutral Pressure Plane (NPP)**—the horizontal boundary where internal building pressure precisely equals outdoor atmospheric pressure:
+Between these two pressure zones lies the **Neutral Pressure Plane (NPP)**, the horizontal boundary where internal building pressure precisely equals outdoor atmospheric pressure:
 
 $$\Delta P_{\text{stack}} = \rho_{\text{air}} \cdot g \cdot h \cdot \left(\frac{T_{\text{in}} - T_{\text{out}}}{T_{\text{in}} \cdot T_{\text{out}}}\right)$$
 
@@ -116,7 +116,7 @@ In winter, warm, humid indoor air (from cooking, showers, and human respiration)
 When moisture-laden indoor air hit that freezing wood, it condensed into liquid water. Wood rotted, exterior paint blistered and peeled off siding, and toxic mold bloomed inside bedroom walls.
 
 ### 3. The Flawed Conclusion: "The House Can't Breathe!"
-Remodelers observed the damage and drew the obvious—but scientifically backwards—conclusion: *"Before we insulated, the house was dry. After we tightened it, the house rotted. Therefore, an old house needs to breathe!"*
+Remodelers observed the damage and drew the obvious, but scientifically backwards, conclusion: *"Before we insulated, the house was dry. After we tightened it, the house rotted. Therefore, an old house needs to breathe!"*
 
 They blamed the airtightness rather than the absence of balanced ventilation and interior air barrier detailing.
 
@@ -158,7 +158,7 @@ In humid Midwest summers, the process reverses: the ERV core strips moisture fro
 ## Myth Buster: 3 Pervasive "Breathing House" Misconceptions
 
 ### Myth 1: "If I Seal My House Tighter Than 3.0 ACH50, We Will Run Out of Oxygen"
-* **The Reality:** A human being consumes roughly 0.01 CFM of oxygen. Even in a certified ultra-tight Passive House operating at 0.6 ACH50, the volume of structural air leakage alone provides enough oxygen for thousands of occupants. The real reason to ventilate is not to replenish oxygen—it is to dilute volatile organic compounds (VOCs from furniture and paint), remove excess carbon dioxide (CO₂), and control indoor relative humidity.
+* **The Reality:** A human being consumes roughly 0.01 CFM of oxygen. Even in a certified ultra-tight Passive House operating at 0.6 ACH50, the volume of structural air leakage alone provides enough oxygen for thousands of occupants. The real reason to ventilate is not to replenish oxygen, it is to dilute volatile organic compounds (VOCs from furniture and paint), remove excess carbon dioxide (CO₂), and control indoor relative humidity.
 
 ### Myth 2: "Opening a Window Occasionally is Sufficient Ventilation"
 * **The Reality:** Window ventilation is completely unmanaged. When you open a window in winter, you dump conditioned air and create localized freezing drafts while doing nothing to ventilate distant bedrooms or basements. Worse, on calm days without wind, opening a window achieves virtually zero air exchange. An ERV operates 24 hours a day on 30 watts of power, delivering continuous, balanced air changes through dedicated ducting.

@@ -23,14 +23,14 @@ Homeowners in rural, peri-urban, and wooded Midwest parcels routinely spend $400
 
 However, building science field diagnostics show that chemical perimeter treatments are inherently temporary:
 1. **UV and Rain Degradation:** Surface-applied synthetic pyrethroids degrade under ultraviolet exposure and Midwest storm runoff within 21 to 30 days, completely losing efficacy along foundation walls.
-2. **The Thermal Scent Bypass:** Insects and rodents do not invade homes at random; they follow air exfiltration trails escaping through unsealed mud sills, rim joist cracks, and utility wall penetrations. In autumn, warm air escaping through 1/8-inch gaps serves as an active thermal beacon for overwintering pests.
+2. **The Thermal Scent Bypass:** Insects and rodents do not invade homes at random; they follow air exfiltration trails escaping through unsealed mud sills, rim joist cracks, and utility wall penetrations. In autumn, warm air escaping through 1/8-inch framing gaps attracts overwintering insects directly into wall cavities.
 3. **Moisture-Driven Carpenter Ant Colonization:** Carpenter ants do not consume sound wood for nutrition; they hollow out nesting galleries exclusively inside timber softened by fungal decay (wood moisture content above 20%). Chemical spraying cannot stop colonization if a leaking sill plate, uninsulated rim joist, or condensation-prone wall assembly provides continuous moisture.
 
 ## The Mud Sill & Foundation Interface: Stopping Subterranean Termites
 
 In the Midwest and Great Lakes region, the Eastern Subterranean Termite (*Reticulitermes flavipes*) represents the most destructive wood-destroying insect. Termites live in underground colonies and must maintain continuous contact with soil moisture to prevent their soft bodies from dehydrating.
 
-To feed on structural wood framing, termites construct protective shelter tubes made of soil, saliva, and fecal matter—known as "mud tubes."
+To feed on structural wood framing, termites construct protective shelter tubes made of soil, saliva, and fecal matter, known as "mud tubes."
 
 > ### Subterranean Termite Infiltration vs. Mechanical Shielding (IRC R318)
 >
@@ -53,7 +53,7 @@ To permanently block subterranean termites:
 
 ## Carpenter Ants: Why Moisture Control Is Pest Control
 
-A widespread misconception among homeowners is that carpenter ants (*Camponotus pennsylvanicus*) eat wood like termites. In reality, carpenter ants consume sugar, insect honeydew, and protein; they use wood strictly as a structural nesting cavity.
+A widespread misconception among homeowners is that carpenter ants (*Camponotus pennsylvanicus*) eat wood like termites. Carpenter ants actually feed on sugar, insect honeydew, and protein; they excavate wood strictly for nesting galleries.
 
 More importantly, **carpenter ants physically cannot excavate sound, dry lumber.**
 
@@ -65,13 +65,13 @@ A carpenter ant's mandibles are adapted to carve wood only after it has been sof
 
 Carpenter ants do not consume sound wood for nutrition; they require high-moisture timber where fungal decay has already broken down the structural lignin. The infestation pathway follows a predictable biological sequence: bulk water intrusion or winter condensation elevates wood moisture content above 20%, fungal rot softens the cellular matrix, worker ants excavate the softened fibers for nesting galleries, and structural load-bearing capacity eventually fails.
 
-- **The Building Science Fix:** Eliminate the moisture, and you eliminate the carpenter ants. Replacing damp fiberglass with **two inches of closed-cell spray foam (R-14)** against basement rim joists creates an airtight vapor barrier that keeps the wood warm and bone-dry (maintaining moisture content below 12%). Without softened wood, carpenter ants cannot establish nests, abandoning the structure without a single drop of chemical pesticide.
+- **Building Science Fix:** Eliminate the moisture, and you eliminate the carpenter ants. Replacing damp fiberglass with **two inches of closed-cell spray foam (R-14)** against basement rim joists creates an airtight vapor barrier that keeps the wood warm and bone-dry (maintaining moisture content below 12%). Without softened wood, carpenter ants cannot establish nests, abandoning the structure without a single drop of chemical pesticide.
 
 ---
 
 ## Cladding Weeps & Rainscreen Bug Screens
 
-Modern building science demands that exterior claddings—such as brick veneer, stone, fiber cement, and corrugated steel—incorporate a drainage gap and weep openings at the base of the wall to allow incidental moisture to escape.
+Modern building science demands that exterior claddings, such as brick veneer, stone, fiber cement, and corrugated steel, incorporate a drainage gap and weep openings at the base of the wall to allow incidental moisture to escape.
 
 However, an unshielded 3/8-inch brick weep hole or an open 3/4-inch furring gap is an open highway for rural pests:
 
@@ -107,8 +107,8 @@ Excavate organic topsoil around the entire foundation perimeter to a width of **
 - Stone drains instantly after thunderstorms, reflects solar radiation, and dries out within hours. By creating an arid, zero-moisture mineral moat around the building, subterranean insects cannot burrow near foundation walls.
 
 ### C. Tree Canopy & Brush Clearances
-- **The 10-Foot Branch Rule:** Prune all tree limbs to maintain a minimum **10-foot clearance from roofs, gutters, and chimney flues**. Overhanging branches drop organic debris into gutters (creating damp nesting sites) and act as highway bridges for carpenter ants, squirrels, and mice.
-- **The Tick Buffer Zone:** For properties bordering rural woods or native prairie, construct a **3-foot wide transition strip of dry wood chips or crushed stone** along the forest edge. Ticks are prone to desiccation and avoid crawling across wide, dry mineral surfaces, stopping the migration of deer ticks and dog ticks into the mowed family living space.
+- **10-Foot Branch Rule:** Prune all tree limbs to maintain a minimum **10-foot clearance from roofs, gutters, and chimney flues**. Overhanging branches drop organic debris into gutters (creating damp nesting sites) and act as highway bridges for carpenter ants, squirrels, and mice.
+- **Tick Buffer Zone:** For properties bordering rural woods or native prairie, construct a **3-foot wide transition strip of dry wood chips or crushed stone** along the forest edge. Ticks are prone to desiccation and avoid crawling across wide, dry mineral surfaces, stopping the migration of deer ticks and dog ticks into the mowed family living space.
 
 ---
 

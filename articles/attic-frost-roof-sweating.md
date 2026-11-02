@@ -32,7 +32,7 @@ By contrast, **convective air leakage (bulk air movement)** carries over **30 qu
 
 $$\text{Moisture Transport via Air Leakage} \approx 100 \times \text{Moisture Transport via Diffusion}$$
 
-Driven by the **Stack Effect**—the upward buoyant pressure exerted by warm, low-density indoor air—heated living-space air is forced through every ceiling breach:
+Driven by the **Stack Effect** (the upward buoyant pressure exerted by warm, low-density indoor air), heated living-space air is forced through every ceiling breach:
 * **Recessed Can Light Fixtures:** Standard non-airtight (non-IC/AT) recessed fixtures leak 10 to 20 cubic feet per minute (CFM) of conditioned air directly into the attic.
 * **Partition Wall Top Plates:** The 1/8-inch shrinkage gap between drywall and the double 2x4 wood top plates along interior walls functions as a continuous air leak running the entire perimeter of every room.
 * **Mechanical & Chimney Chases:** Hollow framed chases around furnace flues and plumbing stacks act as open vertical flues from the basement straight to the roof deck.
@@ -87,7 +87,7 @@ When a contractor installs high exhaust vents or motorized fans on a home with a
 When sub-zero Arctic air grips the Upper Midwest, moisture exfiltrating from the warm living space into the unconditioned attic condenses directly onto freezing roof sheathing, forming thick layers of white hoarfrost. Homeowners rarely look into their attics in January, leaving this hidden ice cave undiscovered until the weather abruptly warms.
 
 ### 1. The "False Spring" Ceiling Rain Disaster
-The crisis occurs during a "false spring" thaw—when outdoor temperatures jump from 5°F to 40°F in 36 hours under bright sunshine:
+The crisis occurs during a "false spring" thaw, when outdoor temperatures jump from 5°F to 40°F in 36 hours under bright sunshine:
 - Solar radiation strikes the dark roof shingles, heating the plywood or OSB deck to 50°F+ even while outdoor air remains brisk.
 - Inches of accumulated hoarfrost melt simultaneously across hundreds of square feet of roof deck.
 - Meltwater saturates fiberglass or cellulose attic insulation, destroying its thermal resistance, and pours through ceiling penetrations: recessed can lights, smoke detectors, bathroom exhaust grilles, and drywall tape seams.
@@ -95,10 +95,10 @@ The crisis occurs during a "false spring" thaw—when outdoor temperatures jump 
 
 ### 2. The #1 Mistake: Bathroom Fans Terminating at the Soffit
 Over 60% of frosted Midwest attics share the same mechanical flaw: a bathroom exhaust fan vented into the soffit overhang.
-- **The Stack Effect Loop:** Unconditioned attics draw cold outdoor air inward through the soffit vents via thermal buoyancy. 
+- **Stack Effect Loop:** Unconditioned attics draw cold outdoor air inward through the soffit vents via thermal buoyancy. 
 - When an installer runs flexible ductwork to the soffit grille, the humid shower air (100% RH at 95°F) exhausted outward is immediately vacuumed right back into the attic through adjacent soffit perforations.
 - Within weeks, the roof sheathing directly above the soffit is encased in solid ice.
-- **The Required Fix:** Reroute exhaust ductwork using rigid, smooth-walled galvanized metal pipe wrapped in minimum R-6 insulation. Terminate through an approved roof jack or gable wall cap equipped with a gravity backdraft damper.
+- **Required Fix:** Reroute exhaust ductwork using rigid, smooth-walled galvanized metal pipe wrapped in minimum R-6 insulation. Terminate through an approved roof jack or gable wall cap equipped with a gravity backdraft damper.
 
 ### 3. Emergency Attic Remediation: What to Do Today
 1. **Immediate Dehumidification & Air Circulation:** If sheathing is soaked, place an axial air mover and a low-temperature commercial dehumidifier in the attic space to dry the plywood before fungal spores bloom into wood-decay mold.

@@ -18,7 +18,7 @@ referralHook: "High-Efficiency HVAC & Dehumidification Quote Match"
 
 # The Midwest Summer Humidity Trap: Why High-Efficiency AC Leaves Your Basement Cold & Clammy
 
-> **Quick Summary:** In the Midwest, summer weather is dominated by extreme latent moisture loads driven by atmospheric moisture and regional agricultural evapotranspiration—often called "corn sweat"—which pushes outdoor dew points above 76°F. When homeowners replace aging cooling systems with expensive, high-SEER central air conditioners, they are often dismayed to find their homes feeling like damp caves: the thermostat reads 68°F, yet the air feels sticky, bedsheets feel moist, and finished basements smell of mildew. This occurs because the cooling system was oversized using crude rules of thumb. Oversized single-stage compressors satisfy the temperature setpoint in less than eight minutes and shut off before the evaporator coil ever begins draining liquid condensate, leaving indoor humidity trapped at unhealthy levels.
+> **Quick Summary:** In the Midwest, summer weather is dominated by extreme latent moisture loads driven by atmospheric moisture and regional agricultural evapotranspiration, often called "corn sweat", which pushes outdoor dew points above 76°F. When homeowners replace aging cooling systems with expensive, high-SEER central air conditioners, they are often dismayed to find their homes feeling like damp caves: the thermostat reads 68°F, yet the air feels sticky, bedsheets feel moist, and finished basements smell of mildew. This occurs because the cooling system was oversized using crude rules of thumb. Oversized single-stage compressors satisfy the temperature setpoint in less than eight minutes and shut off before the evaporator coil ever begins draining liquid condensate, leaving indoor humidity trapped at unhealthy levels.
 >
 > - **The Sensible vs. Latent Imbalance:** Air conditioners must perform two distinct thermodynamic tasks: sensible cooling (lowering dry-bulb temperature) and latent cooling (condensing airborne water vapor into liquid water); Midwest summers often carry a 40% latent load that standard equipment cannot handle without long runtime.
 > - **The 12-Minute Coil Condensation Ramp:** An evaporator coil takes 8 to 12 minutes of continuous operation for condensed water droplets to coalesce and drain out through the condensate trap; short-cycling systems shut off and re-evaporate coil moisture straight back into the supply ducts.
@@ -32,8 +32,8 @@ referralHook: "High-Efficiency HVAC & Dehumidification Quote Match"
 During peak Midwest summers, when outdoor dew points exceed 72°F along river basins and the Great Lakes, homeowners experience a baffling mechanical failure: their air conditioner runs constantly, the air is cold, but the house feels sticky, clammy, and smells musty.
 
 ### 1. Active Failure Symptoms
-- **The "Meat Locker" Sensation:** The living room thermostat reads a chilly 68°F or 70°F, yet bedsheets feel damp, hardwood floors feel tacky under bare feet, and indoor air feels oppressively heavy.
-- **The Sweating Basement Floor:** Downstairs, the finished basement hovers at 62°F with relative humidity pegged at **75% to 80%**. Liquid moisture beads on vinyl flooring, baseboards swell, and closet clothes develop musty mildew odors.
+- **"Meat Locker" Sensation:** The living room thermostat reads a chilly 68°F or 70°F, yet bedsheets feel damp, hardwood floors feel tacky under bare feet, and indoor air feels oppressively heavy.
+- **Sweating Basement Floor:** Downstairs, the finished basement hovers at 62°F with relative humidity pegged at **75% to 80%**. Liquid moisture beads on vinyl flooring, baseboards swell, and closet clothes develop musty mildew odors.
 - **Rapid AC Short-Cycling:** The outdoor central AC condenser kicks on for only 6 to 10 minutes, blasts cold air through registers, and abruptly shuts off.
 
 ### 2. The Failed Band-Aid: Why Lowering the Thermostat Makes It Worse
@@ -95,7 +95,7 @@ The air conditioner consumed hundreds of kilowatt-hours of electricity, but remo
 
 ---
 
-## The Cold Basement Paradox: Why Finished Basements Sweat
+## Summer Basement Condensation: Why Finished Basements Sweat Under Air Conditioning
 
 In the Midwest, finished basements suffer the most severe moisture problems during summer heatwaves.
 
@@ -162,7 +162,7 @@ When an air conditioner is oversized (e.g., a 4-ton unit installed where Manual 
 - The massive compressor satisfies the sensible temperature setpoint in just **6 to 10 minutes** and shuts off.
 - To remove latent moisture from the air, the indoor evaporator coil must remain below the dew point (45°F to 50°F) for at least **15 to 20 minutes of continuous runtime**.
 - In an oversized system, moisture condensed on the coil fins doesn't have time to drain; when the compressor short-cycles off and the fan keeps running, that moisture evaporates straight back into the supply ductwork.
-- **The Relative Humidity Spike:** Relative humidity is temperature-dependent. When you lower indoor air temperature from 76°F to 70°F without removing water vapor, **relative humidity increases by 12% to 18%**. The result is a cold, clammy 70°F room with 72% RH—the exact biological breeding ground for dust mites and mildew.
+- **Relative Humidity Spike:** Relative humidity is temperature-dependent. When you lower indoor air temperature from 76°F to 70°F without removing water vapor, **relative humidity increases by 12% to 18%**. The result is a cold, clammy 70°F room with 72% RH, creating prime conditions for dust mites and mildew.
 
 ### 2. Dedicated Central Dehumidifiers: Installed Price Breakdown
 Rather than replacing your existing air conditioner, the building science solution is adding a dedicated whole-home dehumidifier integrated into your central ductwork:

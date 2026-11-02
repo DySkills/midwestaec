@@ -19,13 +19,13 @@
 
 ## Jobsite Reality vs. Shelf Pricing: Why Cheap Fiberglass Batts Fail Sub-Zero Midwest Wall Assemblies
 
-On paper, standard R-15 fiberglass batts cost roughly $0.62 to $0.78 per square foot of cavity wall area, while dense stone mineral wool (Rockwool Comfortbatt) runs $1.15 to $1.35 per square foot—a 40% to 50% upfront material premium that totals $1,200 to $1,800 across an average 2,200 sq. ft. home.
+On paper, standard R-15 fiberglass batts cost roughly $0.62 to $0.78 per square foot of cavity wall area, while dense stone mineral wool (Rockwool Comfortbatt) runs $1.15 to $1.35 per square foot, a 40% to 50% upfront material premium totaling $1,200 to $1,800 across an average 2,200 sq. ft. home.
 
 However, laboratory environmental chamber testing and jobsite thermal imaging demonstrate that low-density spun fiberglass (0.7 to 1.0 lb/cu.ft.) experiences dramatic thermal derating during Midwest polar cold snaps. When outdoor temperatures plunge below 0°F, extreme temperature differentials between interior drywall (70°F) and exterior OSB sheathing create internal convective air currents within low-density fiberglass batts, dropping their effective thermal resistance by up to 35%. Dense mineral wool (2.0 to 2.5 lbs/cu.ft.) physically arrests convective airflow loops, maintains dimensional spring-tension against stud cavities without stapling, and remains completely unaffected by water or fire.
 
 ## 1. Density & Winter Convective Air Looping
 
-Nominal R-values printed on insulation packaging are derived under **ASTM C518** laboratory conditions inside a hermetically sealed test box with zero air movement. Standard residential fiberglass batts have an installed density of only 0.6 to 0.8 pounds per cubic foot. In contrast, stone mineral wool (such as Rockwool Comfortbatt) is manufactured from spun volcanic basalt rock at 2.0 to 2.5 pounds per cubic foot—more than three times the density of glass fibers.
+Nominal R-values printed on insulation packaging are derived under **ASTM C518** laboratory conditions inside a hermetically sealed test box with zero air movement. Standard residential fiberglass batts have an installed density of only 0.6 to 0.8 pounds per cubic foot. In contrast, stone mineral wool (such as Rockwool Comfortbatt) is manufactured from spun volcanic basalt rock at 2.0 to 2.5 pounds per cubic foot, more than three times the density of glass fibers.
 
 When outdoor temperatures drop to -10°F and indoor air is heated to 70°F across a 5.5-inch wall cavity, that 80-degree thermal gradient creates a buoyant convective loop inside low-density insulation. Warm interior air rises along the warm face of the drywall, migrates over the top of the batt, cools against the freezing exterior OSB sheathing, and drops down to the bottom plate. Research by **Oak Ridge National Laboratory (ORNL)** confirms that internal convective looping can derate low-density fiberglass batts by 20% to 35% during extreme cold spells.
 
@@ -49,7 +49,7 @@ Once fiberglass collapses from water exposure, it rarely recovers its original t
 
 ## 3. Friction-Fit Tension vs. Gravitational Sagging
 
-Standard fiberglass batts lack inherent structural stiffness and must be physically stapled through paper kraft facing to the edges of wood framing. Over decades of seasonal humidity swings, thermal expansion, and normal structural vibration, paper tabs pull loose from framing staples. Gravity pulls the flexible fiberglass downward, creating a 2- to 4-inch uninsulated void at the top plate—precisely where buoyant indoor heat exerts the highest escape pressure.
+Standard fiberglass batts lack inherent structural stiffness and must be physically stapled through paper kraft facing to the edges of wood framing. Over decades of seasonal humidity swings, thermal expansion, and normal structural vibration, paper tabs pull loose from framing staples. Gravity pulls the flexible fiberglass downward, creating a 2- to 4-inch uninsulated void at the top plate, precisely where buoyant indoor heat exerts the highest escape pressure.
 
 Stone wool batts are manufactured as semi-rigid, self-supporting boards engineered with dimensional springback. When cut 1/2-inch wider than the stud bay and pushed into place, the batt expands outward against the wood studs with continuous friction tension. It requires zero mechanical staples, never slumps down over time, and holds its flush orientation against top and bottom plates for the life of the building.
 
@@ -65,7 +65,7 @@ The raw materials behind each insulation type dictate their structural performan
 
 Stone wool is formed by melting volcanic basalt rock and recycled blast-furnace slag at temperatures exceeding 2,900°F. The resulting mineral fibers are classified as non-combustible under **ASTM E136** and withstand temperatures beyond 2,150°F without melting, igniting, or releasing toxic off-gasses. Placed inside interior or exterior wall cavities, stone wool acts as a natural fire barrier that delays structural failure and slows flame spread between floors.
 
-Furthermore, kraft paper facing on standard fiberglass carries a significant flame-spread index under **ASTM E84** and must be covered immediately by 1/2-inch gypsum drywall to meet building code (*IRC Section R302.9*). Unfaced stone wool can remain exposed in utility rooms, unfinished basement perimeter framing, and mechanical spaces without violating residential fire safety codes.
+Additionally, kraft paper facing on standard fiberglass carries a significant flame-spread index under **ASTM E84** and must be covered immediately by 1/2-inch gypsum drywall to meet building code (*IRC Section R302.9*). Unfaced stone wool can remain exposed in utility rooms, unfinished basement perimeter framing, and mechanical spaces without violating residential fire safety codes.
 
 - **Jobsite Rule:** Install stone wool in furnace closets, water heater rooms, garage-to-house separation walls, and multi-family party walls to provide passive two-hour fire containment.
 
@@ -84,7 +84,7 @@ Understanding why stone wool resists fire and convective airflow requires examin
 
 ## 5. Acoustic Mass & Low-Frequency Vibration Damping
 
-Sound isolation through interior partitions is governed by mass, cavity absorption, and mechanical decoupling. Low-frequency acoustic energy—such as street traffic, heavy diesel trucks, home theater bass, and HVAC duct rumble—travels effortlessly through lightweight, low-density materials. Standard fiberglass batts absorb high-pitched flutter echoes, but lack the physical mass required to block low-frequency vibration.
+Sound isolation through interior partitions is governed by mass, cavity absorption, and mechanical decoupling. Low-frequency acoustic energy, such as street traffic, heavy diesel trucks, home theater bass, and HVAC duct rumble, travels effortlessly through lightweight, low-density materials. Standard fiberglass batts absorb high-pitched flutter echoes, but lack the physical mass required to block low-frequency vibration.
 
 Because stone wool packs roughly three times more mass per cubic foot into the wall cavity, it dampens airborne sound waves and structural resonance far more aggressively. In standardized sound transmission testing, a typical interior 2x4 wall framed with 1/2-inch drywall on both sides achieves an STC rating of 34 with fiberglass batts. Replacing the fiberglass with dense stone wool pushes that same partition to an STC of 42 to 45, cutting perceptible noise transmission in half.
 

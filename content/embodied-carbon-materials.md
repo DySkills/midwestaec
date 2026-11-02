@@ -18,7 +18,7 @@ referralHook: "Attic & Wall Insulation Dense-Packing, Air Sealing & Contractor M
 
 # Spray Foam vs. Cellulose & Wood Fiber: Why Plastic Foam Traps Moisture, Rots Studs & Fails the 25-Year Payback
 
-> **Quick Summary:** Residential builders across the Midwest frequently promote closed-cell spray polyurethane foam and extruded polystyrene (XPS) as the ultimate thermal barrier. However, field forensic autopsies reveal that petroleum-derived plastic foams create non-breathable vapor dams with permeance ratings under 1.0 perm, trapping incidental water leaks and interior winter condensation directly against wood framing until studs rot. Furthermore, the chemical synthesis and fluorochemical blowing agents in spray foam emit massive greenhouse gases, creating an upfront carbon debt that requires 20 to 26 years of winter furnace energy savings just to break even. In contrast, vapor-open assemblies using dense-pack cellulose (>35 perms), continuous wood-fiber board (>25 perms), and non-combustible basalt stone wool safely buffer moisture, deaden sound, and lock away atmospheric carbon permanently on day one.
+> **Quick Summary:** Residential builders across the Midwest frequently promote closed-cell spray polyurethane foam and extruded polystyrene (XPS) as the ultimate thermal barrier. However, field forensic autopsies reveal that petroleum-derived plastic foams create non-breathable vapor dams with permeance ratings under 1.0 perm, trapping incidental water leaks and interior winter condensation directly against wood framing until studs rot. Additionally, the chemical synthesis and fluorochemical blowing agents in spray foam emit massive greenhouse gases, creating an upfront carbon debt that requires 20 to 26 years of winter furnace energy savings just to break even. In contrast, vapor-open assemblies using dense-pack cellulose (>35 perms), continuous wood-fiber board (>25 perms), and non-combustible basalt stone wool safely buffer moisture, deaden sound, and lock away atmospheric carbon permanently on day one.
 >
 > - **The Impermeable Moisture Trap:** Closed-cell spray foam forms a vapor barrier against exterior sheathing and framing timbers. When water penetrates cladding or air leaks carry indoor humidity into the wall, the foam prevents drying, leading to hidden structural decay and black mold.
 > - **The 26-Year Carbon Payback Trap:** Producing rigid petrochemical foams and closed-cell spray polyurethane consumes massive energy and releases high-GWP blowing agents. It takes up to 26 years of operational heating savings simply to offset the manufacturing emissions of the plastic insulation.
@@ -55,7 +55,7 @@ Dense-pack cellulose and continuous wood-fiber boards possess vapor permeance ra
 
 The insulation matrix can safely buffer up to 15% of its dry weight in water vapor without degrading its thermal resistance or fostering mold growth. When seasonal weather changes and surrounding air warms, the fibers release the stored vapor harmlessly through bidirectional drying cycles.
 
-Furthermore, dense-pack cellulose hammer-milled from 85% recycled newsprint is treated with liquid sodium polyborate. This mineral borate treatment acts as a permanent Class A flame retardant while creating an inhospitable barrier against wood-boring insects, carpenter ants, and mice.
+Additionally, dense-pack cellulose hammer-milled from 85% recycled newsprint is treated with liquid sodium polyborate. This mineral borate treatment acts as a permanent Class A flame retardant while creating an inhospitable barrier against wood-boring insects, carpenter ants, and mice.
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -125,7 +125,7 @@ Producing petrochemical closed-cell spray foam and extruded polystyrene releases
 3. **ASHRAE (American Society of Heating, Refrigerating and Air-Conditioning Engineers):**
    - *ASHRAE Standard 240P:* Standard for Evaluating and Expressing Greenhouse Gas Emissions Associated with Building Materials.
 4. **International Organization for Standardization (ISO):**
-   - *ISO 21930:* Sustainability in Buildings and Civil Engineering Works — Core Rules for Environmental Product Declarations (EPDs).
+   - *ISO 21930:* Sustainability in Buildings and Civil Engineering Works, Core Rules for Environmental Product Declarations (EPDs).
 
 ---
 

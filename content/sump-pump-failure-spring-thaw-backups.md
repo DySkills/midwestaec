@@ -67,7 +67,7 @@ During this surge, water flows into the interior perimeter drain tile and fills 
 
 ## The Number One Failure Mode: Exterior Discharge Freeze-Up
 
-Homeowners often believe their sump pump will protect them as long as the pump motor is functioning. But in early March, the most common point of total system failure is not the pump—it is the **exterior discharge pipe**.
+Homeowners often believe their sump pump will protect them as long as the pump motor is functioning. But in early March, the most common point of total system failure is not the pump, but the **exterior discharge pipe**.
 
 ### How the Ice Plug Forms:
 * Most contractors discharge sump water through the basement rim joist into a buried 1.5-inch or 2-inch PVC or 4-inch corrugated pipe that terminates at a pop-up emitter in the yard.

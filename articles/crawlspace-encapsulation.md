@@ -17,15 +17,15 @@
 
 ---
 
-## The Sub-Floor Psychrometric Trap: Why Vented Crawlspaces Rot Joists Across the Midwest
+## Sub-Floor Condensation Mechanics: Why Vented Crawlspaces Rot Joists Across the Midwest
 
-For decades, municipal residential building codes mandated open foundation vents under the flawed assumption that outdoor cross-ventilation would dry out crawlspaces. Across the Midwest—from the humid summer river valleys of the Ohio and Missouri Rivers to the lake-effect belts—this practice has produced catastrophic moisture failures in hundreds of thousands of residential subfloors.
+For decades, municipal residential building codes mandated open foundation vents under the flawed assumption that outdoor cross-ventilation would dry out crawlspaces. Across the Midwest (from the humid river valleys of the Ohio and Missouri Rivers to the lake-effect belts), this practice has produced catastrophic moisture failures in hundreds of thousands of residential subfloors.
 
-When outdoor air at 88°F and 75% relative humidity (dew point: 79°F) enters foundation vents and contacts earth-cooled floor joists and subfloors sitting at 62°F to 65°F, psychrometric physics forces immediate bulk condensation. Fiberglass batt insulation installed between floor joists absorbs this moisture like a sponge, pulling away from subfloors, fostering toxic mold colonies, and driving subfloor moisture content above 25%—the critical rot threshold for structural wood framing.
+When outdoor air at 88°F and 75% relative humidity (dew point: 79°F) enters foundation vents and contacts earth-cooled floor joists and subfloors sitting at 62°F to 65°F, psychrometric physics forces immediate bulk condensation. Fiberglass batt insulation installed between floor joists absorbs this moisture like a sponge, pulling away from subfloors, fostering toxic mold colonies, and driving subfloor moisture content above 25%, the critical rot threshold for structural wood framing.
 
-## The Psychrometric Trap of Summer Crawlspace Venting
+## Summer Crawlspace Condensation: How Humid Outdoor Air Rots Cool Subfloors
 
-The physics of crawlspace moisture failure is governed by **psychrometrics**—the thermodynamic relationship between air temperature, absolute moisture content, and relative humidity (RH).
+The physics of crawlspace moisture failure is governed by **psychrometrics** (the relationship between air temperature, absolute moisture content, and relative humidity).
 
 > ### Summer Condensation Dynamics in Open Vented Crawlspaces
 >
@@ -42,7 +42,7 @@ For every **20°F drop in dry-bulb temperature**, the relative humidity of the a
 
 If outdoor air at 88°F and 84% RH enters a crawlspace and cools to 62°F, it crosses its **76°F dew point**. The air reaches 100% saturation, and the excess water vapor condenses out of the air onto every cold surface.
 
-An open-vented crawlspace in the Midwest functions as an **industrial dehumidifier working in reverse**—constantly extracting moisture from outdoor summer air and depositing gallons of liquid water onto the structural wood framing of the home.
+An open-vented crawlspace in the Midwest functions like an industrial dehumidifier running in reverse, continuously pulling moisture from humid outdoor air and depositing gallons of water onto structural wood framing.
 
 ---
 

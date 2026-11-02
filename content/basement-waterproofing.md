@@ -21,7 +21,7 @@ referralHook: "Basement Waterproofing & Sump Pump Drainage Match"
 > **Quick Summary:** In the Midwest, residential foundations are carved into dense glacial till and expansive smectite clay. When a home is excavated, the loose soil pushed back against the foundation forms an artificial underground sponge known as the "clay bowl." During torrential spring rains or rapid snowmelts, this backfill zone saturates rapidly, generating upwards of 500 pounds per square foot of hydrostatic head pressure that drives bulk water through cold joints and wall cracks. Even where walls remain visually dry, concrete slabs act as capillary wicks, transmitting hundreds of pounds of invisible moisture vapor into finished living spaces. Preventing catastrophic basement flooding and protecting finished flooring requires active hydrostatic relief paired with an indestructible ASTM E1745 Class A puncture-rated under-slab vapor barrier.
 >
 > - **The "Clay Bowl" Funnel:** Disturbed backfill around a foundation settles with 25% to 35% higher porosity than dense virgin soil, funneling surface runoff straight down foundation walls rather than letting it shed across the yard.
-> - **The 500 PSF Hydrostatic Wedge:** Water pooling against an 8-foot foundation exerts 62.4 lbs/cu.ft of hydrostatic pressure, driving groundwater inward through the cove joint—the cold seam between the footing and the floor slab.
+> - **The 500 PSF Hydrostatic Wedge:** Water pooling against an 8-foot foundation exerts 62.4 lbs/cu.ft of hydrostatic pressure, driving groundwater inward through the cove joint, the cold seam between the footing and the floor slab.
 > - **The 6-Mil Poly Shredding Failure:** Cheap recycled 6-mil polyethylene sheet plastic (< 300g puncture resistance) is punctured hundreds of times during construction by workers walking on sharp 3/4-inch crushed stone and rebar, destroying vapor retarder integrity before concrete cures.
 > - **ASTM E1745 Class A Specification:** True subterranean vapor protection requires a 15-mil virgin polyolefin resin barrier with a puncture rating exceeding 2,200 grams and water vapor permeance below 0.01 perms, fully taped and sealed to the foundation stem walls.
 
@@ -34,7 +34,7 @@ During torrential spring downpours or rapid seasonal snowmelts, homeowners acros
 ### The Immediate Visual Symptoms
 1. **The Floor-Wall Seep (The Cove Joint):** Water oozes upward along the seam where the concrete floor slab meets the exterior foundation wall. It runs beneath baseboards, saturating carpets and cupping vinyl planks without a single crack visible in the upper concrete wall.
 2. **Squishing Under Finished Flooring:** Stepping onto basement flooring produces a squishing sound as trapped groundwater is forced up through click-lock seams, carrying dissolved alkaline salts (white powdery efflorescence) across the floor.
-3. **The Sump Pit Paradox:** The primary sump pit sits dry while water pools 20 feet away on the far side of the basement. The sub-slab water table has crested, but localized hydrostatic pressure cannot reach the sump basin because the footing drainage path is crushed, silt-clogged, or non-existent.
+3. **Dry Sump Pit While the Floor Floods:** Water pools 20 feet away on the far side of the basement while the sump basin sits completely dry. Localized groundwater cannot reach the sump pit because the exterior footing tile is crushed, silt-clogged, or missing entirely.
 
 This failure is not a roof or gutter mystery. It is the direct physical consequence of **hydrostatic head pressure** pooling in the excavated "clay bowl" around your foundation, combined with groundwater migrating upward through porous concrete cold seams.
 
@@ -73,7 +73,7 @@ $$P_{base} = 62.4 \times 8 = 499.2 \text{ lbs/sq.ft (3.47 psi)}$$
 
 While 3.5 psi sounds small, across an 8-foot by 40-foot foundation wall, that represents **nearly 160,000 pounds of lateral hydrostatic force** pressing against the concrete. 
 
-Water under 500 lbs/sq.ft of pressure will exploit the smallest microscopic pathway. The primary failure point is the **cove joint**—the cold joint where the horizontal floor slab was poured against the vertical foundation footing. Because concrete does not chemically bond across separate pours, the cove joint acts as an open seam, allowing pressurized groundwater to jet straight into the basement interior.
+Water under 500 lbs/sq.ft of pressure will exploit the smallest microscopic pathway. The primary failure point is the **cove joint**, the cold joint where the horizontal floor slab meets the vertical foundation footing. Because concrete does not chemically bond across separate pours, the cove joint acts as an open seam, allowing pressurized groundwater to jet straight into the basement interior.
 
 ---
 
@@ -117,7 +117,7 @@ Generic 6-mil poly is manufactured from post-industrial recycled resins containi
 
 Walking on sharp gravel puncturing through 6-mil poly generates over **50 to 100 puncture holes per 1,000 square feet**.
 
-Furthermore, research by the American Concrete Institute (ACI Committee 302) shows that recycled polyethylene undergoes chemical degradation in the highly alkaline pore solution ($pH \approx 13$) of wet Portland cement. Within 5 to 8 years, cheap 6-mil poly breaks down, becoming brittle, cracked, and completely ineffective as a vapor barrier.
+Additionally, research by the American Concrete Institute (ACI Committee 302) shows that recycled polyethylene undergoes chemical degradation in the highly alkaline pore solution ($pH \approx 13$) of wet Portland cement. Within 5 to 8 years, cheap 6-mil poly breaks down, becoming brittle, cracked, and completely ineffective as a vapor barrier.
 
 ---
 

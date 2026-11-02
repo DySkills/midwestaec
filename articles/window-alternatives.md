@@ -23,8 +23,8 @@ Homeowners living in classic bungalows, Victorians, and mid-century homes across
 
 ### 1. The 80/10 Rule of Window Physics
 Extensive field testing by the Pacific Northwest National Laboratory (PNNL) proves that homeowners do not need to spend five figures to achieve thermal comfort:
-- **80% Performance at 10% Cost:** Adding an engineered, AERC-rated Low-E storm window over an existing single-pane window drops the overall assembly U-factor from U-1.10 down to **U-0.30 to U-0.34**—virtually identical to brand-new $1,000 double-pane vinyl replacement windows.
-- **The Capital Differential:** Equipping 20 windows with Low-E exterior storm windows costs **$3,600 to $5,800 installed**—compared to **$22,000 to $32,000** for full-frame window replacements.
+- **80% Performance at 10% Cost:** Adding an engineered, AERC-rated Low-E storm window over an existing single-pane window drops the overall assembly U-factor from U-1.10 down to **U-0.30 to U-0.34**, virtually identical to brand-new $1,000 double-pane vinyl replacement windows.
+- **Capital Differential:** Equipping 20 windows with Low-E exterior storm windows costs **$3,600 to $5,800 installed**, compared to **$22,000 to $32,000** for full-frame window replacements.
 - **Preservation of Old-Growth Lumber:** Original pre-1950s wood window frames were milled from dense, rot-resistant old-growth heartwood that will last another 100 years if maintained. Replacing them with hollow vinyl units discards irreplaceable architectural timber for plastic frames that warp and fail within 20 years.
 
 ---
@@ -32,13 +32,13 @@ Extensive field testing by the Pacific Northwest National Laboratory (PNNL) prov
 
 In building science, capital allocation should always follow the law of diminishing returns. Full-frame window replacement is the most expensive way to achieve marginal thermal improvement. 
 
-Unless your existing window frames are structurally rotted or mechanically inoperable, you do not have a glass problem—you have an air leakage and thermal emissivity problem. By targeting the perimeter framing gaps and adding a Low-E dead-air barrier, you capture 80% of replacement window performance for roughly 10% of the capital outlay.
+Unless your existing window frames are structurally rotted or mechanically inoperable, you do not have a glass problem, you have an air leakage and thermal emissivity problem. By targeting the perimeter framing gaps and adding a Low-E dead-air barrier, you capture 80% of replacement window performance for roughly 10% of the capital outlay.
 
 ---
 
 ## Stop the Draft Behind the Trim (Weight Pockets & Rough Openings)
 
-Most homeowners who complain about "drafty windows" assume cold air is passing straight through the window panes. In reality, the draft is entering around the perimeter of the window buck.
+Most homeowners who complain about "drafty windows" assume cold air is passing straight through the window panes. In most cases, cold drafts leak through unsealed gaps between the window frame and the rough opening.
 
 In pre-1960 Midwest homes, double-hung wood windows rely on cast-iron counterweights suspended inside hollow wall cavities on either side of the sash. These weight pockets act as open, uninsulated chimneys connected directly to freezing wall cavity air. 
 
@@ -98,7 +98,7 @@ Before spending tens of thousands of dollars gutting original windows in a class
 ### 2. How to Stop Drafts Behind the Trim (The Weight Pocket Secret)
 In pre-1950s double-hung windows, the cold draft felt by occupants rarely comes through the glass; it leaks around the wooden trim from open sash-weight pockets:
 - Behind the side casing lies a hollow 3-inch stud cavity holding heavy cast-iron counterbalance sash weights. This cavity connects directly to uninsulated exterior wall framing and basement air leaks.
-- **The $15 Fix:** Pop off the interior stop moulding or access pocket cover, remove the old cast-iron weights (replace with modern spiral or spring balances), and dense-pack the hollow cavity with rockwool or low-expansion spray foam. This eliminates over 70% of window draftiness without replacing a single piece of glass.
+- **$15 Fix:** Pop off the interior stop moulding or access pocket cover, remove the old cast-iron weights (replace with modern spiral or spring balances), and dense-pack the hollow cavity with rockwool or low-expansion spray foam. This eliminates over 70% of window draftiness without replacing a single piece of glass.
 
 ---
 

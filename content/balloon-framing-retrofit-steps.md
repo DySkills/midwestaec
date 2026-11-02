@@ -18,7 +18,7 @@ referralHook: "Historic Weatherization & Air Sealing Contractor Quote Match"
 
 # How to Firestop & Air-Seal Historic Balloon Framing: The Step-by-Step Retrofit
 
-> **Quick Summary:** Halting the severe stack-effect drafts and fire hazards inherent to pre-1940s balloon framing does not require tearing down interior plaster. By mechanically firestopping and air-sealing the two accessible terminal ends—the basement mud sill and the attic eaves—you permanently break the two-story convective chimney.
+> **Quick Summary:** Halting the severe stack-effect drafts and fire hazards inherent to pre-1940s balloon framing does not require tearing down interior plaster. By mechanically firestopping and air-sealing the two accessible terminal ends (the basement mud sill and attic eaves), you permanently break the two-story convective chimney.
 >
 > - **Execution Difficulty & Time:** Intermediate DIY or Professional Trade; 8 to 12 labor hours for an average 1,500 sq. ft. two-story home.
 > - **Primary Code & Safety Mandate:** IRC Section R302.11 / ASTM E136 non-combustible mechanical fireblocking; ASTM E814 intumescent perimeter air seal.
@@ -95,7 +95,7 @@ With the two open ends permanently blocked and firestopped, prepare the hollow c
 Retrofitting fireblocking into existing balloon-framed cavities requires strict adherence to fire safety codes (IRC Section R302.11 / ASTM E136):
 
 ### 1. Approved Material Specifications
-- **Fireblocking Insulation:** Mineral wool batts (Rockwool Safe'n'Silent or Thermafiber) with a minimum density of 2.5 lbs/cu.ft. Never use fiberglass batts for fireblocking—fiberglass melts at 1,100°F within minutes during a chimney fire, whereas mineral wool withstands temperatures above 2,150°F.
+- **Fireblocking Insulation:** Mineral wool batts (Rockwool Safe'n'Silent or Thermafiber) with a minimum density of 2.5 lbs/cu.ft. Never use fiberglass batts for fireblocking. Fiberglass melts at 1,100°F within minutes during a chimney fire, whereas mineral wool withstands temperatures above 2,150°F.
 - **Intumescent Fire Caulk:** ASTM E814 / UL 1479 certified intumescent acrylic caulk (red/gray) that expands up to 3x when exposed to intense heat, sealing microscopic gaps against flame passage.
 - **Solid Wood Blocking:** Minimum 2-inch nominal dimensional lumber (2x4 or 2x6) or structural wood-structural panels (minimum 23/32" plywood/OSB) fastened securely into studs.
 

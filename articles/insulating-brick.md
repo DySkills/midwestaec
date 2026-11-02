@@ -10,7 +10,7 @@
 
 > **Quick Summary:** Across Midwest urban centers from Chicago to St. Louis, millions of historic homes were constructed with multi-wythe solid mass brick walls rather than modern cavity drainage systems. These historic masonry assemblies rely on continuous interior waste heat to drive absorbed rainwater back outward into the atmosphere, keeping the porous clay brick above freezing temperatures during winter storms. Installing interior insulation stops that heat flow, plunging the exterior brick into deep sub-zero temperatures; if the moisture content exceeds the critical saturation threshold, freezing water expands by 9% and shatters the brick face in a failure mode known as spalling. Preserving the structural integrity of historic brick requires non-destructive absorption testing, breathable lime-mortar repointing, capillary breaks, and smart variable-permeance vapor retarders.
 >
-> - **The Waste-Heat Paradox:** Historic mass masonry survived a century of Midwest winters because uninsulated walls leaked 20% to 30% of household heat outward through the brick, preventing pore water from freezing during saturated wet-cold cycles.
+> - **The Waste-Heat Thermal Balance:** Historic mass masonry survived past winters because uninsulated walls leaked 20% to 30% of indoor heat outward through the brick, keeping pore water from freezing during saturated wet-cold cycles.
 > - **The Mechanics of Spalling:** Porous historic clay bricks absorb bulk rainwater via capillary suction. When interior insulation keeps the masonry cold, trapped water at critical saturation ($S_{crit} \ge 80\%$) freezes, generating hydrostatic pressures above 2,500 psi that shear off the brick faces.
 > - **Embedded Joist Pocket Decay:** Wood floor joists resting inside cold masonry pockets will rot rapidly if interior air is allowed to leak into the pocket, depositing condensation that cannot dry through cold, damp brick.
 > - **The Safe Hygrothermal Assembly:** Interior retrofits require a 1-inch capillary air gap or drainage mat, vapor-permeable mineral wool or dense-pack cellulose insulation, and an intelligent Class II smart vapor retarder that blocks winter interior humidity while permitting inward summer drying.
@@ -19,7 +19,7 @@
 
 ## Historic Multi-Wythe Masonry Physics: Why Interior Spray Foam Causes Freeze-Thaw Spalling
 
-Across historic Midwest urban centers—Chicago, St. Louis, Milwaukee, Detroit, and Minneapolis—hundreds of thousands of pre-1940 structures feature multi-wythe structural mass brick walls (typically 2 to 3 wythes of soft, low-fired common clay brick). When planning gut renovations, contractors frequently propose spraying 2 to 3 inches of closed-cell spray polyurethane foam directly onto the interior face of the brick to achieve an airtight R-13 to R-20 assembly.
+Across historic Midwest urban centers (Chicago, St. Louis, Milwaukee, Detroit, and Minneapolis), hundreds of thousands of pre-1940 structures feature multi-wythe structural mass brick walls (typically 2 to 3 wythes of soft, low-fired common clay brick). When planning gut renovations, contractors frequently propose spraying 2 to 3 inches of closed-cell spray polyurethane foam directly onto the interior face of the brick to achieve an airtight R-13 to R-20 assembly.
 
 Forensic masonry evaluations demonstrate why this approach causes catastrophic structural failure:
 1. **Starving the Brick of Indoor Waste Heat:** For over a century, historic brick envelopes survived sub-zero Midwest winters because escaping indoor heat maintained the brick temperature above 32°F, continually evaporating driving rain and moisture outward.
@@ -65,7 +65,7 @@ Historic clay bricks have an open capillary pore network. When the pores are par
 
 However, when winter rain or sleet drives the moisture content above the **Critical Degree of Saturation ($S_{crit} \approx 80\%$ to $88\%$)**, free pore space is eliminated. As ice nucleates from the exterior inward, the 9% volumetric expansion forces unfrozen liquid water ahead of the freezing front through microscopic pore capillaries. 
 
-The resulting hydraulic pressure obeys the Darcy-Weisbach capillary relation, generating internal stresses exceeding **2,500 psi (17.2 MPa)**. Because historic low-temperature clay brick possesses a tensile strength of only **400 to 800 psi (2.8 to 5.5 MPa)**, the internal ceramic bonds fracture. The outer brick face violently cleaves off in sheets—destroying the structural exterior and allowing bulk water to pour directly into the wall cavity.
+The resulting hydraulic pressure obeys the Darcy-Weisbach capillary relation, generating internal stresses exceeding **2,500 psi (17.2 MPa)**. Because historic low-temperature clay brick possesses a tensile strength of only **400 to 800 psi (2.8 to 5.5 MPa)**, the internal ceramic bonds fracture. The outer brick face violently cleaves off in sheets, destroying the structural exterior and allowing bulk water to pour directly into the wall cavity.
 
 | Wall Assembly Condition | Interior Living Temp | Interior Cavity / Back Wythe | Exterior Face Brick Temp | Outdoor Ambient | Hygrothermal Outcome |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -144,7 +144,7 @@ When evaluating historic mass masonry or high-temperature industrial brickwork, 
 
 - **Historic Porous Clay Brick:** Fired at lower kiln temperatures (1,600°F–1,800°F) in local Midwest brickyards, 19th-century bricks feature an open micro-capillary pore volume between 15% and 25%. While these open pores provide modest natural thermal resistance ($k \approx 0.60 \text{ to } 0.85 \text{ W/m}\cdot\text{K}$, functioning similarly to soft insulating brick), their high water absorption (12% to 22% by weight via ASTM C67) makes them acutely susceptible to freeze-thaw spalling when interior insulation is added.
 - **Refractory Insulation Brick (IFB):** Engineered lightweight clay insulating brick utilized in high-temperature flues and masonry fireplaces relies on artificially induced porous alumina-silica structures to minimize heat conduction ($k \le 0.25 \text{ W/m}\cdot\text{K}$).
-- **The Retrofit Rule:** Applying an interior **insulation brick** retrofit strategy to exterior mass masonry requires calculating the assembly's critical saturation ($S_{crit}$). If the clay brick's water absorption exceeds the critical limit, the exterior facade must be repointed with vapor-permeable lime mortar and shielded with generous roof overhangs before any interior insulation is installed.
+- **Retrofit Rule:** Applying an interior **insulation brick** retrofit strategy to exterior mass masonry requires calculating the assembly's critical saturation ($S_{crit}$). If the clay brick's water absorption exceeds the critical limit, the exterior facade must be repointed with vapor-permeable lime mortar and shielded with generous roof overhangs before any interior insulation is installed.
 
 ---
 

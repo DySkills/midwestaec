@@ -57,7 +57,7 @@ For decades, the standard architectural specification for below-slab insulation 
 
 XPS is marketed as having a high initial thermal resistance of **R-5.0 per inch** and a smooth, hydrophobic surface skin that appears completely waterproof.
 
-However, extensive multi-year building science field investigations—conducted by the **Oak Ridge National Laboratory (ORNL)** and independent forensics firms evaluating excavated slabs after 15 years in service—revealed a fundamental flaw in XPS subterranean physics:
+However, extensive multi-year building science field investigations (conducted by the **Oak Ridge National Laboratory (ORNL)** and independent forensics firms evaluating excavated slabs after 15 years in service) revealed a fundamental flaw in XPS subterranean physics:
 
 > ### Rim Joist Air Leak & Condensation Failure Mechanics
 >

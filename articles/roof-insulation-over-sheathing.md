@@ -10,7 +10,7 @@
 
 > **Quick Summary:** In homes with vaulted cathedral ceilings, finished third-floor attics, or mid-century post-and-beam architecture, shallow rafter bays cannot accommodate modern R-49 or R-60 insulation codes. Tearing down historic plaster, interior drywall, or finished tongue-and-groove wood planking is messy, disruptive, and cost-prohibitive. The premier opportunity to fix these thermal flaws permanently occurs during a scheduled roof replacement: installing continuous rigid insulation *above* the existing structural roof deck before laying new shingles.
 >
-> - **The 2x6 Rafter Limitation:** Standard 2x6 or 2x8 cathedral rafters hold only R-19 to R-25 cavity insulation—less than half of modern building code—while 2x wood rafters create direct thermal bridges across 15% of the roof surface.
+> - **The 2x6 Rafter Limitation:** Standard 2x6 or 2x8 cathedral rafters hold only R-19 to R-25 cavity insulation, less than half of modern building code, while 2x wood rafters create direct thermal bridges across 15% of the roof surface.
 > - **The Over-Deck "Hot Roof" Assembly:** Fastening two staggered layers of rigid polyisocyanurate (R-26) or high-density stone wool directly on top of the original roof deck wraps the building in an uninterrupted thermal envelope.
 > - **The Zone 5 Condensation Ratio (IRC R806.5):** In cold climates, code mandates that at least R-20 of rigid insulation sit above the structural deck if cavity insulation is used underneath, keeping the condensing surface above the 45°F dew point.
 > - **Structural Fastener Engineering:** Sandwiching four inches of rigid foam requires engineered structural timber screws (FastenMaster HeadLOK) driven into rafter centers to resist 115 MPH design wind uplift and downward snow loads.
@@ -24,7 +24,7 @@ When converting an unvented cathedral ceiling or installing rigid continuous foa
 ### 1. The Critical Outboard Dew-Point Ratio
 Building codes prohibit arbitrary foam thicknesses above a cathedral roof. If the outboard rigid foam is too thin:
 - Indoor water vapor migrating through rafter cavities contacts cold interior roof sheathing and condenses, rotting the deck within 3 to 5 years.
-- **The Mandated R-Value Split:** In northern cold climates, the continuous insulation *above* the roof deck must account for at least **R-15 to R-20 of the total assembly R-value** (e.g., minimum 3 to 4 inches of continuous polyiso over the deck). This guarantees that the structural roof decking remains above 45°F throughout the winter, completely eliminating the internal condensing plane.
+- **Mandated R-Value Split:** In northern cold climates, the continuous insulation *above* the roof deck must account for at least **R-15 to R-20 of the total assembly R-value** (e.g., minimum 3 to 4 inches of continuous polyiso over the deck). This guarantees that the structural roof decking remains above 45°F throughout the winter, completely eliminating the internal condensing plane.
 
 ---
 ## The Cathedral Ceiling Dilemma: Why Cavity-Only Framing Fails
@@ -34,7 +34,7 @@ Traditional residential roofs feature unconditioned attics where 18 to 20 inches
 This presents three severe physical limitations in Midwest Climate Zones 4, 5, and 6:
 
 - **Physical Depth Starvation:** A standard 2x6 rafter has an actual depth of only 5.5 inches; a 2x8 rafter measures 7.25 inches. Fitting modern code-compliant insulation (requiring R-49 to R-60, or roughly 14 to 18 inches of depth) into a 6-inch cavity is physically impossible. An R-19 fiberglass batt fills the bay completely, leaving zero space for the mandatory 1-inch ventilation air channel between the insulation and roof sheathing.
-- **The Blocked Venting Nightmare:** When fiberglass batts touch the underside of cold plywood sheathing in winter, warm interior vapor condenses against the wood. Without continuous airflow from soffit to ridge, moisture cannot escape. Within a decade, roof sheathing delaminates, mold proliferates, and structural rafter tails rot.
+- **Blocked Venting Nightmare:** When fiberglass batts touch the underside of cold plywood sheathing in winter, warm interior vapor condenses against the wood. Without continuous airflow from soffit to ridge, moisture cannot escape. Within a decade, roof sheathing delaminates, mold proliferates, and structural rafter tails rot.
 - **Severe Framing Thermal Bridging:** Solid lumber has an insulating value of only R-1.2 per inch. In a vaulted ceiling framed 16 inches on center, the wood rafters account for **12% to 15% of the total ceiling surface area**. In sub-zero weather, every rafter acts as a conductive cooling fin, pulling heat directly out of the living space and melting rooftop snow in distinct parallel stripes that trigger ice dams.
 
 ---
@@ -90,7 +90,7 @@ To prevent this, the code mandates a minimum ratio of exterior continuous rigid 
 
 *Reference: 2024 International Residential Code (IRC), Section R806.5 ("Unvented Attic and Unvented Enclosed Rafter Assemblies").*
 
-In cathedral ceilings where the rafters are completely exposed (such as timber-frame or post-and-beam construction), **100% of the insulation is outboard**. Installing two layers of 2.5-inch polyiso delivers R-32.5 entirely above the deck. Because there is zero insulation below the deck, the structural wood sheathing remains at roughly 65°F to 68°F year-round—completely eliminating any physical possibility of winter condensation rot.
+In cathedral ceilings where the rafters are completely exposed (such as timber-frame or post-and-beam construction), **100% of the insulation is outboard**. Installing two layers of 2.5-inch polyiso delivers R-32.5 entirely above the deck. Because there is zero insulation below the deck, the structural wood sheathing remains at roughly 65°F to 68°F year-round, completely eliminating any physical possibility of winter condensation rot.
 
 ---
 

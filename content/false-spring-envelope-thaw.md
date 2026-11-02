@@ -18,12 +18,12 @@ referralHook: "Attic Air Sealing & Envelope Insulation Quote Match"
 
 # The False Spring Thaw: Why Your Attic Rains, Your Basement Sweats, and Your Winter Bills Spiked
 
-> **Quick Summary:** Every mid-February across the Midwest and Great Lakes region, the Midwest experiences its notorious "false spring"—a sudden, deceptive 48-hour warm front where sub-zero polar air gives way to 50°F sunshine and melting snowpack. Within hours of the thaw, thousands of homeowners discover mysterious water dripping through hallway ceilings, musty condensation pooling beneath basement luxury vinyl plank (LVP) flooring, and staggering gas and electric bills in their mailboxes. These are not roof shingle failures or furnace breakdowns; they are the visible forensic byproducts of convective stack-effect air bypasses and subterranean vapor drive.
+> **Quick Summary:** Every mid-February across the Midwest and Great Lakes region, the Midwest experiences its notorious "false spring," a sudden 48-hour warm front where sub-zero air gives way to 50°F sunshine and rapid snowmelt. Within hours of the thaw, thousands of homeowners discover mysterious water dripping through hallway ceilings, musty condensation pooling beneath basement luxury vinyl plank (LVP) flooring, and staggering gas and electric bills in their mailboxes. These are not roof shingle failures or furnace breakdowns; they are the visible forensic byproducts of convective stack-effect air bypasses and subterranean vapor drive.
 >
 > - **The "Raining Attic" Phenomenon:** Weeks of sub-zero winter temperatures turn unsealed attics into industrial freezers. Warm, humid indoor air escaping through can lights and top plates freezes into thick hoarfrost on the underside of roof sheathing. When false spring sunlight warms the shingles, that frost melts instantaneously, raining down through insulation and ceiling drywall.
 > - **The Cold Slab Condensation Trap:** Soil temperatures lag ambient air by four to six weeks. While outdoor air surges to 55°F, below-grade concrete slabs remain locked at 38°F. Warm, humid air meeting cold concrete creates instant condensation beneath "100% waterproof" flooring, trapping moisture and buckling click-lock seams.
 > - **The Utility Bill Autopsy:** A spike in January heating costs is rarely an inefficient furnace. It is the physics of the stack effect: buoyant warm air exfiltrating through the ceiling pulls freezing air across the rim joists at 150+ cubic feet per minute.
-> - **The "House Needs to Breathe" Fallacy:** Houses do not need to breathe—people do. Uncontrolled air leaks are not ventilation; they are moisture transport corridors that rot framing. The true cure is building an airtight ceiling plane paired with balanced mechanical ventilation (ERV/HRV).
+> - **The "House Needs to Breathe" Fallacy:** Houses do not need to breathe, people do. Uncontrolled air leaks are not ventilation; they are moisture transport corridors that rot framing. The true cure is building an airtight ceiling plane paired with balanced mechanical ventilation (ERV/HRV).
 
 ---
 
@@ -32,8 +32,8 @@ referralHook: "Attic Air Sealing & Envelope Insulation Quote Match"
 In late winter, weather across the Great Lakes and Northern Plains frequently swings from 5°F to 45°F within 36 hours. Under bright sunshine, this rapid temperature spike triggers immediate building envelope distress:
 
 ### 1. Active Failure Symptoms
-- **The "Raining Attic" Phenomenon:** Water drips from ceiling recessed can lights, bathroom exhaust grilles, and smoke detectors on sunny 40°F days when there has been zero rain.
-- **The Sweating Basement Slab:** Finished basement floors become slick with condensation, and click-lock flooring squishes underfoot as humid warm air contacts deep-soil chilled concrete.
+- **"Raining Attic" Phenomenon:** Water drips from ceiling recessed can lights, bathroom exhaust grilles, and smoke detectors on sunny 40°F days when there has been zero rain.
+- **Sweating Basement Slab:** Finished basement floors become slick with condensation, and click-lock flooring squishes underfoot as humid warm air contacts deep-soil chilled concrete.
 - **Ice Dam Wall Flooding:** Sun-melted snowpack flows into frozen eave dams, backing liquid water up past the roof perimeter membrane into exterior wall cavities.
 
 ### 2. Immediate Diagnostic Triage: Roof Defect vs. Melting Hoarfrost
@@ -61,7 +61,7 @@ Warm air is buoyant. Driven by convective stack effect pressure, that warm, mois
 * The unsealed seams along interior partition top plates.
 * The unlatched attic pull-down staircase.
 
-As this warm, moist air leaks into the freezing attic, it immediately strikes the sub-zero OSB roof sheathing. Because the sheathing temperature is far below the dew point—and far below freezing—the water vapor does not even condense into liquid; it undergoes **desublimation**, instantly turning into crystalline hoarfrost.
+As this warm, moist air leaks into the freezing attic, it immediately strikes the sub-zero OSB roof sheathing. Because the sheathing temperature is far below the dew point, and far below freezing, the water vapor does not even condense into liquid; it undergoes **desublimation**, instantly turning into crystalline hoarfrost.
 
 Over six to eight weeks of continuous winter heating, that frost accumulates into a dense, sparkling blanket of white ice, often 1/4-inch to 1/2-inch thick, covering the entire underside of the roof deck. It is an invisible snow cave directly above your bedrooms.
 
@@ -93,7 +93,7 @@ Air temperature can change by 40 degrees in twelve hours. Earth cannot.
 
 The soil beneath a Midwest basement foundation wall and floor slab has been absorbing months of sub-freezing surface cold down through the 36-to-48-inch frost line. In mid-February, while the outdoor air feels like spring at 55°F, the earth beneath the basement floor slab remains locked between **38°F and 44°F**. The concrete slab acts as a giant, freezing thermal battery.
 
-When the false spring arrives, it brings warm, humid air with it. As that warm air enters the basement—either through open windows, foundation draft leaks, or the home's mechanical system—it carries an elevated dew point of 48°F.
+When the false spring arrives, it brings warm, humid air with it. As that warm air enters the basement, either through open windows, foundation draft leaks, or the home's mechanical system, it carries an elevated dew point of 48°F.
 
 When 48°F dew-point air comes into direct contact with a 40°F concrete slab, the physical outcome is absolute: **condensation forms instantaneously on the concrete face.** The floor begins to "sweat."
 
@@ -125,7 +125,7 @@ The immediate reaction is to blame the utility company or assume the heating equ
 While modern variable-speed equipment delivers genuine efficiency, upgrading a furnace inside a leaky building envelope is the thermodynamic equivalent of installing a high-efficiency outboard motor on a boat with a three-foot hole in the hull.
 
 ### The Stack Effect Autopsy
-In a typical two-story Midwestern home during a 10°F cold snap, the driving force behind high utility bills is not conductive loss through the walls—it is **convective air exchange driven by the Stack Effect.**
+In a typical two-story Midwestern home during a 10°F cold snap, the driving force behind high utility bills is not conductive loss through the walls, it is **convective air exchange driven by the Stack Effect.**
 
 Because warm air is less dense than cold air, the heated air inside your living room acts like a hot-air balloon, exerting an upward buoyant pressure against the second-floor ceiling plane. 
 
@@ -144,7 +144,7 @@ Your furnace is not struggling because its burners are worn out. It is strugglin
 
 ## 4. The Myth-Buster: "Doesn't an Old House Need to Breathe?"
 
-Whenever a building science specialist advises a homeowner to aggressively air-seal their attic and rim joists, someone—usually a well-meaning neighbor or a traditional handyman—will offer the classic warning:
+Whenever a building science specialist advises a homeowner to aggressively air-seal their attic and rim joists, someone, usually a well-meaning neighbor or a traditional handyman, will offer the classic warning:
 
 > *"Be careful. An old house needs to breathe. If you seal it up too tight, you'll trap moisture and rot the walls."*
 
@@ -182,7 +182,7 @@ On the first afternoon when temperatures climb above 40°F:
 * Put on an N95 respirator, grab a high-lumen flashlight, and look into your attic hatch.
 * Shine the beam across the underside of the plywood or OSB roof sheathing.
 * **What you are looking for:** Are the roofing nails dripping with water? Is the sheathing dark, wet, or discolored? Do you see white crystalline frost melting near the ridge vent?
-* If yes, you do not have a roofing shingle leak—you have an attic air bypass problem that requires air-sealing before next winter.
+* If yes, you do not have a roofing shingle leak, you have an attic air bypass problem that requires air-sealing before next winter.
 
 ### Step 2: Check the Basement Cove Joint and Floor Perimeter
 * Inspect the intersection where the concrete basement floor slab meets the foundation wall (the cold cove joint).

@@ -22,8 +22,8 @@
 Under the International Energy Conservation Code (IECC Section R402.4), municipal building inspectors across the Great Lakes and Northern Plains mandate a certified third-party **blower door test** prior to issuing a Certificate of Occupancy:
 
 ### 1. The 3.0 ACH50 Pass/Fail Line
-- **The Legal Limit:** In cold northern climates, whole-house air leakage must not exceed **3.0 Air Changes per Hour at 50 Pascals pressure (3.0 ACH50)**.
-- **The Financial Consequence of Failure:** If a newly framed home or substantial remodel tests at 3.2 or 4.0 ACH50, building departments will **red-tag the project**. You cannot close on your construction loan, and contractors must spend thousands of dollars hunting and sealing concealed leaks behind finished drywall.
+- **Legal Limit:** In cold northern climates, whole-house air leakage must not exceed **3.0 Air Changes per Hour at 50 Pascals pressure (3.0 ACH50)**.
+- **Financial Consequence of Failure:** If a newly framed home or substantial remodel tests at 3.2 or 4.0 ACH50, building departments will **red-tag the project**. You cannot close on your construction loan, and contractors must spend thousands of dollars hunting and sealing concealed leaks behind finished drywall.
 
 ### 2. Why Code Minimum Still Fails
 While 3.0 ACH50 satisfies minimum legal code, building scientists recommend targeting **1.5 to 2.0 ACH50** on modern builds:
@@ -80,7 +80,7 @@ To guarantee passing below 3.0 ACH50 on the first blower door test, general cont
 ### Detail 1: The Foundation Rim Joist & Sill Plate Connection
 The mudsill resting on top of a concrete foundation is never flat; irregular concrete leaves a continuous 1/8-inch to 1/4-inch gap around the entire building perimeter.
 - **Specification:** Install closed-cell EPDM sill sealer foam under the mud sill during framing. 
-- **The Rim Joist Seal:** In the basement or crawlspace, apply a minimum of 2 inches of closed-cell spray foam (2.0 lb/cu.ft) over the rim joist, covering the top of the concrete, the mudsill, the rim board, and the subfloor above. Alternatively, friction-fit 2-inch foil-faced polyisocyanurate board and seal the perimeter of each joist bay with expanding polyurethane foam.
+- **Rim Joist Seal:** In the basement or crawlspace, apply a minimum of 2 inches of closed-cell spray foam (2.0 lb/cu.ft) over the rim joist, covering the top of the concrete, the mudsill, the rim board, and the subfloor above. Alternatively, friction-fit 2-inch foil-faced polyisocyanurate board and seal the perimeter of each joist bay with expanding polyurethane foam.
 
 ### Detail 2: Top-Plate Electrical & Plumbing Wire Holes
 Electricians and plumbers drill dozens of 3/4-inch to 1-1/2-inch holes through interior and exterior 2x4 top plates to route Romex wiring and vent stacks into the unconditioned attic.
@@ -120,7 +120,7 @@ The single greatest operational error builders make is waiting until the buildin
 
 For extensive historic home renovations where wall cavities are concealed and framing cannot be fully stripped, manual air sealing often reaches a practical plateau of 3.8 to 4.5 ACH50.
 
-In these challenging assemblies, builders utilize **AeroBarrier**—an automated aerosolized acrylic sealant system:
+In these challenging assemblies, builders utilize **AeroBarrier**, an automated aerosolized acrylic sealant system:
 
 > ### How Aerosolized Air-Sealing Operates (AeroBarrier Process)
 > 1. The building is pressurized using a calibrated blower door fan.

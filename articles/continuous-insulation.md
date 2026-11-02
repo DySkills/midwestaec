@@ -41,7 +41,7 @@ Every 16 inches along your wall, you have a solid wood highway connecting 70°F 
 
 ## Dew Point Physics: Why Outboard Insulation Prevents Rot
 
-The most dangerous consequence of cavity-only insulation in Midwest winters is not heat loss—it is structural moisture condensation.
+The most dangerous consequence of cavity-only insulation in Midwest winters is not heat loss, it is structural moisture condensation.
 
 Indoor winter air at 70°F and 35% relative humidity carries a dew point of approximately 41°F. When indoor humidity naturally migrates through drywall, electrical outlets, and framing joints, it travels outward toward the cold exterior sheathing.
 

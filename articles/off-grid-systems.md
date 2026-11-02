@@ -26,7 +26,7 @@ Engineering an off-grid residential homestead in the Upper Midwest and Northern 
 
 ## Propane Thermodynamics: Sizing for -20°F Vaporization Rates
 
-Liquid propane (LPG) stored in outdoor steel tanks is not stored as a pressurized gas—it is a boiling liquid resting under its own vapor pressure. At atmospheric pressure, liquid propane boils into vapor at -44°F (-42°C).
+Liquid propane (LPG) stored in outdoor steel tanks is not stored as a pressurized gas, it is a boiling liquid resting under its own vapor pressure. At atmospheric pressure, liquid propane boils into vapor at -44°F (-42°C).
 
 To boil from liquid into gas that flows to your furnace, propane must absorb thermal energy from the outdoor air through the steel walls of the tank:
 
@@ -58,7 +58,7 @@ Modern off-grid and hybrid solar installations have transitioned from flooded le
 However, lithium batteries possess an unforgiving physical limitation in cold climates: **they cannot be charged below 32°F (0°C).**
 
 ### The Physics of Lithium Plating
-Attempting to force charging current into a lithium-ion cell below freezing causes dissolved lithium ions to accumulate on the surface of the carbon anode as solid metallic lithium, rather than safely intercalating into the graphite structure. This phenomenon—known as **lithium plating**—permanently degrades battery capacity, increases internal resistance, and can grow microscopic metallic dendrites that puncture the separator, creating catastrophic internal short circuits.
+Attempting to force charging current into a lithium-ion cell below freezing causes dissolved lithium ions to accumulate on the surface of the carbon anode as solid metallic lithium, rather than safely intercalating into the graphite structure. This phenomenon, known as **lithium plating**, permanently degrades battery capacity, increases internal resistance, and can grow microscopic metallic dendrites that short out cells internally.
 
 To protect the cells, every certified Battery Management System (BMS) incorporates a low-temperature sensor that automatically shuts off the charging relay whenever cell temperatures fall below 32°F. 
 
@@ -87,7 +87,7 @@ If an off-grid homeowner connects a standard 6,000-watt inverter or an 8 kW port
 > | **Without Soft-Starter (Hard Start)** | Direct across-the-line inrush surge | Inrush spikes to **50A (12,000W)**; voltage sags and inverter/generator trips |
 > | **With Solid-State Soft-Starter** | Controlled frequency & voltage ramp | Inrush capped at **15A (3,600W)**; voltage remains stable for seamless water delivery |
 
-- **The Soft-Start Solution:** Install an advanced solid-state motor soft-starter (such as a Micro-Air or Hyper-Engineering module) inside the well pump control box. The soft-starter ramps voltage smoothly over 300 to 500 milliseconds, slashing peak inrush current by **60% to 70%** (capping the start spike at under 15 amps). This allows a modest 6 kW inverter or generator to start the deep well pump seamlessly without flickering household lights or stalling the engine.
+- **Soft-Start Solution:** Install an advanced solid-state motor soft-starter (such as a Micro-Air or Hyper-Engineering module) inside the well pump control box. The soft-starter ramps voltage smoothly over 300 to 500 milliseconds, slashing peak inrush current by **60% to 70%** (capping the start spike at under 15 amps). This allows a modest 6 kW inverter or generator to start the deep well pump seamlessly without flickering household lights or stalling the engine.
 
 ---
 

@@ -966,7 +966,7 @@ var miaecData = [
   },
   {
     "title": "How to Know If You Need an ICF Basement: The 6-Point Inspection Checklist & When to Retrofit",
-    "subtitle": "Grab a flashlight and a weighted string. Here is the homeowner diagnostic checklist for identifying foundation deflection, cold thermal bridging, and hydrostatic pressure—plus when to upgrade to Insulated Concrete Forms.",
+    "subtitle": "Grab a flashlight and a weighted string. Here is the homeowner diagnostic checklist for identifying foundation deflection, cold thermal bridging, and hydrostatic pressure, plus when to upgrade to Insulated Concrete Forms.",
     "format": "Report",
     "leadType": "Fact-First",
     "category": "Water Barriers",
@@ -1164,8 +1164,8 @@ var miaecData = [
     "url": "articles/off-grid-systems.html"
   },
   {
-    "title": "The Midwest Rammed Earth Paradox: Thermal Mass, Freeze-Thaw Spalling & The Sub-Slab Flooring Matrix",
-    "subtitle": "Compact soil promises zero-carbon beauty, but in the Midwest and Great Lakes region, raw earth faces brutal freeze-thaw cycles and severe thermal bridging. Here is the forensic physics of when earthen construction works—and when it fails.",
+    "title": "Rammed Earth in the Midwest: Thermal Mass, Freeze-Thaw Spalling & Sub-Slab Flooring Specs",
+    "subtitle": "Compact soil promises zero-carbon beauty, but in the Midwest and Great Lakes region, raw earth faces brutal freeze-thaw cycles and severe thermal bridging. Here is the forensic physics of when earthen construction works, and when it fails.",
     "format": "Feature",
     "leadType": "Descriptive",
     "category": "Envelope",

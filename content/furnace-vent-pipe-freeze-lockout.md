@@ -37,7 +37,7 @@ Behind the lower service door, the integrated control board blinks a steady diag
 
 The homeowner assumes a catastrophic control failure, fearing a cracked primary heat exchanger or a seized draft motor. But the equipment is functioning exactly as engineered. Outside on the north foundation wall, two 2-inch PVC pipes emerge from the rim joist into a 3-foot snowdrift. 
 
-The exhaust discharge pipe is capped with a hollow stalactite of frozen condensate, while the curved intake snorkel is completely packed with wind-blown crystalline snow. The furnace is suffocating on its own latent moisture, and the internal safety circuit is protecting the occupants from fatal carbon monoxide poisoning.
+The exhaust discharge pipe is capped with a hollow stalactite of frozen condensate, while the curved intake snorkel is completely packed with wind-blown crystalline snow. The furnace is choked by frozen exhaust condensate, and the internal safety switch locks out the burner to prevent carbon monoxide backup into the home.
 
 ---
 
@@ -80,7 +80,7 @@ For every 100,000 BTUs of natural gas consumed, approximately 1 gallon of liquid
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
-When outdoor ambient air hits -10°F or lower with high wind velocity, the exhaust plume—which is 100% moisture-saturated—hits freezing ambient air the instant it leaves the pipe. If the termination lacks an internal taper or proper clearance, vapor condenses onto the lip of the PVC, building rime ice inward until the 2-inch or 3-inch orifice is completely choked.
+When outdoor ambient air hits -10°F or lower with high wind velocity, the exhaust plume, which is 100% moisture-saturated, hits freezing ambient air the instant it leaves the pipe. If the termination lacks an internal taper or proper clearance, vapor condenses onto the lip of the PVC, building rime ice inward until the 2-inch or 3-inch orifice is completely choked.
 
 ---
 

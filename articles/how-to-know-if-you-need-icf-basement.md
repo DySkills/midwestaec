@@ -8,7 +8,7 @@
 
 # How to Know If You Need an ICF Basement: The 6-Point Inspection Checklist & When to Retrofit
 
-> **Quick Summary:** Homeowners across the Midwest frequently struggle with cold, damp, or cracking basements without knowing whether they need minor waterproofing repairs or a comprehensive structural upgrade. Using simple household tools—a high-lumen flashlight and a plumb line made from string and a metal washer—you can inspect your foundation for the six physical warning signs of structural deflection, thermal failure, and capillary moisture drive. Understanding these symptoms reveals whether Insulated Concrete Forms (ICF) are the right solution for your upcoming addition, walkout remodel, or full foundation restoration.
+> **Quick Summary:** Homeowners across the Midwest frequently struggle with cold, damp, or cracking basements without knowing whether they need minor waterproofing repairs or a comprehensive structural upgrade. Using simple household tools, a high-lumen flashlight and a plumb line made from string and a metal washer, you can inspect your foundation for the six physical warning signs of structural deflection, thermal failure, and capillary moisture drive. Understanding these symptoms reveals whether Insulated Concrete Forms (ICF) are the right solution for your upcoming addition, walkout remodel, or full foundation restoration.
 >
 > - **The Plumb Line Test:** A simple string tied to a ceiling joist with a heavy nut or washer detects inward wall bowing caused by expanding Midwest clay soil.
 > - **Thermal Sink Identification:** Uninsulated 8-inch concrete acts as a permanent 50°F cold sink that drains heating energy and triggers interior condensation.
@@ -187,7 +187,7 @@ Connect with building-science trained, licensed, and insured foundation contract
 ---
 
 ### Related Building Science Guides
-- **The Engineering Deep-Dive:** &rarr; **[Read: ICF (Insulated Concrete Forms) for Midwest Basements: Eliminating Moisture & Freezing Walls](icf-basements-walls.html)**
+- **Engineering Deep-Dive:** &rarr; **[Read: ICF (Insulated Concrete Forms) for Midwest Basements: Eliminating Moisture & Freezing Walls](icf-basements-walls.html)**
 - **Water Management Physics:** &rarr; **[Read: Basement Waterproofing in Midwest Clay: Interior Drain Tile vs. Exterior Excavation](basement-waterproofing.html)**
 - **Code-Compliant Living Space:** &rarr; **[Read: Legal Basement Finishing: Cutting Egress Windows in Poured Concrete, IRC R310 Codes & Slab Framing](basement-egress-window-cutting.html)**
 - **Thermal Slabs:** &rarr; **[Read: Below-Slab and Rim Joist Foam Spec: Stopping Frost-Heave and Basement Heat Loss](sub-slab-insulation-specs.html)**

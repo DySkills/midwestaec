@@ -8,7 +8,7 @@
 
 # Balloon Framing Air Leaks: How to Firestop and Seal the Chimney Effect in Pre-1940s Homes
 
-> **Quick Summary:** Unlike modern platform framing where floor decks cap and seal the walls beneath them, millions of pre-WWII two-story homes across the Midwest were constructed using balloon framing—where exterior wall studs run uninterrupted from the stone foundation sill all the way to the roof rafters. These unblocked vertical stud cavities act as open flues, creating a massive thermal chimney that draws freezing basement air directly into second-floor living spaces while venting heated air into the attic. Blocking these cavities with non-combustible materials permanently halts winter drafts while restoring vital building-code fire protection.
+> **Quick Summary:** Unlike modern platform framing where floor decks cap and seal the walls beneath them, millions of pre-WWII two-story homes across the Midwest were constructed using balloon framing, where exterior wall studs run uninterrupted from the foundation sill to the roof rafters. These unblocked vertical stud cavities act as open flues, creating a massive thermal chimney that draws freezing basement air directly into second-floor living spaces while venting heated air into the attic. Blocking these cavities with non-combustible materials permanently halts winter drafts while restoring vital building-code fire protection.
 >
 > - **The 24-Foot Open Flue:** In balloon framing, second-floor joists rest on a notched 1x4 ledger ribbon, leaving a 3.5-inch by 14.5-inch open vertical cavity between every exterior stud spanning from basement to attic.
 > - **The Stack Effect Superhighway:** In winter, building buoyancy forces pull sub-zero basement drafts through open stud cavities, dumping expensive second-floor heat into the vented attic and driving air leakage above 12 ACH50.
@@ -34,11 +34,11 @@ Understanding why these homes are so drafty requires examining how balloon frami
 :::carousel
 ### Unsealed Balloon Frame (The 24-Foot Chimney)
 ![Technical Cross-Section: Historic Balloon Framing Convective Chimney Effect and Concealed Fire Spread Corridor](images/balloon-framing-unsealed.jpg)
-Figure 1.1: Historic Balloon Framing — Continuous 24-foot exterior 2x4 studs create an open flue from stone basement to attic, siphoning sub-zero air and posing a rapid 3-minute fire spread risk.
+Figure 1.1: Historic Balloon Framing, Continuous 24-foot exterior 2x4 studs create an open flue from stone basement to attic, siphoning sub-zero air and posing a rapid 3-minute fire spread risk.
 
 ### Firestopped & Air-Sealed Retrofit
 ![Technical Cross-Section: Mineral Wool Firestop and Air-Sealed Balloon Frame Retrofit](images/balloon-framing-sealed.jpg)
-Figure 1.2: Firestopped & Air-Sealed Retrofit — Non-combustible mineral wool blocks (ASTM E136) and intumescent sealant at the foundation sill and attic eaves permanently halt convective drafts and restore code fireblocking.
+Figure 1.2: Firestopped & Air-Sealed Retrofit, Non-combustible mineral wool blocks (ASTM E136) and intumescent sealant at the foundation sill and attic eaves permanently halt convective drafts and restore code fireblocking.
 :::
 
 In a balloon-framed house, the exterior wall studs are continuous 20- to 24-foot timbers running uninterrupted from the foundation sill to the roof rafters. When second-floor framing was installed, carpenters simply notched a 1x4 ledger board (called a "ribbon board") into the inside edge of the studs and rested the second-floor joists on top of it. 
@@ -56,7 +56,7 @@ As heated air in living spaces naturally rises toward the roof, it creates posit
 
 In a balloon-framed house, this buoyancy pressure turns all twenty to thirty exterior stud bays into high-velocity convective chimneys. The negative pressure at the foundation draws freezing outdoor air through porous rubble-stone walls and unsealed mud sills. That freezing air travels up the walls, chilling the backside of interior lath and plaster, escaping through gaps in baseboards and electrical outlets, and dumping directly into the freezing vented attic. 
 
-Whole-house blower door testing on unretrofitted balloon-frame homes routinely records air infiltration rates between **12 and 18 Air Changes per Hour at 50 Pascals (ACH50)**—more than four times the leakage permitted under modern energy codes.
+Whole-house blower door testing on unretrofitted balloon-frame homes routinely records air infiltration rates between **12 and 18 Air Changes per Hour at 50 Pascals (ACH50)**, more than four times the leakage permitted under modern energy codes.
 
 ### B. Life-Safety: The Rapid Fire Spread Corridor
 The chimney effect that moves cold air in winter will supercharge smoke and flames during a fire.
@@ -94,7 +94,7 @@ A critical jobsite error made by inexperienced contractors is spraying a bead of
 
 Remodeling contractors often assume that fixing balloon framing requires gutting the home's historic interior plaster walls to insert horizontal wood blocking at the intermediate second-floor ribbon line. Building science proves this destructive approach is unnecessary.
 
-Because convective airflow requires both an intake and an exhaust to sustain circulation, sealing the two accessible perimeter boundaries—the basement mud sill and the attic eaves—permanently breaks the stack effect loop. Capping these boundary points isolates each stud cavity into an inert, dead-air vertical column.
+Because convective airflow requires both an intake and an exhaust to sustain circulation, sealing the two accessible perimeter boundaries (the basement mud sill and attic eaves), permanently breaks the stack effect loop. Capping these boundary points isolates each stud cavity into an inert, dead-air vertical column.
 
 Once the top and bottom cavities are friction-fit with non-combustible mineral wool and detailed with intumescent firestop mastic, the open chimney is permanently broken. Contractors can then safely dense-pack the isolated wall cavities with loose-fill borate-treated cellulose at 3.5 pounds per cubic foot from exterior access ports without blowing insulation into the basement or attic.
 
@@ -104,18 +104,18 @@ Once the top and bottom cavities are friction-fit with non-combustible mineral w
 
 ## Field Identification & Fireblocking Costs: How to Inspect & Seal Open Flues
 
-Pre-1940s homes across Chicago, Milwaukee, Minneapolis, St. Louis, and Detroit were built using balloon framing—a construction method where exterior 2x4 wall studs run continuously from the foundation sill plate all the way up to the attic roof rafters without floor platform interruptions.
+Pre-1940s homes across Chicago, Milwaukee, Minneapolis, St. Louis, and Detroit were built using balloon framing, a construction method where exterior 2x4 wall studs run continuously from the foundation sill plate all the way up to the attic roof rafters without floor platform interruptions.
 
 ### 1. How to Identify Balloon Framing in 5 Minutes
 You do not need to tear down plaster to verify if your home is balloon framed:
-- **The Basement Rim Inspection:** Go to your basement and look up where the floor joists meet the exterior foundation wall. If you can shine a flashlight up between the floor joists and see open, continuous cavities extending straight up into the second-floor walls, your home is balloon framed.
-- **The Attic Floor Scan:** Look at the perimeter floor joists in the attic. If you see open, dark stud chutes dropping straight down into the exterior walls with drafts billowing upward, the cavities are unblocked.
+- **Basement Rim Inspection:** Go to your basement and look up where the floor joists meet the exterior foundation wall. If you can shine a flashlight up between the floor joists and see open, continuous cavities extending straight up into the second-floor walls, your home is balloon framed.
+- **Attic Floor Scan:** Look at the perimeter floor joists in the attic. If you see open, dark stud chutes dropping straight down into the exterior walls with drafts billowing upward, the cavities are unblocked.
 - **Exterior Wall Stud Continuity:** On a two-story home, if second-floor windows align perfectly vertically with first-floor windows and exterior walls sound hollow from floor to attic, it is classic balloon construction.
 
 ### 2. Fireblocking Retrofit Cost & Scope ($1,400 to $2,800)
 - **Turnkey Professional Air-Seal & Fireblock Package:** **$1,400 to $2,800** for a typical 2-story home footprint.
-- **The Scope of Work:** A crew installs non-combustible mineral wool batts (Roxul Safe'n'Silent) tightly friction-fitted into the bottom and top of every exterior wall cavity, sealed with intumescent fire-rated acrylic sealant (3M CP 25WB+) and backed with 2-inch solid lumber fireblocking per IRC Section R302.11.
-- **The Heating Payback:** In an unblocked balloon-framed home, the continuous stud flues act as open thermal chimneys, pulling thousands of cubic feet of cold basement air into attic crawlspaces 24 hours a day. Sealing the two ends typically yields a **20% to 35% reduction in whole-house air infiltration** on a blower door test, saving $350 to $600 annually in winter gas heating.
+- **Scope of Work:** A crew installs non-combustible mineral wool batts (Roxul Safe'n'Silent) tightly friction-fitted into the bottom and top of every exterior wall cavity, sealed with intumescent fire-rated acrylic sealant (3M CP 25WB+) and backed with 2-inch solid lumber fireblocking per IRC Section R302.11.
+- **Heating Payback:** In an unblocked balloon-framed home, the continuous stud flues act as open thermal chimneys, pulling thousands of cubic feet of cold basement air into attic crawlspaces 24 hours a day. Sealing the two ends typically yields a **20% to 35% reduction in whole-house air infiltration** on a blower door test, saving $350 to $600 annually in winter gas heating.
 
 ---
 

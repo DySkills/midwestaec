@@ -27,12 +27,12 @@ When property owners attempt to maintain expansive acres of manicured Kentucky b
 
 ## Clay Hydrology & The Sub-Surface Mower Hardpan
 
-Most rural Midwest soils—from southern Minnesota down through Iowa, Illinois, and Missouri—consist of heavy, fine-particle glacial till and dense clay loam (predominantly montmorillonite and illite clays). Under native conditions, these soils are structured with billions of microscopic capillary macropores formed by decaying roots, earthworms, and fungal mycelium.
+Most rural Midwest soils, from southern Minnesota down through Iowa, Illinois, and Missouri, consist of heavy, fine-particle glacial till and dense clay loam (predominantly montmorillonite and illite clays). Under native conditions, these soils are structured with billions of microscopic capillary macropores formed by decaying roots, earthworms, and fungal mycelium.
 
 When an acreage owner introduces a commercial zero-turn mower, soil physics shifts drastically:
 
 - **Dynamic Ground Compaction:** A commercial mower weighs between 1,100 and 1,400 pounds. Concentrated through two small rear drive tires with tire pressures of 12 to 14 PSI, dynamic wheel torque shears and compresses damp topsoil.
-- **The 2-Inch Hardpan:** After two or three seasons of regular mowing during damp spring months, the soil at the 2- to 3-inch depth compresses into an impenetrable **sub-surface hardpan** (exceeding 90% Standard Proctor density under **ASTM D698**).
+- **2-Inch Hardpan:** After two or three seasons of regular mowing during damp spring months, the soil at the 2- to 3-inch depth compresses into an impenetrable **sub-surface hardpan** (exceeding 90% Standard Proctor density under **ASTM D698**).
 - **Infiltration Collapse:** In an undisturbed prairie, soil absorbs between **1.5 and 2.5 inches of rain per hour**. Under compacted turfgrass, infiltration collapses to less than **0.15 inches per hour**.
 
 > ### Three-Tiered Concentric Acreage Management Framework

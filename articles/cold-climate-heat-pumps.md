@@ -35,20 +35,20 @@ To understand why cold-climate inverters succeed where older heat pumps failed, 
 
 In a basic refrigeration cycle, an outdoor evaporator coil absorbs ambient thermal energy by boiling liquid refrigerant into vapor, which an indoor compressor and coil condense to release heat into your home's ductwork. But as outdoor temperatures plunge, outdoor air is thin and cold. The density of low-pressure refrigerant vapor entering the compressor drops by over 60%. With far less refrigerant mass circulating through the system, a standard compressor loses its ability to produce heat precisely when building envelope heat loss is peaking.
 
-To extract more heat from thin, freezing vapor, an ordinary compressor has to spin faster and compress harder. But heavy compression generates extreme mechanical friction. In an older compressor, compressing sub-zero suction vapor drives internal discharge temperatures past 240°F, threatening to scorch lubricating oil and destroy motor windings. To save itself from burning out, a standard heat pump either throttles down to a crawl or shuts off completely—causing its heating output to plunge off a cliff (dropping from 100% capacity at 47°F down to barely 30% at 15°F), forcing inefficient 10 kW electric resistance toaster-coils to engage.
+To extract more heat from thin, freezing vapor, an ordinary compressor has to spin faster and compress harder. But heavy compression generates extreme mechanical friction. In an older compressor, compressing sub-zero suction vapor drives internal discharge temperatures past 240°F, threatening to scorch lubricating oil and destroy motor windings. To save itself from burning out, a standard heat pump either throttles down to a crawl or shuts off completely, causing its heating output to plunge off a cliff (dropping from 100% capacity at 47°F down to barely 30% at 15°F), forcing inefficient 10 kW electric resistance toaster-coils to engage.
 
 Modern cold-climate systems solve this through **vapor flash-injection** (acting as an internal intercooler cycle):
 
 1. **The Economizer Bypass:** High-pressure liquid refrigerant leaving the indoor condenser is routed through an electronic expansion valve into an internal plate heat exchanger (economizer). This sub-cools the main liquid line while flashing a small fraction of refrigerant into a cool, intermediate-pressure vapor mist.
 2. **Compressor Core Cooling:** This cool vapor stream is injected directly into dedicated intermediate ports within the scroll or twin-rotary compressor chambers. It acts like a built-in radiator, actively cooling the motor windings and compression pocket from within.
 3. **The Turbo-Overdrive Effect:** Because the internal motor is shielded from overheating, the variable-speed inverter drive can safely spin the compressor in overdrive (110% to 125% of rated mechanical speed) even in sub-zero outdoor air.
-4. **The Flat Capacity Curve:** By spinning in overdrive, the compressor pumps just as many pounds of refrigerant per minute at -5°F as it does on a mild 47°F autumn afternoon. Instead of heating capacity crashing as the thermometer drops, the system delivers a **flat capacity curve**—a straight line delivering 100% of its rated BTU output (e.g., a full 36,000 BTUs from a 3-ton unit) all the way down to -5°F, continuing to deliver 75%+ rated heat at -15°F.
+4. **The Flat Capacity Curve:** By spinning in overdrive, the compressor pumps just as many pounds of refrigerant per minute at -5°F as it does on a mild 47°F autumn afternoon. Instead of heating capacity crashing as the thermometer drops, the system delivers a **flat capacity curve**, holding 100% of its rated BTU output (e.g., a full 36,000 BTUs from a 3-ton unit) down to -5°F, and continuing to deliver 75%+ rated heat at -15°F.
 
 ---
 
 ## Real-World Efficiency: The Sub-Zero COP Curve
 
-Evaluating heat pump performance requires understanding the **Coefficient of Performance (COP)**—the ratio of useful heat energy delivered to electrical energy consumed. A high-efficiency condensing natural gas furnace operating at 96% annual fuel utilization efficiency (AFUE) operates at the thermodynamic equivalent of a COP of 0.96. Electric resistance heat strips convert electricity directly into heat with zero mechanical advantage, yielding a fixed COP of exactly 1.0.
+Evaluating heat pump performance requires understanding the **Coefficient of Performance (COP)**: the ratio of useful heat delivered to electrical energy consumed. A high-efficiency condensing natural gas furnace operating at 96% annual fuel utilization efficiency (AFUE) operates at the thermodynamic equivalent of a COP of 0.96. Electric resistance heat strips convert electricity directly into heat with zero mechanical advantage, yielding a fixed COP of exactly 1.0.
 
 In mild 47°F shoulder-season conditions, an inverter-driven cold-climate heat pump operates at a COP between 3.6 and 4.2. Every single kilowatt-hour of electricity consumed extracts and delivers 3.6 to 4.2 kilowatt-hours of thermal energy into the living space. As outdoor temperatures plunge, thermodynamic lift increases and efficiency gradually declines:
 
@@ -69,7 +69,7 @@ In almost all cases, the heat pump is not broken. It is obeying the fundamental 
 
 ### The Physics of Why Heat Pumps Frost Over in Cold Weather
 
-When an inverter heat pump runs in heating mode, the outdoor unit functions as the system's **evaporator**. To absorb thermal energy from outdoor air that might be 28°F, the refrigerant circulating through the outdoor coil must boil at an even colder temperature—typically between **12°F and 18°F** (a 10°F to 15°F thermodynamic lift delta).
+When an inverter heat pump runs in heating mode, the outdoor unit functions as the system's **evaporator**. To absorb thermal energy from outdoor air that might be 28°F, the refrigerant circulating through the outdoor coil must boil at an even colder temperature, typically between **12°F and 18°F** (a 10°F to 15°F thermodynamic lift delta).
 
 As the high-velocity condenser fan pulls humid Midwest winter air across the sub-freezing aluminum fins:
 1. Moisture in the air contacts the metal fins, which are well below the atmospheric dew point and below the 32°F freezing threshold.
@@ -82,7 +82,7 @@ A thin, even blanket of white frost across the outdoor coil face is completely n
 
 To keep airflow passages open and maintain heat transfer efficiency, every modern cold-climate heat pump features an automated **demand defrost control system**:
 
-1. **Defrost Initiation:** High-precision thermistors monitor the temperature difference between the outdoor coil and the ambient air. When the temperature split widens—indicating that frost is restricting airflow—the microprocessor triggers a defrost cycle (typically every 30 to 90 minutes of compressor run time).
+1. **Defrost Initiation:** High-precision thermistors monitor the temperature difference between the outdoor coil and the ambient air. When the temperature split widens, indicating that frost is restricting airflow, the microprocessor triggers a defrost cycle (typically every 30 to 90 minutes of compressor run time).
 2. **The Reversing Valve Shifts:** The electronic 4-way reversing valve clicks, temporarily switching the heat pump into *cooling mode*. Hot, high-pressure discharge gas (160°F to 190°F) is routed directly into the outdoor coil, rapidly warming the aluminum fins to melt the accumulated frost from the inside out.
 3. **The Outdoor Fan Cuts Off:** The outdoor condenser fan motor shuts down completely. This traps the heat inside the outdoor cabinet, accelerating the melt cycle to under 3 to 8 minutes.
 4. **The "Steam" Phenomenon:** As liquid water runs off the hot coils, dense clouds of white water vapor (steam) billow out from the top grill. Homeowners frequently mistake this for smoke or an electrical fire.

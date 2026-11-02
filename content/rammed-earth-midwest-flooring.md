@@ -1,5 +1,5 @@
 ---
-title: "The Midwest Rammed Earth Paradox: Thermal Mass, Freeze-Thaw Spalling & The Sub-Slab Flooring Matrix"
+title: "Rammed Earth in the Midwest: Thermal Mass, Freeze-Thaw Spalling & Sub-Slab Flooring Specs"
 slug: "rammed-earth-midwest-flooring"
 format: "Feature"
 leadType: "Descriptive"
@@ -9,7 +9,7 @@ scheduledPublishDate: "2026-10-26"
 editorialTheme: "Flooring Day & Thermal Mass Week"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Peoria", "Rockford", "South Bend", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "NE", "OH", "WI"]
-subtitle: "Compact soil promises zero-carbon beauty, but in the Midwest and Great Lakes region, raw earth faces brutal freeze-thaw cycles and severe thermal bridging. Here is the forensic physics of when earthen construction works—and when it fails."
+subtitle: "Compact soil promises zero-carbon beauty, but in the Midwest and Great Lakes region, raw earth faces brutal freeze-thaw cycles and severe thermal bridging. Here is the forensic physics of when earthen construction works, and when it fails."
 summary: "Rammed earth and earthen floors in the Great Lakes and Plains: Why uninsulated earth provides only R-3.6, and how to detail Stabilized Insulated Rammed Earth (SIRE) under IRC R402."
 codeTag: "IRC Section R402 / ASTM D422 / ASTM E1745"
 author: "Midwest AEC Building Science"
@@ -29,7 +29,7 @@ referralHook: "Basement Waterproofing, Concrete & Flooring Contractor Match"
 Unstabilized rammed earth and traditional poured earthen floors possess undeniable aesthetic appeal and low embodied carbon. Composed of subsoil, clay binders, graded sand aggregates, and natural oils, compacted earthen assemblies deliver high volumetric heat capacity and acoustic dampening.
 
 However, building with earth in the Upper Midwest and Northern Plains requires strict adherence to soil mechanics and thermodynamic boundaries that warm, arid regions never encounter:
-1. **Thermal Mass vs. True Thermal Resistance:** Compacted soil delivers an R-value of barely **R-0.20 to R-0.25 per inch**. A standard 12-inch rammed earth wall provides only R-2.4 to R-3.0 of thermal resistance—grossly deficient compared to the IECC mandatory baseline of R-20+ to R-30 for above-grade walls. Uninsulated earth functions as an immense thermal sink, drawing heat out of the living space during sub-zero cold snaps.
+1. **Thermal Mass vs. True Thermal Resistance:** Compacted soil delivers an R-value of barely **R-0.20 to R-0.25 per inch**. A standard 12-inch rammed earth wall provides only R-2.4 to R-3.0 of thermal resistance, grossly deficient compared to the IECC mandatory baseline of R-20+ to R-30 for above-grade walls. Uninsulated earth functions as an immense thermal sink, drawing heat out of the living space during sub-zero cold snaps.
 2. **Capillary Spalling & Freeze-Thaw Destruction:** Without chemical stabilization (such as 6% to 9% Portland cement or hydraulic lime) and continuous sub-slab extruded polystyrene (XPS R-10 minimum), groundwater migrating through clay subgrades saturates the soil matrix. During winter freeze cycles, trapped water expands 9% by volume, destroying the clay-aggregate bond and crumbling earthen surfaces into loose silt.
 
 ## The Thermal Mass Illusion: R-Value vs. Thermal Capacitance
@@ -47,11 +47,11 @@ The most common misconception in natural building is conflating **thermal mass**
 | **Rigid Polyisocyanurate (Polyiso)** | 1.8 – 2.0 | 0.35 | 0.016 | **R-6.00** | **R-108.0** |
 
 ### The Southwest Desert vs. The Midwest Winter
-In New Mexico, Arizona, or Morocco, rammed earth performs brilliantly because of the **diurnal temperature swing**. Desert daytime temperatures spike to 95°F and plunge to 55°F at night—a 40°F swing that crosses the human comfort band. The massive 18-inch earthen wall absorbs the brutal afternoon solar radiation, stores it, and slowly releases it inward eight hours later during the chilly desert night. The mass acts as a thermal flywheel.
+In New Mexico, Arizona, or Morocco, rammed earth performs brilliantly because of the **diurnal temperature swing**. Desert daytime temperatures spike to 95°F and plunge to 55°F at night, a 40°F swing that crosses the human comfort band. The massive 18-inch earthen wall absorbs the brutal afternoon solar radiation, stores it, and slowly releases it inward eight hours later during the chilly desert night. The mass acts as a thermal flywheel.
 
 In the Midwest, however, a January cold snap does not offer a diurnal swing. Temperatures drop to 5°F and stay below 20°F for two straight weeks. 
 
-Once the thermal mass of an uninsulated earthen wall cools down, it ceases to be a heater—it becomes an uninsulated **conductive thermal sink**. Because 18 inches of compacted earth offers only **R-3.6 to R-4.5**, indoor heat rapidly conducts straight through the soil matrix into the freezing outdoor atmosphere. Meeting the 2024 International Residential Code (IRC) requirement of **R-20 or R-30** in the Midwest and Great Lakes region with raw earth alone would require a wall **eight feet thick**.
+Once the thermal mass of an uninsulated earthen wall cools down, it ceases to be a heater, it becomes an uninsulated **conductive thermal sink**. Because 18 inches of compacted earth offers only **R-3.6 to R-4.5**, indoor heat rapidly conducts straight through the soil matrix into the freezing outdoor atmosphere. Meeting the 2024 International Residential Code (IRC) requirement of **R-20 or R-30** in the Midwest and Great Lakes region with raw earth alone would require a wall **eight feet thick**.
 
 ---
 
@@ -59,7 +59,7 @@ Once the thermal mass of an uninsulated earthen wall cools down, it ceases to be
 
 Conductive heat loss is expensive, but moisture dynamics in the Midwest are structurally fatal.
 
-Water is one of the few molecules in the physical universe that expands when changing from liquid to solid. When liquid water freezes into hexagonal ice crystals at 32°F, it expands by approximately **9% in volume**, generating internal hydraulic expansion pressures in excess of **30,000 psi**—far exceeding the tensile strength of compacted soil (which is typically under 150 psi).
+Water is one of the few molecules in the physical universe that expands when changing from liquid to solid. When liquid water freezes into hexagonal ice crystals at 32°F, it expands by approximately **9% in volume**, generating internal hydraulic expansion pressures in excess of **30,000 psi**, far exceeding the tensile strength of compacted soil (typically under 150 psi).
 
 ```
                       [ RAIN & MELTING SNOW ]
@@ -92,7 +92,7 @@ In the American Southwest, annual precipitation is 8 to 12 inches. In the Midwes
 When wind-driven rain hits a raw earthen wall, the porous capillary network of the clay and silt absorbs the water like a dense dry sponge. When a sub-zero polar front arrives six hours later:
 1. The pore water freezes and expands within the outer 2 inches of the wall.
 2. The tensile bond between clay particles and sand aggregate shears.
-3. The surface fractures and sloughs off—a process known as **spalling**. Over three Midwest winters, an unengineered earthen wall can lose two to four inches of structural cross-section.
+3. The surface fractures and sloughs off, a process known as **spalling**. Over three Midwest winters, an unengineered earthen wall can lose two to four inches of structural cross-section.
 
 ---
 
@@ -169,7 +169,7 @@ Here is how the four major Midwest floor finishes perform when installed over su
 
 ## The Earthen Floor Deep Dive: When Natural Flooring Works in the Midwest
 
-An authentic earthen floor—traditionally constructed from clay, sand, chopped straw, and raw linseed oil—is one of the most comfortable, quiet, and beautiful architectural surfaces achievable. Under bare feet, it has a leather-like warmth that concrete can never mimic.
+An authentic earthen floor, traditionally constructed from clay, sand, chopped straw, and raw linseed oil, is one of the most comfortable, quiet, and beautiful architectural surfaces achievable. Under bare feet, it has a leather-like warmth that concrete can never mimic.
 
 However, in the Midwest and Great Lakes region, an earthen floor must be installed strictly as an **interior finish assembly**, not as an extension of the raw ground.
 

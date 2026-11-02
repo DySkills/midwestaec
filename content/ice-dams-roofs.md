@@ -18,7 +18,7 @@ referralHook: "Attic Air Sealing & Roofing Specialist Quote Match"
 
 # The Physics of Midwest Ice Dams: The Real Fix (And Why Heat Cables Don't Work)
 
-> **Quick Summary:** Every January and February across the Upper Midwest, heavy snowfall followed by sub-freezing cold turns eaves into massive ridges of solid ice that back up under shingles and flood interior walls. Hardware stores sell millions of dollars in zigzag electric heat cables, roof rakes, and chemical salt pucks, but building science proves these remedies merely mask symptoms while accelerating shingle wear. Ice dams are not a roofing problem—they are the visible thermodynamic byproduct of attic air leakage and inadequate insulation.
+> **Quick Summary:** Every January and February across the Upper Midwest, heavy snowfall followed by sub-freezing cold turns eaves into massive ridges of solid ice that back up under shingles and flood interior walls. Hardware stores sell millions of dollars in zigzag electric heat cables, roof rakes, and chemical salt pucks, but building science proves these remedies merely mask symptoms while accelerating shingle wear. Ice dams are not a roofing problem, they are the visible thermodynamic byproduct of attic air leakage and inadequate insulation.
 >
 > - **The 32°F Thermal Split:** Escaped indoor heat warms the underside of the roof deck above 32°F, melting bottom snowpack that trickles down until hitting the sub-freezing, unheated eave overhang where it refreezes into an impermeable ice dam.
 > - **Hydrostatic Head Pressure:** Trapped meltwater ponds behind the ice ridge, creating standing reservoirs that capillary action and hydrostatic pressure push upward underneath overlapping asphalt shingles into drywall.
@@ -32,8 +32,8 @@ referralHook: "Attic Air Sealing & Roofing Specialist Quote Match"
 When a midwinter Arctic blast settles across the Great Lakes and Upper Midwest, thousands of homes develop thick ice ridges along their roof eaves, accompanied by interior ceiling leaks:
 
 ### 1. The Active Failure Symptoms
-- **The Eave Ice Wall:** A solid block of ice, 3 to 10 inches thick, freezes inside the gutters and extends 2 to 4 feet up the roof slope, creating a reservoir of trapped liquid water behind it.
-- **The Amber Ceiling Stain:** Meltwater backed up beneath the asphalt shingles bypasses overlapping shingle laps, saturates attic insulation, and drips through drywall or plaster ceilings directly above exterior windows.
+- **Eave Ice Wall:** A solid block of ice, 3 to 10 inches thick, freezes inside the gutters and extends 2 to 4 feet up the roof slope, creating a reservoir of trapped liquid water behind it.
+- **Amber Ceiling Stain:** Meltwater backed up beneath the asphalt shingles bypasses overlapping shingle laps, saturates attic insulation, and drips through drywall or plaster ceilings directly above exterior windows.
 - **Paint Blisters & Siding Seepage:** Trapped water runs down exterior wall framing, bubbling interior latex paint and weeping out through exterior siding laps or soffits.
 
 ### 2. Immediate Emergency Action (Do This Today)
@@ -53,9 +53,9 @@ Snow is a remarkable thermal insulator, boasting an insulating value of roughly 
 
 The physical cycle unfolds in three sequential stages:
 
-- **Attic Convective Bypass:** Warm, conditioned air from the living space (at 70°F) escapes into the unconditioned attic through unsealed ceiling penetrations—recessed can lights, attic access hatches, electrical wiring holes, and open framing top plates. This rising warm air creates a pressurized pocket of heat beneath the roof ridge, warming the attic air to 36°F to 42°F.
-- **The 32°F Melting Plane:** The escaping heat conducts through the plywood or OSB roof sheathing, raising the sheathing temperature above 32°F (0°C). The bottom layer of snow contacting the warm shingles begins to melt, shielded from the cold outside air by the snowpack above. This liquid meltwater trickles down the roof slope under the blanket of snow toward the gutters.
-- **The Sub-Freezing Overhang Freeze:** The moment the meltwater passes the exterior wall line of the home, the physical environment changes abruptly. The roof overhang (the eave and soffit) extends past the conditioned envelope of the building. With no heated living space below it, the overhang temperature matches the outdoor air—sitting at 15°F or 20°F. The trickle of meltwater instantly refreezes, depositing a razor-thin layer of ice at the roof edge.
+- **Attic Convective Bypass:** Warm, conditioned air from the living space (at 70°F) escapes into the unconditioned attic through unsealed ceiling penetrations, recessed can lights, attic access hatches, electrical wiring holes, and open framing top plates. This rising warm air creates a pressurized pocket of heat beneath the roof ridge, warming the attic air to 36°F to 42°F.
+- **32°F Melting Plane:** The escaping heat conducts through the plywood or OSB roof sheathing, raising the sheathing temperature above 32°F (0°C). The bottom layer of snow contacting the warm shingles begins to melt, shielded from the cold outside air by the snowpack above. This liquid meltwater trickles down the roof slope under the blanket of snow toward the gutters.
+- **Sub-Freezing Overhang Freeze:** The moment the meltwater passes the exterior wall line of the home, the physical environment changes abruptly. The roof overhang (the eave and soffit) extends past the conditioned envelope of the building. With no heated living space below it, the overhang temperature matches the outdoor air, sitting at 15°F or 20°F. The trickle of meltwater instantly refreezes, depositing a razor-thin layer of ice at the roof edge.
 
 As warm attic air continues to melt rooftop snow hour after hour, this refreezing process repeats millions of times. Within 48 to 72 hours, the thin ice layer grows into an impenetrable solid ice ridge four to twelve inches thick.
 
@@ -63,7 +63,7 @@ As warm attic air continues to melt rooftop snow hour after hour, this refreezin
 
 ## Hydrostatic Head & Overlapping Shingle Mechanics
 
-Most homeowners assume that an asphalt shingle roof functions like a waterproof rubber membrane. In reality, steep-slope residential roofing is engineered strictly as a **water-shedding assembly**. 
+Most homeowners assume that an asphalt shingle roof functions like a waterproof rubber membrane. Steep-slope residential roofing is engineered strictly as a **water-shedding assembly**, not a sealed waterproof membrane. 
 
 Overlapping shingle courses rely entirely on gravity. As long as water flows downward, each shingle laps over the course below it, directing liquid toward the gutter. Shingles are never designed to resist positive standing water pressure or water flowing backward uphill.
 
@@ -86,7 +86,7 @@ Once water gets beneath the shingles, it encounters standard 15-pound felt or sy
 Every winter, hardware stores promote temporary remedies that do far more structural damage than the ice dam itself:
 
 ### Zigzag Electric Heat Cables
-Electric de-icing cables installed in a zigzag pattern along the eaves consume between 5 and 8 watts per linear foot. For an average home, running 120 feet of heat cable 24/7 adds $80 to $150 per month to your electric bill. More importantly, building science testing proves they cannot stop ice damming. The cable simply melts a narrow two-inch tunnel through the ice ridge. Meltwater drains through this tunnel until cold wind chills the opening, causing ice to re-form and dam up inside the gutter itself. Furthermore, heat cables bake the asphalt shingles in summer, degrading the protective mineral granules.
+Electric de-icing cables installed in a zigzag pattern along the eaves consume between 5 and 8 watts per linear foot. For an average home, running 120 feet of heat cable 24/7 adds $80 to $150 per month to your electric bill. More importantly, building science testing proves they cannot stop ice damming. The cable simply melts a narrow two-inch tunnel through the ice ridge. Meltwater drains through this tunnel until cold wind chills the opening, causing ice to re-form and dam up inside the gutter itself. Additionally, heat cables bake the asphalt shingles in summer, degrading the protective mineral granules.
 
 ### Calcium Chloride Salt Pucks
 Tossing chemical ice-melt pucks or salt-filled pantyhose onto the roof dissolves localized channels in the ice, but the chemical brine damages the roof. The runoff bleaches and discolors asphalt shingles, corrodes aluminum gutters, dissolves galvanized roofing nails, and drips onto foundation landscaping, poisoning shrubs and perennial flowerbeds come spring.
@@ -98,7 +98,7 @@ Climbing a ladder in freezing weather to hack at solid ice with a roofing shovel
 
 ## Code Specifications & Performance Benchmarks
 
-Solving ice dams permanently requires building a **balanced cold roof assembly**—an attic engineered so the entire roof deck remains uniformly below 32°F during winter weather.
+Solving ice dams permanently requires building a **balanced cold roof assembly**, where the attic is engineered so the roof deck stays uniformly below 32°F throughout winter weather.
 
 The following table summarizes the verifiable code and building science standards required to eliminate rooftop snowmelt in Climate Zones 5 and 6:
 
@@ -118,7 +118,7 @@ Notice the critical distinction in *IRC Section R905.1.2*: self-adhered ice and 
 
 ## The Balanced Cold Roof: Establishing Thermal Equilibrium
 
-A roof will never grow an ice dam if the roof deck remains at or below 32°F throughout winter weather. Eliminating the melting plane requires establishing thermal equilibrium across the attic envelope—balancing airtight ceiling boundary decoupling, high-density conductive resistance, and continuous convective ventilation flushing.
+A roof will never grow an ice dam if the roof deck remains at or below 32°F throughout winter weather. Eliminating the melting plane requires establishing thermal equilibrium across the attic envelope, balancing airtight ceiling boundary decoupling, high-density conductive resistance, and continuous convective ventilation flushing.
 
 When warm indoor air is mechanically arrested at the ceiling drywall, convective heat flux into the attic drops to near zero. Layering twenty inches of blown loose-fill cellulose (R-60) provides deep conductive resistance, holding interior warmth inside the living space and ensuring the attic air temperature tracks the ambient outdoor freeze.
 

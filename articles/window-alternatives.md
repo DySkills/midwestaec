@@ -17,14 +17,17 @@
 
 ---
 
-## Winter Gusts in Portage Park at 14°F
+## The 80/10 Capital Equation: High-Performance Storms vs. Replacement Quotes
 
-It is 8:30 PM on a gusty January evening in the Portage Park neighborhood of Chicago. Outside, a stinging north wind is driving frost crystals across the sill, and the red bar stops at a biting 14°F.
+Homeowners living in classic bungalows, Victorians, and mid-century homes across Chicago, Milwaukee, Minneapolis, and Des Moines face an aggressive sales pitch: spend $25,000 to $35,000 replacing original windows, or endure freezing drafts and soaring winter gas bills.
 
-Inside a solid 1920s brick bungalow, walking past the living room windows sends a visible chill across your shoulders. The curtains flutter gently in an invisible draft. The homeowner's first instinct is to call a window replacement franchise and spend $20,000. But building science reveals that over 70% of that cold draft is bypassing the glass entirely—leaking through unsealed weight pockets and rough framing gaps behind the trim.
+### 1. The 80/10 Rule of Window Physics
+Extensive field testing by the Pacific Northwest National Laboratory (PNNL) proves that homeowners do not need to spend five figures to achieve thermal comfort:
+- **80% Performance at 10% Cost:** Adding an engineered, AERC-rated Low-E storm window over an existing single-pane window drops the overall assembly U-factor from U-1.10 down to **U-0.30 to U-0.34**—virtually identical to brand-new $1,000 double-pane vinyl replacement windows.
+- **The Capital Differential:** Equipping 20 windows with Low-E exterior storm windows costs **$3,600 to $5,800 installed**—compared to **$22,000 to $32,000** for full-frame window replacements.
+- **Preservation of Old-Growth Lumber:** Original pre-1950s wood window frames were milled from dense, rot-resistant old-growth heartwood that will last another 100 years if maintained. Replacing them with hollow vinyl units discards irreplaceable architectural timber for plastic frames that warp and fail within 20 years.
 
 ---
-
 ## The 80/10 Rule of Window Physics
 
 In building science, capital allocation should always follow the law of diminishing returns. Full-frame window replacement is the most expensive way to achieve marginal thermal improvement. 

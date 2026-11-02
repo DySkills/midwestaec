@@ -17,20 +17,19 @@
 
 ---
 
-## Dawn on a Rural Acreage
+## The Capital Dilemma: The $60/Sq. Ft. Shell Myth vs. Turnkey Midwest Living Costs
 
-It is 6:30 AM on a sub-zero January morning on a ten-acre homestead five miles north of Des Moines. Outside, the wind is scouring across open cornfields, drifting snow against outbuildings, and the red bar stops at a biting -8°F.
+Post-frame construction ("barndominiums") is marketed across rural Midwest acreages as a revolutionary way to build a custom home for "$60 to $80 per square foot." While that price accurately covers an agricultural storage shell, turning a steel pole barn into a safe, code-compliant, and durable residential home requires a much different capital budget:
 
-Inside a newly finished 3,200-square-foot barndominium, radiant hydronic heat warms the polished concrete floors to a comfortable 70°F. The open-concept great room features 18-foot vaulted scissor trusses, industrial timber accents, and pristine painted tongue-and-groove shiplap walls. 
+### 1. The Bare Shell vs. Turnkey Reality
+- **The $55 to $75/Sq. Ft. Structural Shell:** Covers laminated structural posts, clear-span steel roof trusses, 29-gauge metal siding and roofing, basic vinyl windows, and concrete pier footings. (This leaves an unconditioned, dirt-floor agricultural barn).
+- **The $145 to $195/Sq. Ft. Finished Living Quarters:** Turning that shell into a home requires sub-slab continuous R-10 insulation, frost-depth perimeter thermal breaks, interior stud framing, electrical, plumbing, cold-climate heat pump mechanicals, drywall, interior finishes, and engineered condensation-control insulation.
+- **The Real Cost:** A 2,400 sq. ft. finished barndominium costs **$340,000 to $460,000 turnkey**—delivering roughly 15% to 25% savings over conventional stick-built custom homes, rather than the fictional 60% discounts promised online.
 
-Yet behind that designer shiplap, invisible physics is wreaking silent destruction. Morning showers, boiling coffee, and dishwashers have raised indoor relative humidity to 42% (a dew point of 46°F). That water vapor migrates outward through the wall assembly, passing through lightweight fiberglass insulation until it strikes the back of the 26-gauge corrugated steel siding—which is sitting at -5°F. 
-
-The moment the vapor touches the freezing metal, it condenses into liquid water. Gallons of moisture trickle down the back of the steel, soaking cavity insulation, pooling on horizontal 2x6 framing girts, and rusting structural screws. Within five years, the building's hidden timber frame will show the first signs of structural wood rot.
-
-![Traditional Pole Barn Wall vs. Engineered Residential Barndominium Assembly across the Upper Midwest and Great Lakes](images/barndominium-post-frame-diagram.jpg)
+### 2. The #1 Structural Risk: Building an Agricultural Envelope for Residential Moisture
+Agricultural barns house tractors and hay; they generate zero interior moisture. Residential homes house families who generate **25 to 40 pounds of water vapor daily** through cooking, bathing, and respiration. If a post-frame builder applies agricultural construction details to a residential barndominium, interior humidity contacts sub-zero exterior metal sheeting, causing catastrophic ceiling rain and structural framing rot.
 
 ---
-
 ## The Residential Moisture Multiplier: Barns vs. Living Spaces
 
 Post-frame construction was originally developed for agricultural pole barns—unheated machinery sheds, livestock run-ins, and grain storage. In those applications, the structure performs admirably for decades. 

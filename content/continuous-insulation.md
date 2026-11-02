@@ -27,16 +27,16 @@ referralHook: "Siding & Exterior Insulation Quote Match"
 
 ---
 
-## The Prairie Cold Front at 14°F
+## The Compliance Baseline: IECC Table R402.1.3 Continuous Exterior Insulation Mandates
 
-It is 6:30 AM on a bitter January morning in a 1990s subdivision just west of Des Moines, Iowa. Outside, an open-prairie wind is scouring across snow-covered lawns, and the red bar stops at a punishing 14°F.
+Under the 2021/2024 International Energy Conservation Code (IECC Section R402.1), energy codes across the Great Lakes and Northern Plains require exterior wood-framed walls to incorporate continuous exterior insulation:
 
-Inside, the family thermostat is set to 70°F, yet sitting near the western exterior wall feels like sitting next to a cold draft. Placing an infrared thermometer against the drywall reveals dark vertical stripes every 16 inches: the wall surface measures 68°F over the insulation cavities, but plummets to 59°F directly over every single wood stud. 
-
-The homeowner assumed their 2x6 walls with R-20 fiberglass batts provided an unbroken blanket of warmth. In reality, nearly one-quarter of the wall is uninsulated wood conducting expensive heat directly into the sub-zero Iowa wind.
+### 1. Code Compliance Paths for Cold-Climate Walls
+- **Path 1 (Prescriptive Continuous Foam):** **R-20 cavity insulation + R-5 continuous exterior insulation**, or **R-13 cavity + R-10 continuous insulation**.
+- **Path 2 (U-Factor Equivalent):** Total assembly U-factor of **U-0.045 or lower** (delivering whole-wall R-22+ true performance).
+- **Why Cavity-Only Walls Are Legally Fading:** Traditional 2x6 walls with R-20 fiberglass batts alone have an effective whole-wall rating of barely **R-15.6** due to framing thermal bridging. Municipalities are increasingly rejecting cavity-only framing plans in favor of continuous outboard thermal breaks.
 
 ---
-
 ## The Framing Factor: Why R-20 Cavity Batts Don't Equal an R-20 Wall
 
 Most building codes and contractor estimates rate exterior walls based on the insulation stuffed between the framing studs. If you install an R-20 batt inside a 2x6 wall, the assumption is that your house is protected by an R-20 thermal boundary.

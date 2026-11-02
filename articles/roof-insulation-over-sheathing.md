@@ -17,20 +17,16 @@
 
 ---
 
-## The Cold Vault at 4°F
+## The Code Baseline: IRC Section R806.5 Unvented Cathedral Roof R-Value Ratios
 
-It is 8:00 AM on a windy January morning in an Omaha neighborhood overlooking the frozen Missouri River valley. Outside, a winter squall is howling across the bluffs, driving powder against the siding, and the red bar stops at a frigid 4°F.
+When converting an unvented cathedral ceiling or installing rigid continuous foam above structural roof decking, contractors must strictly adhere to **IRC Section R806.5 ("Unvented Attic and Unvented Enclosed Rafter Assemblies")**:
 
-Inside a 1964 mid-century post-and-beam ranch, the architectural aesthetic is breathtaking: exposed rough-sawn Douglas fir beams span a great room beneath a soaring cathedral ceiling of two-inch tongue-and-groove cedar planks. Yet sitting at the dining room table beneath that vault feels like sitting under an open commercial meat locker. Despite the furnace blasting supply air continuously and the thermostat set to 72°F, the ambient living space hovers around 61°F. Overhead, the historic cedar wood feels cold to the touch.
-
-Up on the roof, the asphalt shingles are twenty-five years old, brittle, and shedding mineral granules into the gutters. Every winter, heavy snow melts rapidly over the center rafters, running down to form massive ice dams along the eaves. 
-
-The homeowner faced an impossible choice: either tear down the historic interior cedar ceiling to stuff thick insulation between rafters, or pay a standard roofing crew $12,000 to nail new shingles over the same cold plywood deck—leaving the uncomfortable drafts, high gas bills, and chronic ice dams untouched for another thirty years.
-
-There is a superior third path: **over-sheathing continuous insulation** (often called an exterior roof retrofit). By installing rigid foam boards directly over the structural deck from the outside during a shingle tear-off, you bring the entire roof framing inside the warm conditioned thermal envelope without disturbing a single nail of interior finish.
+### 1. The Critical Outboard Dew-Point Ratio
+Building codes prohibit arbitrary foam thicknesses above a cathedral roof. If the outboard rigid foam is too thin:
+- Indoor water vapor migrating through rafter cavities contacts cold interior roof sheathing and condenses, rotting the deck within 3 to 5 years.
+- **The Mandated R-Value Split:** In northern cold climates, the continuous insulation *above* the roof deck must account for at least **R-15 to R-20 of the total assembly R-value** (e.g., minimum 3 to 4 inches of continuous polyiso over the deck). This guarantees that the structural roof decking remains above 45°F throughout the winter, completely eliminating the internal condensing plane.
 
 ---
-
 ## The Cathedral Ceiling Dilemma: Why Cavity-Only Framing Fails
 
 Traditional residential roofs feature unconditioned attics where 18 to 20 inches of blown insulation rests flat across the ceiling drywall. But in a cathedral or vaulted ceiling, the roof rafters *are* the ceiling framing. 

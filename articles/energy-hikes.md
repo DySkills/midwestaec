@@ -17,16 +17,16 @@
 
 ---
 
-## Sub-Freezing Nights
+## The Capital Allocation Hierarchy: Why $20,000 on Windows Fails the Payback Test
 
-10 o'clock at night in the middle of January in Cedar Rapids, Iowa, your neighbor's Christmas lights are still shining across the snow-covered street. Outside, a punishing prairie wind is scouring the subdivisions, and the red bar stops at a biting 8°F. Inside, an uncomfortable cold draft sweeps across your back and down to your feet while you sit on the couch. 
+When winter natural gas tariffs and electric heating rates spike across the Midwest, homeowners look for ways to cut utility costs. Window replacement companies aggressively pitch $20,000 to $30,000 contracts, claiming new windows will slash energy bills in half. Building science thermodynamics proves this is one of the worst capital investments a homeowner can make:
 
-In this 1968 ranch-style home, the furnace starts up every eight minutes, the hardwood floor feels freezing cold, and the utility company says you burned through 1,420 kWh and 185 therms—costing you over $540 just to stay warm but clammy.
-
-The reality isn't your furnace constantly kicking up or failing. It is the byproduct of state utility tariffs meeting the physical flaws of your home's exterior envelope.
+### 1. The Capital Payback Reality Check
+- **The $25,000 Window Investment:** Delivers an annual heating energy savings of roughly **$250 to $450 per year**. The simple payback period spans **40 to 60 years**—exceeding the 20-year lifespan of insulated glass seals.
+- **The $2,500 Air-Sealing & Attic Insulation Alternative:** Sealing attic bypasses and basement rim joists with expanding foam and blowing R-60 cellulose cuts winter heating bills by **$350 to $650 per year**. The simple payback period is **2 to 4 years**!
+- **The Capital Allocation Rule:** Before spending $25,000 on windows, invest $3,000 to $5,000 in comprehensive envelope air-sealing and mechanical duct sealing. You achieve double the energy savings at one-fifth the capital expenditure.
 
 ---
-
 ## Increasing Costs Are More than Mechanical
 
 Recent utility hikes across the Midwest and Great Lakes region are not temporary blips in the billing cycle. Public service commission dockets confirm a structural baseline shift in how energy delivery is priced across the region:

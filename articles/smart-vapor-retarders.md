@@ -17,7 +17,17 @@
 
 ---
 
-## Hygrothermal Engineering: The Bidirectional Moisture Dilemma
+## The Code Baseline: IRC Section R702.7 Vapor Retarder Classes in Cold Climates
+
+Building energy codes across northern cold climates have overhauled the rules governing interior wall vapor barriers. Under **2021/2024 IRC Section R702.7**, municipal building codes establish three distinct legal vapor retarder classes:
+
+### 1. Legal Vapor Retarder Classifications
+- **Class I (< 0.1 Perm):** Impermeable sheet plastic (6-mil polyethylene), foil facings, and rubber membranes. **Code Alert:** In modern homes with central air conditioning, installing an interior Class I vapor barrier is a documented mold hazard because it blocks inward summer drying.
+- **Class II (0.1 to 1.0 Perm):** Variable-permeance smart membranes (CertainTeed MemBrain / ProClima Intello Plus), kraft paper facing on batts, and asphalt-coated paper. Permitted in all cold-climate wall assemblies.
+- **Class III (1.0 to 10.0 Perms):** Standard latex paint on 1/2" interior drywall. Permitted on interior walls *only* if continuous exterior insulation of sufficient R-value is installed outboard of the sheathing.
+
+---
+
 
 In mixed-humid and cold continental climates (Climate Zones 4, 5, and 6), building envelopes face a unique hygrothermal challenge that single-climate regions never encounter: **the complete reversal of vapor drive between winter and summer.**
 

@@ -27,24 +27,15 @@ referralHook: "Below-Slab Insulation & Rim Joist Contractor Match"
 
 ---
 
-## The Frozen Subsoil of Minneapolis at -14°F
+## The Regulatory & Geotechnical Baseline: ASTM C578 & IRC Section R402 Sub-Slab Mandates
 
-It is 7:00 AM on a bitter January morning in Minneapolis, Minnesota. A deep polar vortex has stalled over the Twin Cities, sending north winds slicing through bare maple branches, and the red bar stops at a numbing -14°F.
+Pouring a concrete basement slab in the Upper Midwest requires compliance with both structural load standards (ASTM C578) and energy code continuous insulation mandates (IRC Section R402.2.10):
 
-Around the perimeter of a newly constructed modern home, the frost depth has driven 48 inches deep into the glacial gravel-sand subsoil.
-
-Inside the home, the owners installed an expensive hydronic in-floor radiant heating system beneath the basement slab. The manifold is pumping 110°F water through thousands of feet of PEX tubing embedded in the 4-inch concrete slab. 
-
-Yet despite running the high-efficiency condensing boiler continuously, the polished concrete floor barely feels lukewarm. The boiler's digital display indicates a continuous gas firing rate of 85,000 BTU/hr, and the homeowner's winter gas bill just crossed $520 for the month.
-
-An infrared thermal imaging camera reveals what is happening. The radiant floor is indeed hot, but Fourier's Law of thermal conduction does not care about human comfort. 
-
-Because the builder placed the hydronic tubing over a standard 4-inch crushed gravel bed with only a sheet of 6-mil plastic—and zero rigid foam insulation—more than **38% of the boiler's thermal energy is conducting straight downward** into the frozen earth. The homeowner is spending hundreds of dollars a month heating the geological water table beneath their house.
-
-Upstairs, sitting in the basement family room, cold air is visibly rippling the ceiling can-light trims. The perimeter rim joists, stuffed with loose fiberglass batts, are functioning like open screen doors.
+### 1. The Code Mandate for Below-Slab Insulation
+- **Prescriptive Code Requirement:** In northern freeze-thaw climates, energy codes mandate a minimum of **R-10 continuous insulation** beneath heated slabs and perimeter footing frost breaks.
+- **Compressive Load Compliance (ASTM C578):** Foam board beneath concrete slabs must withstand the dead load of 4 inches of concrete (roughly 50 lbs/sq.ft.) plus live furniture and storage loads. Building codes require minimum **25 PSI compressive resistance (ASTM C578 Type IX EPS or Type IV XPS)** to prevent slab cracking and differential settlement.
 
 ---
-
 ## Sub-Slab Thermodynamics: Conduction to the Infinite Heat Sink
 
 Soil beneath a building foundation does not remain warm on its own. While deep earth temperatures 10 feet down stay relatively stable at **48°F to 52°F** throughout the year in the Midwest, the soil immediately below a basement slab is continually influenced by outdoor perimeter frost lines:

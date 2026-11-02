@@ -35,7 +35,22 @@ Cutting an egress window opening through an existing 8-inch to 10-inch steel-rei
 
 ---
 
-## IRC Section R310 Regulatory Baseline
+## The Regulatory Baseline: IRC Section R310 Egress Geometry & Net Clear Openings
+
+When converting a basement into legal living space or adding a below-grade bedroom across the Midwest, municipal building codes mandate strict compliance with **IRC Section R310 ("Emergency Escape and Rescue Openings")**:
+
+### 1. The 4 Non-Negotiable Egress Dimensions
+- **Minimum Net Clear Opening Area:** Must achieve at least **5.7 square feet** of open, unobstructed passage (5.0 sq. ft. for at-grade openings).
+- **Minimum Net Clear Opening Height:** Must be at least **24 inches** clear opening.
+- **Minimum Net Clear Opening Width:** Must be at least **20 inches** clear opening.
+- **Maximum Sill Height:** The bottom of the clear opening must sit **no higher than 44 inches above the finished floor**. (If your finished floor has 2-inch subfloor foam or carpet, measurement is taken from the top of the finished surface).
+
+### 2. Window Well Size & Safety Ladder Rules (IRC Section R310.2.3)
+- The window well must provide a horizontal projection of at least **36 inches** and a minimum floor area of **9 square feet**.
+- If the window well depth exceeds **44 inches**, a permanent ladder or steps must be fixed inside the well, with rungs spaced no further than 18 inches apart and projecting at least 3 inches from the well wall.
+
+---
+
 
 The International Residential Code (IRC Section R310) establishes non-negotiable geometric minimums for emergency egress. These dimensions are designed to ensure that a fully equipped firefighter carrying a self-contained breathing apparatus (SCBA) can enter the home while occupants escape.
 

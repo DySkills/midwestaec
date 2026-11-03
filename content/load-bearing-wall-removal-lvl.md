@@ -13,7 +13,7 @@ subtitle: "Creating an open-concept floor plan in a Midwest ranch or two-story h
 summary: "Removing a load-bearing wall is the single most common structural alteration in Midwest residential remodeling. But swapping a stud wall for a wide-span beam involves complex tributary load calculations, temporary shoring wall erection, and continuous point load tracing through floor joists into basement footings. We analyze Laminated Veneer Lumber (LVL) vs steel I-beams, flush vs drop beam installations, and the permit requirements that protect your home from catastrophic ceiling sagging."
 codeTag: "IRC Section R502 / ASTM D5456 / IBC Chapter 16"
 author: "Midwest AEC Building Science"
-date: "October 2026"
+date: "November 2026"
 readTime: "11 min read"
 referralHook: "Structural Engineering & General Contractor Match"
 ---
@@ -22,12 +22,12 @@ referralHook: "Structural Engineering & General Contractor Match"
 
 > **Quick Summary:** Removing an interior load-bearing wall to create an open-concept living space requires transferring thousands of pounds of dead, live, and winter snow loads into an engineered beam. Success depends on calculating tributary load areas across floor joists, erecting dual temporary shoring walls within 2 to 3 feet of the demo line, choosing between economical drop beams versus seamless flush ceiling beams, and engineering the concentrated end point loads. Without continuous blocking down through floor cavities to dedicated concrete basement footings, concentrated 4,000-pound end loads will crush subfloors and crack basement slabs.
 >
-> - **Tributary Load Math:** Beams must be sized for cumulative dead, live, and regional snow loads (ranging from 20 to 40+ PSF) across the full tributary joist span.
-> - **Drop vs. Flush Beam Assemblies:** Drop beams sit beneath existing joists for faster, lower-cost installation; flush beams require cutting joists and hanging them with Simpson Strong-Tie hangers for a seamless ceiling.
-> - **Dual Shoring Walls:** Temporary shoring walls must be erected within 2 to 3 feet on both sides of the demo line and mirrored in the basement to avoid punching shear.
-> - **Point Load Foundation Transfer:** Concentrated 4,000-pound end reactions cannot rest on standard subfloor; they must transfer via solid wood blocking down to dedicated concrete spread footings.
+> - Beams must be sized for cumulative dead, live, and regional snow loads (ranging from 20 to 40+ PSF) across the full tributary joist span.
+> - Drop beams sit beneath existing joists for faster, lower-cost installation, whereas flush beams require cutting joists and hanging them with Simpson Strong-Tie hangers for a seamless ceiling.
+> - Temporary shoring walls must be erected within 2 to 3 feet on both sides of the demo line and mirrored in the basement to avoid punching shear.
+> - Concentrated 4,000-pound end reactions cannot rest on standard subfloor; they must transfer via solid wood blocking down to dedicated concrete spread footings.
 
-The desire for open-concept floor plans has made interior wall removal the most frequently requested alteration in American residential remodeling. Across the Midwest, thousands of post-war ranches, 1970s split-levels, and two-story center-hall colonials are partitioned by central walls dividing small kitchens, dark dining rooms, and living areas.
+The desire for open-concept floor plans has made interior wall removal the most frequently requested alteration in American residential remodeling. Across the Midwest, thousands of post-war ranches, 1970s split-levels, and two-story center-hall colonials are partitioned by central walls dividing small kitchens, dark dining rooms, and living areas. In older structures, opening up these floor plans often intersects with vertical fire spread pathways analyzed in our [balloon framing retrofit guide](balloon-framing.html).
 
 However, removing a wall is not merely a demolition task. In standard wood-framed construction, interior walls are primary structural elements designed to transfer **thousands of pounds of gravity loads (dead load + live load + snow load)** from roof rafters and second-floor joists down to the foundation.
 
@@ -74,7 +74,7 @@ Before swinging a sledgehammer, a builder or architect must identify the structu
 
 ## Calculating Tributary Load & Sizing the Beam
 
-A structural beam must be sized based on the **tributary area** it supports—not just the length of the opening.
+A structural beam must be sized based on the **tributary area** it supports, not just the length of the opening.
 
 $$\text{Tributary Width} = \frac{\text{Joist Span Left}}{2} + \frac{\text{Joist Span Right}}{2}$$
 
@@ -176,6 +176,9 @@ The most common engineering failure in DIY wall removals occurs at the **ends of
 │     through the floor joist cavity to the foundation beam below.       │
 │  3. The basement post must bear on an engineered concrete spread       │
 │     footing (minimum 24" x 24" x 12" thick, 3,000 psi concrete).       │
+│     In basement retrofits involving an [ICF basement wall](icf-basements-walls.html)        │
+│     or [cutting basement egress windows](basement-egress-window-cutting.html), verifying footing isolation  │
+│     protects the slab against differential settlement.                 │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -203,15 +206,15 @@ If you are planning an open-concept wall removal, follow this professional execu
 Handling LVL hoisting, point load footings, and structural permits requires licensed trades:
 * &rarr; [Find Vetted Midwest General Contractors & Structural Framing Pros](../browse.html?cat=envelopes)
 * &rarr; [Connect with Regional Architectural & Engineering Services](../browse.html?cat=all)
-* &rarr; [Review All 34 MidwestAEC™ Building Science Specifications](../browse.html?cat=all)
+* &rarr; [Review All 39 MidwestAEC™ Building Science Specifications](../browse.html?cat=all)
 
 ---
 
 ### Related Building Science Guides
-- **Historic Wood Wall Retrofits:** &rarr; **[Read: Balloon Framing Firestops: Halting the Two-Story Convective Draft Chimney](balloon-framing.html)**
-- **Basement Foundation Cutting:** &rarr; **[Read: Legal Basement Finishing: Cutting Egress Windows in Poured Concrete, IRC R310 Codes & Slab Framing](basement-egress-window-cutting.html)**
-- **Panelized Wall Alternatives:** &rarr; **[Read: SIPs (Structural Insulated Panels) in Zone 5: Total Cost vs. Traditional Stick Framing](sips-vs-traditional-framing.html)**
-- **Monolithic Foundation Walls:** &rarr; **[Read: ICF Basements & Foundations: Eliminating Moisture & Freezing Walls](icf-basements-walls.html)**
+- [Balloon Framing Firestops: Halting the Two-Story Convective Draft Chimney](balloon-framing.html)
+- [Legal Basement Finishing: Cutting Egress Windows in Poured Concrete, IRC R310 Codes & Slab Framing](basement-egress-window-cutting.html)
+- [SIPs (Structural Insulated Panels) in Zone 5: Total Cost vs. Traditional Stick Framing](sips-vs-traditional-framing.html)
+- [ICF Basements & Foundations: Eliminating Moisture & Freezing Walls](icf-basements-walls.html)
 
 ---
 

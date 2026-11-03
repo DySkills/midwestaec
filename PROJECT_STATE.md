@@ -17,13 +17,19 @@
 ---
 
 ## 2. Article Inventory & Content Architecture
-* **Total Published Articles:** **38 live specifications** across all building science disciplines.
-* **Compiler Engine:** [`build.js`](build.js) compiles `content/*.md` into `articles/*.html` and native `.md` AEO twins, auto-generates Schema.org JSON-LD (`Article`, `TechArticle`, `FAQPage`, `HowTo`), regenerates [`data.js`](data.js), [`rss.xml`](rss.xml), [`llms.txt`](llms.txt), and [`sitemap.xml`](sitemap.xml) (44 URLs with dynamic `<lastmod>`).
+* **Total Published Articles:** **39 live specifications** across all building science disciplines.
+* **Compiler Engine:** [`build.js`](build.js) compiles `content/*.md` into `articles/*.html` and native `.md` AEO twins, auto-generates Schema.org JSON-LD (`Article`, `TechArticle`, `FAQPage`, `HowTo`), regenerates [`data.js`](data.js), [`rss.xml`](rss.xml), [`llms.txt`](llms.txt), and [`sitemap.xml`](sitemap.xml) (45 URLs with dynamic `<lastmod>`).
 * **Recent Production Deployments (Nov 2, 2026):**
+  * [`load-bearing-wall-removal-lvl.md`](content/load-bearing-wall-removal-lvl.md) &rarr; [`articles/load-bearing-wall-removal-lvl.html`](articles/load-bearing-wall-removal-lvl.html) (Sizing LVL beams, temporary shoring, and continuous point load footing transfer).
   * [`furnace-vent-pipe-freeze-lockout.md`](content/furnace-vent-pipe-freeze-lockout.md) &rarr; [`articles/furnace-vent-pipe-freeze-lockout.html`](articles/furnace-vent-pipe-freeze-lockout.html) (Emergency winter Category IV condensing flue icing and pressure switch diagnostics).
   * [`heat-pump-aux-heat-lockout-balance-point.md`](content/heat-pump-aux-heat-lockout-balance-point.md) &rarr; [`articles/heat-pump-aux-heat-lockout-balance-point.html`](articles/heat-pump-aux-heat-lockout-balance-point.html) (Dual-fuel COP curves and economic balance point staging).
   * [`sump-pump-failure-spring-thaw-backups.md`](content/sump-pump-failure-spring-thaw-backups.md) &rarr; [`articles/sump-pump-failure-spring-thaw-backups.html`](articles/sump-pump-failure-spring-thaw-backups.html) (Exterior discharge pipe freezing and rapid thaw hydrostatic head mitigation).
   * [`cold-climate-septic-well-freeze-solutions.md`](content/cold-climate-septic-well-freeze-solutions.md) &rarr; [`articles/cold-climate-septic-well-freeze-solutions.html`](articles/cold-climate-septic-well-freeze-solutions.html) (Rural deep frost line penetration, uninsulated transport piping, and pressure switch protection).
+* **Staged Backlog Inventory (4 Specifications Remaining):**
+  1. [`siding-comparison-hardie-lpsmartside-vinyl.md`](content/backlog/siding-comparison-hardie-lpsmartside-vinyl.md) — Staged for **Monday, Nov 9**
+  2. [`emergency-window-repair-seal-failure.md`](content/backlog/emergency-window-repair-seal-failure.md) — Staged for **Monday, Nov 16**
+  3. [`foundation-freeze-thaw-crack-repair.md`](content/backlog/foundation-freeze-thaw-crack-repair.md) — Staged for **Thursday, Nov 19 (Frost Heave & Wall Bowing)**
+  4. [`roof-heat-tape-deicing-cables.md`](content/backlog/roof-heat-tape-deicing-cables.md) — Staged for **Monday, Nov 30 (Deep Freeze & Ice Dam Electrical Analysis Spoke)**
 * **Recent Major Overhauls (Nov 2, 2026):**
   * **Batch 3 Library Destructuring:** All 38 articles converted to bespoke Blueprints (Material Teardowns, Retrofit SOPs, Forensic Diagnostics).
   * **Zero Em-Dash Rule Enforced:** 129 em-dashes eliminated across the entire site.

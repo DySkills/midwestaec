@@ -1121,6 +1121,47 @@ var miaecData = [
     "url": "articles/insulating-brick.html"
   },
   {
+    "title": "Load-Bearing Wall Removal: Sizing LVL Beams, Temporary Shoring Walls & Building Permits",
+    "subtitle": "Creating an open-concept floor plan in a Midwest ranch or two-story home requires transferring tons of gravity load. Here is the structural engineering guide to sizing LVL beams, building temporary shoring, and tracing continuous load paths down to foundation footings.",
+    "format": "Report",
+    "leadType": "Fact-First",
+    "category": "Envelope",
+    "catSlug": "envelopes",
+    "cities": [
+      "Chicago",
+      "Cincinnati",
+      "Cleveland",
+      "Columbus",
+      "Des Moines",
+      "Detroit",
+      "Indianapolis",
+      "Kansas City",
+      "Milwaukee",
+      "Minneapolis",
+      "Omaha",
+      "Peoria",
+      "Rockford",
+      "South Bend",
+      "St. Louis"
+    ],
+    "states": [
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "MI",
+      "MN",
+      "MO",
+      "NE",
+      "OH",
+      "WI"
+    ],
+    "summary": "Removing a load-bearing wall is the single most common structural alteration in Midwest residential remodeling. But swapping a stud wall for a wide-span beam involves complex tributary load calculations, temporary shoring wall erection, and continuous point load tracing through floor joists into basement footings. We analyze Laminated Veneer Lumber (LVL) vs steel I-beams, flush vs drop beam installations, and the permit requirements that protect your home from catastrophic ceiling sagging.",
+    "codeTag": "IRC Section R502 / ASTM D5456 / IBC Chapter 16",
+    "type": "Report",
+    "url": "articles/load-bearing-wall-removal-lvl.html"
+  },
+  {
     "title": "Rural Off-Grid Systems in the Great Lakes and Plains: Propane, Battery Backup & Freeze-Proof Wells",
     "subtitle": "How to design sub-zero propane vaporization capacity, thermal battery rooms, and 60-inch frost-line pitless wellhead protection for Midwest homesteads.",
     "format": "Report",

@@ -5,7 +5,7 @@
     <link>https://midwestaec.com</link>
     <description>Curated building science specifications, cold-climate envelope assemblies, and architectural trade engineering for Climate Zones 4 and 5.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 07:16:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 00:54:21 GMT</lastBuildDate>
     <atom:link href="https://midwestaec.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Attic Air Sealing &amp; Eave Baffling: The Step-by-Step Cold Roof Retrofit</title>
@@ -195,6 +195,13 @@
       <guid isPermaLink="true">https://midwestaec.com/articles/insulating-brick.html</guid>
       <description>Clay insulating brick retrofits: Why interior insulation causes historic brick spalling in sub-zero winters, and the hygrothermal blueprint to do it safely.</description>
       <category>Urban Development</category>
+    </item>
+    <item>
+      <title>Load-Bearing Wall Removal: Sizing LVL Beams, Temporary Shoring Walls &amp; Building Permits</title>
+      <link>https://midwestaec.com/articles/load-bearing-wall-removal-lvl.html</link>
+      <guid isPermaLink="true">https://midwestaec.com/articles/load-bearing-wall-removal-lvl.html</guid>
+      <description>Removing a load-bearing wall is the single most common structural alteration in Midwest residential remodeling. But swapping a stud wall for a wide-span beam involves complex tributary load calculations, temporary shoring wall erection, and continuous point load tracing through floor joists into basement footings. We analyze Laminated Veneer Lumber (LVL) vs steel I-beams, flush vs drop beam installations, and the permit requirements that protect your home from catastrophic ceiling sagging.</description>
+      <category>Envelope</category>
     </item>
     <item>
       <title>Rural Off-Grid Systems in the Great Lakes and Plains: Propane, Battery Backup &amp; Freeze-Proof Wells</title>

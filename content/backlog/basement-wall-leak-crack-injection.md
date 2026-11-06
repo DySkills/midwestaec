@@ -89,6 +89,12 @@ For actively leaking or moisture-prone cracks, low-pressure polyurethane injecti
 5. **Sequential Bottom-to-Top Injection:** Insert the chemical grout cartridge into the lowest port. Slowly depress the plunger until liquid grout flows out of the port directly above it. Cap the lowest port and move up to the next port. Repeat until the entire 8-foot wall is filled.
 6. **Full-Thickness Penetration:** The expanding foam travels through the full 8-to-10-inch width of the concrete, expanding against the exterior earth backfill to cap the water entry path outside the building.
 
+### Connect with Certified Midwest Waterproofing Specialists
+Stopping active basement water leaks permanently requires licensed foundation crack injection trades:
+* &rarr; [Find Certified Midwest Basement Waterproofing & Crack Injection Pros](../browse.html?cat=basements)
+* &rarr; [Connect with Regional Foundation Drainage & Sump Pump Contractors](../browse.html?cat=basements)
+* &rarr; [Review All 39 MidwestAEC™ Building Science Specifications](../browse.html?cat=all)
+
 ---
 
 ## Frequently Asked Questions

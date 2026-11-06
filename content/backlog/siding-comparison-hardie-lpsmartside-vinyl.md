@@ -164,9 +164,9 @@ Before signing a \$30,000+ siding contract, demand these specifications in the w
 
 ### Step 4: Connect with Certified Siding Installers
 Cladding failure almost never comes from manufacturing defects, it comes from improper nailing and missing flashings:
-* [Find Vetted James Hardie & LP SmartSide Siding Specialists &rarr;](../browse.html?cat=envelopes)
-* [Connect with Window, Siding & Exterior Envelope Contractors &rarr;](../browse.html?cat=roofing)
-* [Review All 32 Midwest AEC Building Science Specifications &rarr;](../browse.html?cat=all)
+* &rarr; [Find Vetted James Hardie & LP SmartSide Siding Specialists](../browse.html?cat=envelopes)
+* &rarr; [Connect with Window, Siding & Exterior Envelope Contractors](../browse.html?cat=envelopes)
+* &rarr; [Review All 39 MidwestAEC™ Building Science Specifications](../browse.html?cat=all)
 
 ---
 

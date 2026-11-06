@@ -176,10 +176,10 @@ Follow this step-by-step roadmap to resolve a broken window:
 * Confirm whether the estimate includes municipal permit fees, exterior aluminum trim capping, and hauling away old debris.
 
 ### Step 4: Connect with Verified Midwest Window Specialists
-Window installation quality matters more than the window brand—improper shimming or uninsulated frame gaps ruin even \$2,000 triple-pane windows:
-* [Find Vetted Replacement Window & Cladding Specialists &rarr;](../browse.html?cat=envelopes)
-* [Connect with Regional Energy Audit & Weatherization Contractors &rarr;](../browse.html?cat=roofing)
-* [Review All 32 Midwest AEC Building Science Specifications &rarr;](../browse.html?cat=all)
+Window installation quality matters more than the window brand. Improper shimming or uninsulated frame gaps ruin even \$2,000 triple-pane windows:
+* &rarr; [Find Vetted Replacement Window & Cladding Specialists](../browse.html?cat=windows)
+* &rarr; [Connect with Regional Energy Audit & Weatherization Contractors](../browse.html?cat=envelopes)
+* &rarr; [Review All 39 MidwestAEC™ Building Science Specifications](../browse.html?cat=all)
 
 ---
 

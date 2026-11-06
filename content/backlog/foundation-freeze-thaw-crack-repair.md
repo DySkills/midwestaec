@@ -183,6 +183,12 @@ Step 4: Engage Licensed Professional Structural Engineer (PE)
   │  Receive stamped drawings before signing contractor stabilization contracts.
 ```
 
+### Connect with Certified Midwest Foundation Specialists
+Stabilizing bowed basement walls and stopping hydrostatic water intrusion requires licensed structural trades:
+* &rarr; [Find Certified Midwest Foundation Repair & Piering Contractors](../browse.html?cat=basements)
+* &rarr; [Connect with Regional Basement Waterproofing & Structural Engineers](../browse.html?cat=basements)
+* &rarr; [Review All 39 MidwestAEC™ Building Science Specifications](../browse.html?cat=all)
+
 ---
 
 ## Frequently Asked Questions

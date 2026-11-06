@@ -98,6 +98,12 @@ True professional ice dam contractors use dedicated low-pressure steam machines 
 * **The Steam Advantage:** Steam units heat water into saturated vapor at 290°F to 300°F while maintaining nozzle pressures below 250 psi. The high latent heat of vaporization melts through 8 inches of ice in minutes like a warm wire through butter, without disturbing shingle surfaces.
 * **The Pressure Washer Trap:** Unscrupulous contractors modify standard commercial pressure washers with hot-water burners. These units blast water at 1,500 to 3,000 psi. While the water is hot (160°F), the kinetic force gouges asphalt shingles, drives pressurized water sideways into soffits, and strips granular coatings.
 
+### Connect with Emergency Midwest Ice Dam Steaming Crews
+Stopping active ice dam leaks without voiding your shingle warranty requires dedicated low-pressure steam equipment:
+* &rarr; [Find Certified Midwest Low-Pressure Ice Dam Steaming Contractors](../browse.html?cat=roofing)
+* &rarr; [Connect with Regional Roofing & Attic Air Sealing Pros](../browse.html?cat=envelopes)
+* &rarr; [Review All 39 MidwestAEC™ Building Science Specifications](../browse.html?cat=all)
+
 ---
 
 ## Frequently Asked Questions

@@ -231,6 +231,12 @@ Installing heating cables represents a compounding expense: you pay upfront for 
 
 A comprehensive cold roof air-sealing and insulation retrofit costs virtually the same out-of-pocket after federal energy tax credits, eliminates ice dams permanently, voids zero roof warranties, and pays for itself within five years through reduced heating and cooling bills.
 
+### Connect with Certified Midwest Roofing & Weatherization Pros
+Permanently eliminating winter ice dams requires certified BPI weatherization and attic air sealing contractors:
+* &rarr; [Find Certified Midwest Roofing & Ice Dam Remediation Contractors](../browse.html?cat=roofing)
+* &rarr; [Connect with Regional Attic Air Sealing & Insulation Pros](../browse.html?cat=envelopes)
+* &rarr; [Review All 39 MidwestAEC™ Building Science Specifications](../browse.html?cat=all)
+
 ---
 
 ## Frequently Asked Questions

@@ -20,10 +20,10 @@ referralHook: "Attic Air Sealing & Roofing Insulation Contractor Match"
 
 > **Quick Summary:** In cold-climate residential construction across Climate Zones 4 and 5, electric de-icing cables are commonly installed as an emergency response to recurring roof ice dams. A typical 120-foot zigzag eaves-and-gutter installation draws 600 to 1,000 watts of continuous electrical power (5 to 8.3 amps), consuming 450 to 720 kilowatt-hours of electricity per freezing month. More critically, heating cables do not address the root cause of ice damming—conditioned attic heat escaping through unsealed ceiling penetrations—and introduce significant fastener penetration leaks, accelerated shingle granule degradation, and National Electrical Code (NEC Article 426) ground-fault protection hurdles.
 >
-> - **Continuous Electrical Amp Draw:** Constant-wattage and self-regulating cables consume 5 to 8 watts per linear foot. A 150-foot run on an attached garage or eaves draws 1,050 watts—running a 120V 15A branch circuit near its 80% continuous-load limit and generating $100 to $160 monthly utility surcharges.
-> - **The Drainage Tunnel Limitation:** Electric cables do not melt the entire ice dam; they carve 2-inch wide melt channels through the ice. When sub-zero winds hit, meltwater running down the roof often refreezes immediately beyond the heated zigzag loops, creating a secondary ice dam further up the roof slope.
-> - **Fastener Penetrations and Warranty Voiding:** Standard installation clips require nailing or screwing directly through asphalt shingle surfaces. Over years of thermal cycling and heavy snow sliding, these brackets loosen, creating unsealed penetrations that cause rot in the roof deck.
-> - **The Cold Roof Alternative:** Eliminating warm attic air bypasses (top plates, chase flues, can lights) and achieving R-60 attic insulation maintains the roof deck within 4°F of outdoor ambient temperature, permanently eliminating ice dams without consuming a single watt of electricity.
+> - Constant-wattage and self-regulating cables consume 5 to 8 watts per linear foot. A 150-foot run on an attached garage or eaves draws 1,050 watts, running a 120V 15A branch circuit near its 80% continuous-load limit and generating $100 to $160 monthly utility surcharges.
+> - Electric cables do not melt the entire ice dam; they carve 2-inch wide melt channels through the ice. When sub-zero winds hit, meltwater running down the roof often refreezes immediately beyond the heated zigzag loops, creating a secondary ice dam further up the roof slope.
+> - Standard installation clips require nailing or screwing directly through asphalt shingle surfaces. Over years of thermal cycling and heavy snow sliding, these brackets loosen, creating unsealed penetrations that cause rot in the roof deck.
+> - Eliminating warm attic air bypasses (top plates, chase flues, can lights) and achieving R-60 attic insulation maintains the roof deck within 4°F of outdoor ambient temperature, permanently eliminating ice dams without consuming a single watt of electricity.
 
 ---
 
@@ -101,8 +101,9 @@ Property owners facing ice dams typically encounter two distinct heating cable t
 ### 1. Constant-Wattage Cables (Retail Big-Box Kits)
 Constant-wattage cables consist of an insulated pair of copper bus wires connected to a high-resistance nichrome heating element. They emit a constant thermal output (typically 5 watts per foot) regardless of surrounding outdoor temperature.
 
-- **The Overheat Failure Mode:** Because their output is constant, these cables cannot overlap or touch each other. If loops cross during installation, the localized resistance can melt the thermoplastic jacket, causing a short circuit or sparking a roof fire.
-- **Thermostatic Waste:** Without a specialized automatic snow and moisture controller, constant-wattage cables run continuously whenever plugged in, wasting hundreds of kilowatt-hours during clear, freezing days when no melting occurs.
+Because their output is constant, these cables cannot overlap or touch each other. If loops cross during installation, the localized resistance can melt the thermoplastic jacket, causing a short circuit or sparking a roof fire.
+
+Without a specialized automatic snow and moisture controller, constant-wattage cables run continuously whenever plugged in, wasting hundreds of kilowatt-hours during clear, freezing days when no melting occurs.
 
 ### 2. Self-Regulating Heating Cables
 Self-regulating cables feature two parallel copper bus conductors extruded into an irradiated carbon-polymer core. As ambient temperature drops, the microscopic carbon polymer contracts, creating thousands of conductive electrical pathways that increase heat generation.

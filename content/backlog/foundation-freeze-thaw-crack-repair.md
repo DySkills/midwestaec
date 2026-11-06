@@ -20,10 +20,10 @@ referralHook: "Certified Foundation Repair & Structural Engineer Match"
 
 > **Quick Summary:** In the upper Midwest, residential basement walls endure extreme lateral soil mechanics. High-plasticity clay backfill (illite and montmorillonite) absorbs autumn rains, expands, and freezes solid down to the 42-inch frost line. This freeze-thaw expansion creates lateral pressures of 1,200 to 2,000 pounds per square foot (psf), exceeding the flexural tensile strength of unreinforced 8-inch concrete masonry unit (CMU) walls. The result is inward wall deflection, horizontal mid-height cracking, and potential structural collapse if inward bow exceeds 2 inches.
 >
-> - **Frost Depth & Lateral Force:** Water expands by 9% upon freezing. When saturated clay freezes against a basement stem wall, it exerts adfreezing and frost-heave pressures far exceeding standard active earth pressure (typically 30–60 psf/ft of depth).
-> - **The Deflection Threshold:** Inward bowing of less than 2 inches can be permanently arrested and stabilized using aerospace-grade Carbon Fiber Reinforced Polymer (CFRP) straps bonded with high-modulus epoxy. Inward deflection exceeding 2 inches or shearing at the base requires structural steel I-beams or helical tiebacks.
-> - **Crack Morphology Diagnosis:** Horizontal cracks along the third or fourth mortar course indicate lateral frost-line bending. Diagonal stair-step cracks near corners indicate differential footing settlement. Hairline vertical shrinkage cracks are non-structural but permit water infiltration.
-> - **Injection Chemistry:** Structural epoxy injection (ASTM C881) restores the compressive and tensile monolithic integrity of cracked poured concrete; hydrophobic polyurethane chemical grout expands up to 20 times its liquid volume to seal actively leaking cracks against hydrostatic head pressure.
+> - Water expands by 9% upon freezing. When saturated clay freezes against a basement stem wall, it exerts adfreezing and frost-heave pressures far exceeding standard active earth pressure (typically 30–60 psf/ft of depth).
+> - Inward bowing of less than 2 inches can be permanently arrested and stabilized using aerospace-grade Carbon Fiber Reinforced Polymer (CFRP) straps bonded with high-modulus epoxy. Inward deflection exceeding 2 inches or shearing at the base requires structural steel I-beams or helical tiebacks.
+> - Horizontal cracks along the third or fourth mortar course indicate lateral frost-line bending. Diagonal stair-step cracks near corners indicate differential footing settlement. Hairline vertical shrinkage cracks are non-structural but permit water infiltration.
+> - Structural epoxy injection (ASTM C881) restores the compressive and tensile monolithic integrity of cracked poured concrete; hydrophobic polyurethane chemical grout expands up to 20 times its liquid volume to seal actively leaking cracks against hydrostatic head pressure.
 
 ---
 

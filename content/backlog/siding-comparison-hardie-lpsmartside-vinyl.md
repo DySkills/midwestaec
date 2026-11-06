@@ -10,7 +10,7 @@ editorialTheme: "Cladding & Siding Rainscreen Week"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Peoria", "Rockford", "South Bend", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "NE", "OH", "WI"]
 subtitle: "Replacing whole-home exterior cladding is a major capital investment. Here is the forensic material science comparing fiber cement, engineered wood, and insulated vinyl across Midwest hail storms, freeze-thaw cycles, and rainscreen drainage cavities."
-summary: "Re-siding a 2,500-square-foot Midwest home costs between $18,000 and $45,000. In Climate Zone 5, siding must endure 100°F summer humidity, -15°F polar freezes, wind-driven sleet, and golf-ball-sized hail. We deliver an objective, material-science comparison between James Hardie (fiber cement), LP SmartSide (engineered strand wood), and heavy-gauge insulated vinyl—plus the rainscreen drainage details that prevent wall rot regardless of which cladding you choose."
+summary: "Re-siding a 2,500-square-foot Midwest home costs between $18,000 and $45,000. In Climate Zone 5, siding must endure 100°F summer humidity, -15°F polar freezes, wind-driven sleet, and golf-ball-sized hail. We deliver an objective, material-science comparison between James Hardie (fiber cement), LP SmartSide (engineered strand wood), and heavy-gauge insulated vinyl, plus the rainscreen drainage details that prevent wall rot regardless of which cladding you choose."
 codeTag: "IRC Section R703 / ASTM C1186 / ASTM D3679"
 author: "Midwest AEC Building Science"
 date: "October 2026"
@@ -53,7 +53,7 @@ Every siding material achieves weather resistance through a different chemical a
 | **Installed Cost (per Sq Ft)** | **\$11.00 – \$16.50** | **\$9.50 – \$14.00** | **\$6.50 – \$10.50** |
 | **Hail & Impact Resistance** | **Moderate:** Brittle under direct impact; large hail (> 1.75") can crack or shatter boards | **Superior:** High flexural elasticity; absorbs direct baseball-sized hail hits with zero cracking | **Low-Moderate:** Freezing winter temps make PVC brittle; cold hail creates punch-through holes |
 | **Moisture & Rot Resistance** | **High:** Non-combustible, inorganic; will not rot, but absorbs water if raw cuts are unsealed | **High:** Treated with zinc borate throughout core to resist fungal rot and termites | **Absolute:** PVC does not absorb liquid water or rot under any condition |
-| **Thermal Expansion Rate** | **Extremely Low** ($0.05\%$) | **Low** ($0.10\%$) | **High** ($0.45\%$) — Can expand 1/2" over a 12-foot span |
+| **Thermal Expansion Rate** | **Extremely Low** ($0.05\%$) | **Low** ($0.10\%$) | **High** ($0.45\%$) (Can expand 1/2" over a 12-foot span) |
 | **Fire Resistance (ASTM E136)** | **Class A (Non-Combustible):** 100% fireproof; will not ignite or feed a flame | **Class C (Combustible):** Treated against flame spread, but will burn in structural fires | **Melts at 165°F:** Does not ignite easily, but melts and warps under BBQ/reflected window heat |
 | **Weight per Square (100 sq ft)** | **Heavy (~230 lbs):** Requires 2-man installation crews and structural framing checks | **Light (~110 lbs):** Faster installation; 16-foot planks reduce wall seams by 33% | **Lightest (~65 lbs):** Fastest installation |
 
@@ -163,7 +163,7 @@ Before signing a \$30,000+ siding contract, demand these specifications in the w
 * If choosing LP SmartSide: Specify **ExpertFinish** with factory-matched edge sealant.
 
 ### Step 4: Connect with Certified Siding Installers
-Cladding failure almost never comes from manufacturing defects—it comes from improper nailing and missing flashings:
+Cladding failure almost never comes from manufacturing defects, it comes from improper nailing and missing flashings:
 * [Find Vetted James Hardie & LP SmartSide Siding Specialists &rarr;](../browse.html?cat=envelopes)
 * [Connect with Window, Siding & Exterior Envelope Contractors &rarr;](../browse.html?cat=roofing)
 * [Review All 32 Midwest AEC Building Science Specifications &rarr;](../browse.html?cat=all)
@@ -179,7 +179,7 @@ Both are premium cladding systems, but they excel in different stress conditions
 No. Siding is an aesthetic rainscreen designed to shed bulk water and protect against UV rays; it is **not waterproof**. During severe Midwest convective storms, wind pressure drives up to 15% of rainwater past lap edges, butt joints, and trim seams. Your home’s actual waterproof barrier is the continuous Weather-Resistive Barrier (WRB) and the drainage cavity behind the siding. Trapping water between flat siding and bare housewrap causes structural sheathing rot.
 
 ### Why does vinyl siding warp or buckle on Midwest homes?
-Vinyl siding (PVC) expands and contracts dramatically ($0.45\%$ thermal expansion rate)—a 12-foot vinyl panel can grow and shrink by nearly 1/2 inch between sub-zero winter nights and 100°F summer days. If an inexperienced installer nails vinyl panels tightly against the wall studs instead of leaving a 1/32-inch gap and centering fasteners in the elongated nail slots, the panel cannot slide. When summer solar radiation hits the wall, the constrained vinyl has nowhere to expand and buckles into visible waves.
+Vinyl siding (PVC) expands and contracts dramatically ($0.45\%$ thermal expansion rate), where a 12-foot vinyl panel can grow and shrink by nearly 1/2 inch between sub-zero winter nights and 100°F summer days. If an inexperienced installer nails vinyl panels tightly against the wall studs instead of leaving a 1/32-inch gap and centering fasteners in the elongated nail slots, the panel cannot slide. When summer solar radiation hits the wall, the constrained vinyl has nowhere to expand and buckles into visible waves.
 
 ### What is a kick-out flashing and why is it legally required?
 A kick-out flashing (diverter flashing) is a bent metal or molded plastic flashing installed at the intersection where a roof eave terminates against a vertical siding wall (IRC Section R903.2.1). Without a kick-out flashing, roof runoff runs down the roof-wall junction and drains directly behind the siding into the exterior wall cavity, rotting out the rim joist, sheathing, and foundation plate within 3 to 5 years. Missing kick-out flashings are the single leading cause of concealed structural moisture damage on residential sidewalls.

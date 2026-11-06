@@ -242,11 +242,17 @@ When the user finishes editing an article in Google Docs and says *"sync [slug]"
    * Over 94 impressions across high-intent queries: `"icf basements"`, `"icf basement"`, `"insulated concrete forms foundation"`.
    * `"icf basement"` is hovering at **Position 20 (Top of Page 2)**. Internal linking and trade depth are designed to push this query onto Page 1.
 2. **Embodied Carbon Materials (`embodied-carbon-materials.html`):**
-   * 58 impressions across `"low carbon insulation"`, `"cellulose insulation carbon footprint"`.
+   * Surged to 95 impressions across `"low carbon insulation"`, `"cellulose insulation carbon footprint"`, and localized commercial queries.
 3. **Insulating Historic Brick (`insulating-brick.html`):**
    * Page 1/2 performance with active organic clicks on masonry thermal retrofits.
 4. **Surging Winter Emergency Waves:**
    * Breakout seasonal queries: `"furnace blowing cold air"`, `"furnace clicking"`, `"aux heat on honeywell"`, `"frozen sump pump discharge pipe"`, `"frozen house pipes"`, `"prevent ice dams on roof"`.
+
+### Search Console Telemetry Dynamics & Flatline FAQ
+* **48-to-72 Hour GSC Reporting Lag:** Google Search Console operates on a delay. Fresh architectural changes, backlink propagation, or newly promoted articles take 2 to 3 days to register their first data points in API reporting.
+* **Aggregated 28-Day Rolling Metrics:** GSC displays aggregated totals over a rolling 28-day window. When a cluster undergoes initial algorithmic testing (e.g. 94 impressions recorded during an indexing test), the total metric will appear flat until the next crawl and recalculation batch arrives.
+* **Recrawl to Re-ranking Propagation Delay:** Googlebot sitemap ingestion (e.g. the 45-URL sitemap recrawl on Nov 4) occurs before search index recalculation. Moving from Page 2 (Position 20) to Page 1 typically requires a 7 to 14 day index evaluation window as Google recalculates internal PageRank distribution from in-body links.
+* **Winter Wave Indexing Ramp:** Newly published seasonal emergency guides spend 5 to 10 days in standard indexing and crawl queues before generating their initial impression footprints.
 
 ---
 

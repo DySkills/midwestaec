@@ -10,10 +10,19 @@
 
 > **Quick Summary:** Across Midwest urban centers from Chicago to St. Louis, millions of historic homes were constructed with multi-wythe solid mass brick walls rather than modern cavity drainage systems. These historic masonry assemblies rely on continuous interior waste heat to drive absorbed rainwater back outward into the atmosphere, keeping the porous clay brick above freezing temperatures during winter storms. Installing interior insulation stops that heat flow, plunging the exterior brick into deep sub-zero temperatures; if the moisture content exceeds the critical saturation threshold, freezing water expands by 9% and shatters the brick face in a failure mode known as spalling. Preserving the structural integrity of historic brick requires non-destructive absorption testing, breathable lime-mortar repointing, capillary breaks, and smart variable-permeance vapor retarders.
 >
-> - **The Waste-Heat Thermal Balance:** Historic mass masonry survived past winters because uninsulated walls leaked 20% to 30% of indoor heat outward through the brick, keeping pore water from freezing during saturated wet-cold cycles.
-> - **The Mechanics of Spalling:** Porous historic clay bricks absorb bulk rainwater via capillary suction. When interior insulation keeps the masonry cold, trapped water at critical saturation ($S_{crit} \ge 80\%$) freezes, generating hydrostatic pressures above 2,500 psi that shear off the brick faces.
-> - **Embedded Joist Pocket Decay:** Wood floor joists resting inside cold masonry pockets will rot rapidly if interior air is allowed to leak into the pocket, depositing condensation that cannot dry through cold, damp brick.
-> - **The Safe Hygrothermal Assembly:** Interior retrofits require a 1-inch capillary air gap or drainage mat, vapor-permeable mineral wool or dense-pack cellulose insulation, and an intelligent Class II smart vapor retarder that blocks winter interior humidity while permitting inward summer drying.
+> - Historic mass masonry survived past winters because uninsulated walls leaked 20% to 30% of indoor heat outward through the brick, keeping pore water from freezing during saturated wet-cold cycles.
+> - Porous historic clay bricks absorb bulk rainwater via capillary suction. When interior insulation keeps the masonry cold, trapped water at critical saturation ($S_{crit} \ge 80\%$) freezes, generating hydrostatic pressures above 2,500 psi that shear off the brick faces.
+> - Wood floor joists resting inside cold masonry pockets will rot rapidly if interior air is allowed to leak into the pocket, depositing condensation that cannot dry through cold, damp brick.
+> - Interior retrofits require a 1-inch capillary air gap or drainage mat, vapor-permeable mineral wool or dense-pack cellulose insulation, and an intelligent Class II smart vapor retarder that blocks winter interior humidity while permitting inward summer drying.
+
+### Midwest Historic Brick Insulation Cost & Performance Benchmarks
+
+| Scope of Work / Strategy | Typical Midwest Cost Range | Energy Impact (Zone 5A/6A) | Moisture & Spalling Risk Profile | Primary Building Science Source |
+| :--- | :--- | :--- | :--- | :--- |
+| **Full Interior Smart Retrofit** (Mineral wool + Smart Retarder + Joist Pocket Air-Sealing) | **$18 – $26 / sq. ft.** ($22,000 – $36,000 typical whole-home) | **30% – 45% reduction** in heating fuel consumption | **Lowest Risk:** Maintains bi-directional drying path; protects joist pockets | BSC Research Report RR-1105 (Straube & Schumacher) |
+| **Defective Direct Spray Foam** (2"–3" closed-cell foam sprayed directly on unverified brick) | **$7 – $12 / sq. ft.** (Lower initial upfront cost) | Immediate short-term draft reduction; R-14 thermal boundary | **Extreme Risk:** Traps liquid water, pushes freeze front inward, shatters brick faces | BSC Research Report RR-1201 (Lstiburek) |
+| **Uninsulated Baseline Status Quo** (Plaster on lath with continuous waste-heat flux) | **$0 initial cost** ($1,400 – $2,800/yr excess energy waste) | Baseline heat loss (U-factor ~0.35 to 0.45 BTU/hr·ft²·°F) | **Durable but Inefficient:** Waste heat prevents sub-zero spalling | ASTM C67 / BIA Technical Note 20 |
+| **Structural Spalling & Joist Rot Remediation** (Replacing spalled brick + sistering rotten joists) | **$25,000 – $65,000** (Full structural failure overhaul) | Corrects floor deflection, repairs fallen masonry wythes | Required after moisture condensation rots bearing pocket ends | International Existing Building Code (IEBC) |
 
 ---
 
@@ -23,10 +32,9 @@ Across historic Midwest urban centers (Chicago, St. Louis, Milwaukee, Detroit, a
 
 Executing a safe interior insulation retrofit requires following our [historic brick repointing and interior retrofit manual](historic-brick-retrofit-steps.html). Inspectors evaluating older masonry buildings must also identify open floor joist flues detailed in our [balloon framing field guide](balloon-framing.html).
 
-
-Forensic masonry evaluations demonstrate why this approach causes catastrophic structural failure:
+Forensic masonry evaluations and landmark research by the Building Science Corporation (BSC Research Reports RR-1105 and RR-1201 by Dr. John Straube and Dr. Joseph Lstiburek) demonstrate why direct-contact interior foam causes catastrophic structural failure:
 1. **Starving the Brick of Indoor Waste Heat:** For over a century, historic brick envelopes survived sub-zero Midwest winters because escaping indoor heat maintained the brick temperature above 32°F, continually evaporating driving rain and moisture outward.
-2. **Critical Saturation & Exterior Spalling:** Adding interior insulation drops the temperature of the exterior brick wythe to ambient outdoor winter temperatures (-10°F to 10°F). When winter rain or snowmelt drives into the soft brick and the moisture saturation exceeds the critical threshold (typically 80% to 85% of pore volume), freezing water expands by 9%. This generates internal hydraulic pressure exceeding 2,000 PSI, popping off the decorative brick face in sheets (spalling) and turning mortar joints into loose sand.
+2. **Critical Saturation & Exterior Spalling:** Adding interior insulation drops the temperature of the exterior brick wythe to ambient outdoor winter temperatures (-10°F to 10°F). When winter rain or snowmelt drives into the soft brick and the moisture saturation exceeds the critical threshold ($S_{crit}$, typically 80% to 85% of pore volume as determined by frost dilatometry testing under RILEM TC 127-MS), freezing water expands by 9%. This generates internal hydraulic pressure exceeding 2,500 PSI, popping off the decorative brick face in sheets (spalling) and turning mortar joints into loose sand.
 3. **Joist Pocket Decay:** Wood timber floor joists embedded in exterior masonry pockets lose heat, becoming condensation cold spots where relative humidity exceeds 90%, rotting joist bearing ends within 5 to 8 years.
 
 ## The Physics of Mass Masonry: The Waste-Heat Storage Engine

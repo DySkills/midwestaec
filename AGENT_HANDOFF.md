@@ -149,46 +149,31 @@ When the user says *"sync <article>"* or *"sync all"*:
 
 ---
 
-## 9. 52-Week Editorial Roadmap & Data Provenance
+## 9. 104-Article Annual Editorial Roadmap & Bi-Weekly Publishing Cadence
 
-Midwest AEC has established a complete, 52-week annual publishing calendar specifically tailored to the continental climate of Zones 4A, 5A, and 6A.
+Midwest AEC has established a complete, **104-article annual publishing architecture** (2 specifications per week over 52 weeks) engineered specifically for the continental climate of Climate Zones 4A, 5A, and 6A.
 
-### The Seasonal Architecture
-* **Q1 (Weeks 01-13) | Winter:** Polar Vortex, Freeze Disruption & Combustion Failures.
-* **Q2 (Weeks 14-26) | Spring:** Hydrostatic Deluge, Soil Surcharge & Foundation Settlement.
-* **Q3 (Weeks 27-39) | Summer:** Inward Vapor Drives, Dew-Point Traps & Latent HVAC Loads.
-* **Q4 (Weeks 40-52) | Autumn:** Hygrothermal Retrofits, Envelope Air-Sealing & Heating Prep.
+### The Bi-Weekly Publishing Cadence
+* **Tuesday (Track A - Specification Teardowns):** Deep building science teardowns, hygrothermal WUFI modeling, code citations, and structural load calculations.
+* **Friday (Track B - Field Diagnostic & SOP):** Hands-on contractor dispatch, emergency troubleshooting decision trees, localized pricing tables, and direct Networx referral hooks.
 
-### Current Inventory & Pipeline Breakdown
-* **39 Specifications Live** in `content/` and compiled to `articles/*.html`.
-* **17 Production-Ready Backlog Specifications Staged** in `content/backlog/`:
-  1. `siding-comparison-hardie-lpsmartside-vinyl.md`
-  2. `emergency-window-repair-seal-failure.md`
-  3. `foundation-freeze-thaw-crack-repair.md`
-  4. `roof-heat-tape-deicing-cables.md`
-  5. `emergency-ice-dam-steaming-vs-roof-hacking.md`
-  6. `basement-wall-leak-crack-injection.md`
-  7. `historic-brick-chimney-acid-condensation.md`
-  8. `kneewall-attic-air-sealing-insulation.md`
-  9. `dual-sump-pump-battery-backup-staging.md`
-  10. `foundation-grading-french-drain-slope.md`
-  11. `rotted-sill-plate-replacement-jacking.md`
-  12. `flat-roof-drainage-epdm-tpo.md`
-  13. `unvented-attic-spray-foam-roof-deck.md`
-  14. `erv-vs-hrv-cold-climate-ventilation.md`
-  15. `standing-seam-metal-roof-cold-climates.md`
-  16. `rim-joist-air-sealing-spray-foam.md`
-  17. `furnace-short-cycling-flame-sensor.md`
-* **0 Roadmap Specifications remaining**: 100% of the 52-week publishing roadmap is now fully written.
+### Production Pipeline Breakdown (104 Total Specifications)
+* **39 Specifications Live (Published):** Stored in `content/published/` across 9 trade category folders and compiled to `articles/*.html`.
+* **17 Specifications Staged (Backlog):** 100% written, formatted with zero em-dashes, and ready for deployment in `content/backlog/`.
+* **48 Specifications Queued (Roadmap):** Detailed in Section 6 of `Refs/MIDWEST_MASTER_REFERENCE.md`, covering high-intent queries across all 4 quarters:
+  * **Q1 (Weeks 01-13 | Articles 001-026):** Polar vortex survival, flue icing, hydronic boilers, generators, and frost heave.
+  * **Q2 (Weeks 14-26 | Articles 027-052):** Spring deluge, dual sump backup staging, sewer backwater valves, and grading.
+  * **Q3 (Weeks 27-39 | Articles 053-078):** Inward vapor drives, whole-house dehumidification, ERV vs HRV, and flat roof scuppers.
+  * **Q4 (Weeks 40-52 | Articles 079-104):** Blower door depressurization, rim joist spray foam, makeup air dampers, and heating prep.
 
 ### Empirical Data Provenance
-Every article is grounded in real, documented data rather than guesswork:
-1. **Google Search Console Telemetry:** Verified real impressions for striking-distance queries (`icf basement`, `crawlspace encapsulation`, `insulating brick`).
+Every article is grounded in real, documented search queries from the past 12 months:
+1. **Google Search Console Telemetry:** Verified real impression and click data (`icf basement`, `crawlspace encapsulation`, `insulating brick`).
 2. **Google Trends 12-Month Breakout Scans:** Captured surge queries (+300% to +500% and Breakouts) during polar vortexes, spring thaws, and summer humidity spikes.
 3. **Aggregator Gap Teardown (Angi, Forbes Home, Bob Vila):** Aggregators fail by publishing misleading national cost averages ($5,400 for foundation repairs), omitting climate-zone building physics (frost heave, adfreeze shear, stack effect), and forcing premature lead forms. Midwest AEC provides forensic building science diagnostics that build trust before routing to Networx/Modernize contractors ($100-$250/lead).
 4. **Engineering Physics Formulations:** Full mathematical backing for Rankine static vs CRREL dynamic frost heave pressures, dual-fuel heat pump thermodynamic break-even COP equations, Advanced Energy/ORNL crawlspace moisture evaporation rates, ASTM C881 vs polyurethane crack injection chemistry, and WUFI critical saturation limits.
 
-*(For the complete 52-week publishing table, code standards, and mathematical proofs, read Sections 6 and 7 of `C:\Users\Dylen\Desktop\AEC\Midwest\Refs\MIDWEST_MASTER_REFERENCE.md`)*.
+*(For the complete 104-article publishing table, code standards, and mathematical proofs, read Sections 6 and 7 of `C:\Users\Dylen\Desktop\AEC\Midwest\Refs\MIDWEST_MASTER_REFERENCE.md`)*.
 
 ---
 

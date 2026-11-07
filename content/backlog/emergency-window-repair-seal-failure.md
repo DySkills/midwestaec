@@ -10,7 +10,7 @@ editorialTheme: "Winter Window Triage & Thermal Efficiency Week"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Peoria", "Rockford", "South Bend", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "NE", "OH", "WI"]
 subtitle: "A cracked window pane or blown insulating glass seal in mid-winter lets sub-zero air pour into your home. Here is the forensic guide to temporary thermal weatherproofing patches and how to transition to permanent high-efficiency replacement quotes."
-summary: "When a double-pane window cracks or fogs up during a Midwest freeze, the insulating argon gas is gone and your home is leaking expensive heat. Replacing custom windows takes 4 to 8 weeks for manufacturing and delivery. We deliver the emergency building physics guide to temporary air-sealing triage—using optical poly films, low-e shrink wraps, and acrylic sealants—plus the NFRC ratings you need to know before signing a high-dollar replacement contract."
+summary: "When a double-pane window cracks or fogs up during a Midwest freeze, the insulating argon gas is gone and your home is leaking expensive heat. Replacing custom windows takes 4 to 8 weeks for manufacturing and delivery. We deliver the emergency building physics guide to temporary air-sealing triage - using optical poly films, low-e shrink wraps, and acrylic sealants - plus the NFRC ratings you need to know before signing a high-dollar replacement contract."
 codeTag: "NFRC 100 / ASTM E2188 / ASTM E283"
 author: "Midwest AEC Building Science"
 date: "October 2026"

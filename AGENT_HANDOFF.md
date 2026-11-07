@@ -49,7 +49,7 @@ The active workspace is C:\Users\Dylen\Desktop\AEC\Midwest.
   ```
 * **Directory Structure:**
   * `content/published/**/*.md`: 39 production markdown files organized into 9 trade category subfolders (air-barriers, efficient-systems, envelopes, go-green, hvac, roofing, rural-development, urban-development, water-barriers).
-  * `content/backlog/*.md`: 6 staged seasonal backlog articles awaiting scheduled rollout.
+  * `content/backlog/*.md`: 17 staged seasonal backlog articles awaiting scheduled rollout (entire 52-week roadmap fully authored).
   * `articles/*.html`: 39 compiled HTML articles matching `content/` 1:1.
   * `article-template.html`: Master layout template for compiled articles.
   * `index.html`: Homepage featuring hero articles, categories, and latest specifications.
@@ -161,14 +161,25 @@ Midwest AEC has established a complete, 52-week annual publishing calendar speci
 
 ### Current Inventory & Pipeline Breakdown
 * **39 Specifications Live** in `content/` and compiled to `articles/*.html`.
-* **6 Production-Ready Backlog Specifications Staged** in `content/backlog/`:
-  1. `siding-comparison-hardie-lpsmartside-vinyl.md` (Nov 9)
-  2. `emergency-window-repair-seal-failure.md` (Nov 16)
-  3. `foundation-freeze-thaw-crack-repair.md` (Nov 19)
-  4. `roof-heat-tape-deicing-cables.md` (Nov 30)
-  5. `emergency-ice-dam-steaming-vs-roof-hacking.md` (Dec 7)
-  6. `basement-wall-leak-crack-injection.md` (Dec 21)
-* **7 Roadmap Specifications** queued to complete the full 52-week calendar.
+* **17 Production-Ready Backlog Specifications Staged** in `content/backlog/`:
+  1. `siding-comparison-hardie-lpsmartside-vinyl.md`
+  2. `emergency-window-repair-seal-failure.md`
+  3. `foundation-freeze-thaw-crack-repair.md`
+  4. `roof-heat-tape-deicing-cables.md`
+  5. `emergency-ice-dam-steaming-vs-roof-hacking.md`
+  6. `basement-wall-leak-crack-injection.md`
+  7. `historic-brick-chimney-acid-condensation.md`
+  8. `kneewall-attic-air-sealing-insulation.md`
+  9. `dual-sump-pump-battery-backup-staging.md`
+  10. `foundation-grading-french-drain-slope.md`
+  11. `rotted-sill-plate-replacement-jacking.md`
+  12. `flat-roof-drainage-epdm-tpo.md`
+  13. `unvented-attic-spray-foam-roof-deck.md`
+  14. `erv-vs-hrv-cold-climate-ventilation.md`
+  15. `standing-seam-metal-roof-cold-climates.md`
+  16. `rim-joist-air-sealing-spray-foam.md`
+  17. `furnace-short-cycling-flame-sensor.md`
+* **0 Roadmap Specifications remaining**: 100% of the 52-week publishing roadmap is now fully written.
 
 ### Empirical Data Provenance
 Every article is grounded in real, documented data rather than guesswork:

@@ -8,7 +8,7 @@ catSlug: "roofing"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
 subtitle: "Why installing 10-amp zigzag heating wires on Midwest eaves masks attic thermal leaks, consumes $140/month in electricity, voids shingle warranties, and how permanent cold roof air-sealing solves ice dams."
-summary: "When heavy snow and sub-zero temperatures strike Climate Zones 4 and 5, thousands of property owners rush to install electric heat tape and gutter de-icing cables to combat destructive ice dams. While electric resistance cables melt narrow drainage channels through eave ice, they function merely as an expensive band-aid—drawing 5 to 8 watts per linear foot, triggering ground-fault trips in blizzards, accelerating shingle embrittlement, and adding $100 to $160 per month in electricity. True ice dam prevention requires converting the attic into a true cold roof through thermal bypass air sealing and balanced soffit-to-ridge ventilation."
+summary: "When heavy snow and sub-zero temperatures strike Climate Zones 4 and 5, thousands of property owners rush to install electric heat tape and gutter de-icing cables to combat destructive ice dams. While electric resistance cables melt narrow drainage channels through eave ice, they function merely as an expensive band-aid - drawing 5 to 8 watts per linear foot, triggering ground-fault trips in blizzards, accelerating shingle embrittlement, and adding $100 to $160 per month in electricity. True ice dam prevention requires converting the attic into a true cold roof through thermal bypass air sealing and balanced soffit-to-ridge ventilation."
 codeTag: "IRC R905 / NEC Article 426 / ASTM D3462 / UL 1588"
 author: "Midwest AEC Building Science"
 date: "November 2026"
@@ -18,7 +18,7 @@ referralHook: "Attic Air Sealing & Roofing Insulation Contractor Match"
 
 # Roof Heat Tape & De-Icing Cables: Electrical Amps, Fire Hazards & Cold Roof Payback
 
-> **Quick Summary:** In cold-climate residential construction across Climate Zones 4 and 5, electric de-icing cables are commonly installed as an emergency response to recurring roof ice dams. A typical 120-foot zigzag eaves-and-gutter installation draws 600 to 1,000 watts of continuous electrical power (5 to 8.3 amps), consuming 450 to 720 kilowatt-hours of electricity per freezing month. More critically, heating cables do not address the root cause of ice damming—conditioned attic heat escaping through unsealed ceiling penetrations—and introduce significant fastener penetration leaks, accelerated shingle granule degradation, and National Electrical Code (NEC Article 426) ground-fault protection hurdles.
+> **Quick Summary:** In cold-climate residential construction across Climate Zones 4 and 5, electric de-icing cables are commonly installed as an emergency response to recurring roof ice dams. A typical 120-foot zigzag eaves-and-gutter installation draws 600 to 1,000 watts of continuous electrical power (5 to 8.3 amps), consuming 450 to 720 kilowatt-hours of electricity per freezing month. More critically, heating cables do not address the root cause of ice damming - conditioned attic heat escaping through unsealed ceiling penetrations - and introduce significant fastener penetration leaks, accelerated shingle granule degradation, and National Electrical Code (NEC Article 426) ground-fault protection hurdles.
 >
 > - Constant-wattage and self-regulating cables consume 5 to 8 watts per linear foot. A 150-foot run on an attached garage or eaves draws 1,050 watts, running a 120V 15A branch circuit near its 80% continuous-load limit and generating $100 to $160 monthly utility surcharges.
 > - Electric cables do not melt the entire ice dam; they carve 2-inch wide melt channels through the ice. When sub-zero winds hit, meltwater running down the roof often refreezes immediately beyond the heated zigzag loops, creating a secondary ice dam further up the roof slope.
@@ -37,7 +37,7 @@ From the street, the cables appear to work. Narrow, 2-inch steaming channels cut
 
 Inside the homeowner's breaker box, however, a dedicated 15-amp circuit breaker runs warm to the touch. The 160 feet of heavy-duty de-icing cable draws 1,120 watts continuously, 24 hours a day, adding over 800 kilowatt-hours of power consumption to a single monthly electric bill.
 
-Even worse, four feet up the roof deck—directly above the top loop of the heated zigzag cable—a new 3-inch ridge of solid clear ice has formed. Uninsulated recessed light fixtures in the ceiling below continue pumping 110°F heated air into the attic, melting snow on the upper roof deck. When that meltwater hits the unheated shingle zone just inches above the cable loops, it freezes into a secondary dam, backing liquid water beneath the asphalt shingles and staining the master bedroom drywall.
+Even worse, four feet up the roof deck - directly above the top loop of the heated zigzag cable - a new 3-inch ridge of solid clear ice has formed. Uninsulated recessed light fixtures in the ceiling below continue pumping 110°F heated air into the attic, melting snow on the upper roof deck. When that meltwater hits the unheated shingle zone just inches above the cable loops, it freezes into a secondary dam, backing liquid water beneath the asphalt shingles and staining the master bedroom drywall.
 
 The heating cable did not eliminate the ice dam. It simply relocated the failure point higher up the roof structure at an electrical operating penalty of $130 per month.
 
@@ -81,7 +81,7 @@ Ice dams are not a roofing material defect; they are the thermodynamic symptom o
 2. **Attic Heat Accumulation:** Heat escapes from the living space into the unconditioned attic via conduction through under-insulated ceilings (R-19 to R-30 instead of modern code R-60) and through convective airflow bypasses (plumbing stacks, wire penetrations, unsealed attic access doors, and recessed lighting cans).
 3. **The Melt Zone:** When attic temperatures rise above 32°F ($0^\circ\text{C}$), heat transfers through the plywood roof decking to the underside of the snowpack. The bottom layer of snow melts into liquid water, which runs down the roof slope beneath the snow blanket.
 4. **The Freezing Overhang:** When this liquid runoff reaches the eave overhang past the exterior wall plate, there is no warm interior space underneath. The soffit overhang is at outdoor ambient temperature (10°F to 20°F).
-5. **The Dam and Capillary Back-Up:** The runoff instantly freezes, building a solid ice dam along the eave. As more water runs down, it pools behind the dam. Because asphalt shingles are designed solely to shed gravity-driven shedding water—not hold hydrostatic head pressure—the standing water drives upward under shingle laps by capillary action, penetrating nail holes and soaking structural sheathing.
+5. **The Dam and Capillary Back-Up:** The runoff instantly freezes, building a solid ice dam along the eave. As more water runs down, it pools behind the dam. Because asphalt shingles are designed solely to shed gravity-driven shedding water - not hold hydrostatic head pressure - the standing water drives upward under shingle laps by capillary action, penetrating nail holes and soaking structural sheathing.
 
 ---
 
@@ -160,7 +160,7 @@ The downspout freezes solid from the bottom up, filling the gutter with heavy bl
 
 ## Cold Roof Engineering: The Permanent Physical Cure
 
-The only permanent, code-compliant solution to ice damming across Climate Zones 4 and 5 is converting the roof into a **true cold roof**—ensuring the roof deck temperature never exceeds 32°F when outdoor air is below freezing.
+The only permanent, code-compliant solution to ice damming across Climate Zones 4 and 5 is converting the roof into a **true cold roof** - ensuring the roof deck temperature never exceeds 32°F when outdoor air is below freezing.
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐

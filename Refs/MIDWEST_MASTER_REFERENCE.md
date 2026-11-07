@@ -156,9 +156,9 @@ Every guide must cite real, enforceable residential codes with specific numerica
 
 ---
 
-## 5. Staged Backlog Pipeline (6 Production-Ready Articles)
+## 5. Staged Backlog Pipeline (17 Production-Ready Articles)
 
-These articles are fully formatted, audited for 0 em-dashes and 0 bullet prefixes, and staged in `content/backlog/` for scheduled deployment:
+These 17 articles are 100% authored, fully formatted, audited for 0 em-dashes and 0 bullet prefixes, and staged in `content/backlog/` for scheduled deployment:
 
 1. **`siding-comparison-hardie-lpsmartside-vinyl.md`** (Target: Nov 9)
    * Fiber cement vs engineered wood strand vs vinyl cladding in freeze-thaw and hail climates.
@@ -178,6 +178,39 @@ These articles are fully formatted, audited for 0 em-dashes and 0 bullet prefixe
 6. **`basement-wall-leak-crack-injection.md`** (Target: Dec 21)
    * Hydrophobic polyurethane expansion foam vs ASTM C881 structural epoxy for weeping foundation cracks.
    * Networx PPL Category: Concrete Foundation Repair & Basement Waterproofing ($120-$180).
+7. **`historic-brick-chimney-acid-condensation.md`** (Week 10 | Target: Mar 8)
+   * High-efficiency flue acid condensation, NFPA 211 stainless steel relining, and overhanging concrete crowns.
+   * Networx PPL Category: Chimney Repair & Historic Masonry Pros ($120-$200).
+8. **`kneewall-attic-air-sealing-insulation.md`** (Week 11 | Target: Mar 15)
+   * 1.5-story Cape Cod kneewall air-sealing, floor joist cavity blocking, and R-60 cold-roof conversions.
+   * Networx PPL Category: Attic Insulation & Air Sealing Pros ($120-$180).
+9. **`dual-sump-pump-battery-backup-staging.md`** (Week 16 | Target: Apr 19)
+   * Dual sump pump staging, primary vs secondary float switch differentials, and LiFePO4 battery inverters.
+   * Networx PPL Category: Basement Waterproofing & Emergency Plumbers ($120-$180).
+10. **`foundation-grading-french-drain-slope.md`** (Week 17 | Target: Apr 26)
+    * IRC R401.3 5% slope corrections, parabolic swale geometries, and geotextile French drain trench details.
+    * Networx PPL Category: Drainage & Landscape Civil Contractors ($100-$160).
+11. **`rotted-sill-plate-replacement-jacking.md`** (Week 22 | Target: May 31)
+    * Capillary moisture wicking, 20-ton temporary hydraulic jacking, and UC4A treated sill plate replacement.
+    * Networx PPL Category: Structural Framing & House Leveling Contractors ($150-$250).
+12. **`flat-roof-drainage-epdm-tpo.md`** (Week 24 | Target: Jun 14)
+    * Residential low-slope roofs, EPDM vs TPO membranes, 48-hour ponding thresholds, and tapered crickets.
+    * Networx PPL Category: Flat Roofing Contractors & Metal Roofers ($140-$200).
+13. **`unvented-attic-spray-foam-roof-deck.md`** (Week 30 | Target: Jul 26)
+    * Open-cell vs closed-cell spray foam on roof decks under IRC R806.5, vapor retarders, and shingle heat.
+    * Networx PPL Category: Spray Foam & Attic Envelope Pros ($140-$200).
+14. **`erv-vs-hrv-cold-climate-ventilation.md`** (Week 32 | Target: Aug 9)
+    * Enthalpy latent moisture rejection, ASHRAE 62.2 sizing, and sub-zero winter defrost cycling.
+    * Networx PPL Category: Mechanical Ventilation & HVAC Specialists ($120-$180).
+15. **`standing-seam-metal-roof-cold-climates.md`** (Week 33 | Target: Aug 16)
+    * 24-gauge Galvalume steel, concealed floating expansion clips, UL 2218 Class 4 hail, and high-temp underlayment.
+    * Networx PPL Category: Architectural Standing Seam Metal Roofers ($150-$250).
+16. **`rim-joist-air-sealing-spray-foam.md`** (Week 41 | Target: Oct 11)
+    * Inward stack effect depressurization, closed-cell spray foam vs cut-and-cobble XPS, and IRC R316 fire codes.
+    * Networx PPL Category: Basement Weatherization & Air-Sealing Pros ($100-$160).
+17. **`furnace-short-cycling-flame-sensor.md`** (Week 51 | Target: Dec 20)
+    * Flame rectification microamps DC, flame sensor silica cleaning with 0000 steel wool, and limit switch ESP drops.
+    * Networx PPL Category: Emergency Furnace Repair & HVAC Dispatch ($120-$180).
 
 ---
 
@@ -207,30 +240,30 @@ Midwest AEC operates on a strict, 52-week publishing roadmap engineered around t
 | **07** | Feb 15-21 | `foundation-freeze-thaw-crack-repair` | Backlog | Hydrostatic Frost Heave & Bowed Walls: Carbon Fiber vs I-Beams | `horizontal crack in basement wall frost heave`, `carbon fiber straps vs steel beams` | ACI 506.2 / TMS 402/602 | Structural Foundation Repair ($150-$250) |
 | **08** | Feb 22-28 | `roof-heat-tape-deicing-cables` | Backlog | Roof Heat Tape & De-Icing Cables: Electrical Amps & GFPE Trips | `roof heat tape electric bill cost`, `self regulating heat cable vs constant wattage` | NEC 426 / IRC R806 | Roofing & Attic Insulation Pros ($140-$200) |
 | **09** | Mar 01-07 | `sump-pump-failure-spring-thaw-backups` | Live | Frozen Sump Discharge Lines: Check Valves & Bubbler Relief | `frozen sump pump discharge pipe fix`, `sump pump running constantly winter` | IRC P3303 / IPC 1101 | Basement Waterproofing & Plumbers ($120-$180) |
-| **10** | Mar 08-14 | `historic-brick-chimney-acid-condensation` | Roadmap | Historic Chimney Deterioration: Flue Acid & Spalling Crowns | `brick chimney crumbling outside`, `flue liner condensation high efficiency furnace` | NFPA 211 / IRC R1003 | Chimney & Historic Masonry Pros ($120-$200) |
-| **11** | Mar 15-21 | `kneewall-attic-air-sealing-insulation` | Roadmap | R-60 Cold Roof Conversions: Cape Cod Kneewalls & Drop Soffits | `how to insulate cape cod kneewall`, `ice dams on 1.5 story house` | 2024 IECC Table R402 | Insulation & Air Sealing Pros ($120-$180) |
+| **10** | Mar 08-14 | `historic-brick-chimney-acid-condensation` | Backlog | Historic Chimney Deterioration: Flue Acid & Spalling Crowns | `brick chimney crumbling outside`, `flue liner condensation high efficiency furnace` | NFPA 211 / IRC R1003 | Chimney & Historic Masonry Pros ($120-$200) |
+| **11** | Mar 15-21 | `kneewall-attic-air-sealing-insulation` | Backlog | R-60 Cold Roof Conversions: Cape Cod Kneewalls & Drop Soffits | `how to insulate cape cod kneewall`, `ice dams on 1.5 story house` | 2024 IECC Table R402 | Insulation & Air Sealing Pros ($120-$180) |
 | **12** | Mar 22-28 | `load-bearing-wall-removal-lvl` | Live | Load-Bearing Wall Removal: Sizing LVL Drop Beams & Shoring | `how to tell if wall is load bearing`, `LVL beam size for 16 foot span` | IRC R502 / ASTM D5456 | Structural Engineers & Framing Pros ($150-$250) |
 | **13** | Mar 29-Apr 04 | `basement-egress-window-cutting` | Live | Basement Egress Cutting: IRC R310 Diamond Sawing & Wells | `egress window cost poured concrete wall`, `IRC R310 egress window dimensions` | IRC R310 / IRC R405 | Concrete Cutting & Egress Specialists ($140-$200) |
 | **14** | Apr 05-11 | `basement-waterproofing` | Live | The Clay Bowl Effect: Why Modern Poured Foundations Leak | `clay bowl effect foundation`, `hydrostatic pressure basement wall crack` | IRC R405.1 / IRC R406.2 | Waterproofing & Drainage Contractors ($150-$250) |
 | **15** | Apr 12-18 | `basement-wall-leak-crack-injection` | Backlog | Foundation Crack Injections: Polyurethane vs ASTM C881 Epoxy | `epoxy vs polyurethane foundation crack`, `repair leaking concrete basement crack` | ASTM C881 / ACI 503R | Concrete Repair & Waterproofing ($120-$180) |
-| **16** | Apr 19-25 | `dual-sump-pump-battery-backup-staging` | Roadmap | Dual Sump Pump Staging: Primary vs Backup Float Switches | `best battery backup sump pump system`, `how to stage dual sump pumps in pit` | IRC P3303 / NFPA 70 | Waterproofing & Plumbers ($120-$180) |
-| **17** | Apr 26-May 02 | `foundation-grading-french-drain-slope` | Roadmap | Foundation Grading & French Drains: The 5% Slope Rule | `proper grading away from foundation slope`, `french drain vs curtain drain yard` | IRC R401.3 | Drainage & Landscape Civil Pros ($100-$160) |
+| **16** | Apr 19-25 | `dual-sump-pump-battery-backup-staging` | Backlog | Dual Sump Pump Staging: Primary vs Backup Float Switches | `best battery backup sump pump system`, `how to stage dual sump pumps in pit` | IRC P3303 / NFPA 70 | Waterproofing & Plumbers ($120-$180) |
+| **17** | Apr 26-May 02 | `foundation-grading-french-drain-slope` | Backlog | Foundation Grading & French Drains: The 5% Slope Rule | `proper grading away from foundation slope`, `french drain vs curtain drain yard` | IRC R401.3 | Drainage & Landscape Civil Pros ($100-$160) |
 | **18** | May 03-09 | `basement-lvp-flooring-moisture` | Live | LVP Flooring Failures in Basements: Vapor Emissions & Mats | `moisture under lvp on concrete basement`, `white powder under basement vinyl plank` | ASTM F1869 / ASTM F2170 | Flooring & Moisture Mitigation Match ($100-$150) |
 | **19** | May 10-16 | `siding-comparison-hardie-lpsmartside-vinyl` | Backlog | Fiber Cement vs LP SmartSide: Hail & Freeze-Thaw Durability | `hardie vs lp smartside hail damage`, `siding cost per square foot midwest` | ASTM C1186 / ASTM D3679 | Siding & Exterior Envelope Pros ($120-$180) |
 | **20** | May 17-23 | `historic-brick-retrofit-steps` | Live | Repointing Historic Brick: Lime Mortar NHL 3.5 vs Portland | `type n vs type o mortar historic brick`, `portland cement cracked historic brick` | ASTM C270 / ASTM C1324 | Historic Masonry & Tuckpointing ($140-$220) |
 | **21** | May 24-30 | `icf-basements-walls` | Live | Insulated Concrete Forms (ICF) Basements: Eliminating Leaks | `icf basement vs poured concrete cost`, `icf foundation waterproof membrane` | IRC R404.1.2 / ACI 318 | ICF & Foundation Builders ($150-$250) |
-| **22** | May 31-Jun 06 | `rotted-sill-plate-replacement-jacking` | Roadmap | Rotted Mud Sills & Rim Joists: House Jacking & Sistering | `how to replace rotted mud sill plate`, `cost to fix rotted rim joist` | IRC R317 / IRC R502.6 | Framing & House Leveling Contractors ($150-$250) |
+| **22** | May 31-Jun 06 | `rotted-sill-plate-replacement-jacking` | Backlog | Rotted Mud Sills & Rim Joists: House Jacking & Sistering | `how to replace rotted mud sill plate`, `cost to fix rotted rim joist` | IRC R317 / IRC R502.6 | Framing & House Leveling Contractors ($150-$250) |
 | **23** | Jun 07-13 | `crawlspace-encapsulation-steps` | Live | Crawlspace Encapsulation Pricing: 20-Mil Poly & Wall Foam | `crawl space encapsulation cost breakdown`, `20 mil vs 10 mil vapor barrier` | IRC R408.3 | Crawlspace Encapsulation Pros ($120-$180) |
-| **24** | Jun 14-20 | `flat-roof-drainage-epdm-tpo` | Roadmap | Flat Roof Drainage on Midwest Additions: EPDM vs TPO Scuppers | `tpo vs epdm flat roof cost residential`, `standing water on flat roof residential` | IRC R905.12 / IBC Ch 15 | Flat Roofing Contractors ($140-$200) |
+| **24** | Jun 14-20 | `flat-roof-drainage-epdm-tpo` | Backlog | Flat Roof Drainage on Midwest Additions: EPDM vs TPO Scuppers | `tpo vs epdm flat roof cost residential`, `standing water on flat roof residential` | IRC R905.12 / IBC Ch 15 | Flat Roofing Contractors ($140-$200) |
 | **25** | Jun 21-27 | `balloon-framing-retrofit-steps` | Live | Balloon Framing Retrofits: Stud Cavity Firestops & Insulation | `how to identify balloon framing in old house`, `balloon framing firestop retrofit` | IRC R302.11 / NFPA 101 | Historic Framing & Firestopping ($120-$180) |
 | **26** | Jun 28-Jul 04 | `sips-vs-traditional-framing` | Live | Structural Insulated Panels (SIPs) in Zone 5: Total Payback | `sips panels vs stick built cost breakdown`, `structural insulated panels zone 5` | IRC R610 / APA PRS 610 | High-Performance Envelope Builders ($150-$250) |
 | **27** | Jul 05-11 | `summer-humidity-ac` | Live | AC Short Cycling & 65% Humidity: Manual J vs Dehumidifiers | `air conditioner short cycling high humidity`, `ac runs for 5 minutes then shuts off` | ACCA Manual J / ASHRAE 62.2 | HVAC & Dehumidification Pros ($120-$180) |
 | **28** | Jul 12-18 | `smart-vapor-retarders` | Live | Inward Summer Vapor Drives: Polyethylene Wall Cavity Rot | `plastic vapor barrier mold behind drywall`, `inward vapor drive brick wall summer` | IRC R702.7 / ASTM E96 | Insulation & Envelope Pros ($120-$180) |
 | **29** | Jul 19-25 | `crawlspace-encapsulation` | Live | Why Vented Crawlspaces Rot in July: Condensation Dynamics | `sweating pipes in crawl space summer`, `wet insulation in crawl space floor` | IRC R408.3 | Crawlspace & Moisture Pros ($120-$180) |
-| **30** | Jul 26-Aug 01 | `unvented-attic-spray-foam-roof-deck` | Roadmap | Unvented Attics: Open-Cell vs Closed-Cell Spray Foam Decking | `spray foam roof deck rot shingles`, `open cell vs closed cell spray foam attic` | IRC R806.5 | Spray Foam Insulation Pros ($140-$200) |
+| **30** | Jul 26-Aug 01 | `unvented-attic-spray-foam-roof-deck` | Backlog | Unvented Attics: Open-Cell vs Closed-Cell Spray Foam Decking | `spray foam roof deck rot shingles`, `open cell vs closed cell spray foam attic` | IRC R806.5 | Spray Foam Insulation Pros ($140-$200) |
 | **31** | Aug 02-08 | `continuous-insulation` | Live | Continuous Exterior Insulation: Polyiso vs Rockwool Furring | `continuous exterior insulation zone 5`, `rockwool comfortboard vs polyiso` | 2024 IECC R402 / ASTM C578 | Siding & Exterior Insulation ($120-$180) |
-| **32** | Aug 09-15 | `erv-vs-hrv-cold-climate-ventilation` | Roadmap | ERV vs HRV in Zone 5/6: Latent Humidity Transfer Realities | `erv vs hrv midwest climate zone 5`, `energy recovery ventilator cost` | ASHRAE 62.2 / IRC M1505 | Mechanical Ventilation Pros ($120-$180) |
-| **33** | Aug 16-22 | `standing-seam-metal-roof-cold-climates` | Roadmap | Standing Seam Metal Roofs: Hail Resistance & Condensation | `standing seam metal roof cost residential`, `metal roof sweating on underside` | UL 2218 / IRC R905.10 | Metal Roofing Specialists ($150-$250) |
+| **32** | Aug 09-15 | `erv-vs-hrv-cold-climate-ventilation` | Backlog | ERV vs HRV in Zone 5/6: Latent Humidity Transfer Realities | `erv vs hrv midwest climate zone 5`, `energy recovery ventilator cost` | ASHRAE 62.2 / IRC M1505 | Mechanical Ventilation Pros ($120-$180) |
+| **33** | Aug 16-22 | `standing-seam-metal-roof-cold-climates` | Backlog | Standing Seam Metal Roofs: Hail Resistance & Condensation | `standing seam metal roof cost residential`, `metal roof sweating on underside` | UL 2218 / IRC R905.10 | Metal Roofing Specialists ($150-$250) |
 | **34** | Aug 23-29 | `bug-prevention` | Live | Exterior Rainscreen Insect & Weep Baffles: Termite Exclusion | `pest screen for rainscreen siding`, `bugs coming through brick weep holes` | IRC R703.1.1 | Siding & Pest Exclusion Pros ($100-$150) |
 | **35** | Aug 30-Sep 05 | `barndominium-post-frame` | Live | Barndominium Envelope Failures: Purlin Sweating & Breaks | `barndominium condensation dripping from roof`, `how to insulate a post frame building` | 2024 IECC C402 / NFBA | Post-Frame & Barndominium Builders ($150-$250) |
 | **36** | Sep 06-12 | `when-to-replace-windows` | Live | Window Replacement vs Historic Wood Sash Restoration | `historic wood window restoration vs vinyl`, `low-e storm windows energy savings` | NFRC 100 / ASTM E283 | Window Restoration & Replacement ($100-$160) |
@@ -238,7 +271,7 @@ Midwest AEC operates on a strict, 52-week publishing roadmap engineered around t
 | **38** | Sep 20-26 | `rockwool-vs-fiberglass` | Live | Stone Wool vs Fiberglass Batts: Sub-Zero R-Value Derating | `rockwool vs fiberglass insulation soundproofing`, `fiberglass r-value sub zero drop` | ASTM C665 / ASTM C612 | Insulation & Envelope Pros ($100-$150) |
 | **39** | Sep 27-Oct 03 | `expansive-lawncare` | Live | Expansive Lawncare & Topsoil Grading: Foundation Floods | `sprinkler system leaking water basement`, `clay soil lawn grading foundation` | IRC R401.3 | Drainage & Landscape Civil Pros ($100-$150) |
 | **40** | Oct 04-10 | `blower-door-checklist` | Live | Blower Door Depressurization: CFM50 Math & Thermal Scans | `what is a good blower door score ach50`, `blower door test cost residential` | 2024 IECC R402.4 / ASTM E779 | Energy Auditors & BPI Pros ($120-$180) |
-| **41** | Oct 11-17 | `rim-joist-air-sealing-spray-foam` | Roadmap | Basement Rim Joist Air Sealing: Closed-Cell Foam vs Board | `how to insulate rim joist basement`, `spray foam vs foam board rim joist` | IRC R302.9 / IRC R316.4 | Weatherization & Insulation Pros ($100-$160) |
+| **41** | Oct 11-17 | `rim-joist-air-sealing-spray-foam` | Backlog | Basement Rim Joist Air Sealing: Closed-Cell Foam vs Board | `how to insulate rim joist basement`, `spray foam vs foam board rim joist` | IRC R302.9 / IRC R316.4 | Weatherization & Insulation Pros ($100-$160) |
 | **42** | Oct 18-24 | `insulating-brick` | Live | Insulating Solid Masonry Walls: WUFI Models & Spalling | `can you insulate historic brick from inside`, `interior insulation brick spalling` | ASTM C67 / BIA Tech Note 20 | Historic Masonry Specialists ($150-$200) |
 | **43** | Oct 25-31 | `sub-slab-insulation-specs` | Live | Sub-Slab Insulation: R-10 XPS vs EPS Under Basements | `sub slab insulation code zone 5`, `xps vs eps under concrete basement floor` | 2024 IECC R402 / ASTM C578 | Concrete Flatwork Specialists ($120-$180) |
 | **44** | Nov 01-07 | `attic-air-sealing-baffles` | Live | Attic Air Sealing & Rafter Baffles: Soffit Net Free Area | `how to install rafter baffles in existing attic`, `attic air sealing top plates foam` | IRC R806.2 / IRC R806.3 | Attic Insulation & Air Sealing ($120-$180) |
@@ -248,7 +281,7 @@ Midwest AEC operates on a strict, 52-week publishing roadmap engineered around t
 | **48** | Nov 29-Dec 05 | `does-house-need-to-breathe` | Live | Does a House Need to Breathe? The Myth vs Controlled ERVs | `does a house need to breathe myth`, `can a house be sealed too tight` | ASHRAE 62.2 / IRC M1505 | Energy Auditors & IAQ Pros ($100-$160) |
 | **49** | Dec 06-12 | `embodied-carbon-materials` | Live | Embodied Carbon in Insulation: Cellulose vs Fiberglass | `low carbon insulation materials residential`, `cellulose insulation carbon footprint` | ASTM C739 / ISO 21930 | Green Building Insulation Pros ($120-$180) |
 | **50** | Dec 13-19 | `roof-insulation-over-sheathing` | Live | Rigid Polyiso Over Roof Sheathing: Conditioned Attics | `rigid foam on top of roof sheathing`, `unvented attic exterior insulation` | IRC R806.5 / 2024 IECC R402 | Roofing & Envelope Contractors ($140-$220) |
-| **51** | Dec 20-26 | `furnace-short-cycling-flame-sensor` | Roadmap | Furnace Short-Cycling: Flame Sensors & Static Pressure | `furnace runs 3 minutes then shuts off`, `cleaning flame sensor with steel wool` | NFPA 54 / ANSI Z21.47 | Emergency Furnace Repair Pros ($120-$180) |
+| **51** | Dec 20-26 | `furnace-short-cycling-flame-sensor` | Backlog | Furnace Short-Cycling: Flame Sensors & Static Pressure | `furnace runs 3 minutes then shuts off`, `cleaning flame sensor with steel wool` | NFPA 54 / ANSI Z21.47 | Emergency Furnace Repair Pros ($120-$180) |
 | **52** | Dec 27-Jan 02 | `false-spring-envelope-thaw` | Live | False Spring Envelope Thaw: Rapid Freeze-Thaw Diagnostics | `cracks in brick mortar after freezing winter`, `foundation concrete peeling after winter` | ASTM C67 / IRC R703 | Home Inspectors & Envelope Pros ($120-$180) |
 
 ---

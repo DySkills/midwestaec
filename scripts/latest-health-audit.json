@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-11-07T02:49:11.863Z",
-  "localTime": "11/6/2026, 8:49:11 PM Central",
+  "timestamp": "2026-11-07T03:00:38.023Z",
+  "localTime": "11/6/2026, 9:00:38 PM Central",
   "inventoryCheck": {
     "markdownFilesCount": 39,
     "articlesHtmlCount": 39,
@@ -14,126 +14,126 @@
     "total": 45,
     "passed": 45,
     "failed": 0,
-    "averageLatencyMs": 128,
+    "averageLatencyMs": 133,
     "results": [
       {
         "url": "https://midwestaec.com/index.html",
         "status": 200,
-        "timeMs": 407,
+        "timeMs": 306,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/browse.html",
         "status": 200,
-        "timeMs": 246,
+        "timeMs": 218,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/about.html",
         "status": 200,
-        "timeMs": 144,
+        "timeMs": 172,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/privacy.html",
         "status": 200,
-        "timeMs": 131,
+        "timeMs": 148,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/terms.html",
         "status": 200,
-        "timeMs": 124,
+        "timeMs": 157,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/disclosure.html",
         "status": 200,
-        "timeMs": 155,
+        "timeMs": 135,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/blower-door-checklist.html",
         "status": 200,
-        "timeMs": 128,
+        "timeMs": 115,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/does-house-need-to-breathe.html",
         "status": 200,
-        "timeMs": 119,
+        "timeMs": 136,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/smart-vapor-retarders.html",
         "status": 200,
-        "timeMs": 141,
+        "timeMs": 124,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/continuous-insulation.html",
         "status": 200,
-        "timeMs": 100,
+        "timeMs": 135,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/energy-hikes.html",
         "status": 200,
-        "timeMs": 109,
+        "timeMs": 126,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/sub-slab-insulation-specs.html",
         "status": 200,
-        "timeMs": 96,
+        "timeMs": 149,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/when-to-replace-windows.html",
         "status": 200,
-        "timeMs": 105,
+        "timeMs": 101,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/window-alternatives.html",
         "status": 200,
-        "timeMs": 146,
+        "timeMs": 122,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/basement-egress-window-cutting.html",
         "status": 200,
-        "timeMs": 96,
+        "timeMs": 85,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/false-spring-envelope-thaw.html",
         "status": 200,
-        "timeMs": 91,
+        "timeMs": 160,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/load-bearing-wall-removal-lvl.html",
         "status": 200,
-        "timeMs": 116,
+        "timeMs": 98,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/rammed-earth-midwest-flooring.html",
         "status": 200,
-        "timeMs": 111,
+        "timeMs": 92,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/sips-vs-traditional-framing.html",
         "status": 200,
-        "timeMs": 91,
+        "timeMs": 77,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/embodied-carbon-materials.html",
         "status": 200,
-        "timeMs": 105,
+        "timeMs": 180,
         "ok": true
       },
       {
@@ -145,19 +145,19 @@
       {
         "url": "https://midwestaec.com/articles/cold-climate-heat-pumps.html",
         "status": 200,
-        "timeMs": 91,
+        "timeMs": 116,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/furnace-vent-pipe-freeze-lockout.html",
         "status": 200,
-        "timeMs": 93,
+        "timeMs": 119,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/heat-pump-aux-heat-lockout-balance-point.html",
         "status": 200,
-        "timeMs": 101,
+        "timeMs": 102,
         "ok": true
       },
       {
@@ -169,121 +169,121 @@
       {
         "url": "https://midwestaec.com/articles/attic-air-sealing-baffles.html",
         "status": 200,
-        "timeMs": 103,
+        "timeMs": 99,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/attic-frost-roof-sweating.html",
         "status": 200,
-        "timeMs": 123,
+        "timeMs": 107,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/ice-dams-roofs.html",
         "status": 200,
-        "timeMs": 90,
+        "timeMs": 129,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/roof-insulation-over-sheathing.html",
         "status": 200,
-        "timeMs": 101,
+        "timeMs": 111,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/barndominium-post-frame.html",
         "status": 200,
-        "timeMs": 95,
+        "timeMs": 96,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/bug-prevention.html",
         "status": 200,
-        "timeMs": 99,
+        "timeMs": 112,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/expansive-lawncare.html",
         "status": 200,
-        "timeMs": 309,
+        "timeMs": 94,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/off-grid-systems.html",
         "status": 200,
-        "timeMs": 109,
+        "timeMs": 96,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/balloon-framing-retrofit-steps.html",
         "status": 200,
-        "timeMs": 93,
+        "timeMs": 120,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/balloon-framing.html",
         "status": 200,
-        "timeMs": 111,
+        "timeMs": 107,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/historic-brick-retrofit-steps.html",
         "status": 200,
-        "timeMs": 127,
+        "timeMs": 129,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/insulating-brick.html",
         "status": 200,
-        "timeMs": 125,
+        "timeMs": 99,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/basement-lvp-flooring-moisture.html",
         "status": 200,
-        "timeMs": 87,
+        "timeMs": 94,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/basement-waterproofing.html",
         "status": 200,
-        "timeMs": 134,
+        "timeMs": 83,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/cold-climate-septic-well-freeze-solutions.html",
         "status": 200,
-        "timeMs": 117,
+        "timeMs": 125,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/crawlspace-encapsulation-steps.html",
         "status": 200,
-        "timeMs": 135,
+        "timeMs": 146,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/crawlspace-encapsulation.html",
         "status": 200,
-        "timeMs": 175,
+        "timeMs": 97,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/how-to-know-if-you-need-icf-basement.html",
         "status": 200,
-        "timeMs": 90,
+        "timeMs": 98,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/icf-basements-walls.html",
         "status": 200,
-        "timeMs": 182,
+        "timeMs": 128,
         "ok": true
       },
       {
         "url": "https://midwestaec.com/articles/sump-pump-failure-spring-thaw-backups.html",
         "status": 200,
-        "timeMs": 124,
+        "timeMs": 551,
         "ok": true
       }
     ]
@@ -302,7 +302,7 @@
         "url": "https://www.bpi.org",
         "status": 200,
         "statusText": "OK",
-        "timeMs": 482,
+        "timeMs": 437,
         "ok": true
       },
       {
@@ -310,7 +310,7 @@
         "url": "https://www.nfrc.org",
         "status": 200,
         "statusText": "OK",
-        "timeMs": 1298,
+        "timeMs": 1873,
         "ok": true
       },
       {
@@ -318,7 +318,7 @@
         "url": "https://fcica.com",
         "status": 200,
         "statusText": "OK",
-        "timeMs": 990,
+        "timeMs": 827,
         "ok": true
       },
       {
@@ -326,7 +326,7 @@
         "url": "https://www.dsireusa.org",
         "status": 200,
         "statusText": "OK",
-        "timeMs": 559,
+        "timeMs": 555,
         "ok": true
       },
       {
@@ -334,7 +334,7 @@
         "url": "https://www.acca.org",
         "status": 200,
         "statusText": "OK",
-        "timeMs": 1031,
+        "timeMs": 647,
         "ok": true
       },
       {
@@ -342,7 +342,7 @@
         "url": "https://codes.iccsafe.org",
         "status": 200,
         "statusText": "OK",
-        "timeMs": 360,
+        "timeMs": 353,
         "ok": true
       },
       {
@@ -350,7 +350,7 @@
         "url": "https://www.networx.com/privacy",
         "status": 200,
         "statusText": "OK",
-        "timeMs": 550,
+        "timeMs": 272,
         "ok": true
       },
       {
@@ -358,7 +358,7 @@
         "url": "https://modernize.com/privacy",
         "status": 200,
         "statusText": "OK",
-        "timeMs": 201,
+        "timeMs": 215,
         "ok": true
       },
       {
@@ -366,7 +366,7 @@
         "url": "https://www.schluter.com",
         "status": 200,
         "statusText": "200",
-        "timeMs": 486,
+        "timeMs": 449,
         "ok": true
       }
     ]
@@ -374,7 +374,7 @@
   "edgeHealth": {
     "domain": "https://midwestaec.com",
     "sslActive": true,
-    "cfRay": "a56905f6fe3efa4d-DFW",
+    "cfRay": "a56916b6b98236e3-DFW",
     "cfCache": "DYNAMIC",
     "server": "cloudflare"
   },

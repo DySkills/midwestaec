@@ -99,7 +99,31 @@ async function runAudit() {
   // 1. INVENTORY & COUNT CONSISTENCY CHECK
   // -----------------------------------------------------------------
   console.log('--- [1/5] INVENTORY & COUNT CONSISTENCY ---');
-  const markdownFiles = fs.readdirSync(CONTENT_DIR).filter(f => f.endsWith('.md'));
+  function getPublishedMarkdownFiles(dir) {
+    let results = [];
+    if (!fs.existsSync(dir)) return results;
+    const entries = fs.readdirSync(dir, { withFileTypes: true });
+    for (const entry of entries) {
+      const fullPath = path.join(dir, entry.name);
+      if (entry.isDirectory()) {
+        if (entry.name === 'backlog') continue;
+        results = results.concat(getPublishedMarkdownFiles(fullPath));
+      } else if (entry.isFile() && entry.name.endsWith('.md')) {
+        results.push(fullPath);
+      }
+    }
+    return results;
+  }
+  const publishedSubdir = path.join(CONTENT_DIR, 'published');
+  let markdownFiles = [];
+  if (fs.existsSync(publishedSubdir)) {
+    markdownFiles = getPublishedMarkdownFiles(publishedSubdir);
+  }
+  const rootMdFiles = fs.readdirSync(CONTENT_DIR, { withFileTypes: true })
+    .filter(e => e.isFile() && e.name.endsWith('.md'))
+    .map(e => path.join(CONTENT_DIR, e.name));
+  markdownFiles = markdownFiles.concat(rootMdFiles);
+
   const articleHtmlFiles = fs.readdirSync(ARTICLES_DIR).filter(f => f.endsWith('.html'));
 
   const dataJsContent = fs.readFileSync(DATA_JS_PATH, 'utf8');

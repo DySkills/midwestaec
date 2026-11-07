@@ -48,7 +48,7 @@ The active workspace is C:\Users\Dylen\Desktop\AEC\Midwest.
   node build.js
   ```
 * **Directory Structure:**
-  * `content/*.md`: 39 production markdown files with YAML frontmatter.
+  * `content/published/**/*.md`: 39 production markdown files organized into 9 trade category subfolders (air-barriers, efficient-systems, envelopes, go-green, hvac, roofing, rural-development, urban-development, water-barriers).
   * `content/backlog/*.md`: 6 staged seasonal backlog articles awaiting scheduled rollout.
   * `articles/*.html`: 39 compiled HTML articles matching `content/` 1:1.
   * `article-template.html`: Master layout template for compiled articles.
@@ -59,7 +59,7 @@ The active workspace is C:\Users\Dylen\Desktop\AEC\Midwest.
   * `docs-sync.json`: Registry mapping article slugs to active Google Docs IDs.
 * **Crucial Operational Rules:**
   * **No Phantom Networks:** The site previously had placeholder navigation links for non-existent regional networks (Northwest, Southwest, Southeast, Northeast, Tropical). These were completely eradicated across all 48 template, index, and HTML files. **Never re-add or re-introduce any phantom network links or top network bars.**
-  * **Strict 1:1:1:1 Count Parity:** `content/*.md` count must always match `articles/*.html` count, `data.js` records, and `sitemap.xml` entries.
+  * **Strict 1:1:1:1 Count Parity:** `content/published/**/*.md` count must always match `articles/*.html` count, `data.js` records, and `sitemap.xml` entries.
 
 ---
 

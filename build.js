@@ -835,9 +835,38 @@ ${JSON.stringify(mainSchema, null, 2)}
 }
 
 // Compile all articles & generate data.js + sitemap.xml
+// Helper to recursively collect markdown files from content/published (excluding backlog)
+function getMarkdownFiles(dir) {
+  let results = [];
+  if (!fs.existsSync(dir)) return results;
+  const entries = fs.readdirSync(dir, { withFileTypes: true });
+  for (const entry of entries) {
+    const fullPath = path.join(dir, entry.name);
+    if (entry.isDirectory()) {
+      if (entry.name === 'backlog') continue;
+      results = results.concat(getMarkdownFiles(fullPath));
+    } else if (entry.isFile() && entry.name.endsWith('.md')) {
+      results.push(fullPath);
+    }
+  }
+  return results;
+}
+
+// Compile all articles & generate data.js + sitemap.xml
 function build() {
   console.log('Building MIAEC articles with Enterprise SEO, AEO & VEO metadata...');
-  const files = fs.readdirSync(contentDir).filter(f => f.endsWith('.md'));
+  
+  // Discover published markdown files (published subdirectories + any loose root markdown)
+  const publishedDir = path.join(contentDir, 'published');
+  let targetFiles = [];
+  if (fs.existsSync(publishedDir)) {
+    targetFiles = getMarkdownFiles(publishedDir);
+  }
+  const rootFiles = fs.readdirSync(contentDir, { withFileTypes: true })
+    .filter(e => e.isFile() && e.name.endsWith('.md'))
+    .map(e => path.join(contentDir, e.name));
+  targetFiles = targetFiles.concat(rootFiles);
+
   const databaseRecords = [];
   const sitemapUrls = [
     { loc: 'https://midwestaec.com/index.html', priority: '1.0', changefreq: 'weekly' },
@@ -848,8 +877,8 @@ function build() {
     { loc: 'https://midwestaec.com/disclosure.html', priority: '0.6', changefreq: 'yearly' }
   ];
 
-  files.forEach(file => {
-    const fullPath = path.join(contentDir, file);
+  targetFiles.forEach(fullPath => {
+    const file = path.basename(fullPath);
     const content = fs.readFileSync(fullPath, 'utf8');
     const { frontmatter, body } = parseFrontmatter(content);
 

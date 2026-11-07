@@ -34,7 +34,17 @@ Midwest AEC runs on a zero-framework, lightning-fast static site generator writt
 
 ```
 C:\Users\Dylen\Desktop\AEC\Midwest\
-├── content/                    # 39 published production markdown files with YAML frontmatter
+├── content/                    # Content repository
+│   ├── published/              # 39 published production markdown files organized by category
+│   │   ├── air-barriers/       # Air sealing, blower door diagnostics, vapor retarders
+│   │   ├── efficient-systems/  # Continuous insulation, windows, sub-slab specs
+│   │   ├── envelopes/          # Structural envelopes, egress, SIPs, earth building
+│   │   ├── go-green/           # Embodied carbon, low-GWP insulation (rockwool, cellulose)
+│   │   ├── hvac/               # Cold climate heat pumps, flue freezing, furnace short-cycling
+│   │   ├── roofing/            # Attic air sealing, ice dams, cold roof conversions
+│   │   ├── rural-development/  # Barndominiums, pest exclusion, off-grid power, civil grading
+│   │   ├── urban-development/  # Historic brick masonry, balloon framing retrofits
+│   │   └── water-barriers/     # Basements, waterproofing, ICF, sump pumps, crawlspaces
 │   └── backlog/                # 6 staged seasonal backlog articles awaiting rollout
 ├── articles/                   # 39 compiled HTML articles + 39 AEO Markdown twins
 ├── scripts/                    # SEO telemetry, GSC fetchers, audit engines, and tuning tools
@@ -59,7 +69,7 @@ C:\Users\Dylen\Desktop\AEC\Midwest\
 * Regenerates `rss.xml` and `llms.txt`.
 
 ### Strict Operational Rules
-1. **1:1:1:1 Count Parity:** Every file in `content/*.md` (currently 39) must have an exact 1:1 compiled match in `articles/*.html`, a record in `data.js`, and an entry in `sitemap.xml`.
+1. **1:1:1:1 Count Parity:** Every file in `content/published/**/*.md` (currently 39) must have an exact 1:1 compiled match in `articles/*.html`, a record in `data.js`, and an entry in `sitemap.xml`.
 2. **Zero Phantom Networks:** A prior layout had placeholder links to non-existent regional sister sites (Northwest, Southwest, Southeast, Northeast, Tropical). These were completely eradicated across all 48 files. **Never re-add or inject any phantom network bars or fake regional links.**
 3. **Build Before Commit:** Always run `node build.js` after modifying or adding markdown content.
 

@@ -9,3 +9,4 @@ dist/
 *gen-lang-client*.json
 *.key
 gsc-credentials.json
+data/

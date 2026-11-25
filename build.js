@@ -473,6 +473,28 @@ function buildArticleHtml(frontmatter, htmlBody, bodyMd) {
   const imageName = imageMap[slug] || 'stack-effect-diagram.jpg';
   const imageUrl = `${siteUrl}/images/${imageName}`;
 
+  // Dates: frontmatter "published" (YYYY-MM-DD) or default; modified = build day
+  const publishedISO = /^\d{4}-\d{2}-\d{2}$/.test(frontmatter.published || '') ? frontmatter.published : '2026-10-01';
+  const modifiedISO = new Date().toISOString().slice(0, 10);
+
+  // FAQ block (frontmatter faq: [{"q":..,"a":..}])
+  const faqItems = Array.isArray(frontmatter.faq) ? frontmatter.faq.filter(f => f && f.q && f.a) : [];
+  const escHtml = t => String(t).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  const faqSchema = faqItems.length ? {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faqItems.map(f => ({
+      "@type": "Question",
+      "name": f.q,
+      "acceptedAnswer": { "@type": "Answer", "text": f.a }
+    }))
+  } : null;
+  const faqHtml = faqItems.length ? `
+    <section class="mt-12 pt-6 border-t border-slate-200" id="faq">
+      <h2 class="text-2xl font-bold text-navy font-serif mb-4">Frequently Asked Questions</h2>
+      ${faqItems.map(f => `<div class="mb-6"><h3 class="text-lg font-bold text-navy mb-1">${escHtml(f.q)}</h3><p class="text-slate-700 leading-relaxed">${escHtml(f.a)}</p></div>`).join('\n      ')}
+    </section>` : '';
+
   // Build JSON-LD structured data
   const breadcrumbSchema = {
     "@context": "https://schema.org",
@@ -542,8 +564,8 @@ function buildArticleHtml(frontmatter, htmlBody, bodyMd) {
         "name": "Midwest Architecture, Engineering & Construction",
         "url": siteUrl
       },
-      "datePublished": "2026-10-01T08:00:00Z",
-      "dateModified": "2026-10-19T18:00:00Z",
+      "datePublished": `${publishedISO}T08:00:00Z`,
+      "dateModified": `${modifiedISO}T08:00:00Z`,
       "mainEntityOfPage": {
         "@type": "WebPage",
         "@id": canonicalUrl
@@ -622,7 +644,10 @@ ${JSON.stringify(breadcrumbSchema, null, 2)}
   </script>
   <script type="application/ld+json">
 ${JSON.stringify(mainSchema, null, 2)}
-  </script>
+  </script>${faqSchema ? `
+  <script type="application/ld+json">
+${JSON.stringify(faqSchema, null, 2)}
+  </script>` : ''}
 
   <!-- Typography & Styling -->
   <script src="https://cdn.tailwindcss.com"></script>
@@ -713,7 +738,7 @@ ${JSON.stringify(mainSchema, null, 2)}
     <div class="flex items-center gap-3 text-xs font-mono text-slate-500 border-b border-slate-200 pb-6 mb-8">
       <span>By <span itemprop="author">${frontmatter.author || 'Midwest AEC Building Science'}</span></span>
       <span>&bull;</span>
-      <span>Published <time datetime="2026-10-01">${frontmatter.date || 'October 2026'}</time></span>
+      <span>Published <time datetime="${publishedISO}">${frontmatter.date || 'October 2026'}</time></span>
       <span>&bull;</span>
       <span class="text-steel font-bold">${frontmatter.codeTag || 'Building Science Spec'}</span>
     </div>
@@ -722,6 +747,7 @@ ${JSON.stringify(mainSchema, null, 2)}
     <article class="prose max-w-none" itemprop="articleBody">
       ${htmlBody}
     </article>
+${faqHtml}
 
     <!-- Contractor Referral / Lead-Gen Hook -->
     ${renderContractorCTA(frontmatter, citiesStr)}

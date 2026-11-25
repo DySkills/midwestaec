@@ -1,0 +1,1977 @@
+week_start,topic,expected_interest,phase,confidence
+2026-11-09,pole barn insulation,82,Steady,ok
+2026-11-09,radon mitigation,77,Steady,ok
+2026-11-09,egress window,72,Steady,ok
+2026-11-09,garage ceiling insulation,71,Rising,ok
+2026-11-09,radiator bleeding,70,Rising,ok
+2026-11-09,sewer backup,60,Falling,ok
+2026-11-09,window condensation,57,Rising,ok
+2026-11-09,in floor radiant heat,55,Rising,ok
+2026-11-09,furnace pressure switch,54,Rising,ok
+2026-11-09,basement leak,52,Falling,ok
+2026-11-09,foam insulation attic,50,Steady,ok
+2026-11-09,foundation crack,48,Falling,ok
+2026-11-09,furnace not heating,42,Rising,ok
+2026-11-09,whole house dehumidifier,39,Steady,ok
+2026-11-09,furnace short cycling,35,Rising,ok
+2026-11-09,metal roof condensation,34,Falling,ok
+2026-11-09,dehumidifier basement,30,Steady,ok
+2026-11-09,termite sill plate,29,Falling,low
+2026-11-09,rim joist insulation,27,Rising,ok
+2026-11-09,bathroom fan condensation,26,Rising,low
+2026-11-09,crawl space mold,26,Steady,ok
+2026-11-09,ice dam,23,Quiet,ok
+2026-11-09,retaining wall drainage,20,Quiet,ok
+2026-11-09,heat pump aux heat,15,Rising,ok
+2026-11-09,sump pump not working,13,Quiet,ok
+2026-11-09,attic condensation,12,Rising,ok
+2026-11-09,basement water after rain,9,Quiet,low
+2026-11-09,frozen pipes,2,Quiet,ok
+2026-11-09,mini split freezing up,0,Quiet,ok
+2026-11-09,frozen well pump,0,Quiet,ok
+2026-11-09,tankless water heater freezing,0,Quiet,ok
+2026-11-09,sump pump frozen discharge,0,Quiet,low
+2026-11-09,bowed basement wall,0,Quiet,low
+2026-11-09,erv vs hrv,0,Quiet,ok
+2026-11-09,flat roof ponding,0,Quiet,low
+2026-11-09,tuckpointing brick,0,Quiet,ok
+2026-11-09,polyjacking concrete,0,Quiet,low
+2026-11-09,standby generator sizing,0,Quiet,low
+2026-11-16,sump pump frozen discharge,100,Peak,low
+2026-11-16,pole barn insulation,92,Peak,ok
+2026-11-16,garage ceiling insulation,85,Steady,ok
+2026-11-16,radiator bleeding,76,Rising,ok
+2026-11-16,radon mitigation,69,Steady,ok
+2026-11-16,window condensation,66,Rising,ok
+2026-11-16,egress window,65,Steady,ok
+2026-11-16,furnace pressure switch,62,Rising,ok
+2026-11-16,in floor radiant heat,60,Steady,ok
+2026-11-16,retaining wall drainage,50,Falling,ok
+2026-11-16,furnace short cycling,48,Rising,ok
+2026-11-16,basement leak,45,Steady,ok
+2026-11-16,furnace not heating,44,Rising,ok
+2026-11-16,foam insulation attic,41,Rising,ok
+2026-11-16,termite sill plate,38,Falling,low
+2026-11-16,foundation crack,37,Steady,ok
+2026-11-16,sewer backup,36,Steady,ok
+2026-11-16,whole house dehumidifier,32,Steady,ok
+2026-11-16,dehumidifier basement,26,Steady,ok
+2026-11-16,heat pump aux heat,22,Rising,ok
+2026-11-16,crawl space mold,22,Quiet,ok
+2026-11-16,ice dam,18,Quiet,ok
+2026-11-16,frozen pipes,3,Quiet,ok
+2026-11-16,mini split freezing up,0,Quiet,ok
+2026-11-16,frozen well pump,0,Quiet,ok
+2026-11-16,tankless water heater freezing,0,Quiet,ok
+2026-11-16,attic condensation,0,Rising,ok
+2026-11-16,bathroom fan condensation,0,Quiet,low
+2026-11-16,metal roof condensation,0,Quiet,ok
+2026-11-16,sump pump not working,0,Quiet,ok
+2026-11-16,basement water after rain,0,Quiet,low
+2026-11-16,bowed basement wall,0,Quiet,low
+2026-11-16,rim joist insulation,0,Rising,ok
+2026-11-16,erv vs hrv,0,Quiet,ok
+2026-11-16,flat roof ponding,0,Quiet,low
+2026-11-16,tuckpointing brick,0,Quiet,ok
+2026-11-16,polyjacking concrete,0,Quiet,low
+2026-11-16,standby generator sizing,0,Quiet,low
+2026-11-23,pole barn insulation,94,Peak,ok
+2026-11-23,garage ceiling insulation,84,Steady,ok
+2026-11-23,window condensation,80,Steady,ok
+2026-11-23,furnace pressure switch,72,Steady,ok
+2026-11-23,radiator bleeding,68,Steady,ok
+2026-11-23,radon mitigation,64,Steady,ok
+2026-11-23,furnace short cycling,62,Steady,ok
+2026-11-23,egress window,61,Steady,ok
+2026-11-23,furnace not heating,60,Falling,ok
+2026-11-23,in floor radiant heat,56,Rising,ok
+2026-11-23,foam insulation attic,47,Steady,ok
+2026-11-23,retaining wall drainage,43,Steady,ok
+2026-11-23,basement leak,38,Rising,ok
+2026-11-23,foundation crack,33,Steady,ok
+2026-11-23,whole house dehumidifier,32,Steady,ok
+2026-11-23,heat pump aux heat,31,Steady,ok
+2026-11-23,sewer backup,31,Steady,ok
+2026-11-23,dehumidifier basement,28,Steady,ok
+2026-11-23,crawl space mold,22,Quiet,ok
+2026-11-23,ice dam,18,Quiet,ok
+2026-11-23,frozen pipes,3,Quiet,ok
+2026-11-23,mini split freezing up,0,Quiet,ok
+2026-11-23,frozen well pump,0,Quiet,ok
+2026-11-23,tankless water heater freezing,0,Quiet,ok
+2026-11-23,attic condensation,0,Rising,ok
+2026-11-23,bathroom fan condensation,0,Quiet,low
+2026-11-23,metal roof condensation,0,Quiet,ok
+2026-11-23,sump pump not working,0,Quiet,ok
+2026-11-23,sump pump frozen discharge,0,Quiet,low
+2026-11-23,basement water after rain,0,Quiet,low
+2026-11-23,bowed basement wall,0,Quiet,low
+2026-11-23,rim joist insulation,0,Rising,ok
+2026-11-23,erv vs hrv,0,Quiet,ok
+2026-11-23,flat roof ponding,0,Quiet,low
+2026-11-23,tuckpointing brick,0,Quiet,ok
+2026-11-23,polyjacking concrete,0,Quiet,low
+2026-11-23,termite sill plate,0,Quiet,low
+2026-11-23,standby generator sizing,0,Quiet,low
+2026-11-30,bathroom fan condensation,100,Peak,low
+2026-11-30,window condensation,100,Peak,ok
+2026-11-30,radiator bleeding,100,Peak,ok
+2026-11-30,garage ceiling insulation,99,Peak,ok
+2026-11-30,furnace pressure switch,92,Peak,ok
+2026-11-30,pole barn insulation,88,Steady,ok
+2026-11-30,furnace short cycling,82,Falling,ok
+2026-11-30,in floor radiant heat,75,Falling,ok
+2026-11-30,heat pump aux heat,73,Falling,ok
+2026-11-30,furnace not heating,71,Falling,ok
+2026-11-30,rim joist insulation,68,Falling,ok
+2026-11-30,egress window,66,Steady,ok
+2026-11-30,radon mitigation,66,Steady,ok
+2026-11-30,foam insulation attic,54,Steady,ok
+2026-11-30,attic condensation,43,Rising,ok
+2026-11-30,basement leak,36,Rising,ok
+2026-11-30,foundation crack,31,Steady,ok
+2026-11-30,sewer backup,31,Steady,ok
+2026-11-30,whole house dehumidifier,28,Steady,ok
+2026-11-30,dehumidifier basement,24,Quiet,ok
+2026-11-30,ice dam,21,Quiet,ok
+2026-11-30,retaining wall drainage,20,Quiet,ok
+2026-11-30,crawl space mold,17,Quiet,ok
+2026-11-30,frozen pipes,7,Quiet,ok
+2026-11-30,mini split freezing up,0,Quiet,ok
+2026-11-30,frozen well pump,0,Quiet,ok
+2026-11-30,tankless water heater freezing,0,Quiet,ok
+2026-11-30,metal roof condensation,0,Quiet,ok
+2026-11-30,sump pump not working,0,Quiet,ok
+2026-11-30,sump pump frozen discharge,0,Quiet,low
+2026-11-30,basement water after rain,0,Quiet,low
+2026-11-30,bowed basement wall,0,Quiet,low
+2026-11-30,erv vs hrv,0,Quiet,ok
+2026-11-30,flat roof ponding,0,Quiet,low
+2026-11-30,tuckpointing brick,0,Quiet,ok
+2026-11-30,polyjacking concrete,0,Quiet,low
+2026-11-30,termite sill plate,0,Quiet,low
+2026-11-30,standby generator sizing,0,Quiet,low
+2026-12-07,radiator bleeding,94,Peak,ok
+2026-12-07,pole barn insulation,86,Falling,ok
+2026-12-07,furnace pressure switch,85,Falling,ok
+2026-12-07,garage ceiling insulation,85,Steady,ok
+2026-12-07,window condensation,80,Steady,ok
+2026-12-07,rim joist insulation,75,Falling,ok
+2026-12-07,radon mitigation,72,Falling,ok
+2026-12-07,in floor radiant heat,70,Falling,ok
+2026-12-07,furnace short cycling,68,Falling,ok
+2026-12-07,furnace not heating,62,Falling,ok
+2026-12-07,heat pump aux heat,61,Falling,ok
+2026-12-07,foam insulation attic,61,Steady,ok
+2026-12-07,egress window,61,Steady,ok
+2026-12-07,attic condensation,58,Falling,ok
+2026-12-07,basement leak,43,Steady,ok
+2026-12-07,foundation crack,34,Steady,ok
+2026-12-07,sewer backup,33,Steady,ok
+2026-12-07,whole house dehumidifier,29,Steady,ok
+2026-12-07,ice dam,24,Quiet,ok
+2026-12-07,dehumidifier basement,19,Quiet,ok
+2026-12-07,retaining wall drainage,18,Quiet,ok
+2026-12-07,crawl space mold,16,Quiet,ok
+2026-12-07,frozen pipes,8,Quiet,ok
+2026-12-07,mini split freezing up,0,Quiet,ok
+2026-12-07,frozen well pump,0,Quiet,ok
+2026-12-07,tankless water heater freezing,0,Quiet,ok
+2026-12-07,bathroom fan condensation,0,Quiet,low
+2026-12-07,metal roof condensation,0,Quiet,ok
+2026-12-07,sump pump not working,0,Rising,ok
+2026-12-07,sump pump frozen discharge,0,Quiet,low
+2026-12-07,basement water after rain,0,Quiet,low
+2026-12-07,bowed basement wall,0,Rising,low
+2026-12-07,erv vs hrv,0,Quiet,ok
+2026-12-07,flat roof ponding,0,Quiet,low
+2026-12-07,tuckpointing brick,0,Quiet,ok
+2026-12-07,polyjacking concrete,0,Quiet,low
+2026-12-07,termite sill plate,0,Quiet,low
+2026-12-07,standby generator sizing,0,Quiet,low
+2026-12-14,garage ceiling insulation,83,Steady,ok
+2026-12-14,window condensation,80,Steady,ok
+2026-12-14,pole barn insulation,80,Steady,ok
+2026-12-14,rim joist insulation,75,Falling,ok
+2026-12-14,in floor radiant heat,68,Steady,ok
+2026-12-14,radiator bleeding,66,Falling,ok
+2026-12-14,radon mitigation,65,Steady,ok
+2026-12-14,furnace pressure switch,63,Steady,ok
+2026-12-14,egress window,57,Steady,ok
+2026-12-14,furnace short cycling,53,Steady,ok
+2026-12-14,attic condensation,52,Steady,ok
+2026-12-14,basement leak,52,Rising,ok
+2026-12-14,foam insulation attic,49,Steady,ok
+2026-12-14,furnace not heating,44,Steady,ok
+2026-12-14,foundation crack,41,Steady,ok
+2026-12-14,retaining wall drainage,38,Falling,ok
+2026-12-14,sewer backup,36,Steady,ok
+2026-12-14,whole house dehumidifier,31,Steady,ok
+2026-12-14,heat pump aux heat,24,Rising,ok
+2026-12-14,crawl space mold,19,Quiet,ok
+2026-12-14,dehumidifier basement,19,Quiet,ok
+2026-12-14,ice dam,18,Rising,ok
+2026-12-14,frozen pipes,4,Quiet,ok
+2026-12-14,mini split freezing up,0,Quiet,ok
+2026-12-14,frozen well pump,0,Quiet,ok
+2026-12-14,tankless water heater freezing,0,Quiet,ok
+2026-12-14,bathroom fan condensation,0,Quiet,low
+2026-12-14,metal roof condensation,0,Quiet,ok
+2026-12-14,sump pump not working,0,Quiet,ok
+2026-12-14,sump pump frozen discharge,0,Quiet,low
+2026-12-14,basement water after rain,0,Quiet,low
+2026-12-14,bowed basement wall,0,Rising,low
+2026-12-14,erv vs hrv,0,Quiet,ok
+2026-12-14,flat roof ponding,0,Quiet,low
+2026-12-14,tuckpointing brick,0,Quiet,ok
+2026-12-14,polyjacking concrete,0,Quiet,low
+2026-12-14,termite sill plate,0,Quiet,low
+2026-12-14,standby generator sizing,0,Quiet,low
+2026-12-21,pole barn insulation,86,Steady,ok
+2026-12-21,radiator bleeding,77,Falling,ok
+2026-12-21,attic condensation,70,Falling,ok
+2026-12-21,garage ceiling insulation,69,Rising,ok
+2026-12-21,in floor radiant heat,62,Rising,ok
+2026-12-21,egress window,56,Steady,ok
+2026-12-21,radon mitigation,56,Rising,ok
+2026-12-21,window condensation,55,Rising,ok
+2026-12-21,basement leak,54,Steady,ok
+2026-12-21,furnace pressure switch,50,Rising,ok
+2026-12-21,foam insulation attic,47,Rising,ok
+2026-12-21,sewer backup,40,Steady,ok
+2026-12-21,furnace short cycling,39,Rising,ok
+2026-12-21,foundation crack,36,Rising,ok
+2026-12-21,rim joist insulation,36,Rising,ok
+2026-12-21,furnace not heating,34,Rising,ok
+2026-12-21,heat pump aux heat,28,Rising,ok
+2026-12-21,whole house dehumidifier,28,Steady,ok
+2026-12-21,crawl space mold,21,Rising,ok
+2026-12-21,dehumidifier basement,21,Quiet,ok
+2026-12-21,retaining wall drainage,20,Quiet,ok
+2026-12-21,ice dam,18,Rising,ok
+2026-12-21,frozen pipes,6,Quiet,ok
+2026-12-21,mini split freezing up,0,Quiet,ok
+2026-12-21,frozen well pump,0,Quiet,ok
+2026-12-21,tankless water heater freezing,0,Rising,ok
+2026-12-21,bathroom fan condensation,0,Rising,low
+2026-12-21,metal roof condensation,0,Quiet,ok
+2026-12-21,sump pump not working,0,Quiet,ok
+2026-12-21,sump pump frozen discharge,0,Rising,low
+2026-12-21,basement water after rain,0,Quiet,low
+2026-12-21,bowed basement wall,0,Quiet,low
+2026-12-21,erv vs hrv,0,Quiet,ok
+2026-12-21,flat roof ponding,0,Quiet,low
+2026-12-21,tuckpointing brick,0,Quiet,ok
+2026-12-21,polyjacking concrete,0,Quiet,low
+2026-12-21,termite sill plate,0,Quiet,low
+2026-12-21,standby generator sizing,0,Quiet,low
+2026-12-28,radiator bleeding,84,Steady,ok
+2026-12-28,garage ceiling insulation,81,Rising,ok
+2026-12-28,window condensation,76,Rising,ok
+2026-12-28,pole barn insulation,74,Rising,ok
+2026-12-28,bowed basement wall,66,Falling,low
+2026-12-28,furnace pressure switch,58,Rising,ok
+2026-12-28,in floor radiant heat,58,Rising,ok
+2026-12-28,radon mitigation,57,Rising,ok
+2026-12-28,foam insulation attic,56,Rising,ok
+2026-12-28,egress window,56,Steady,ok
+2026-12-28,furnace not heating,49,Rising,ok
+2026-12-28,sump pump not working,49,Falling,ok
+2026-12-28,basement leak,47,Steady,ok
+2026-12-28,attic condensation,45,Rising,ok
+2026-12-28,furnace short cycling,43,Rising,ok
+2026-12-28,rim joist insulation,43,Rising,ok
+2026-12-28,sewer backup,41,Steady,ok
+2026-12-28,foundation crack,32,Rising,ok
+2026-12-28,heat pump aux heat,31,Rising,ok
+2026-12-28,whole house dehumidifier,30,Steady,ok
+2026-12-28,crawl space mold,25,Steady,ok
+2026-12-28,ice dam,21,Rising,ok
+2026-12-28,dehumidifier basement,20,Quiet,ok
+2026-12-28,frozen pipes,11,Rising,ok
+2026-12-28,mini split freezing up,0,Rising,ok
+2026-12-28,frozen well pump,0,Rising,ok
+2026-12-28,tankless water heater freezing,0,Rising,ok
+2026-12-28,bathroom fan condensation,0,Rising,low
+2026-12-28,metal roof condensation,0,Rising,ok
+2026-12-28,sump pump frozen discharge,0,Rising,low
+2026-12-28,basement water after rain,0,Quiet,low
+2026-12-28,erv vs hrv,0,Quiet,ok
+2026-12-28,flat roof ponding,0,Quiet,low
+2026-12-28,tuckpointing brick,0,Quiet,ok
+2026-12-28,polyjacking concrete,0,Quiet,low
+2026-12-28,termite sill plate,0,Quiet,low
+2026-12-28,retaining wall drainage,0,Quiet,ok
+2026-12-28,standby generator sizing,0,Rising,low
+2027-01-04,garage ceiling insulation,91,Peak,ok
+2027-01-04,basement leak,89,Falling,ok
+2027-01-04,pole barn insulation,87,Falling,ok
+2027-01-04,window condensation,86,Steady,ok
+2027-01-04,in floor radiant heat,75,Steady,ok
+2027-01-04,furnace pressure switch,70,Steady,ok
+2027-01-04,bowed basement wall,66,Falling,low
+2027-01-04,radon mitigation,66,Steady,ok
+2027-01-04,furnace short cycling,63,Steady,ok
+2027-01-04,egress window,61,Steady,ok
+2027-01-04,foam insulation attic,57,Steady,ok
+2027-01-04,furnace not heating,51,Rising,ok
+2027-01-04,attic condensation,51,Rising,ok
+2027-01-04,rim joist insulation,50,Rising,ok
+2027-01-04,ice dam,48,Steady,ok
+2027-01-04,radiator bleeding,47,Rising,ok
+2027-01-04,foundation crack,45,Steady,ok
+2027-01-04,sewer backup,43,Steady,ok
+2027-01-04,heat pump aux heat,38,Rising,ok
+2027-01-04,whole house dehumidifier,36,Falling,ok
+2027-01-04,crawl space mold,29,Steady,ok
+2027-01-04,retaining wall drainage,25,Rising,ok
+2027-01-04,dehumidifier basement,22,Quiet,ok
+2027-01-04,tankless water heater freezing,21,Rising,ok
+2027-01-04,frozen pipes,18,Rising,ok
+2027-01-04,mini split freezing up,0,Quiet,ok
+2027-01-04,frozen well pump,0,Rising,ok
+2027-01-04,bathroom fan condensation,0,Quiet,low
+2027-01-04,metal roof condensation,0,Quiet,ok
+2027-01-04,sump pump not working,0,Quiet,ok
+2027-01-04,sump pump frozen discharge,0,Quiet,low
+2027-01-04,basement water after rain,0,Quiet,low
+2027-01-04,erv vs hrv,0,Quiet,ok
+2027-01-04,flat roof ponding,0,Quiet,low
+2027-01-04,tuckpointing brick,0,Quiet,ok
+2027-01-04,polyjacking concrete,0,Quiet,low
+2027-01-04,termite sill plate,0,Quiet,low
+2027-01-04,standby generator sizing,0,Quiet,low
+2027-01-11,garage ceiling insulation,100,Peak,ok
+2027-01-11,window condensation,91,Peak,ok
+2027-01-11,pole barn insulation,86,Falling,ok
+2027-01-11,in floor radiant heat,85,Falling,ok
+2027-01-11,furnace pressure switch,84,Falling,ok
+2027-01-11,heat pump aux heat,83,Falling,ok
+2027-01-11,furnace short cycling,82,Falling,ok
+2027-01-11,rim joist insulation,73,Falling,ok
+2027-01-11,radon mitigation,71,Steady,ok
+2027-01-11,ice dam,67,Falling,ok
+2027-01-11,egress window,65,Steady,ok
+2027-01-11,furnace not heating,64,Falling,ok
+2027-01-11,foam insulation attic,64,Falling,ok
+2027-01-11,radiator bleeding,61,Steady,ok
+2027-01-11,basement leak,56,Steady,ok
+2027-01-11,attic condensation,53,Falling,ok
+2027-01-11,sump pump frozen discharge,51,Falling,low
+2027-01-11,bathroom fan condensation,50,Falling,low
+2027-01-11,foundation crack,50,Steady,ok
+2027-01-11,sewer backup,42,Steady,ok
+2027-01-11,tankless water heater freezing,39,Falling,ok
+2027-01-11,crawl space mold,34,Falling,ok
+2027-01-11,whole house dehumidifier,33,Steady,ok
+2027-01-11,retaining wall drainage,25,Steady,ok
+2027-01-11,frozen pipes,24,Quiet,ok
+2027-01-11,dehumidifier basement,20,Quiet,ok
+2027-01-11,mini split freezing up,0,Quiet,ok
+2027-01-11,frozen well pump,0,Quiet,ok
+2027-01-11,metal roof condensation,0,Quiet,ok
+2027-01-11,sump pump not working,0,Quiet,ok
+2027-01-11,basement water after rain,0,Quiet,low
+2027-01-11,bowed basement wall,0,Quiet,low
+2027-01-11,erv vs hrv,0,Quiet,ok
+2027-01-11,flat roof ponding,0,Quiet,low
+2027-01-11,tuckpointing brick,0,Quiet,ok
+2027-01-11,polyjacking concrete,0,Quiet,low
+2027-01-11,termite sill plate,0,Quiet,low
+2027-01-11,standby generator sizing,0,Quiet,low
+2027-01-18,furnace not heating,100,Peak,ok
+2027-01-18,furnace short cycling,100,Peak,ok
+2027-01-18,furnace pressure switch,100,Peak,ok
+2027-01-18,heat pump aux heat,100,Peak,ok
+2027-01-18,mini split freezing up,100,Peak,ok
+2027-01-18,frozen pipes,100,Peak,ok
+2027-01-18,frozen well pump,100,Peak,ok
+2027-01-18,tankless water heater freezing,100,Peak,ok
+2027-01-18,metal roof condensation,100,Peak,ok
+2027-01-18,rim joist insulation,100,Peak,ok
+2027-01-18,in floor radiant heat,100,Peak,ok
+2027-01-18,window condensation,98,Peak,ok
+2027-01-18,garage ceiling insulation,97,Peak,ok
+2027-01-18,pole barn insulation,88,Falling,ok
+2027-01-18,radiator bleeding,82,Falling,ok
+2027-01-18,attic condensation,75,Falling,ok
+2027-01-18,foam insulation attic,74,Falling,ok
+2027-01-18,radon mitigation,73,Steady,ok
+2027-01-18,standby generator sizing,70,Falling,low
+2027-01-18,ice dam,67,Steady,ok
+2027-01-18,egress window,64,Steady,ok
+2027-01-18,basement leak,56,Steady,ok
+2027-01-18,sump pump frozen discharge,51,Falling,low
+2027-01-18,bathroom fan condensation,50,Falling,low
+2027-01-18,sewer backup,49,Steady,ok
+2027-01-18,foundation crack,44,Steady,ok
+2027-01-18,whole house dehumidifier,33,Steady,ok
+2027-01-18,crawl space mold,27,Steady,ok
+2027-01-18,dehumidifier basement,19,Quiet,ok
+2027-01-18,retaining wall drainage,19,Rising,ok
+2027-01-18,sump pump not working,0,Quiet,ok
+2027-01-18,basement water after rain,0,Quiet,low
+2027-01-18,bowed basement wall,0,Quiet,low
+2027-01-18,erv vs hrv,0,Rising,ok
+2027-01-18,flat roof ponding,0,Quiet,low
+2027-01-18,tuckpointing brick,0,Quiet,ok
+2027-01-18,polyjacking concrete,0,Quiet,low
+2027-01-18,termite sill plate,0,Quiet,low
+2027-01-25,frozen well pump,100,Peak,ok
+2027-01-25,attic condensation,100,Peak,ok
+2027-01-25,frozen pipes,93,Peak,ok
+2027-01-25,rim joist insulation,84,Falling,ok
+2027-01-25,heat pump aux heat,82,Falling,ok
+2027-01-25,garage ceiling insulation,79,Steady,ok
+2027-01-25,furnace pressure switch,76,Falling,ok
+2027-01-25,window condensation,76,Falling,ok
+2027-01-25,radon mitigation,75,Steady,ok
+2027-01-25,radiator bleeding,75,Falling,ok
+2027-01-25,furnace not heating,74,Falling,ok
+2027-01-25,furnace short cycling,74,Falling,ok
+2027-01-25,pole barn insulation,71,Steady,ok
+2027-01-25,basement leak,68,Steady,ok
+2027-01-25,egress window,68,Steady,ok
+2027-01-25,in floor radiant heat,68,Steady,ok
+2027-01-25,tankless water heater freezing,65,Falling,ok
+2027-01-25,foam insulation attic,63,Steady,ok
+2027-01-25,ice dam,52,Rising,ok
+2027-01-25,sewer backup,48,Steady,ok
+2027-01-25,foundation crack,44,Steady,ok
+2027-01-25,retaining wall drainage,42,Steady,ok
+2027-01-25,crawl space mold,27,Rising,ok
+2027-01-25,whole house dehumidifier,23,Quiet,ok
+2027-01-25,dehumidifier basement,15,Quiet,ok
+2027-01-25,mini split freezing up,0,Quiet,ok
+2027-01-25,bathroom fan condensation,0,Quiet,low
+2027-01-25,metal roof condensation,0,Quiet,ok
+2027-01-25,sump pump not working,0,Quiet,ok
+2027-01-25,sump pump frozen discharge,0,Quiet,low
+2027-01-25,basement water after rain,0,Quiet,low
+2027-01-25,bowed basement wall,0,Quiet,low
+2027-01-25,erv vs hrv,0,Quiet,ok
+2027-01-25,flat roof ponding,0,Quiet,low
+2027-01-25,tuckpointing brick,0,Quiet,ok
+2027-01-25,polyjacking concrete,0,Quiet,low
+2027-01-25,termite sill plate,0,Quiet,low
+2027-01-25,standby generator sizing,0,Quiet,low
+2027-02-01,radon mitigation,77,Steady,ok
+2027-02-01,egress window,72,Steady,ok
+2027-02-01,pole barn insulation,72,Steady,ok
+2027-02-01,garage ceiling insulation,69,Steady,ok
+2027-02-01,in floor radiant heat,64,Steady,ok
+2027-02-01,radiator bleeding,62,Falling,ok
+2027-02-01,rim joist insulation,57,Steady,ok
+2027-02-01,furnace short cycling,50,Steady,ok
+2027-02-01,furnace pressure switch,50,Steady,ok
+2027-02-01,basement leak,49,Rising,ok
+2027-02-01,window condensation,48,Steady,ok
+2027-02-01,foam insulation attic,48,Steady,ok
+2027-02-01,foundation crack,46,Steady,ok
+2027-02-01,ice dam,45,Rising,ok
+2027-02-01,sewer backup,43,Steady,ok
+2027-02-01,furnace not heating,38,Steady,ok
+2027-02-01,attic condensation,32,Rising,ok
+2027-02-01,whole house dehumidifier,32,Steady,ok
+2027-02-01,retaining wall drainage,31,Rising,ok
+2027-02-01,heat pump aux heat,24,Quiet,ok
+2027-02-01,crawl space mold,22,Rising,ok
+2027-02-01,dehumidifier basement,14,Quiet,ok
+2027-02-01,frozen pipes,8,Quiet,ok
+2027-02-01,mini split freezing up,0,Quiet,ok
+2027-02-01,frozen well pump,0,Quiet,ok
+2027-02-01,tankless water heater freezing,0,Quiet,ok
+2027-02-01,bathroom fan condensation,0,Quiet,low
+2027-02-01,metal roof condensation,0,Quiet,ok
+2027-02-01,sump pump not working,0,Quiet,ok
+2027-02-01,sump pump frozen discharge,0,Quiet,low
+2027-02-01,basement water after rain,0,Quiet,low
+2027-02-01,bowed basement wall,0,Quiet,low
+2027-02-01,erv vs hrv,0,Quiet,ok
+2027-02-01,flat roof ponding,0,Quiet,low
+2027-02-01,tuckpointing brick,0,Quiet,ok
+2027-02-01,polyjacking concrete,0,Quiet,low
+2027-02-01,termite sill plate,0,Quiet,low
+2027-02-01,standby generator sizing,0,Quiet,low
+2027-02-08,erv vs hrv,100,Peak,ok
+2027-02-08,radon mitigation,78,Steady,ok
+2027-02-08,garage ceiling insulation,77,Steady,ok
+2027-02-08,egress window,72,Steady,ok
+2027-02-08,pole barn insulation,65,Steady,ok
+2027-02-08,furnace short cycling,62,Falling,ok
+2027-02-08,ice dam,58,Falling,ok
+2027-02-08,radiator bleeding,56,Falling,ok
+2027-02-08,foam insulation attic,55,Steady,ok
+2027-02-08,furnace pressure switch,53,Falling,ok
+2027-02-08,in floor radiant heat,52,Steady,ok
+2027-02-08,rim joist insulation,51,Steady,ok
+2027-02-08,window condensation,49,Steady,ok
+2027-02-08,basement leak,46,Rising,ok
+2027-02-08,foundation crack,46,Steady,ok
+2027-02-08,furnace not heating,43,Falling,ok
+2027-02-08,sewer backup,43,Steady,ok
+2027-02-08,retaining wall drainage,41,Steady,ok
+2027-02-08,crawl space mold,35,Steady,ok
+2027-02-08,attic condensation,32,Steady,ok
+2027-02-08,whole house dehumidifier,27,Steady,ok
+2027-02-08,heat pump aux heat,24,Quiet,ok
+2027-02-08,dehumidifier basement,14,Quiet,ok
+2027-02-08,frozen pipes,8,Quiet,ok
+2027-02-08,mini split freezing up,0,Quiet,ok
+2027-02-08,frozen well pump,0,Quiet,ok
+2027-02-08,tankless water heater freezing,0,Quiet,ok
+2027-02-08,bathroom fan condensation,0,Quiet,low
+2027-02-08,metal roof condensation,0,Quiet,ok
+2027-02-08,sump pump not working,0,Rising,ok
+2027-02-08,sump pump frozen discharge,0,Quiet,low
+2027-02-08,basement water after rain,0,Quiet,low
+2027-02-08,bowed basement wall,0,Quiet,low
+2027-02-08,flat roof ponding,0,Quiet,low
+2027-02-08,tuckpointing brick,0,Quiet,ok
+2027-02-08,polyjacking concrete,0,Quiet,low
+2027-02-08,termite sill plate,0,Quiet,low
+2027-02-08,standby generator sizing,0,Quiet,low
+2027-02-15,ice dam,100,Peak,ok
+2027-02-15,radon mitigation,79,Steady,ok
+2027-02-15,garage ceiling insulation,79,Falling,ok
+2027-02-15,egress window,74,Steady,ok
+2027-02-15,pole barn insulation,74,Falling,ok
+2027-02-15,foam insulation attic,61,Falling,ok
+2027-02-15,basement leak,61,Steady,ok
+2027-02-15,in floor radiant heat,58,Steady,ok
+2027-02-15,window condensation,52,Falling,ok
+2027-02-15,radiator bleeding,52,Steady,ok
+2027-02-15,rim joist insulation,51,Falling,ok
+2027-02-15,foundation crack,46,Steady,ok
+2027-02-15,furnace not heating,44,Falling,ok
+2027-02-15,furnace pressure switch,42,Falling,ok
+2027-02-15,retaining wall drainage,42,Steady,ok
+2027-02-15,sewer backup,41,Steady,ok
+2027-02-15,crawl space mold,41,Steady,ok
+2027-02-15,heat pump aux heat,30,Falling,ok
+2027-02-15,furnace short cycling,28,Falling,ok
+2027-02-15,whole house dehumidifier,21,Quiet,ok
+2027-02-15,dehumidifier basement,18,Quiet,ok
+2027-02-15,frozen pipes,8,Quiet,ok
+2027-02-15,mini split freezing up,0,Quiet,ok
+2027-02-15,frozen well pump,0,Quiet,ok
+2027-02-15,tankless water heater freezing,0,Quiet,ok
+2027-02-15,attic condensation,0,Quiet,ok
+2027-02-15,bathroom fan condensation,0,Quiet,low
+2027-02-15,metal roof condensation,0,Quiet,ok
+2027-02-15,sump pump not working,0,Rising,ok
+2027-02-15,sump pump frozen discharge,0,Quiet,low
+2027-02-15,basement water after rain,0,Quiet,low
+2027-02-15,bowed basement wall,0,Quiet,low
+2027-02-15,erv vs hrv,0,Quiet,ok
+2027-02-15,flat roof ponding,0,Quiet,low
+2027-02-15,tuckpointing brick,0,Quiet,ok
+2027-02-15,polyjacking concrete,0,Quiet,low
+2027-02-15,termite sill plate,0,Rising,low
+2027-02-15,standby generator sizing,0,Quiet,low
+2027-02-22,ice dam,94,Peak,ok
+2027-02-22,radon mitigation,82,Steady,ok
+2027-02-22,garage ceiling insulation,77,Steady,ok
+2027-02-22,egress window,71,Steady,ok
+2027-02-22,basement leak,62,Steady,ok
+2027-02-22,pole barn insulation,61,Steady,ok
+2027-02-22,in floor radiant heat,57,Falling,ok
+2027-02-22,window condensation,54,Falling,ok
+2027-02-22,foam insulation attic,54,Steady,ok
+2027-02-22,rim joist insulation,54,Steady,ok
+2027-02-22,attic condensation,52,Falling,ok
+2027-02-22,foundation crack,51,Steady,ok
+2027-02-22,furnace short cycling,45,Falling,ok
+2027-02-22,furnace pressure switch,45,Falling,ok
+2027-02-22,retaining wall drainage,44,Rising,ok
+2027-02-22,sewer backup,41,Steady,ok
+2027-02-22,radiator bleeding,41,Falling,ok
+2027-02-22,furnace not heating,40,Steady,ok
+2027-02-22,crawl space mold,39,Steady,ok
+2027-02-22,heat pump aux heat,32,Falling,ok
+2027-02-22,whole house dehumidifier,22,Quiet,ok
+2027-02-22,dehumidifier basement,18,Quiet,ok
+2027-02-22,frozen pipes,8,Quiet,ok
+2027-02-22,mini split freezing up,0,Quiet,ok
+2027-02-22,frozen well pump,0,Quiet,ok
+2027-02-22,tankless water heater freezing,0,Quiet,ok
+2027-02-22,bathroom fan condensation,0,Quiet,low
+2027-02-22,metal roof condensation,0,Quiet,ok
+2027-02-22,sump pump not working,0,Quiet,ok
+2027-02-22,sump pump frozen discharge,0,Quiet,low
+2027-02-22,basement water after rain,0,Quiet,low
+2027-02-22,bowed basement wall,0,Quiet,low
+2027-02-22,erv vs hrv,0,Quiet,ok
+2027-02-22,flat roof ponding,0,Quiet,low
+2027-02-22,tuckpointing brick,0,Quiet,ok
+2027-02-22,polyjacking concrete,0,Quiet,low
+2027-02-22,termite sill plate,0,Rising,low
+2027-02-22,standby generator sizing,0,Rising,low
+2027-03-01,radon mitigation,79,Steady,ok
+2027-03-01,egress window,76,Steady,ok
+2027-03-01,garage ceiling insulation,69,Steady,ok
+2027-03-01,sump pump not working,67,Falling,ok
+2027-03-01,pole barn insulation,61,Steady,ok
+2027-03-01,basement leak,59,Steady,ok
+2027-03-01,rim joist insulation,53,Falling,ok
+2027-03-01,foundation crack,50,Steady,ok
+2027-03-01,retaining wall drainage,49,Rising,ok
+2027-03-01,foam insulation attic,48,Steady,ok
+2027-03-01,in floor radiant heat,48,Steady,ok
+2027-03-01,sewer backup,45,Steady,ok
+2027-03-01,radiator bleeding,43,Falling,ok
+2027-03-01,ice dam,42,Falling,ok
+2027-03-01,crawl space mold,40,Steady,ok
+2027-03-01,window condensation,38,Steady,ok
+2027-03-01,furnace short cycling,35,Falling,ok
+2027-03-01,furnace not heating,31,Steady,ok
+2027-03-01,furnace pressure switch,29,Steady,ok
+2027-03-01,attic condensation,25,Falling,ok
+2027-03-01,whole house dehumidifier,25,Steady,ok
+2027-03-01,heat pump aux heat,19,Quiet,ok
+2027-03-01,dehumidifier basement,19,Quiet,ok
+2027-03-01,frozen pipes,3,Quiet,ok
+2027-03-01,mini split freezing up,0,Quiet,ok
+2027-03-01,frozen well pump,0,Quiet,ok
+2027-03-01,tankless water heater freezing,0,Quiet,ok
+2027-03-01,bathroom fan condensation,0,Quiet,low
+2027-03-01,metal roof condensation,0,Quiet,ok
+2027-03-01,sump pump frozen discharge,0,Quiet,low
+2027-03-01,basement water after rain,0,Quiet,low
+2027-03-01,bowed basement wall,0,Quiet,low
+2027-03-01,erv vs hrv,0,Quiet,ok
+2027-03-01,flat roof ponding,0,Quiet,low
+2027-03-01,tuckpointing brick,0,Quiet,ok
+2027-03-01,polyjacking concrete,0,Quiet,low
+2027-03-01,termite sill plate,0,Quiet,low
+2027-03-01,standby generator sizing,0,Quiet,low
+2027-03-08,egress window,81,Steady,ok
+2027-03-08,radon mitigation,78,Steady,ok
+2027-03-08,sump pump not working,67,Steady,ok
+2027-03-08,termite sill plate,66,Falling,low
+2027-03-08,basement leak,61,Rising,ok
+2027-03-08,foundation crack,54,Rising,ok
+2027-03-08,retaining wall drainage,53,Rising,ok
+2027-03-08,radiator bleeding,53,Falling,ok
+2027-03-08,garage ceiling insulation,51,Falling,ok
+2027-03-08,in floor radiant heat,50,Falling,ok
+2027-03-08,foam insulation attic,46,Steady,ok
+2027-03-08,sewer backup,45,Steady,ok
+2027-03-08,pole barn insulation,45,Steady,ok
+2027-03-08,window condensation,38,Steady,ok
+2027-03-08,crawl space mold,36,Steady,ok
+2027-03-08,furnace not heating,31,Steady,ok
+2027-03-08,furnace pressure switch,30,Steady,ok
+2027-03-08,whole house dehumidifier,24,Rising,ok
+2027-03-08,ice dam,21,Quiet,ok
+2027-03-08,dehumidifier basement,21,Quiet,ok
+2027-03-08,heat pump aux heat,10,Quiet,ok
+2027-03-08,frozen pipes,3,Quiet,ok
+2027-03-08,furnace short cycling,0,Quiet,ok
+2027-03-08,mini split freezing up,0,Quiet,ok
+2027-03-08,frozen well pump,0,Quiet,ok
+2027-03-08,tankless water heater freezing,0,Quiet,ok
+2027-03-08,attic condensation,0,Quiet,ok
+2027-03-08,bathroom fan condensation,0,Quiet,low
+2027-03-08,metal roof condensation,0,Quiet,ok
+2027-03-08,sump pump frozen discharge,0,Quiet,low
+2027-03-08,basement water after rain,0,Rising,low
+2027-03-08,bowed basement wall,0,Quiet,low
+2027-03-08,rim joist insulation,0,Rising,ok
+2027-03-08,erv vs hrv,0,Rising,ok
+2027-03-08,flat roof ponding,0,Quiet,low
+2027-03-08,tuckpointing brick,0,Quiet,ok
+2027-03-08,polyjacking concrete,0,Quiet,low
+2027-03-08,standby generator sizing,0,Quiet,low
+2027-03-15,radon mitigation,83,Steady,ok
+2027-03-15,egress window,81,Steady,ok
+2027-03-15,garage ceiling insulation,79,Falling,ok
+2027-03-15,standby generator sizing,74,Falling,low
+2027-03-15,retaining wall drainage,69,Steady,ok
+2027-03-15,termite sill plate,66,Falling,low
+2027-03-15,basement leak,61,Rising,ok
+2027-03-15,foundation crack,60,Steady,ok
+2027-03-15,pole barn insulation,51,Steady,ok
+2027-03-15,sewer backup,49,Steady,ok
+2027-03-15,rim joist insulation,46,Falling,ok
+2027-03-15,foam insulation attic,44,Steady,ok
+2027-03-15,in floor radiant heat,44,Steady,ok
+2027-03-15,crawl space mold,38,Steady,ok
+2027-03-15,furnace not heating,29,Steady,ok
+2027-03-15,whole house dehumidifier,29,Steady,ok
+2027-03-15,window condensation,26,Steady,ok
+2027-03-15,furnace pressure switch,24,Quiet,ok
+2027-03-15,dehumidifier basement,23,Rising,ok
+2027-03-15,radiator bleeding,23,Rising,ok
+2027-03-15,ice dam,18,Quiet,ok
+2027-03-15,furnace short cycling,16,Quiet,ok
+2027-03-15,heat pump aux heat,8,Quiet,ok
+2027-03-15,frozen pipes,3,Quiet,ok
+2027-03-15,mini split freezing up,0,Quiet,ok
+2027-03-15,frozen well pump,0,Quiet,ok
+2027-03-15,tankless water heater freezing,0,Quiet,ok
+2027-03-15,attic condensation,0,Quiet,ok
+2027-03-15,bathroom fan condensation,0,Quiet,low
+2027-03-15,metal roof condensation,0,Quiet,ok
+2027-03-15,sump pump not working,0,Rising,ok
+2027-03-15,sump pump frozen discharge,0,Quiet,low
+2027-03-15,basement water after rain,0,Rising,low
+2027-03-15,bowed basement wall,0,Quiet,low
+2027-03-15,erv vs hrv,0,Quiet,ok
+2027-03-15,flat roof ponding,0,Quiet,low
+2027-03-15,tuckpointing brick,0,Quiet,ok
+2027-03-15,polyjacking concrete,0,Quiet,low
+2027-03-22,egress window,86,Steady,ok
+2027-03-22,retaining wall drainage,84,Falling,ok
+2027-03-22,radon mitigation,83,Steady,ok
+2027-03-22,basement leak,61,Steady,ok
+2027-03-22,foundation crack,60,Steady,ok
+2027-03-22,garage ceiling insulation,59,Falling,ok
+2027-03-22,pole barn insulation,55,Steady,ok
+2027-03-22,in floor radiant heat,52,Steady,ok
+2027-03-22,foam insulation attic,48,Steady,ok
+2027-03-22,sewer backup,48,Steady,ok
+2027-03-22,crawl space mold,38,Steady,ok
+2027-03-22,whole house dehumidifier,36,Steady,ok
+2027-03-22,furnace not heating,29,Steady,ok
+2027-03-22,furnace pressure switch,27,Steady,ok
+2027-03-22,window condensation,27,Steady,ok
+2027-03-22,ice dam,21,Quiet,ok
+2027-03-22,dehumidifier basement,20,Quiet,ok
+2027-03-22,heat pump aux heat,12,Quiet,ok
+2027-03-22,frozen pipes,3,Quiet,ok
+2027-03-22,furnace short cycling,0,Quiet,ok
+2027-03-22,mini split freezing up,0,Quiet,ok
+2027-03-22,frozen well pump,0,Quiet,ok
+2027-03-22,tankless water heater freezing,0,Quiet,ok
+2027-03-22,attic condensation,0,Quiet,ok
+2027-03-22,bathroom fan condensation,0,Quiet,low
+2027-03-22,metal roof condensation,0,Quiet,ok
+2027-03-22,sump pump not working,0,Rising,ok
+2027-03-22,sump pump frozen discharge,0,Quiet,low
+2027-03-22,basement water after rain,0,Rising,low
+2027-03-22,bowed basement wall,0,Quiet,low
+2027-03-22,rim joist insulation,0,Quiet,ok
+2027-03-22,erv vs hrv,0,Quiet,ok
+2027-03-22,flat roof ponding,0,Quiet,low
+2027-03-22,tuckpointing brick,0,Rising,ok
+2027-03-22,polyjacking concrete,0,Rising,low
+2027-03-22,termite sill plate,0,Quiet,low
+2027-03-22,radiator bleeding,0,Quiet,ok
+2027-03-22,standby generator sizing,0,Quiet,low
+2027-03-29,erv vs hrv,99,Peak,ok
+2027-03-29,basement water after rain,91,Peak,low
+2027-03-29,egress window,89,Steady,ok
+2027-03-29,basement leak,88,Falling,ok
+2027-03-29,radon mitigation,84,Steady,ok
+2027-03-29,retaining wall drainage,82,Falling,ok
+2027-03-29,sump pump not working,68,Falling,ok
+2027-03-29,foundation crack,68,Steady,ok
+2027-03-29,pole barn insulation,54,Steady,ok
+2027-03-29,foam insulation attic,50,Steady,ok
+2027-03-29,sewer backup,50,Steady,ok
+2027-03-29,whole house dehumidifier,38,Steady,ok
+2027-03-29,in floor radiant heat,38,Steady,ok
+2027-03-29,rim joist insulation,36,Falling,ok
+2027-03-29,crawl space mold,35,Steady,ok
+2027-03-29,window condensation,30,Steady,ok
+2027-03-29,dehumidifier basement,27,Steady,ok
+2027-03-29,furnace not heating,26,Steady,ok
+2027-03-29,furnace pressure switch,24,Quiet,ok
+2027-03-29,ice dam,24,Quiet,ok
+2027-03-29,garage ceiling insulation,23,Rising,ok
+2027-03-29,radiator bleeding,18,Quiet,ok
+2027-03-29,heat pump aux heat,6,Quiet,ok
+2027-03-29,frozen pipes,3,Quiet,ok
+2027-03-29,furnace short cycling,0,Quiet,ok
+2027-03-29,mini split freezing up,0,Quiet,ok
+2027-03-29,frozen well pump,0,Quiet,ok
+2027-03-29,tankless water heater freezing,0,Quiet,ok
+2027-03-29,attic condensation,0,Quiet,ok
+2027-03-29,bathroom fan condensation,0,Quiet,low
+2027-03-29,metal roof condensation,0,Quiet,ok
+2027-03-29,sump pump frozen discharge,0,Quiet,low
+2027-03-29,bowed basement wall,0,Quiet,low
+2027-03-29,flat roof ponding,0,Quiet,low
+2027-03-29,tuckpointing brick,0,Rising,ok
+2027-03-29,polyjacking concrete,0,Quiet,low
+2027-03-29,termite sill plate,0,Quiet,low
+2027-03-29,standby generator sizing,0,Quiet,low
+2027-04-05,sump pump not working,100,Peak,ok
+2027-04-05,basement leak,100,Peak,ok
+2027-04-05,egress window,84,Steady,ok
+2027-04-05,basement water after rain,82,Falling,low
+2027-04-05,radon mitigation,81,Steady,ok
+2027-04-05,foundation crack,70,Steady,ok
+2027-04-05,retaining wall drainage,65,Rising,ok
+2027-04-05,sewer backup,57,Rising,ok
+2027-04-05,pole barn insulation,48,Rising,ok
+2027-04-05,foam insulation attic,47,Steady,ok
+2027-04-05,garage ceiling insulation,46,Steady,ok
+2027-04-05,in floor radiant heat,39,Steady,ok
+2027-04-05,dehumidifier basement,37,Steady,ok
+2027-04-05,radiator bleeding,36,Falling,ok
+2027-04-05,window condensation,35,Steady,ok
+2027-04-05,crawl space mold,35,Steady,ok
+2027-04-05,whole house dehumidifier,35,Rising,ok
+2027-04-05,ice dam,27,Steady,ok
+2027-04-05,furnace not heating,24,Quiet,ok
+2027-04-05,furnace pressure switch,24,Quiet,ok
+2027-04-05,frozen pipes,1,Quiet,ok
+2027-04-05,furnace short cycling,0,Quiet,ok
+2027-04-05,heat pump aux heat,0,Quiet,ok
+2027-04-05,mini split freezing up,0,Quiet,ok
+2027-04-05,frozen well pump,0,Quiet,ok
+2027-04-05,tankless water heater freezing,0,Quiet,ok
+2027-04-05,attic condensation,0,Quiet,ok
+2027-04-05,bathroom fan condensation,0,Quiet,low
+2027-04-05,metal roof condensation,0,Quiet,ok
+2027-04-05,sump pump frozen discharge,0,Quiet,low
+2027-04-05,bowed basement wall,0,Quiet,low
+2027-04-05,rim joist insulation,0,Quiet,ok
+2027-04-05,erv vs hrv,0,Quiet,ok
+2027-04-05,flat roof ponding,0,Quiet,low
+2027-04-05,tuckpointing brick,0,Quiet,ok
+2027-04-05,polyjacking concrete,0,Quiet,low
+2027-04-05,termite sill plate,0,Quiet,low
+2027-04-05,standby generator sizing,0,Quiet,low
+2027-04-12,tuckpointing brick,100,Peak,ok
+2027-04-12,sump pump not working,97,Peak,ok
+2027-04-12,egress window,84,Steady,ok
+2027-04-12,polyjacking concrete,79,Falling,low
+2027-04-12,radon mitigation,78,Steady,ok
+2027-04-12,basement leak,71,Steady,ok
+2027-04-12,foundation crack,63,Steady,ok
+2027-04-12,retaining wall drainage,63,Rising,ok
+2027-04-12,basement water after rain,59,Falling,low
+2027-04-12,sewer backup,50,Rising,ok
+2027-04-12,pole barn insulation,49,Falling,ok
+2027-04-12,foam insulation attic,48,Steady,ok
+2027-04-12,in floor radiant heat,46,Steady,ok
+2027-04-12,crawl space mold,42,Steady,ok
+2027-04-12,window condensation,30,Steady,ok
+2027-04-12,dehumidifier basement,29,Rising,ok
+2027-04-12,whole house dehumidifier,28,Rising,ok
+2027-04-12,garage ceiling insulation,28,Rising,ok
+2027-04-12,furnace not heating,24,Quiet,ok
+2027-04-12,ice dam,21,Quiet,ok
+2027-04-12,radiator bleeding,18,Rising,ok
+2027-04-12,furnace pressure switch,17,Quiet,ok
+2027-04-12,frozen pipes,1,Quiet,ok
+2027-04-12,furnace short cycling,0,Quiet,ok
+2027-04-12,heat pump aux heat,0,Quiet,ok
+2027-04-12,mini split freezing up,0,Quiet,ok
+2027-04-12,frozen well pump,0,Quiet,ok
+2027-04-12,tankless water heater freezing,0,Quiet,ok
+2027-04-12,attic condensation,0,Quiet,ok
+2027-04-12,bathroom fan condensation,0,Quiet,low
+2027-04-12,metal roof condensation,0,Quiet,ok
+2027-04-12,sump pump frozen discharge,0,Quiet,low
+2027-04-12,bowed basement wall,0,Quiet,low
+2027-04-12,rim joist insulation,0,Quiet,ok
+2027-04-12,erv vs hrv,0,Quiet,ok
+2027-04-12,flat roof ponding,0,Quiet,low
+2027-04-12,termite sill plate,0,Quiet,low
+2027-04-12,standby generator sizing,0,Quiet,low
+2027-04-19,tuckpointing brick,100,Peak,ok
+2027-04-19,egress window,85,Steady,ok
+2027-04-19,radon mitigation,83,Steady,ok
+2027-04-19,foundation crack,64,Steady,ok
+2027-04-19,retaining wall drainage,64,Rising,ok
+2027-04-19,basement leak,63,Rising,ok
+2027-04-19,basement water after rain,59,Falling,low
+2027-04-19,pole barn insulation,52,Falling,ok
+2027-04-19,sewer backup,49,Rising,ok
+2027-04-19,sump pump not working,45,Rising,ok
+2027-04-19,foam insulation attic,41,Steady,ok
+2027-04-19,garage ceiling insulation,40,Steady,ok
+2027-04-19,crawl space mold,35,Steady,ok
+2027-04-19,in floor radiant heat,34,Steady,ok
+2027-04-19,whole house dehumidifier,33,Rising,ok
+2027-04-19,dehumidifier basement,29,Rising,ok
+2027-04-19,window condensation,27,Steady,ok
+2027-04-19,furnace not heating,20,Quiet,ok
+2027-04-19,ice dam,18,Quiet,ok
+2027-04-19,furnace pressure switch,14,Quiet,ok
+2027-04-19,frozen pipes,3,Quiet,ok
+2027-04-19,furnace short cycling,0,Quiet,ok
+2027-04-19,heat pump aux heat,0,Quiet,ok
+2027-04-19,mini split freezing up,0,Quiet,ok
+2027-04-19,frozen well pump,0,Quiet,ok
+2027-04-19,tankless water heater freezing,0,Quiet,ok
+2027-04-19,attic condensation,0,Quiet,ok
+2027-04-19,bathroom fan condensation,0,Quiet,low
+2027-04-19,metal roof condensation,0,Quiet,ok
+2027-04-19,sump pump frozen discharge,0,Quiet,low
+2027-04-19,bowed basement wall,0,Rising,low
+2027-04-19,rim joist insulation,0,Quiet,ok
+2027-04-19,erv vs hrv,0,Quiet,ok
+2027-04-19,flat roof ponding,0,Quiet,low
+2027-04-19,polyjacking concrete,0,Quiet,low
+2027-04-19,termite sill plate,0,Quiet,low
+2027-04-19,radiator bleeding,0,Rising,ok
+2027-04-19,standby generator sizing,0,Quiet,low
+2027-04-26,retaining wall drainage,89,Falling,ok
+2027-04-26,egress window,85,Steady,ok
+2027-04-26,radon mitigation,80,Steady,ok
+2027-04-26,basement leak,71,Rising,ok
+2027-04-26,sewer backup,69,Steady,ok
+2027-04-26,foundation crack,66,Steady,ok
+2027-04-26,pole barn insulation,64,Falling,ok
+2027-04-26,garage ceiling insulation,48,Steady,ok
+2027-04-26,whole house dehumidifier,47,Rising,ok
+2027-04-26,foam insulation attic,39,Steady,ok
+2027-04-26,dehumidifier basement,37,Rising,ok
+2027-04-26,in floor radiant heat,34,Steady,ok
+2027-04-26,crawl space mold,31,Steady,ok
+2027-04-26,window condensation,27,Steady,ok
+2027-04-26,ice dam,24,Quiet,ok
+2027-04-26,furnace not heating,18,Quiet,ok
+2027-04-26,furnace pressure switch,13,Quiet,ok
+2027-04-26,frozen pipes,3,Quiet,ok
+2027-04-26,furnace short cycling,0,Quiet,ok
+2027-04-26,heat pump aux heat,0,Quiet,ok
+2027-04-26,mini split freezing up,0,Quiet,ok
+2027-04-26,frozen well pump,0,Quiet,ok
+2027-04-26,tankless water heater freezing,0,Quiet,ok
+2027-04-26,attic condensation,0,Quiet,ok
+2027-04-26,bathroom fan condensation,0,Quiet,low
+2027-04-26,metal roof condensation,0,Quiet,ok
+2027-04-26,sump pump not working,0,Quiet,ok
+2027-04-26,sump pump frozen discharge,0,Quiet,low
+2027-04-26,basement water after rain,0,Rising,low
+2027-04-26,bowed basement wall,0,Rising,low
+2027-04-26,rim joist insulation,0,Quiet,ok
+2027-04-26,erv vs hrv,0,Quiet,ok
+2027-04-26,flat roof ponding,0,Quiet,low
+2027-04-26,tuckpointing brick,0,Rising,ok
+2027-04-26,polyjacking concrete,0,Quiet,low
+2027-04-26,termite sill plate,0,Rising,low
+2027-04-26,radiator bleeding,0,Quiet,ok
+2027-04-26,standby generator sizing,0,Quiet,low
+2027-05-03,retaining wall drainage,100,Peak,ok
+2027-05-03,sewer backup,90,Peak,ok
+2027-05-03,egress window,88,Steady,ok
+2027-05-03,radon mitigation,81,Steady,ok
+2027-05-03,basement leak,79,Steady,ok
+2027-05-03,foundation crack,69,Steady,ok
+2027-05-03,sump pump not working,61,Falling,ok
+2027-05-03,garage ceiling insulation,59,Steady,ok
+2027-05-03,whole house dehumidifier,54,Steady,ok
+2027-05-03,foam insulation attic,51,Steady,ok
+2027-05-03,dehumidifier basement,48,Rising,ok
+2027-05-03,radiator bleeding,41,Falling,ok
+2027-05-03,crawl space mold,38,Steady,ok
+2027-05-03,in floor radiant heat,37,Steady,ok
+2027-05-03,pole barn insulation,30,Steady,ok
+2027-05-03,window condensation,28,Steady,ok
+2027-05-03,ice dam,24,Quiet,ok
+2027-05-03,furnace pressure switch,11,Quiet,ok
+2027-05-03,furnace not heating,9,Quiet,ok
+2027-05-03,frozen pipes,3,Quiet,ok
+2027-05-03,furnace short cycling,0,Quiet,ok
+2027-05-03,heat pump aux heat,0,Quiet,ok
+2027-05-03,mini split freezing up,0,Quiet,ok
+2027-05-03,frozen well pump,0,Quiet,ok
+2027-05-03,tankless water heater freezing,0,Quiet,ok
+2027-05-03,attic condensation,0,Quiet,ok
+2027-05-03,bathroom fan condensation,0,Quiet,low
+2027-05-03,metal roof condensation,0,Quiet,ok
+2027-05-03,sump pump frozen discharge,0,Quiet,low
+2027-05-03,basement water after rain,0,Quiet,low
+2027-05-03,bowed basement wall,0,Quiet,low
+2027-05-03,rim joist insulation,0,Quiet,ok
+2027-05-03,erv vs hrv,0,Quiet,ok
+2027-05-03,flat roof ponding,0,Quiet,low
+2027-05-03,tuckpointing brick,0,Rising,ok
+2027-05-03,polyjacking concrete,0,Quiet,low
+2027-05-03,termite sill plate,0,Rising,low
+2027-05-03,standby generator sizing,0,Quiet,low
+2027-05-10,bowed basement wall,100,Peak,low
+2027-05-10,egress window,89,Steady,ok
+2027-05-10,sewer backup,88,Falling,ok
+2027-05-10,radon mitigation,86,Falling,ok
+2027-05-10,basement leak,83,Falling,ok
+2027-05-10,retaining wall drainage,81,Rising,ok
+2027-05-10,foundation crack,72,Steady,ok
+2027-05-10,whole house dehumidifier,62,Steady,ok
+2027-05-10,sump pump not working,61,Falling,ok
+2027-05-10,dehumidifier basement,57,Steady,ok
+2027-05-10,foam insulation attic,44,Steady,ok
+2027-05-10,garage ceiling insulation,42,Rising,ok
+2027-05-10,radiator bleeding,41,Steady,ok
+2027-05-10,in floor radiant heat,37,Steady,ok
+2027-05-10,window condensation,30,Steady,ok
+2027-05-10,crawl space mold,29,Steady,ok
+2027-05-10,pole barn insulation,23,Rising,ok
+2027-05-10,ice dam,21,Quiet,ok
+2027-05-10,furnace not heating,13,Quiet,ok
+2027-05-10,furnace pressure switch,9,Quiet,ok
+2027-05-10,frozen pipes,3,Quiet,ok
+2027-05-10,furnace short cycling,0,Quiet,ok
+2027-05-10,heat pump aux heat,0,Quiet,ok
+2027-05-10,mini split freezing up,0,Quiet,ok
+2027-05-10,frozen well pump,0,Quiet,ok
+2027-05-10,tankless water heater freezing,0,Quiet,ok
+2027-05-10,attic condensation,0,Rising,ok
+2027-05-10,bathroom fan condensation,0,Quiet,low
+2027-05-10,metal roof condensation,0,Quiet,ok
+2027-05-10,sump pump frozen discharge,0,Quiet,low
+2027-05-10,basement water after rain,0,Quiet,low
+2027-05-10,rim joist insulation,0,Quiet,ok
+2027-05-10,erv vs hrv,0,Quiet,ok
+2027-05-10,flat roof ponding,0,Quiet,low
+2027-05-10,tuckpointing brick,0,Rising,ok
+2027-05-10,polyjacking concrete,0,Quiet,low
+2027-05-10,termite sill plate,0,Quiet,low
+2027-05-10,standby generator sizing,0,Quiet,low
+2027-05-17,bowed basement wall,100,Peak,low
+2027-05-17,basement leak,85,Steady,ok
+2027-05-17,egress window,83,Steady,ok
+2027-05-17,radon mitigation,79,Steady,ok
+2027-05-17,tuckpointing brick,74,Steady,ok
+2027-05-17,foundation crack,70,Rising,ok
+2027-05-17,whole house dehumidifier,67,Steady,ok
+2027-05-17,retaining wall drainage,67,Rising,ok
+2027-05-17,sewer backup,63,Steady,ok
+2027-05-17,termite sill plate,61,Falling,low
+2027-05-17,dehumidifier basement,58,Rising,ok
+2027-05-17,basement water after rain,50,Steady,low
+2027-05-17,garage ceiling insulation,49,Rising,ok
+2027-05-17,foam insulation attic,47,Rising,ok
+2027-05-17,in floor radiant heat,39,Falling,ok
+2027-05-17,crawl space mold,38,Steady,ok
+2027-05-17,window condensation,31,Steady,ok
+2027-05-17,pole barn insulation,23,Rising,ok
+2027-05-17,furnace not heating,20,Quiet,ok
+2027-05-17,radiator bleeding,20,Quiet,ok
+2027-05-17,ice dam,18,Quiet,ok
+2027-05-17,furnace pressure switch,12,Quiet,ok
+2027-05-17,heat pump aux heat,7,Quiet,ok
+2027-05-17,frozen pipes,3,Quiet,ok
+2027-05-17,furnace short cycling,0,Quiet,ok
+2027-05-17,mini split freezing up,0,Quiet,ok
+2027-05-17,frozen well pump,0,Quiet,ok
+2027-05-17,tankless water heater freezing,0,Quiet,ok
+2027-05-17,attic condensation,0,Rising,ok
+2027-05-17,bathroom fan condensation,0,Quiet,low
+2027-05-17,metal roof condensation,0,Quiet,ok
+2027-05-17,sump pump not working,0,Rising,ok
+2027-05-17,sump pump frozen discharge,0,Quiet,low
+2027-05-17,rim joist insulation,0,Quiet,ok
+2027-05-17,erv vs hrv,0,Quiet,ok
+2027-05-17,flat roof ponding,0,Quiet,low
+2027-05-17,polyjacking concrete,0,Quiet,low
+2027-05-17,standby generator sizing,0,Rising,low
+2027-05-24,egress window,80,Steady,ok
+2027-05-24,tuckpointing brick,78,Falling,ok
+2027-05-24,basement leak,76,Steady,ok
+2027-05-24,retaining wall drainage,75,Steady,ok
+2027-05-24,radon mitigation,73,Steady,ok
+2027-05-24,foundation crack,69,Rising,ok
+2027-05-24,dehumidifier basement,67,Rising,ok
+2027-05-24,whole house dehumidifier,62,Rising,ok
+2027-05-24,termite sill plate,61,Falling,low
+2027-05-24,sewer backup,53,Steady,ok
+2027-05-24,foam insulation attic,51,Rising,ok
+2027-05-24,garage ceiling insulation,51,Rising,ok
+2027-05-24,sump pump not working,43,Rising,ok
+2027-05-24,crawl space mold,38,Steady,ok
+2027-05-24,in floor radiant heat,36,Steady,ok
+2027-05-24,window condensation,35,Rising,ok
+2027-05-24,pole barn insulation,25,Rising,ok
+2027-05-24,radiator bleeding,23,Quiet,ok
+2027-05-24,ice dam,15,Quiet,ok
+2027-05-24,furnace not heating,10,Quiet,ok
+2027-05-24,furnace pressure switch,10,Quiet,ok
+2027-05-24,heat pump aux heat,7,Quiet,ok
+2027-05-24,frozen pipes,3,Quiet,ok
+2027-05-24,furnace short cycling,0,Quiet,ok
+2027-05-24,mini split freezing up,0,Quiet,ok
+2027-05-24,frozen well pump,0,Quiet,ok
+2027-05-24,tankless water heater freezing,0,Quiet,ok
+2027-05-24,attic condensation,0,Rising,ok
+2027-05-24,bathroom fan condensation,0,Quiet,low
+2027-05-24,metal roof condensation,0,Quiet,ok
+2027-05-24,sump pump frozen discharge,0,Quiet,low
+2027-05-24,basement water after rain,0,Rising,low
+2027-05-24,bowed basement wall,0,Quiet,low
+2027-05-24,rim joist insulation,0,Quiet,ok
+2027-05-24,erv vs hrv,0,Quiet,ok
+2027-05-24,flat roof ponding,0,Quiet,low
+2027-05-24,polyjacking concrete,0,Quiet,low
+2027-05-24,standby generator sizing,0,Quiet,low
+2027-05-31,retaining wall drainage,94,Peak,ok
+2027-05-31,egress window,82,Steady,ok
+2027-05-31,tuckpointing brick,78,Falling,ok
+2027-05-31,radon mitigation,74,Steady,ok
+2027-05-31,foundation crack,70,Rising,ok
+2027-05-31,basement leak,68,Rising,ok
+2027-05-31,dehumidifier basement,67,Rising,ok
+2027-05-31,sewer backup,60,Steady,ok
+2027-05-31,garage ceiling insulation,56,Rising,ok
+2027-05-31,foam insulation attic,55,Rising,ok
+2027-05-31,whole house dehumidifier,53,Rising,ok
+2027-05-31,pole barn insulation,48,Steady,ok
+2027-05-31,radiator bleeding,45,Steady,ok
+2027-05-31,crawl space mold,40,Steady,ok
+2027-05-31,window condensation,32,Rising,ok
+2027-05-31,attic condensation,31,Rising,ok
+2027-05-31,in floor radiant heat,27,Steady,ok
+2027-05-31,ice dam,15,Quiet,ok
+2027-05-31,furnace not heating,7,Quiet,ok
+2027-05-31,furnace pressure switch,6,Quiet,ok
+2027-05-31,frozen pipes,3,Quiet,ok
+2027-05-31,furnace short cycling,0,Quiet,ok
+2027-05-31,heat pump aux heat,0,Quiet,ok
+2027-05-31,mini split freezing up,0,Rising,ok
+2027-05-31,frozen well pump,0,Quiet,ok
+2027-05-31,tankless water heater freezing,0,Quiet,ok
+2027-05-31,bathroom fan condensation,0,Quiet,low
+2027-05-31,metal roof condensation,0,Quiet,ok
+2027-05-31,sump pump not working,0,Rising,ok
+2027-05-31,sump pump frozen discharge,0,Quiet,low
+2027-05-31,basement water after rain,0,Rising,low
+2027-05-31,bowed basement wall,0,Quiet,low
+2027-05-31,rim joist insulation,0,Quiet,ok
+2027-05-31,erv vs hrv,0,Quiet,ok
+2027-05-31,flat roof ponding,0,Quiet,low
+2027-05-31,polyjacking concrete,0,Quiet,low
+2027-05-31,termite sill plate,0,Quiet,low
+2027-05-31,standby generator sizing,0,Quiet,low
+2027-06-07,retaining wall drainage,90,Peak,ok
+2027-06-07,egress window,85,Steady,ok
+2027-06-07,foundation crack,84,Steady,ok
+2027-06-07,basement leak,80,Steady,ok
+2027-06-07,radon mitigation,80,Steady,ok
+2027-06-07,standby generator sizing,76,Falling,low
+2027-06-07,dehumidifier basement,71,Rising,ok
+2027-06-07,garage ceiling insulation,70,Steady,ok
+2027-06-07,whole house dehumidifier,68,Rising,ok
+2027-06-07,tuckpointing brick,68,Falling,ok
+2027-06-07,foam insulation attic,61,Rising,ok
+2027-06-07,sewer backup,59,Steady,ok
+2027-06-07,basement water after rain,45,Steady,low
+2027-06-07,pole barn insulation,45,Steady,ok
+2027-06-07,sump pump not working,43,Rising,ok
+2027-06-07,crawl space mold,38,Rising,ok
+2027-06-07,window condensation,35,Rising,ok
+2027-06-07,attic condensation,31,Rising,ok
+2027-06-07,radiator bleeding,22,Rising,ok
+2027-06-07,ice dam,18,Quiet,ok
+2027-06-07,in floor radiant heat,14,Quiet,ok
+2027-06-07,furnace not heating,7,Quiet,ok
+2027-06-07,furnace pressure switch,4,Quiet,ok
+2027-06-07,frozen pipes,3,Quiet,ok
+2027-06-07,furnace short cycling,0,Quiet,ok
+2027-06-07,heat pump aux heat,0,Quiet,ok
+2027-06-07,mini split freezing up,0,Rising,ok
+2027-06-07,frozen well pump,0,Quiet,ok
+2027-06-07,tankless water heater freezing,0,Quiet,ok
+2027-06-07,bathroom fan condensation,0,Quiet,low
+2027-06-07,metal roof condensation,0,Quiet,ok
+2027-06-07,sump pump frozen discharge,0,Quiet,low
+2027-06-07,bowed basement wall,0,Quiet,low
+2027-06-07,rim joist insulation,0,Quiet,ok
+2027-06-07,erv vs hrv,0,Quiet,ok
+2027-06-07,flat roof ponding,0,Quiet,low
+2027-06-07,polyjacking concrete,0,Quiet,low
+2027-06-07,termite sill plate,0,Quiet,low
+2027-06-14,foundation crack,100,Peak,ok
+2027-06-14,basement leak,87,Steady,ok
+2027-06-14,dehumidifier basement,87,Steady,ok
+2027-06-14,basement water after rain,86,Steady,low
+2027-06-14,egress window,86,Steady,ok
+2027-06-14,whole house dehumidifier,85,Steady,ok
+2027-06-14,radon mitigation,84,Steady,ok
+2027-06-14,garage ceiling insulation,70,Falling,ok
+2027-06-14,retaining wall drainage,69,Steady,ok
+2027-06-14,foam insulation attic,64,Rising,ok
+2027-06-14,sump pump not working,60,Steady,ok
+2027-06-14,sewer backup,51,Rising,ok
+2027-06-14,crawl space mold,49,Steady,ok
+2027-06-14,window condensation,48,Rising,ok
+2027-06-14,attic condensation,41,Rising,ok
+2027-06-14,pole barn insulation,40,Steady,ok
+2027-06-14,in floor radiant heat,30,Steady,ok
+2027-06-14,ice dam,21,Quiet,ok
+2027-06-14,radiator bleeding,19,Rising,ok
+2027-06-14,furnace not heating,7,Quiet,ok
+2027-06-14,furnace pressure switch,3,Quiet,ok
+2027-06-14,frozen pipes,3,Quiet,ok
+2027-06-14,furnace short cycling,0,Quiet,ok
+2027-06-14,heat pump aux heat,0,Quiet,ok
+2027-06-14,mini split freezing up,0,Rising,ok
+2027-06-14,frozen well pump,0,Quiet,ok
+2027-06-14,tankless water heater freezing,0,Quiet,ok
+2027-06-14,bathroom fan condensation,0,Quiet,low
+2027-06-14,metal roof condensation,0,Quiet,ok
+2027-06-14,sump pump frozen discharge,0,Quiet,low
+2027-06-14,bowed basement wall,0,Quiet,low
+2027-06-14,rim joist insulation,0,Quiet,ok
+2027-06-14,erv vs hrv,0,Quiet,ok
+2027-06-14,flat roof ponding,0,Quiet,low
+2027-06-14,tuckpointing brick,0,Rising,ok
+2027-06-14,polyjacking concrete,0,Quiet,low
+2027-06-14,termite sill plate,0,Quiet,low
+2027-06-14,standby generator sizing,0,Rising,low
+2027-06-21,mini split freezing up,100,Peak,ok
+2027-06-21,dehumidifier basement,100,Peak,ok
+2027-06-21,attic condensation,98,Peak,ok
+2027-06-21,whole house dehumidifier,97,Peak,ok
+2027-06-21,foundation crack,90,Peak,ok
+2027-06-21,egress window,86,Steady,ok
+2027-06-21,basement leak,84,Steady,ok
+2027-06-21,foam insulation attic,80,Steady,ok
+2027-06-21,radon mitigation,80,Rising,ok
+2027-06-21,garage ceiling insulation,75,Falling,ok
+2027-06-21,retaining wall drainage,69,Steady,ok
+2027-06-21,sump pump not working,60,Steady,ok
+2027-06-21,pole barn insulation,57,Falling,ok
+2027-06-21,window condensation,55,Steady,ok
+2027-06-21,sewer backup,51,Rising,ok
+2027-06-21,crawl space mold,44,Steady,ok
+2027-06-21,radiator bleeding,44,Falling,ok
+2027-06-21,basement water after rain,41,Steady,low
+2027-06-21,in floor radiant heat,33,Steady,ok
+2027-06-21,ice dam,24,Quiet,ok
+2027-06-21,furnace not heating,16,Quiet,ok
+2027-06-21,frozen pipes,3,Quiet,ok
+2027-06-21,furnace short cycling,0,Quiet,ok
+2027-06-21,furnace pressure switch,0,Quiet,ok
+2027-06-21,heat pump aux heat,0,Quiet,ok
+2027-06-21,frozen well pump,0,Quiet,ok
+2027-06-21,tankless water heater freezing,0,Quiet,ok
+2027-06-21,bathroom fan condensation,0,Quiet,low
+2027-06-21,metal roof condensation,0,Quiet,ok
+2027-06-21,sump pump frozen discharge,0,Quiet,low
+2027-06-21,bowed basement wall,0,Quiet,low
+2027-06-21,rim joist insulation,0,Quiet,ok
+2027-06-21,erv vs hrv,0,Quiet,ok
+2027-06-21,flat roof ponding,0,Quiet,low
+2027-06-21,tuckpointing brick,0,Rising,ok
+2027-06-21,polyjacking concrete,0,Quiet,low
+2027-06-21,termite sill plate,0,Quiet,low
+2027-06-21,standby generator sizing,0,Quiet,low
+2027-06-28,dehumidifier basement,100,Peak,ok
+2027-06-28,whole house dehumidifier,100,Peak,ok
+2027-06-28,mini split freezing up,93,Peak,ok
+2027-06-28,egress window,89,Steady,ok
+2027-06-28,attic condensation,88,Steady,ok
+2027-06-28,retaining wall drainage,85,Falling,ok
+2027-06-28,foam insulation attic,83,Steady,ok
+2027-06-28,foundation crack,81,Falling,ok
+2027-06-28,radon mitigation,80,Steady,ok
+2027-06-28,basement leak,79,Rising,ok
+2027-06-28,window condensation,70,Falling,ok
+2027-06-28,radiator bleeding,63,Falling,ok
+2027-06-28,garage ceiling insulation,63,Steady,ok
+2027-06-28,sump pump not working,61,Steady,ok
+2027-06-28,sewer backup,60,Steady,ok
+2027-06-28,crawl space mold,55,Steady,ok
+2027-06-28,pole barn insulation,55,Steady,ok
+2027-06-28,basement water after rain,45,Rising,low
+2027-06-28,ice dam,27,Steady,ok
+2027-06-28,in floor radiant heat,17,Quiet,ok
+2027-06-28,furnace not heating,12,Quiet,ok
+2027-06-28,frozen pipes,3,Quiet,ok
+2027-06-28,furnace short cycling,0,Quiet,ok
+2027-06-28,furnace pressure switch,0,Quiet,ok
+2027-06-28,heat pump aux heat,0,Quiet,ok
+2027-06-28,frozen well pump,0,Quiet,ok
+2027-06-28,tankless water heater freezing,0,Quiet,ok
+2027-06-28,bathroom fan condensation,0,Quiet,low
+2027-06-28,metal roof condensation,0,Quiet,ok
+2027-06-28,sump pump frozen discharge,0,Quiet,low
+2027-06-28,bowed basement wall,0,Quiet,low
+2027-06-28,rim joist insulation,0,Quiet,ok
+2027-06-28,erv vs hrv,0,Quiet,ok
+2027-06-28,flat roof ponding,0,Rising,low
+2027-06-28,tuckpointing brick,0,Quiet,ok
+2027-06-28,polyjacking concrete,0,Quiet,low
+2027-06-28,termite sill plate,0,Quiet,low
+2027-06-28,standby generator sizing,0,Quiet,low
+2027-07-05,standby generator sizing,100,Peak,low
+2027-07-05,egress window,94,Peak,ok
+2027-07-05,basement water after rain,91,Peak,low
+2027-07-05,dehumidifier basement,90,Peak,ok
+2027-07-05,radon mitigation,88,Steady,ok
+2027-07-05,whole house dehumidifier,88,Steady,ok
+2027-07-05,mini split freezing up,86,Falling,ok
+2027-07-05,basement leak,84,Rising,ok
+2027-07-05,foam insulation attic,81,Rising,ok
+2027-07-05,foundation crack,81,Steady,ok
+2027-07-05,tuckpointing brick,79,Falling,ok
+2027-07-05,attic condensation,76,Rising,ok
+2027-07-05,retaining wall drainage,74,Steady,ok
+2027-07-05,sewer backup,69,Steady,ok
+2027-07-05,window condensation,61,Steady,ok
+2027-07-05,sump pump not working,59,Steady,ok
+2027-07-05,garage ceiling insulation,53,Rising,ok
+2027-07-05,pole barn insulation,44,Rising,ok
+2027-07-05,crawl space mold,38,Rising,ok
+2027-07-05,radiator bleeding,37,Steady,ok
+2027-07-05,ice dam,24,Quiet,ok
+2027-07-05,in floor radiant heat,19,Rising,ok
+2027-07-05,furnace not heating,5,Quiet,ok
+2027-07-05,frozen pipes,3,Quiet,ok
+2027-07-05,furnace short cycling,0,Quiet,ok
+2027-07-05,furnace pressure switch,0,Quiet,ok
+2027-07-05,heat pump aux heat,0,Quiet,ok
+2027-07-05,frozen well pump,0,Quiet,ok
+2027-07-05,tankless water heater freezing,0,Quiet,ok
+2027-07-05,bathroom fan condensation,0,Rising,low
+2027-07-05,metal roof condensation,0,Quiet,ok
+2027-07-05,sump pump frozen discharge,0,Quiet,low
+2027-07-05,bowed basement wall,0,Quiet,low
+2027-07-05,rim joist insulation,0,Quiet,ok
+2027-07-05,erv vs hrv,0,Quiet,ok
+2027-07-05,flat roof ponding,0,Rising,low
+2027-07-05,polyjacking concrete,0,Quiet,low
+2027-07-05,termite sill plate,0,Quiet,low
+2027-07-12,egress window,97,Peak,ok
+2027-07-12,radon mitigation,95,Peak,ok
+2027-07-12,basement leak,93,Peak,ok
+2027-07-12,mini split freezing up,91,Peak,ok
+2027-07-12,whole house dehumidifier,88,Steady,ok
+2027-07-12,dehumidifier basement,80,Steady,ok
+2027-07-12,tuckpointing brick,79,Falling,ok
+2027-07-12,foam insulation attic,78,Steady,ok
+2027-07-12,attic condensation,74,Rising,ok
+2027-07-12,sewer backup,74,Steady,ok
+2027-07-12,foundation crack,66,Rising,ok
+2027-07-12,retaining wall drainage,66,Rising,ok
+2027-07-12,window condensation,59,Falling,ok
+2027-07-12,garage ceiling insulation,54,Rising,ok
+2027-07-12,sump pump not working,53,Steady,ok
+2027-07-12,basement water after rain,45,Rising,low
+2027-07-12,crawl space mold,45,Rising,ok
+2027-07-12,pole barn insulation,42,Rising,ok
+2027-07-12,in floor radiant heat,33,Falling,ok
+2027-07-12,ice dam,24,Quiet,ok
+2027-07-12,furnace not heating,6,Quiet,ok
+2027-07-12,frozen pipes,3,Quiet,ok
+2027-07-12,furnace short cycling,0,Quiet,ok
+2027-07-12,furnace pressure switch,0,Quiet,ok
+2027-07-12,heat pump aux heat,0,Quiet,ok
+2027-07-12,frozen well pump,0,Quiet,ok
+2027-07-12,tankless water heater freezing,0,Quiet,ok
+2027-07-12,bathroom fan condensation,0,Rising,low
+2027-07-12,metal roof condensation,0,Quiet,ok
+2027-07-12,sump pump frozen discharge,0,Quiet,low
+2027-07-12,bowed basement wall,0,Quiet,low
+2027-07-12,rim joist insulation,0,Quiet,ok
+2027-07-12,erv vs hrv,0,Quiet,ok
+2027-07-12,flat roof ponding,0,Quiet,low
+2027-07-12,polyjacking concrete,0,Quiet,low
+2027-07-12,termite sill plate,0,Quiet,low
+2027-07-12,radiator bleeding,0,Rising,ok
+2027-07-12,standby generator sizing,0,Quiet,low
+2027-07-19,egress window,100,Peak,ok
+2027-07-19,basement leak,98,Peak,ok
+2027-07-19,whole house dehumidifier,98,Peak,ok
+2027-07-19,foam insulation attic,93,Peak,ok
+2027-07-19,mini split freezing up,91,Peak,ok
+2027-07-19,radon mitigation,85,Steady,ok
+2027-07-19,attic condensation,80,Steady,ok
+2027-07-19,basement water after rain,77,Steady,low
+2027-07-19,garage ceiling insulation,73,Rising,ok
+2027-07-19,dehumidifier basement,71,Steady,ok
+2027-07-19,foundation crack,69,Rising,ok
+2027-07-19,sewer backup,67,Rising,ok
+2027-07-19,retaining wall drainage,67,Rising,ok
+2027-07-19,sump pump not working,53,Rising,ok
+2027-07-19,crawl space mold,53,Steady,ok
+2027-07-19,pole barn insulation,50,Steady,ok
+2027-07-19,window condensation,47,Steady,ok
+2027-07-19,flat roof ponding,38,Falling,low
+2027-07-19,ice dam,24,Quiet,ok
+2027-07-19,in floor radiant heat,14,Quiet,ok
+2027-07-19,furnace not heating,6,Quiet,ok
+2027-07-19,frozen pipes,3,Quiet,ok
+2027-07-19,furnace short cycling,0,Quiet,ok
+2027-07-19,furnace pressure switch,0,Quiet,ok
+2027-07-19,heat pump aux heat,0,Quiet,ok
+2027-07-19,frozen well pump,0,Quiet,ok
+2027-07-19,tankless water heater freezing,0,Quiet,ok
+2027-07-19,bathroom fan condensation,0,Quiet,low
+2027-07-19,metal roof condensation,0,Quiet,ok
+2027-07-19,sump pump frozen discharge,0,Quiet,low
+2027-07-19,bowed basement wall,0,Quiet,low
+2027-07-19,rim joist insulation,0,Quiet,ok
+2027-07-19,erv vs hrv,0,Quiet,ok
+2027-07-19,tuckpointing brick,0,Quiet,ok
+2027-07-19,polyjacking concrete,0,Quiet,low
+2027-07-19,termite sill plate,0,Quiet,low
+2027-07-19,radiator bleeding,0,Quiet,ok
+2027-07-19,standby generator sizing,0,Quiet,low
+2027-07-26,foam insulation attic,100,Peak,ok
+2027-07-26,whole house dehumidifier,98,Peak,ok
+2027-07-26,egress window,97,Peak,ok
+2027-07-26,basement leak,96,Peak,ok
+2027-07-26,attic condensation,94,Peak,ok
+2027-07-26,garage ceiling insulation,90,Peak,ok
+2027-07-26,foundation crack,84,Falling,ok
+2027-07-26,dehumidifier basement,82,Steady,ok
+2027-07-26,radon mitigation,78,Steady,ok
+2027-07-26,bathroom fan condensation,75,Falling,low
+2027-07-26,retaining wall drainage,72,Steady,ok
+2027-07-26,crawl space mold,69,Falling,ok
+2027-07-26,window condensation,66,Falling,ok
+2027-07-26,sewer backup,62,Rising,ok
+2027-07-26,pole barn insulation,62,Steady,ok
+2027-07-26,sump pump not working,53,Falling,ok
+2027-07-26,flat roof ponding,38,Falling,low
+2027-07-26,in floor radiant heat,36,Steady,ok
+2027-07-26,radiator bleeding,30,Falling,ok
+2027-07-26,ice dam,24,Quiet,ok
+2027-07-26,furnace not heating,7,Quiet,ok
+2027-07-26,frozen pipes,3,Quiet,ok
+2027-07-26,furnace short cycling,0,Quiet,ok
+2027-07-26,furnace pressure switch,0,Quiet,ok
+2027-07-26,heat pump aux heat,0,Quiet,ok
+2027-07-26,mini split freezing up,0,Quiet,ok
+2027-07-26,frozen well pump,0,Quiet,ok
+2027-07-26,tankless water heater freezing,0,Quiet,ok
+2027-07-26,metal roof condensation,0,Quiet,ok
+2027-07-26,sump pump frozen discharge,0,Quiet,low
+2027-07-26,basement water after rain,0,Rising,low
+2027-07-26,bowed basement wall,0,Quiet,low
+2027-07-26,rim joist insulation,0,Quiet,ok
+2027-07-26,erv vs hrv,0,Quiet,ok
+2027-07-26,tuckpointing brick,0,Quiet,ok
+2027-07-26,polyjacking concrete,0,Quiet,low
+2027-07-26,termite sill plate,0,Quiet,low
+2027-07-26,standby generator sizing,0,Quiet,low
+2027-08-02,attic condensation,96,Peak,ok
+2027-08-02,egress window,95,Peak,ok
+2027-08-02,radon mitigation,88,Steady,ok
+2027-08-02,whole house dehumidifier,88,Falling,ok
+2027-08-02,foundation crack,87,Steady,ok
+2027-08-02,retaining wall drainage,85,Steady,ok
+2027-08-02,basement leak,78,Steady,ok
+2027-08-02,dehumidifier basement,77,Steady,ok
+2027-08-02,bathroom fan condensation,75,Falling,low
+2027-08-02,crawl space mold,73,Falling,ok
+2027-08-02,garage ceiling insulation,73,Steady,ok
+2027-08-02,foam insulation attic,72,Steady,ok
+2027-08-02,pole barn insulation,71,Falling,ok
+2027-08-02,sewer backup,69,Steady,ok
+2027-08-02,basement water after rain,59,Falling,low
+2027-08-02,sump pump not working,53,Falling,ok
+2027-08-02,window condensation,47,Steady,ok
+2027-08-02,radiator bleeding,30,Falling,ok
+2027-08-02,ice dam,18,Quiet,ok
+2027-08-02,in floor radiant heat,15,Rising,ok
+2027-08-02,furnace not heating,13,Quiet,ok
+2027-08-02,furnace pressure switch,3,Quiet,ok
+2027-08-02,frozen pipes,1,Quiet,ok
+2027-08-02,furnace short cycling,0,Quiet,ok
+2027-08-02,heat pump aux heat,0,Quiet,ok
+2027-08-02,mini split freezing up,0,Quiet,ok
+2027-08-02,frozen well pump,0,Quiet,ok
+2027-08-02,tankless water heater freezing,0,Quiet,ok
+2027-08-02,metal roof condensation,0,Quiet,ok
+2027-08-02,sump pump frozen discharge,0,Quiet,low
+2027-08-02,bowed basement wall,0,Quiet,low
+2027-08-02,rim joist insulation,0,Quiet,ok
+2027-08-02,erv vs hrv,0,Quiet,ok
+2027-08-02,flat roof ponding,0,Quiet,low
+2027-08-02,tuckpointing brick,0,Quiet,ok
+2027-08-02,polyjacking concrete,0,Quiet,low
+2027-08-02,termite sill plate,0,Rising,low
+2027-08-02,standby generator sizing,0,Quiet,low
+2027-08-09,sewer backup,95,Peak,ok
+2027-08-09,egress window,94,Peak,ok
+2027-08-09,garage ceiling insulation,94,Peak,ok
+2027-08-09,radon mitigation,91,Peak,ok
+2027-08-09,foundation crack,86,Steady,ok
+2027-08-09,basement leak,82,Steady,ok
+2027-08-09,dehumidifier basement,82,Falling,ok
+2027-08-09,retaining wall drainage,80,Steady,ok
+2027-08-09,attic condensation,78,Falling,ok
+2027-08-09,basement water after rain,77,Falling,low
+2027-08-09,whole house dehumidifier,76,Falling,ok
+2027-08-09,sump pump not working,71,Falling,ok
+2027-08-09,foam insulation attic,70,Steady,ok
+2027-08-09,crawl space mold,62,Rising,ok
+2027-08-09,pole barn insulation,57,Steady,ok
+2027-08-09,window condensation,43,Steady,ok
+2027-08-09,ice dam,30,Steady,ok
+2027-08-09,in floor radiant heat,20,Rising,ok
+2027-08-09,frozen pipes,1,Quiet,ok
+2027-08-09,furnace not heating,0,Quiet,ok
+2027-08-09,furnace short cycling,0,Quiet,ok
+2027-08-09,furnace pressure switch,0,Quiet,ok
+2027-08-09,heat pump aux heat,0,Quiet,ok
+2027-08-09,mini split freezing up,0,Quiet,ok
+2027-08-09,frozen well pump,0,Quiet,ok
+2027-08-09,tankless water heater freezing,0,Quiet,ok
+2027-08-09,bathroom fan condensation,0,Quiet,low
+2027-08-09,metal roof condensation,0,Quiet,ok
+2027-08-09,sump pump frozen discharge,0,Quiet,low
+2027-08-09,bowed basement wall,0,Quiet,low
+2027-08-09,rim joist insulation,0,Quiet,ok
+2027-08-09,erv vs hrv,0,Quiet,ok
+2027-08-09,flat roof ponding,0,Quiet,low
+2027-08-09,tuckpointing brick,0,Quiet,ok
+2027-08-09,polyjacking concrete,0,Quiet,low
+2027-08-09,termite sill plate,0,Quiet,low
+2027-08-09,radiator bleeding,0,Quiet,ok
+2027-08-09,standby generator sizing,0,Quiet,low
+2027-08-16,basement water after rain,100,Peak,low
+2027-08-16,sewer backup,100,Peak,ok
+2027-08-16,basement leak,94,Peak,ok
+2027-08-16,egress window,91,Peak,ok
+2027-08-16,whole house dehumidifier,84,Falling,ok
+2027-08-16,dehumidifier basement,83,Falling,ok
+2027-08-16,radon mitigation,79,Steady,ok
+2027-08-16,foam insulation attic,78,Steady,ok
+2027-08-16,foundation crack,70,Steady,ok
+2027-08-16,retaining wall drainage,70,Steady,ok
+2027-08-16,attic condensation,68,Falling,ok
+2027-08-16,pole barn insulation,64,Steady,ok
+2027-08-16,garage ceiling insulation,61,Rising,ok
+2027-08-16,crawl space mold,49,Steady,ok
+2027-08-16,window condensation,42,Steady,ok
+2027-08-16,in floor radiant heat,40,Steady,ok
+2027-08-16,ice dam,24,Quiet,ok
+2027-08-16,radiator bleeding,18,Quiet,ok
+2027-08-16,furnace not heating,14,Quiet,ok
+2027-08-16,frozen pipes,3,Quiet,ok
+2027-08-16,furnace short cycling,0,Quiet,ok
+2027-08-16,furnace pressure switch,0,Quiet,ok
+2027-08-16,heat pump aux heat,0,Quiet,ok
+2027-08-16,mini split freezing up,0,Quiet,ok
+2027-08-16,frozen well pump,0,Quiet,ok
+2027-08-16,tankless water heater freezing,0,Quiet,ok
+2027-08-16,bathroom fan condensation,0,Quiet,low
+2027-08-16,metal roof condensation,0,Quiet,ok
+2027-08-16,sump pump not working,0,Quiet,ok
+2027-08-16,sump pump frozen discharge,0,Rising,low
+2027-08-16,bowed basement wall,0,Quiet,low
+2027-08-16,rim joist insulation,0,Quiet,ok
+2027-08-16,erv vs hrv,0,Quiet,ok
+2027-08-16,flat roof ponding,0,Quiet,low
+2027-08-16,tuckpointing brick,0,Quiet,ok
+2027-08-16,polyjacking concrete,0,Rising,low
+2027-08-16,termite sill plate,0,Quiet,low
+2027-08-16,standby generator sizing,0,Quiet,low
+2027-08-23,termite sill plate,100,Peak,low
+2027-08-23,egress window,96,Peak,ok
+2027-08-23,basement leak,86,Steady,ok
+2027-08-23,radon mitigation,85,Steady,ok
+2027-08-23,retaining wall drainage,78,Falling,ok
+2027-08-23,foundation crack,76,Falling,ok
+2027-08-23,sewer backup,76,Falling,ok
+2027-08-23,whole house dehumidifier,73,Falling,ok
+2027-08-23,garage ceiling insulation,69,Steady,ok
+2027-08-23,foam insulation attic,68,Falling,ok
+2027-08-23,dehumidifier basement,67,Falling,ok
+2027-08-23,pole barn insulation,49,Steady,ok
+2027-08-23,crawl space mold,47,Steady,ok
+2027-08-23,attic condensation,41,Falling,ok
+2027-08-23,basement water after rain,41,Falling,low
+2027-08-23,window condensation,36,Steady,ok
+2027-08-23,in floor radiant heat,36,Steady,ok
+2027-08-23,ice dam,24,Quiet,ok
+2027-08-23,radiator bleeding,18,Quiet,ok
+2027-08-23,frozen pipes,3,Quiet,ok
+2027-08-23,furnace not heating,0,Quiet,ok
+2027-08-23,furnace short cycling,0,Quiet,ok
+2027-08-23,furnace pressure switch,0,Quiet,ok
+2027-08-23,heat pump aux heat,0,Quiet,ok
+2027-08-23,mini split freezing up,0,Quiet,ok
+2027-08-23,frozen well pump,0,Quiet,ok
+2027-08-23,tankless water heater freezing,0,Quiet,ok
+2027-08-23,bathroom fan condensation,0,Quiet,low
+2027-08-23,metal roof condensation,0,Quiet,ok
+2027-08-23,sump pump not working,0,Quiet,ok
+2027-08-23,sump pump frozen discharge,0,Rising,low
+2027-08-23,bowed basement wall,0,Quiet,low
+2027-08-23,rim joist insulation,0,Quiet,ok
+2027-08-23,erv vs hrv,0,Quiet,ok
+2027-08-23,flat roof ponding,0,Quiet,low
+2027-08-23,tuckpointing brick,0,Quiet,ok
+2027-08-23,polyjacking concrete,0,Quiet,low
+2027-08-23,standby generator sizing,0,Quiet,low
+2027-08-30,crawl space mold,100,Peak,ok
+2027-08-30,egress window,97,Peak,ok
+2027-08-30,foundation crack,92,Peak,ok
+2027-08-30,radon mitigation,87,Steady,ok
+2027-08-30,basement leak,75,Steady,ok
+2027-08-30,sewer backup,73,Falling,ok
+2027-08-30,retaining wall drainage,70,Steady,ok
+2027-08-30,foam insulation attic,65,Falling,ok
+2027-08-30,garage ceiling insulation,63,Steady,ok
+2027-08-30,pole barn insulation,60,Steady,ok
+2027-08-30,dehumidifier basement,55,Steady,ok
+2027-08-30,whole house dehumidifier,54,Steady,ok
+2027-08-30,window condensation,41,Steady,ok
+2027-08-30,in floor radiant heat,36,Steady,ok
+2027-08-30,attic condensation,31,Steady,ok
+2027-08-30,ice dam,24,Quiet,ok
+2027-08-30,radiator bleeding,24,Quiet,ok
+2027-08-30,furnace pressure switch,6,Quiet,ok
+2027-08-30,furnace not heating,5,Quiet,ok
+2027-08-30,frozen pipes,3,Quiet,ok
+2027-08-30,furnace short cycling,0,Quiet,ok
+2027-08-30,heat pump aux heat,0,Quiet,ok
+2027-08-30,mini split freezing up,0,Quiet,ok
+2027-08-30,frozen well pump,0,Quiet,ok
+2027-08-30,tankless water heater freezing,0,Quiet,ok
+2027-08-30,bathroom fan condensation,0,Quiet,low
+2027-08-30,metal roof condensation,0,Quiet,ok
+2027-08-30,sump pump not working,0,Quiet,ok
+2027-08-30,sump pump frozen discharge,0,Quiet,low
+2027-08-30,basement water after rain,0,Quiet,low
+2027-08-30,bowed basement wall,0,Quiet,low
+2027-08-30,rim joist insulation,0,Quiet,ok
+2027-08-30,erv vs hrv,0,Quiet,ok
+2027-08-30,flat roof ponding,0,Rising,low
+2027-08-30,tuckpointing brick,0,Quiet,ok
+2027-08-30,polyjacking concrete,0,Quiet,low
+2027-08-30,termite sill plate,0,Quiet,low
+2027-08-30,standby generator sizing,0,Quiet,low
+2027-09-06,polyjacking concrete,100,Peak,low
+2027-09-06,radon mitigation,89,Steady,ok
+2027-09-06,egress window,88,Steady,ok
+2027-09-06,foundation crack,74,Falling,ok
+2027-09-06,garage ceiling insulation,74,Steady,ok
+2027-09-06,basement leak,72,Steady,ok
+2027-09-06,sewer backup,72,Steady,ok
+2027-09-06,foam insulation attic,67,Falling,ok
+2027-09-06,retaining wall drainage,66,Rising,ok
+2027-09-06,pole barn insulation,58,Steady,ok
+2027-09-06,sump pump frozen discharge,50,Falling,low
+2027-09-06,dehumidifier basement,50,Steady,ok
+2027-09-06,crawl space mold,49,Falling,ok
+2027-09-06,whole house dehumidifier,48,Steady,ok
+2027-09-06,in floor radiant heat,37,Steady,ok
+2027-09-06,window condensation,36,Steady,ok
+2027-09-06,attic condensation,31,Falling,ok
+2027-09-06,ice dam,24,Quiet,ok
+2027-09-06,radiator bleeding,20,Rising,ok
+2027-09-06,furnace not heating,11,Quiet,ok
+2027-09-06,furnace pressure switch,6,Quiet,ok
+2027-09-06,frozen pipes,3,Quiet,ok
+2027-09-06,furnace short cycling,0,Quiet,ok
+2027-09-06,heat pump aux heat,0,Quiet,ok
+2027-09-06,mini split freezing up,0,Quiet,ok
+2027-09-06,frozen well pump,0,Quiet,ok
+2027-09-06,tankless water heater freezing,0,Quiet,ok
+2027-09-06,bathroom fan condensation,0,Quiet,low
+2027-09-06,metal roof condensation,0,Quiet,ok
+2027-09-06,sump pump not working,0,Quiet,ok
+2027-09-06,basement water after rain,0,Quiet,low
+2027-09-06,bowed basement wall,0,Quiet,low
+2027-09-06,rim joist insulation,0,Quiet,ok
+2027-09-06,erv vs hrv,0,Quiet,ok
+2027-09-06,flat roof ponding,0,Quiet,low
+2027-09-06,tuckpointing brick,0,Quiet,ok
+2027-09-06,termite sill plate,0,Quiet,low
+2027-09-06,standby generator sizing,0,Quiet,low
+2027-09-13,radon mitigation,89,Steady,ok
+2027-09-13,egress window,81,Steady,ok
+2027-09-13,basement leak,77,Falling,ok
+2027-09-13,garage ceiling insulation,74,Steady,ok
+2027-09-13,retaining wall drainage,65,Steady,ok
+2027-09-13,foundation crack,63,Steady,ok
+2027-09-13,sewer backup,63,Steady,ok
+2027-09-13,pole barn insulation,58,Steady,ok
+2027-09-13,foam insulation attic,51,Steady,ok
+2027-09-13,sump pump frozen discharge,50,Falling,low
+2027-09-13,dehumidifier basement,48,Steady,ok
+2027-09-13,whole house dehumidifier,46,Steady,ok
+2027-09-13,in floor radiant heat,41,Steady,ok
+2027-09-13,window condensation,38,Steady,ok
+2027-09-13,crawl space mold,38,Steady,ok
+2027-09-13,attic condensation,28,Falling,ok
+2027-09-13,ice dam,24,Quiet,ok
+2027-09-13,radiator bleeding,20,Rising,ok
+2027-09-13,furnace not heating,11,Rising,ok
+2027-09-13,furnace pressure switch,7,Quiet,ok
+2027-09-13,frozen pipes,3,Quiet,ok
+2027-09-13,furnace short cycling,0,Quiet,ok
+2027-09-13,heat pump aux heat,0,Quiet,ok
+2027-09-13,mini split freezing up,0,Quiet,ok
+2027-09-13,frozen well pump,0,Quiet,ok
+2027-09-13,tankless water heater freezing,0,Quiet,ok
+2027-09-13,bathroom fan condensation,0,Quiet,low
+2027-09-13,metal roof condensation,0,Quiet,ok
+2027-09-13,sump pump not working,0,Quiet,ok
+2027-09-13,basement water after rain,0,Quiet,low
+2027-09-13,bowed basement wall,0,Quiet,low
+2027-09-13,rim joist insulation,0,Rising,ok
+2027-09-13,erv vs hrv,0,Quiet,ok
+2027-09-13,flat roof ponding,0,Quiet,low
+2027-09-13,tuckpointing brick,0,Quiet,ok
+2027-09-13,polyjacking concrete,0,Quiet,low
+2027-09-13,termite sill plate,0,Quiet,low
+2027-09-13,standby generator sizing,0,Quiet,low
+2027-09-20,flat roof ponding,100,Peak,low
+2027-09-20,radon mitigation,91,Peak,ok
+2027-09-20,egress window,85,Steady,ok
+2027-09-20,foundation crack,80,Falling,ok
+2027-09-20,basement leak,76,Steady,ok
+2027-09-20,retaining wall drainage,69,Falling,ok
+2027-09-20,pole barn insulation,65,Rising,ok
+2027-09-20,sewer backup,59,Steady,ok
+2027-09-20,garage ceiling insulation,57,Rising,ok
+2027-09-20,foam insulation attic,52,Steady,ok
+2027-09-20,whole house dehumidifier,51,Steady,ok
+2027-09-20,dehumidifier basement,50,Steady,ok
+2027-09-20,crawl space mold,49,Falling,ok
+2027-09-20,in floor radiant heat,42,Rising,ok
+2027-09-20,window condensation,35,Steady,ok
+2027-09-20,attic condensation,28,Falling,ok
+2027-09-20,ice dam,24,Quiet,ok
+2027-09-20,rim joist insulation,24,Quiet,ok
+2027-09-20,furnace not heating,21,Rising,ok
+2027-09-20,radiator bleeding,17,Rising,ok
+2027-09-20,furnace pressure switch,9,Rising,ok
+2027-09-20,frozen pipes,3,Quiet,ok
+2027-09-20,furnace short cycling,0,Quiet,ok
+2027-09-20,heat pump aux heat,0,Quiet,ok
+2027-09-20,mini split freezing up,0,Quiet,ok
+2027-09-20,frozen well pump,0,Quiet,ok
+2027-09-20,tankless water heater freezing,0,Quiet,ok
+2027-09-20,bathroom fan condensation,0,Quiet,low
+2027-09-20,metal roof condensation,0,Quiet,ok
+2027-09-20,sump pump not working,0,Quiet,ok
+2027-09-20,sump pump frozen discharge,0,Quiet,low
+2027-09-20,basement water after rain,0,Quiet,low
+2027-09-20,bowed basement wall,0,Quiet,low
+2027-09-20,erv vs hrv,0,Quiet,ok
+2027-09-20,tuckpointing brick,0,Rising,ok
+2027-09-20,polyjacking concrete,0,Quiet,low
+2027-09-20,termite sill plate,0,Quiet,low
+2027-09-20,standby generator sizing,0,Quiet,low
+2027-09-27,radon mitigation,89,Steady,ok
+2027-09-27,egress window,87,Steady,ok
+2027-09-27,retaining wall drainage,81,Falling,ok
+2027-09-27,garage ceiling insulation,75,Steady,ok
+2027-09-27,basement leak,68,Steady,ok
+2027-09-27,sewer backup,65,Steady,ok
+2027-09-27,foundation crack,57,Steady,ok
+2027-09-27,whole house dehumidifier,54,Steady,ok
+2027-09-27,dehumidifier basement,53,Falling,ok
+2027-09-27,foam insulation attic,52,Rising,ok
+2027-09-27,pole barn insulation,52,Rising,ok
+2027-09-27,radiator bleeding,47,Rising,ok
+2027-09-27,in floor radiant heat,42,Rising,ok
+2027-09-27,window condensation,35,Rising,ok
+2027-09-27,crawl space mold,29,Steady,ok
+2027-09-27,ice dam,24,Quiet,ok
+2027-09-27,furnace not heating,16,Rising,ok
+2027-09-27,furnace pressure switch,12,Rising,ok
+2027-09-27,frozen pipes,3,Quiet,ok
+2027-09-27,furnace short cycling,0,Rising,ok
+2027-09-27,heat pump aux heat,0,Quiet,ok
+2027-09-27,mini split freezing up,0,Quiet,ok
+2027-09-27,frozen well pump,0,Quiet,ok
+2027-09-27,tankless water heater freezing,0,Quiet,ok
+2027-09-27,attic condensation,0,Quiet,ok
+2027-09-27,bathroom fan condensation,0,Quiet,low
+2027-09-27,metal roof condensation,0,Quiet,ok
+2027-09-27,sump pump not working,0,Quiet,ok
+2027-09-27,sump pump frozen discharge,0,Quiet,low
+2027-09-27,basement water after rain,0,Quiet,low
+2027-09-27,bowed basement wall,0,Quiet,low
+2027-09-27,rim joist insulation,0,Rising,ok
+2027-09-27,erv vs hrv,0,Quiet,ok
+2027-09-27,flat roof ponding,0,Quiet,low
+2027-09-27,tuckpointing brick,0,Quiet,ok
+2027-09-27,polyjacking concrete,0,Quiet,low
+2027-09-27,termite sill plate,0,Quiet,low
+2027-09-27,standby generator sizing,0,Quiet,low
+2027-10-04,radon mitigation,95,Peak,ok
+2027-10-04,egress window,85,Steady,ok
+2027-10-04,garage ceiling insulation,74,Falling,ok
+2027-10-04,basement leak,65,Falling,ok
+2027-10-04,sewer backup,65,Steady,ok
+2027-10-04,pole barn insulation,60,Steady,ok
+2027-10-04,foundation crack,59,Steady,ok
+2027-10-04,retaining wall drainage,56,Steady,ok
+2027-10-04,radiator bleeding,54,Steady,ok
+2027-10-04,whole house dehumidifier,53,Steady,ok
+2027-10-04,foam insulation attic,51,Steady,ok
+2027-10-04,dehumidifier basement,51,Falling,ok
+2027-10-04,in floor radiant heat,46,Rising,ok
+2027-10-04,window condensation,38,Steady,ok
+2027-10-04,crawl space mold,37,Steady,ok
+2027-10-04,rim joist insulation,31,Steady,ok
+2027-10-04,furnace not heating,28,Steady,ok
+2027-10-04,furnace pressure switch,24,Rising,ok
+2027-10-04,ice dam,24,Quiet,ok
+2027-10-04,frozen pipes,3,Quiet,ok
+2027-10-04,furnace short cycling,0,Quiet,ok
+2027-10-04,heat pump aux heat,0,Quiet,ok
+2027-10-04,mini split freezing up,0,Quiet,ok
+2027-10-04,frozen well pump,0,Quiet,ok
+2027-10-04,tankless water heater freezing,0,Quiet,ok
+2027-10-04,attic condensation,0,Quiet,ok
+2027-10-04,bathroom fan condensation,0,Rising,low
+2027-10-04,metal roof condensation,0,Quiet,ok
+2027-10-04,sump pump not working,0,Rising,ok
+2027-10-04,sump pump frozen discharge,0,Quiet,low
+2027-10-04,basement water after rain,0,Quiet,low
+2027-10-04,bowed basement wall,0,Quiet,low
+2027-10-04,erv vs hrv,0,Quiet,ok
+2027-10-04,flat roof ponding,0,Quiet,low
+2027-10-04,tuckpointing brick,0,Rising,ok
+2027-10-04,polyjacking concrete,0,Quiet,low
+2027-10-04,termite sill plate,0,Quiet,low
+2027-10-04,standby generator sizing,0,Quiet,low
+2027-10-11,pole barn insulation,100,Peak,ok
+2027-10-11,egress window,85,Steady,ok
+2027-10-11,radon mitigation,79,Steady,ok
+2027-10-11,garage ceiling insulation,77,Steady,ok
+2027-10-11,radiator bleeding,70,Falling,ok
+2027-10-11,basement leak,68,Falling,ok
+2027-10-11,in floor radiant heat,66,Falling,ok
+2027-10-11,tuckpointing brick,65,Falling,ok
+2027-10-11,sewer backup,60,Steady,ok
+2027-10-11,foundation crack,57,Steady,ok
+2027-10-11,foam insulation attic,56,Steady,ok
+2027-10-11,furnace pressure switch,53,Steady,ok
+2027-10-11,whole house dehumidifier,53,Falling,ok
+2027-10-11,retaining wall drainage,48,Steady,ok
+2027-10-11,dehumidifier basement,45,Falling,ok
+2027-10-11,furnace not heating,43,Falling,ok
+2027-10-11,window condensation,41,Steady,ok
+2027-10-11,crawl space mold,35,Steady,ok
+2027-10-11,heat pump aux heat,22,Quiet,ok
+2027-10-11,ice dam,21,Quiet,ok
+2027-10-11,furnace short cycling,19,Rising,ok
+2027-10-11,frozen pipes,3,Quiet,ok
+2027-10-11,mini split freezing up,0,Quiet,ok
+2027-10-11,frozen well pump,0,Quiet,ok
+2027-10-11,tankless water heater freezing,0,Quiet,ok
+2027-10-11,attic condensation,0,Rising,ok
+2027-10-11,bathroom fan condensation,0,Rising,low
+2027-10-11,metal roof condensation,0,Quiet,ok
+2027-10-11,sump pump not working,0,Rising,ok
+2027-10-11,sump pump frozen discharge,0,Quiet,low
+2027-10-11,basement water after rain,0,Quiet,low
+2027-10-11,bowed basement wall,0,Quiet,low
+2027-10-11,rim joist insulation,0,Rising,ok
+2027-10-11,erv vs hrv,0,Quiet,ok
+2027-10-11,flat roof ponding,0,Quiet,low
+2027-10-11,polyjacking concrete,0,Quiet,low
+2027-10-11,termite sill plate,0,Quiet,low
+2027-10-11,standby generator sizing,0,Quiet,low
+2027-10-18,radon mitigation,100,Peak,ok
+2027-10-18,egress window,90,Peak,ok
+2027-10-18,garage ceiling insulation,84,Falling,ok
+2027-10-18,radiator bleeding,83,Falling,ok
+2027-10-18,pole barn insulation,80,Steady,ok
+2027-10-18,basement leak,74,Falling,ok
+2027-10-18,in floor radiant heat,72,Falling,ok
+2027-10-18,sewer backup,71,Steady,ok
+2027-10-18,furnace pressure switch,68,Falling,ok
+2027-10-18,foam insulation attic,67,Falling,ok
+2027-10-18,foundation crack,58,Steady,ok
+2027-10-18,retaining wall drainage,58,Falling,ok
+2027-10-18,furnace not heating,52,Steady,ok
+2027-10-18,whole house dehumidifier,52,Falling,ok
+2027-10-18,window condensation,47,Steady,ok
+2027-10-18,dehumidifier basement,40,Steady,ok
+2027-10-18,crawl space mold,33,Steady,ok
+2027-10-18,rim joist insulation,28,Steady,ok
+2027-10-18,furnace short cycling,25,Steady,ok
+2027-10-18,heat pump aux heat,18,Quiet,ok
+2027-10-18,ice dam,18,Quiet,ok
+2027-10-18,frozen pipes,3,Quiet,ok
+2027-10-18,mini split freezing up,0,Quiet,ok
+2027-10-18,frozen well pump,0,Quiet,ok
+2027-10-18,tankless water heater freezing,0,Quiet,ok
+2027-10-18,attic condensation,0,Quiet,ok
+2027-10-18,bathroom fan condensation,0,Rising,low
+2027-10-18,metal roof condensation,0,Rising,ok
+2027-10-18,sump pump not working,0,Quiet,ok
+2027-10-18,sump pump frozen discharge,0,Quiet,low
+2027-10-18,basement water after rain,0,Quiet,low
+2027-10-18,bowed basement wall,0,Quiet,low
+2027-10-18,erv vs hrv,0,Quiet,ok
+2027-10-18,flat roof ponding,0,Quiet,low
+2027-10-18,tuckpointing brick,0,Quiet,ok
+2027-10-18,polyjacking concrete,0,Quiet,low
+2027-10-18,termite sill plate,0,Rising,low
+2027-10-18,standby generator sizing,0,Quiet,low
+2027-10-25,radon mitigation,99,Peak,ok
+2027-10-25,egress window,80,Falling,ok
+2027-10-25,in floor radiant heat,76,Falling,ok
+2027-10-25,sewer backup,72,Falling,ok
+2027-10-25,pole barn insulation,68,Rising,ok
+2027-10-25,garage ceiling insulation,61,Rising,ok
+2027-10-25,foundation crack,55,Falling,ok
+2027-10-25,retaining wall drainage,55,Steady,ok
+2027-10-25,radiator bleeding,53,Rising,ok
+2027-10-25,basement leak,47,Steady,ok
+2027-10-25,tuckpointing brick,47,Falling,ok
+2027-10-25,whole house dehumidifier,46,Falling,ok
+2027-10-25,foam insulation attic,44,Steady,ok
+2027-10-25,window condensation,42,Rising,ok
+2027-10-25,furnace pressure switch,40,Rising,ok
+2027-10-25,dehumidifier basement,38,Falling,ok
+2027-10-25,rim joist insulation,36,Falling,ok
+2027-10-25,sump pump not working,29,Falling,ok
+2027-10-25,crawl space mold,29,Steady,ok
+2027-10-25,furnace not heating,27,Rising,ok
+2027-10-25,bathroom fan condensation,25,Falling,low
+2027-10-25,mini split freezing up,21,Quiet,ok
+2027-10-25,ice dam,18,Quiet,ok
+2027-10-25,bowed basement wall,18,Quiet,low
+2027-10-25,furnace short cycling,17,Rising,ok
+2027-10-25,flat roof ponding,11,Quiet,low
+2027-10-25,heat pump aux heat,9,Quiet,ok
+2027-10-25,polyjacking concrete,9,Quiet,low
+2027-10-25,standby generator sizing,6,Quiet,low
+2027-10-25,termite sill plate,5,Rising,low
+2027-10-25,frozen pipes,3,Quiet,ok
+2027-10-25,frozen well pump,0,Quiet,ok
+2027-10-25,tankless water heater freezing,0,Quiet,ok
+2027-10-25,attic condensation,0,Quiet,ok
+2027-10-25,metal roof condensation,0,Quiet,ok
+2027-10-25,sump pump frozen discharge,0,Rising,low
+2027-10-25,basement water after rain,0,Quiet,low
+2027-10-25,erv vs hrv,0,Quiet,ok
+2027-11-01,radon mitigation,82,Falling,ok
+2027-11-01,egress window,77,Falling,ok
+2027-11-01,pole barn insulation,75,Rising,ok
+2027-11-01,garage ceiling insulation,70,Rising,ok
+2027-11-01,radiator bleeding,53,Rising,ok
+2027-11-01,in floor radiant heat,53,Steady,ok
+2027-11-01,window condensation,52,Rising,ok
+2027-11-01,basement leak,52,Falling,ok
+2027-11-01,foam insulation attic,51,Steady,ok
+2027-11-01,sewer backup,51,Falling,ok
+2027-11-01,foundation crack,48,Falling,ok
+2027-11-01,furnace pressure switch,45,Rising,ok
+2027-11-01,retaining wall drainage,44,Steady,ok
+2027-11-01,furnace short cycling,33,Rising,ok
+2027-11-01,whole house dehumidifier,32,Steady,ok
+2027-11-01,furnace not heating,31,Rising,ok
+2027-11-01,attic condensation,29,Falling,ok
+2027-11-01,bathroom fan condensation,29,Falling,low
+2027-11-01,dehumidifier basement,29,Steady,ok
+2027-11-01,rim joist insulation,28,Falling,ok
+2027-11-01,crawl space mold,26,Steady,ok
+2027-11-01,sump pump not working,25,Falling,ok
+2027-11-01,ice dam,23,Quiet,ok
+2027-11-01,basement water after rain,20,Quiet,low
+2027-11-01,bowed basement wall,13,Quiet,low
+2027-11-01,polyjacking concrete,11,Quiet,low
+2027-11-01,flat roof ponding,10,Quiet,low
+2027-11-01,heat pump aux heat,7,Rising,ok
+2027-11-01,standby generator sizing,7,Quiet,low
+2027-11-01,frozen pipes,1,Quiet,ok
+2027-11-01,mini split freezing up,0,Quiet,ok
+2027-11-01,frozen well pump,0,Quiet,ok
+2027-11-01,tankless water heater freezing,0,Quiet,ok
+2027-11-01,metal roof condensation,0,Quiet,ok
+2027-11-01,sump pump frozen discharge,0,Quiet,low
+2027-11-01,erv vs hrv,0,Quiet,ok
+2027-11-01,tuckpointing brick,0,Quiet,ok
+2027-11-01,termite sill plate,0,Quiet,low

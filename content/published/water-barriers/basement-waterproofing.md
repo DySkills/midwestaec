@@ -1,5 +1,5 @@
 ---
-title: "Why Water Enters Basements After Heavy Rain: The Hydrostatic Fix"
+title: "Why Water Comes Into Your Basement After Heavy Rain, and What Actually Fixes It"
 slug: "basement-waterproofing"
 format: "Feature"
 leadType: "Fact-First"
@@ -7,187 +7,82 @@ category: "Water Barriers"
 catSlug: "water-barriers"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
-subtitle: "How the 'clay bowl' effect generates 500 lbs/sq.ft of hydrostatic head pressure, why cheap 6-mil poly shreds under aggregate, and the ASTM E1745 Class A defense for dry basements."
-summary: "Basement waterproofing after heavy rain: How expansive clay funnels hydrostatic head pressure through cove joints, and the ASTM E1745 Class A barrier fix."
-codeTag: "ASTM E1745 Class A / ACI 302.2R / IRC Section R405.1"
+subtitle: "Most basement water comes from the roof and the yard, not from some mystery under the house. Here is how water gets in, where it shows up, and which fixes work in what order."
+summary: "Why basements leak after heavy rain in the Midwest, where the water comes in, and which fixes work: grading, downspouts, drain tile and sump, and interior insulation that tolerates damp."
+codeTag: "BSC BSD-103 / NDSU DE1570 / DOE Building America"
 author: "Midwest AEC Building Science"
-date: "October 2026"
-readTime: "11 min read"
+date: "November 2026"
+readTime: "7 min read"
 referralHook: "Basement Waterproofing & Sump Pump Drainage Match"
+faq: [{"q": "Why does my basement leak where the wall meets the floor?", "a": "That joint is the usual way in when the soil around the house is saturated. NDSU Extension notes that water from a high water table typically enters at the wall-floor joint and through floor cracks when the drain tile around the footing is missing or not working."}, {"q": "Will sealing the inside of the wall stop basement leaks?", "a": "Usually not for long. Water in saturated soil pushes against the wall, and every foot of water depth adds about 0.43 psi of pressure. Coatings on the inside face of the wall fight that pressure head-on. Fixing grading, downspouts and drainage takes the pressure away instead."}, {"q": "How far should the ground slope away from my house?", "a": "The Department of Energy's Building America Solution Center recommends the ground fall at least 6 inches in the first 10 feet from the foundation. Patios and walks next to the house should slope away at about 2 percent."}, {"q": "Can I finish a basement that sometimes gets damp?", "a": "Only with materials that can handle it. Building Science Corporation warns that fiberglass batts and plastic vapor barriers on basement walls lead to odor, mold and decay. Rigid foam or closed-cell spray foam set directly against the concrete tolerates damp far better."}]
 ---
 
-# Why Water Enters Midwest Basements After Heavy Rain: Hydrostatic Head and Under-Slab Vapor Barriers
+# Why Water Comes Into Your Basement After Heavy Rain, and What Actually Fixes It
 
-> **Quick Summary:** In the Midwest, residential foundations are carved into dense glacial till and expansive smectite clay. When a home is excavated, the loose soil pushed back against the foundation forms an artificial underground sponge known as the "clay bowl." During torrential spring rains or rapid snowmelts, this backfill zone saturates rapidly, generating upwards of 500 pounds per square foot of hydrostatic head pressure that drives bulk water through cold joints and wall cracks. Even where walls remain visually dry, concrete slabs act as capillary wicks, transmitting hundreds of pounds of invisible moisture vapor into finished living spaces. Preventing catastrophic basement flooding and protecting finished flooring requires active hydrostatic relief paired with an indestructible ASTM E1745 Class A puncture-rated under-slab vapor barrier.
+> **Quick Summary:** Most basement leaks start on the roof and in the yard. Rain runs off the roof, lands next to the house, soaks the loose backfill against the foundation, and builds up pressure against the wall. The fixes that last work from the outside in: get water away from the house, give the water near the footing somewhere to drain, and only then finish the inside with materials that tolerate damp.
 >
-> - **The "Clay Bowl" Funnel:** Disturbed backfill around a foundation settles with 25% to 35% higher porosity than dense virgin soil, funneling surface runoff straight down foundation walls rather than letting it shed across the yard.
-> - **The 500 PSF Hydrostatic Wedge:** Water pooling against an 8-foot foundation exerts 62.4 lbs/cu.ft of hydrostatic pressure, driving groundwater inward through the cove joint, the cold seam between the footing and the floor slab.
-> - **The 6-Mil Poly Shredding Failure:** Cheap recycled 6-mil polyethylene sheet plastic (< 300g puncture resistance) is punctured hundreds of times during construction by workers walking on sharp 3/4-inch crushed stone and rebar, destroying vapor retarder integrity before concrete cures.
-> - **ASTM E1745 Class A Specification:** True subterranean vapor protection requires a 15-mil virgin polyolefin resin barrier with a puncture rating exceeding 2,200 grams and water vapor permeance below 0.01 perms, fully taped and sealed to the foundation stem walls.
+> - Check grading and downspouts before paying for anything else.
+> - Water at the wall-floor joint usually means saturated soil and missing or failed drain tile.
+> - Inside coatings fight water pressure instead of removing it.
+> - Finish basement walls with foam against the concrete, not fiberglass and plastic.
 
 ---
 
-## Active Failure Symptoms: The Cove Joint Hydrostatic Leak
+It rains two inches overnight, and in the morning there is a wet line along the bottom of the basement wall and a puddle by the floor drain. If you've lived in a Midwest house with a basement for a few years, you've probably seen it. The good news is that the cause is usually something you can see from the yard.
 
-During torrential spring downpours or rapid seasonal snowmelts, homeowners across the Great Lakes and Northern Plains face a sudden, alarming failure: water pooling along the basement perimeter while the sump pump basin remains bone dry.
+## Where Does the Water Come From?
 
-### The Immediate Visual Symptoms
-1. **The Floor-Wall Seep (The Cove Joint):** Water oozes upward along the seam where the concrete floor slab meets the exterior foundation wall. It runs beneath baseboards, saturating carpets and cupping vinyl planks without a single crack visible in the upper concrete wall.
-2. **Squishing Under Finished Flooring:** Stepping onto basement flooring produces a squishing sound as trapped groundwater is forced up through click-lock seams, carrying dissolved alkaline salts (white powdery efflorescence) across the floor.
-3. **Dry Sump Pit While the Floor Floods:** Water pools 20 feet away on the far side of the basement while the sump basin sits completely dry. Localized groundwater cannot reach the sump pit because the exterior footing tile is crushed, silt-clogged, or missing entirely.
+The soil around your foundation isn't the same as the rest of your yard. When the house was built, the hole was dug wider than the walls and then backfilled with loose dirt. That loose backfill soaks up water much faster than the packed soil around it, so it acts like a bowl around the house.
 
-This failure is not a roof or gutter mystery. It is the direct physical consequence of **hydrostatic head pressure** pooling in the excavated "clay bowl" around your foundation, combined with groundwater migrating upward through porous concrete cold seams.
+Fill that bowl with roof runoff and the water has to go somewhere. Building Science Corporation's guide to basements (Lstiburek, BSD-103) sums up the old rule as "drain the site and drain the ground." When neither happens, water collects against the wall.
 
-![Basement Hydrostatic Head Pressure and Under-Slab Vapor Defense](images/basement-waterproofing-diagram.jpg)
+![Cross-section of a basement showing water pressure against the wall and the drainage path to the footing](images/basement-waterproofing-diagram.jpg)
 
----
+## Why Does Water Push Through the Wall?
 
-## The Physics of the "Clay Bowl" and Hydrostatic Head
+Water in the soil pushes on the wall, and the deeper it gets, the harder it pushes. Water weighs about 62.4 pounds per cubic foot, which works out to roughly 0.43 psi for every foot of depth. Six feet of saturated soil against a basement wall puts about 2.6 psi on the bottom of it, spread over the whole wall.
 
-When a building foundation is excavated in the Midwest, heavy equipment digs a hole 4 to 6 feet wider than the footprint of the home. Once the concrete footings and walls are poured, the contractor shoves loose excavated dirt back into the trench:
+That pressure finds the weakest spots: the joint where the wall meets the floor, cracks, form tie holes and pipe penetrations. NDSU Extension engineer Kenneth Hellevang notes that when water comes from a high water table, it usually enters at the wall-floor joint and through floor cracks, especially where the drain tile around the footing is missing or not working (NDSU DE1570).
 
-> ### The "Clay Bowl" Hydrostatic Funnel Mechanics
->
-> | Soil / Trench Zone | Material Characteristics | Hydrodynamic & Pressure Behavior |
-> | :--- | :--- | :--- |
-> | **Virgin Native Clay** | Dense, compacted glacial till ($k \approx 10^{-7} \text{ cm/s}$) | Acts as an impermeable containment bowl; blocks lateral drainage |
-> | **Excavated Backfill Trench** | Loose, uncompacted fill (Porosity: 35%–45%) | Functions as a gravel funnel; channels surface stormwater down wall |
-> | **Footing Base Zone** | Saturated water pooling at cove joint | Generates up to **500 lbs/sq.ft** hydrostatic head pressure |
-> | **Cold Cove Seam** | Construction joint between footing and wall | Water jets through cold seam into basement living area under pressure |
+&rarr; [Spring Thaw Basement Flooding: Frozen Sump Discharge Lines and Battery Backups](sump-pump-failure-spring-thaw-backups.html)
 
+## Fix the Outside First
 
-Undisturbed native Midwest soil (glacial till or heavy clay) is extraordinarily dense and compacted, with hydraulic conductivities as low as $10^{-7} \text{ cm/s}$. Rain falling on virgin soil naturally sheds across the surface grade.
+Does the ground slope away?
+The Department of Energy's Building America Solution Center recommends the ground fall at least 6 inches in the first 10 feet from the house, and that patios and walks next to it slope away at about 2 percent. Older lots often settle back toward the house, and a low spot against the wall is a pond waiting to happen.
 
-In contrast, the loose backfill in the trench has been disturbed. It has a high void fraction and behaves like a giant underground French drain, collecting surface water and channeling it straight down the outside of the foundation.
+Where do the downspouts empty?
+Every downspout dumps a roof's worth of water in one spot. Carry them well past the backfill, onto ground that slopes away. A short splash block next to the wall puts the water right back in the bowl.
 
-Because the dense virgin clay surrounding the trench prevents water from draining outward, the backfill zone fills up like an underground swimming pool. This is the **Clay Bowl Effect**.
+Are the gutters working?
+Clogged gutters overflow along the whole eave and soak the backfill from end to end. Clean them in fall and after storms.
 
-### The Mathematics of Hydrostatic Pressure:
-Water exerts a static vertical and lateral pressure of **62.4 pounds per cubic foot** ($\rho \cdot g$):
+## Then Give the Water Somewhere to Go
 
-$$P_{lateral} = 62.4 \text{ lb/cu.ft} \times H$$
+If the outside is fixed and water still comes in at the wall-floor joint, the water near the footing needs a drain. A perimeter drain tile along the footing collects water before it builds up pressure, and carries it to a sump or to daylight. BSD-103 describes the ideal as a free-draining layer against the wall leading to a perimeter drain, with crushed stone under the slab connected to it.
 
-For an 8-foot-deep foundation with water standing 8 feet high in the backfill:
+On an existing house, installers usually put the drain tile inside, by cutting a channel in the slab along the walls, laying perforated pipe in gravel and running it to a sump pump. It doesn't stop water from reaching the wall, but it relieves the pressure and carries the water away before it reaches the floor.
 
-$$P_{base} = 62.4 \times 8 = 499.2 \text{ lbs/sq.ft (3.47 psi)}$$
+## Why Not Just Seal the Inside?
 
-While 3.5 psi sounds small, across an 8-foot by 40-foot foundation wall, that represents **nearly 160,000 pounds of lateral hydrostatic force** pressing against the concrete. 
+Coatings painted on the inside face of the wall try to hold back water that is already pushing through the concrete. With pressure behind them, they tend to blister and peel. They can help with dampness on a wall that only sweats, but they don't stop a leak driven by saturated soil.
 
-Water under 500 lbs/sq.ft of pressure will exploit the smallest microscopic pathway. The primary failure point is the **cove joint**, the cold joint where the horizontal floor slab meets the vertical foundation footing. Because concrete does not chemically bond across separate pours, the cove joint acts as an open seam, allowing pressurized groundwater to jet straight into the basement interior.
+## Finishing a Basement That Gets Damp
 
-While traditional poured concrete foundations wick moisture through continuous capillary action, an [ICF basement foundation](icf-basements-walls.html) encases the structural concrete core in continuous expanded polystyrene (EPS) foam, eliminating cold joints and condensation planes entirely. Additionally, stopping subterranean moisture vapor from degrading finishes requires pairing Class A vapor retarders with [sub-slab rigid foam insulation specifications](sub-slab-insulation-specs.html) and verifying limits for [basement LVP flooring moisture emissions](basement-lvp-flooring-moisture.html).
+Basements are rarely bone-dry, so what goes on the walls matters. BSD-103 warns that fiberglass batts "cannot tolerate even minor groundwater leakage," and that plastic vapor barriers on basement walls block inward drying and lead to "odor, mold, decay and corrosion problems."
 
+Both BSD-103 and the DOE Building America Solution Center recommend rigid foam or closed-cell spray foam placed directly against the concrete, with no air gap behind it. BSD-103 gives examples that work: 2 inches of unfaced XPS foam for about R-10, or 3 inches of closed-cell spray foam for about R-18. A stud wall can go inside the foam, and the rim joist above should be sealed and insulated with spray foam too.
 
----
+&rarr; [Why '100% Waterproof' Basement LVP Flooring Still Fails on Concrete](basement-lvp-flooring-moisture.html)
 
-## Capillary Suction & Vapor Diffusion: The Flooring Killer
+## When to Call a Contractor
 
-Even when bulk liquid water is kept at bay by exterior drainage, a second thermodynamic mechanism destroys finished basements: **capillary moisture transmission**.
-
-Cured concrete is not a solid stone; it is an intricate matrix of microscopic capillary pores. Ground moisture in contact with the underside of a concrete slab is drawn upward against gravity by capillary matrix suction pressures reaching **up to 100 psi**.
-
-Once the moisture reaches the concrete surface, it evaporates into the room as invisible water vapor:
-
-> ### Slab Moisture Transmission Dynamics
-> - **Uninsulated / Unsealed Slab Vapor Emission Rate (MVER):** 5.0 to 14.0 lbs / 1,000 sq.ft / 24 hours.
-> - **Maximum Safe Vapor Tolerance for Luxury Vinyl Plank (LVP):** 3.0 lbs / 1,000 sq.ft / 24 hours.
-> - **Maximum Safe Vapor Tolerance for Hardwood / Epoxy:** 2.0 lbs / 1,000 sq.ft / 24 hours.
-
-When a basement has an open concrete floor, this vapor evaporates into the basement air and is swept away by central ventilation or a dehumidifier. The homeowner never notices it.
-
-The disaster occurs when the homeowner "finishes" the basement by laying impermeable flooring:
-1. Luxury vinyl plank (LVP), sheet vinyl, or rubber-backed carpet is laid directly over the concrete.
-2. The impermeable flooring acts as an airtight vapor cap.
-3. Upward vapor transmission continues unabated, but the moisture can no longer evaporate into the room.
-4. Moisture accumulates beneath the vinyl planks, condensing into liquid water.
-5. High alkalinity from the concrete ($pH > 11.5$) dissolves flooring adhesives, leaches soluble calcium hydroxide to form white efflorescence crusts, and breeds toxic mold in the underlayment.
+If grading and downspouts are fixed and water still comes in, or if a wall is bowing or has a long horizontal crack, have a basement waterproofing contractor or structural engineer look at it. Ask what they found outside before they quote anything inside, and get more than one opinion on drain tile and sump work.
 
 ---
 
-## Why Cheap 6-Mil Construction Poly Fails Under Slabs
+### Sources
 
-To prevent under-slab vapor transmission, residential building codes require an under-slab vapor retarder. In 90% of Midwest tract homes, builders install generic **6-mil black or clear polyethylene sheeting**.
-
-This is one of the most common false economies in residential construction:
-
-> ### The Reality of 6-Mil Poly on a Jobsite
-> 1. **Crushed Stone Base:** 4 inches of sharp, angular 3/4-inch crushed limestone aggregate is leveled on the dirt.
-> 2. **Poly Placement:** Cheap 6-mil recycled polyethylene film is rolled out over the sharp stone.
-> 3. **Steel Placement:** Rebar or welded wire mesh is laid on top of the poly.
-> 4. **Concrete Pouring:** Workers dragging heavy concrete hoses walk across the mesh, pressing the 6-mil plastic against the jagged gravel edges beneath.
-
-Generic 6-mil poly is manufactured from post-industrial recycled resins containing filler additives, micro-voids, and impurities. Under **ASTM D1709**, it has a dart impact puncture resistance of **less than 300 grams**.
-
-Walking on sharp gravel puncturing through 6-mil poly generates over **50 to 100 puncture holes per 1,000 square feet**.
-
-Additionally, research by the American Concrete Institute (ACI Committee 302) shows that recycled polyethylene undergoes chemical degradation in the highly alkaline pore solution ($pH \approx 13$) of wet Portland cement. Within 5 to 8 years, cheap 6-mil poly breaks down, becoming brittle, cracked, and completely ineffective as a vapor barrier.
-
----
-
-## The Engineering Solution: ASTM E1745 Class A Prime Resin
-
-To survive jobsite abuse and provide permanent, 100-year subterranean vapor protection, building science standards specify an **ASTM E1745 Class A** vapor barrier (such as Stego Wrap 15-Mil or Viper VaporCheck 16-Mil).
-
-> ### ASTM E1745 Vapor Retarder Specification Standards
->
-> | ASTM E1745 Classification | Puncture Resistance (ASTM D1709) | Tensile Strength (ASTM D882) | Water Vapor Permeance (ASTM E96) | Jobsite Durability |
-> | :--- | :--- | :--- | :--- | :--- |
-> | **Class A (Engineered Virgin Resin)** | **> 2,200 grams** | **> 45.0 lbs/in** | **< 0.01 Perms** | Impervious to punctures, buggies & rebar |
-> | **Class B (Intermediate Film)** | > 1,700 grams | > 30.0 lbs/in | < 0.10 Perms | Moderate puncture resistance |
-> | **Class C (Minimum Commercial)** | > 475 grams | > 13.6 lbs/in | < 0.30 Perms | Vulnerable to sharp aggregate |
-> | **Generic 6-Mil Poly (Non-Rated)** | < 250 grams | < 12.0 lbs/in | 0.06 – 0.12 Perms | Severe tears during concrete placement |
-
-### Key Properties of Class A Virgin Polyolefin:
-- **100% Prime Virgin Resins:** Manufactured without post-consumer recycled fillers, ensuring absolute chemical resistance to concrete pore alkalinity and soil microbes.
-- **2,200+ Gram Puncture Threshold:** Sharp 3/4-inch crushed gravel will not pierce the film under the weight of concrete buggies or pump-truck crews.
-- **Ultra-Low Permeance:** At **0.0086 perms**, Class A membranes block 99.9% of upward subterranean vapor diffusion, permanently maintaining slab moisture emissions below 1.5 lbs / 1,000 sq.ft / 24 hours.
-
----
-
-## Dual Defense Architecture: Bulk Drainage & Vapor Sealing
-
-A permanently dry basement in Midwest clay requires a two-tiered defense: hydrostatic head relief combined with sealed vapor isolation:
-
-> ### The Complete Midwest Basement Water & Vapor Shield
->
-> | Exterior Hydrostatic Pressure Relief | Under-Slab Class A Vapor Seal |
-> | :--- | :--- |
-> | **1. Dimpled Drainage Sheet (DELTA-MS):** Relieves 500 PSF hydrostatic head; channels bulk water directly to tiles. | **1. 4" Washed Crushed Stone:** Capillary break bed preventing liquid wicking from underlying subgrade. |
-> | **2. Dual Perforated 4" Footing Tile:** Wrapped in geotextile filter fabric; gravity-drained to daylight or sealed sump. | **2. 2" Rigid XPS Foam (R-10):** Continuous thermal isolation preventing summer condensation on slab. |
-> | **3. Sealed Sump Basin with Dual Pumps:** 1/2-HP primary AC pump + dual 12V AGM battery backup pump with radon-sealed lid. | **3. 15-Mil ASTM E1745 Class A:** Continuous virgin polyolefin; seams lapped 6" and sealed with Stego Tape and wall mastic. |
-
-> ### Step-by-Step Under-Slab Sealing Specification
->
-> 1. **Base Bed:** Install 4 inches of washed, clean 3/4-inch crushed stone over compacted soil (capillary break).
-> 2. **Thermal Break:** Lay 2 inches of continuous Type IV Extruded Polystyrene (XPS, R-10, 25 psi compressive strength).
-> 3. **Vapor Barrier:** Unroll 15-mil ASTM E1745 Class A barrier (Stego Wrap) directly over the XPS foam.
-> 4. **Lap Detailing:** Overlap all sheet seams by a minimum of 6 inches. Seal every seam continuously with manufacturer-approved acrylic seam tape (Stego Tape).
-> 5. **Perimeter Seal:** Turn the vapor retarder up the vertical foundation wall 4 inches and seal it airtight to the concrete using polyurethane elastomer mastic (Stego Mastic).
-> 6. **Pipe Boots:** Seal every plumbing pipe, radon vent, and conduit penetration using prefabricated polyolefin pipe collars and flexible flashing tape.
-
-
----
-
-### Verifiable Standards & Technical Sources
-
-1. **ASTM International:**
-   - *ASTM E1745:* Standard Specification for Plastic Water Vapor Retarders Used in Contact with Soil or Granular Fill under Concrete Slabs.
-   - *ASTM D1709:* Standard Test Methods for Impact Resistance of Plastic Film by the Free-Falling Dart Method.
-   - *ASTM E96 / E96M:* Standard Test Methods for Water Vapor Transmission of Materials.
-   - *ASTM F1869:* Standard Test Method for Measuring Moisture Vapor Emission Rate of Concrete Subfloor Using Anhydrous Calcium Chloride.
-2. **American Concrete Institute (ACI):**
-   - *ACI 302.2R-16:* Guide for Concrete Slabs that Receive Moisture-Sensitive Flooring Materials.
-   - *ACI 515.2R-13:* Guide to Selecting Protective Treatments for Concrete.
-3. **International Code Council (ICC):**
-   - *2024 International Residential Code (IRC):* Section R405.1 ("Foundation Drainage") and Section R506.2.3 ("Vapor Retarder Under Slabs").
-4. **U.S. Army Corps of Engineers (USACE):** *Architectural Evaluation of Sub-Slab Vapor Retarders and Hydrostatic Drainage in High-Plasticity Clays*.
-5. **Building Science Corporation (BSC):** *Understanding Under-Slab Vapor Barriers, Hydrostatic Relief, and Capillary Breaks* (Dr. Joseph Lstiburek).
-
----
-
-### Related Building Science Guides
-- **Sub-Slab & Rim Joist Thermal Breaks:** &rarr; **[Read: Below-Slab and Rim Joist Foam Spec: Stopping Frost-Heave and Basement Heat Loss](sub-slab-insulation-specs.html)**
-- **Insulated Concrete Form Foundations:** &rarr; **[Read: ICF (Insulated Concrete Forms) for Midwest Basements: Eliminating Moisture & Freezing Walls](icf-basements-walls.html)**
-- **Crawlspace Ground Vapor Sealing:** &rarr; **[Read: Crawlspace Encapsulation in the Great Lakes and Plains: Why Vented Crawlspaces Rot Floors](crawlspace-encapsulation.html)**
-- **Variable Permeance Wall Membranes:** &rarr; **[Read: Smart Vapor Retarders: Class I, II, and III Membrane Specs for the Upper Midwest and Great Lakes & 6](smart-vapor-retarders.html)**
-- **Continuous Exterior Foundation Foam:** &rarr; **[Read: Continuous Exterior Insulation: Why R-5 Outboard Beats R-20 Cavity in Freeze-Thaw Climates](continuous-insulation.html)**
+1. J. Lstiburek, *BSD-103: Understanding Basements*, Building Science Corporation, 2006.
+2. K. Hellevang, *Flood Recovery: Dealing with Continuing Basement Seepage*, NDSU Extension DE1570, 2018, reviewed April 2023.
+3. U.S. Department of Energy, Building America Solution Center (PNNL), *Patio slabs, porch slabs, walks and driveways slope away from house* and *Air-sealed, insulated basements*.

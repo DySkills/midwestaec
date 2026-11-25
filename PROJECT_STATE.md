@@ -1,5 +1,8 @@
 # Midwest AEC: Master Project State & Continuity Guide
 
+> **HISTORICAL SNAPSHOT (last edited Nov 2, 2026).** Kept for its search-telemetry history. The article counts, the backlog schedule, the file paths (`content/*.md`), and the automations section below are out of date. The scheduled automations are retired. Current rules: `AGENT_BRIEFING.md`. Current state: `AGENT_HANDOFF.md`.
+
+
 **Live Domain:** [`https://midwestaec.com`](https://midwestaec.com)  
 **GitHub Repository:** [`https://github.com/DySkills/midwestaec`](https://github.com/DySkills/midwestaec) (Branch: `main`)  
 **DNS & Edge Proxy:** Cloudflare (Edge SSL active)  

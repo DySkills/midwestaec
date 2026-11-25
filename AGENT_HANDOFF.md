@@ -1,190 +1,32 @@
-# Midwest AEC: Master Agent Handoff & Continuity Briefing
+# Midwest AEC - Handoff
 
-> **Purpose:** This document is the single source of truth for any AI agent or collaborator opening a new conversation. It contains everything needed to understand the project architecture, editorial guidelines, automation telemetry, active workflows, and immediate priorities without losing continuity.
+> **Updated:** November 8, 2026. Short pointer file. The rules live in `AGENT_BRIEFING.md`; the long reference is `Refs/MIDWEST_MASTER_REFERENCE.md`. Older versions of these files are in `Refs/archive/`.
 
----
-
-## 1. Quick Copy-Paste Prompt for a New Chat
-
-When opening a new chat window with Antigravity, paste this exact prompt:
+## Start a new chat with this
 
 ```text
-Please read the master handoff document at C:\Users\Dylen\Desktop\AEC\Midwest\AGENT_HANDOFF.md and the master encyclopedia at C:\Users\Dylen\Desktop\AEC\Midwest\Refs\MIDWEST_MASTER_REFERENCE.md, and continue from previous conversation ID: 63fbd059-e331-49d5-b57d-727590d12336.
+Please read C:\Users\Dylen\Desktop\AEC\Midwest\AGENT_BRIEFING.md, then C:\Users\Dylen\Desktop\AEC\Midwest\Refs\MIDWEST_MASTER_REFERENCE.md, and continue from there.
 The active workspace is C:\Users\Dylen\Desktop\AEC\Midwest.
 ```
 
----
+The chat needs the Midwest folder connected to read and write these files.
 
-## 2. Conversation & Context References
+## Where things stand (November 8, 2026)
 
-* **Primary Previous Conversation ID:** `63fbd059-e331-49d5-b57d-727590d12336`
-* **Previous Transcript Path:** `C:\Users\Dylen\.gemini\antigravity\brain\63fbd059-e331-49d5-b57d-727590d12336\.system_generated\logs\transcript.jsonl`
-* **Previous Artifacts Directory:** `C:\Users\Dylen\.gemini\antigravity\brain\63fbd059-e331-49d5-b57d-727590d12336\`
-* **Active Project Workspace:** `C:\Users\Dylen\Desktop\AEC\Midwest`
-* **Master Encyclopedia:** `C:\Users\Dylen\Desktop\AEC\Midwest\Refs\MIDWEST_MASTER_REFERENCE.md`
-* **Automations Directory:** `C:\Users\Dylen\Desktop\AEC\automations`
-* **Automations Registry:** `C:\Users\Dylen\Desktop\AEC\automations\network-registry.json`
+* **Live:** 39 articles in `content/published/` (9 category folders), compiled to `articles/`.
+* **Health check (Nov 8, 6:00 AM Central):** 45 of 45 sitemap URLs returned 200, 635 internal links with none broken, 9 of 9 external standards links up, schema valid on all 39 articles, counts matching.
+* **Backlog:** 56 files in `content/backlog/`, written Nov 6. Not yet audited. Older docs say 6 or 17.
+* **Roadmap:** 104-article plan in Section 6 of the master reference (2 per week).
+* **Search (latest numbers on file, Nov 6):** "icf basement" at position 20; `embodied-carbon-materials` at 95 impressions; `insulating-brick` at 3 clicks on 32 impressions (9.4% CTR); `crawlspace-encapsulation-steps` at position 29.8. Total clicks are still in the single digits, so expect slow movement and a 2 to 3 day reporting lag.
+* **Google Docs sync:** 6 articles in `docs-sync.json`. You rewrite in Docs; to pull edits back, run the `gdocs readonly export` command from Section 8 of the master reference, then `node build.js`, then commit.
 
----
+## Retired
 
-## 3. Publication & Author Profile
+The scheduled automations and the daily dispatcher chat are gone. Do not look for them, and do not recreate the `automations` folder or conversation-ID routing. The conversation ID from the earlier Antigravity chat no longer matters.
 
-* **Publication Name:** **Midwest AEC** (Midwest Architecture, Engineering & Construction).
-* **Live Production Domain:** [https://midwestaec.com](https://midwestaec.com)
-* **GitHub Repository:** [https://github.com/DySkills/midwestaec](https://github.com/DySkills/midwestaec) (or `Dylen-svg/MidwestAEC`), Branch: `main`.
-* **DNS & Hosting:** Cloudflare Edge Proxy & Pages / GitHub Pages.
-* **Author Background:** NAAB B.Arch graduate from a multigenerational Missouri builder and trades family. Direct experience diagnosing drafty historic structures, crawlspaces, and modern high-performance envelopes.
-* **Tone & Persona:** Authoritative forensic building scientist and veteran jobsite superintendent. Trade-first, code-grounded, zero academic jargon, zero AI buzzwords.
-* **Business Model:** High-intent Pay-Per-Lead (PPL) contractor referrals (foundation repair, basement waterproofing, emergency HVAC, siding replacement) via Networx/Modernize ($100-$250/lead) plus technical affiliate tools. Zero intrusive ads.
+## Next
 
----
-
-## 4. Technical Architecture & Build System
-
-* **Static Site Generator:** Zero-framework, highly optimized Node.js SSG.
-* **Build Command:**
-  ```powershell
-  cd C:\Users\Dylen\Desktop\AEC\Midwest
-  node build.js
-  ```
-* **Directory Structure:**
-  * `content/published/**/*.md`: 39 production markdown files organized into 9 trade category subfolders (air-barriers, efficient-systems, envelopes, go-green, hvac, roofing, rural-development, urban-development, water-barriers).
-  * `content/backlog/*.md`: 17 staged seasonal backlog articles awaiting scheduled rollout (entire 52-week roadmap fully authored).
-  * `articles/*.html`: 39 compiled HTML articles matching `content/` 1:1.
-  * `article-template.html`: Master layout template for compiled articles.
-  * `index.html`: Homepage featuring hero articles, categories, and latest specifications.
-  * `browse.html`: Search and filter library index.
-  * `data.js`: Searchable JSON database generated by `build.js` for client-side search.
-  * `sitemap.xml`, `rss.xml`, `llms.txt`: Auto-regenerated during build.
-  * `docs-sync.json`: Registry mapping article slugs to active Google Docs IDs.
-* **Crucial Operational Rules:**
-  * **No Phantom Networks:** The site previously had placeholder navigation links for non-existent regional networks (Northwest, Southwest, Southeast, Northeast, Tropical). These were completely eradicated across all 48 template, index, and HTML files. **Never re-add or re-introduce any phantom network links or top network bars.**
-  * **Strict 1:1:1:1 Count Parity:** `content/published/**/*.md` count must always match `articles/*.html` count, `data.js` records, and `sitemap.xml` entries.
-
----
-
-## 5. Strict Editorial & Formatting Standards
-
-Any agent writing or modifying articles must adhere to the following non-negotiable rules:
-
-1. **Zero Em-Dash Rule:**
-   * **Never use em-dashes in body text or headings.** Use hyphens (-), commas, or parentheses. A full site-wide purge was executed to eliminate all em-dashes.
-2. **No Formulaic Bullet Prefixes:**
-   * **Do not use** `- **The [Noun]:**` or `- **[Verb] the [Noun]:**` list formats. Integrate points into natural technical narrative prose.
-3. **Banned AI Vocabulary:**
-   * Strictly avoid: *"furthermore"*, *"moreover"*, *"delve"*, *"tapestry"*, *"testament"*, *"paramount"*, *"psychrometric trap"*, *"catastrophic wedge"*, *"suffocating on latent moisture"*, *"Sump Pit Paradox"*.
-   * Use direct trade terminology: head pressure, backdrafting, weeping tile, Delta-MS membrane, R-value degradation, perm rating, thermal bridge, capillary break.
-4. **Code & Engineering Compliance:**
-   * Every article must cite real building codes with numerical specifications: IRC Section R405 / R406 (foundation drainage/waterproofing), IRC R310 (egress), IRC R806 (roof ventilation), NFPA 54 / ANSI Z223.1 (fuel gas venting), ASHRAE 62.2, IECC Climate Zones 4A, 5A, 6A.
-5. **In-Body Contextual Internal Linking (Reasonable Surfer Model):**
-   * Do not bury links only in "Related Articles" footer boxes. Google's Reasonable Surfer Model severely discounts footer links.
-   * Internal links must be woven naturally into the technical narrative (e.g., linking to `icf-basements-walls.html` inside poured concrete or foundation waterproofing paragraphs).
-   * Currently, 104+ in-body contextual links are active across the 39 live articles.
-
----
-
-## 6. Google Docs Two-Way Sync Pipeline
-
-The user rewrites articles directly in Google Docs using their connected account (`zunesofficial@gmail.com`) via the official `gdocs` plugin CLI.
-
-### Active Sync Registry (`docs-sync.json`):
-1. **Furnace Vent Pipe Freeze Lockout & Pressure Switches**
-   * **Doc ID:** `1Mi8l65Q1i_YeMJzbI3F5_eXqwloarvNS9bMU28WU20w`
-   * **Target Queries:** `"furnace blowing cold air"`, `"furnace clicking"`, `"furnace pressure switch open"`
-2. **Heat Pump Aux Heat Lockout & Economic Balance Point**
-   * **Doc ID:** `1W5jeKS3BDNpRoWNP3AioZFLab57rp4cANThstUwsZ0o`
-   * **Target Queries:** `"what does aux heat on mean"`, `"aux heat on honeywell"`, `"heat pump running constantly"`
-3. **Sump Pump Failure & Rapid Thaw Backups**
-   * **Doc ID:** `1o2nKNvN1kuNelLkt3wy7djL8dIoN79E42wz1UCp9Yzw`
-   * **Target Queries:** `"sump pump running constantly in winter"`, `"frozen sump pump discharge pipe"`
-4. **Cold Climate Septic Line & Well Head Freeze Solutions**
-   * **Doc ID:** `1ob0UlyrSbV1vDwx-xX0wiVD7W7lbk_Gl7z6Ci2X5eLc`
-   * **Target Queries:** `"frozen house pipes"`, `"well pressure switch frozen"`
-5. **Ice Dam Prevention & Attic Thermal Remediation**
-   * **Doc ID:** `1ZrX_MeE8rYAzxtqmJ0Wcn75ksBngKiWmwDiLLSggYfw`
-   * **Target Queries:** `"prevent ice dams on roof"`, `"ice dams on roof removal"`
-6. **ICF Basements & Frost Protection**
-   * **Doc ID:** `1YVXl7jZHy4PQIMzFwbcOlmPBChcMM4nmvVe_u9HwSCY`
-   * **Target Query:** Live GSC striking-distance query `"icf basement"` (Position 20, 94 impressions).
-
-### How to Pull User Edits Back from Google Docs:
-When the user says *"sync <article>"* or *"sync all"*:
-1. Run:
-   ```powershell
-   gdocs readonly export <DOC_ID> --format md --output "content/<slug>.md"
-   ```
-2. Recompile the site:
-   ```powershell
-   node build.js
-   ```
-3. Commit locally:
-   ```powershell
-   git commit -am "Sync user editorial updates for <slug>"
-   ```
-
----
-
-## 7. Git & Remote Push Protocol
-
-* **Local Commits:** Fully automated via agent powershell commands (`git commit -am "..."`).
-* **Remote Push:** Git Credential Manager runs interactively on Windows. In background tasks, `git push origin main` can hang if Windows Credential Manager triggers an unhandled UI prompt.
-  * **Protocol:** Commit all changes locally. Notify the user to run `git push origin main` in their terminal when they are ready to publish live to GitHub.
-
----
-
-## 8. Automations & Telemetry Architecture
-
-* **Network Dispatcher:** `C:\Users\Dylen\Desktop\AEC\automations\network-registry.json`
-* **Active Conversation ID Mapping:**
-  ```json
-  "target_conversation_id": "63fbd059-e331-49d5-b57d-727590d12336"
-  ```
-  *(Note: If migrating permanently to a new chat, update this conversation ID in `network-registry.json` so daily GSC telemetry and backlog alerts deliver to the new chat).*
-* **Google Search Console Property:** `sc-domain:midwestaec.com`
-* **Current Top Ranking Focus:**
-  * `"icf basement"` is hovering at **Position 20 with 94 impressions**. Moving this from top of Page 2 to Page 1 will drive significant organic contractor-intent traffic.
-  * `embodied-carbon-materials.html` surged 63.8% to 95 impressions.
-  * `insulating-brick.html` achieved a 9.4% CTR (3 clicks / 32 impressions).
-  * `crawlspace-encapsulation-steps.html` advanced to Position 29.8 on 20 impressions.
-
----
-
-## 9. 104-Article Annual Editorial Roadmap & Bi-Weekly Publishing Cadence
-
-Midwest AEC has established a complete, **104-article annual publishing architecture** (2 specifications per week over 52 weeks) engineered specifically for the continental climate of Climate Zones 4A, 5A, and 6A.
-
-### The Bi-Weekly Publishing Cadence
-* **Tuesday (Track A - Specification Teardowns):** Deep building science teardowns, hygrothermal WUFI modeling, code citations, and structural load calculations.
-* **Friday (Track B - Field Diagnostic & SOP):** Hands-on contractor dispatch, emergency troubleshooting decision trees, localized pricing tables, and direct Networx referral hooks.
-
-### Production Pipeline Breakdown (104 Total Specifications)
-* **39 Specifications Live (Published):** Stored in `content/published/` across 9 trade category folders and compiled to `articles/*.html`.
-* **17 Specifications Staged (Backlog):** 100% written, formatted with zero em-dashes, and ready for deployment in `content/backlog/`.
-* **48 Specifications Queued (Roadmap):** Detailed in Section 6 of `Refs/MIDWEST_MASTER_REFERENCE.md`, covering high-intent queries across all 4 quarters:
-  * **Q1 (Weeks 01-13 | Articles 001-026):** Polar vortex survival, flue icing, hydronic boilers, generators, and frost heave.
-  * **Q2 (Weeks 14-26 | Articles 027-052):** Spring deluge, dual sump backup staging, sewer backwater valves, and grading.
-  * **Q3 (Weeks 27-39 | Articles 053-078):** Inward vapor drives, whole-house dehumidification, ERV vs HRV, and flat roof scuppers.
-  * **Q4 (Weeks 40-52 | Articles 079-104):** Blower door depressurization, rim joist spray foam, makeup air dampers, and heating prep.
-
-### Empirical Data Provenance
-Every article is grounded in real, documented search queries from the past 12 months:
-1. **Google Search Console Telemetry:** Verified real impression and click data (`icf basement`, `crawlspace encapsulation`, `insulating brick`).
-2. **Google Trends 12-Month Breakout Scans:** Captured surge queries (+300% to +500% and Breakouts) during polar vortexes, spring thaws, and summer humidity spikes.
-3. **Aggregator Gap Teardown (Angi, Forbes Home, Bob Vila):** Aggregators fail by publishing misleading national cost averages ($5,400 for foundation repairs), omitting climate-zone building physics (frost heave, adfreeze shear, stack effect), and forcing premature lead forms. Midwest AEC provides forensic building science diagnostics that build trust before routing to Networx/Modernize contractors ($100-$250/lead).
-4. **Engineering Physics Formulations:** Full mathematical backing for Rankine static vs CRREL dynamic frost heave pressures, dual-fuel heat pump thermodynamic break-even COP equations, Advanced Energy/ORNL crawlspace moisture evaporation rates, ASTM C881 vs polyurethane crack injection chemistry, and WUFI critical saturation limits.
-
-*(For the complete 104-article publishing table, code standards, and mathematical proofs, read Sections 6 and 7 of `C:\Users\Dylen\Desktop\AEC\Midwest\Refs\MIDWEST_MASTER_REFERENCE.md`)*.
-
----
-
-## 10. Current Status Checklist (As of November 6, 2026)
-
-- [x] **39 Live Articles Fully Compiled & Verified:** Zero 404 errors, 100% crawl health, 635 internal links verified.
-- [x] **Diction & Formatting Purge:** 0 em-dashes, 0 robotic `- **The [Noun]:**` prefixes, 0 fluff words across all live and backlog articles.
-- [x] **6 Production-Ready Backlog Articles Staged:** Audited with Networx PPL categories and Step 4 contractor dispatch callouts.
-- [x] **52-Week Editorial Roadmap & Data Provenance Documented:** Added to master encyclopedias across all active reference repositories.
-- [x] **Phantom Network Links Removed:** 48 files cleaned.
-- [x] **In-Body Contextual Links Injected:** 104+ contextual links verified.
-- [x] **Google Docs Two-Way Sync Active:** Top 6 winter/emergency articles live in user's Google Drive.
-- [x] **Dispatcher Conversation ID Synced:** Daily telemetry routed properly to conversation `63fbd059-e331-49d5-b57d-727590d12336`.
-- [ ] **Next Action:** User is actively reviewing Google Docs and editorial roadmap. Ready to sync Google Docs edits or promote scheduled backlog articles upon instruction.
+* Audit the 56 backlog files (em-dashes, banned words, bullet prefixes, code citations, internal link slugs, contractor-referral step).
+* Pick the order to publish, winter topics first.
+* Pull fresh Search Console and Bing exports to refresh the "what moved" picture.
+* Sync Google Docs edits when ready.

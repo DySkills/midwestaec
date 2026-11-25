@@ -1,199 +1,80 @@
-# Does an Old House Need to Breathe? The Building Science of Stack Pressure, Infiltration Rot & ERVs
+# Does an Old House Need to Breathe? Air Leaks, Fresh Air and Why 'Build Tight, Ventilate Right' Wins
 > **Publication:** Midwest AEC (https://midwestaec.com)
 > **Jurisdiction:** Climate Zones 4 & 5 (Midwest Residential & Commercial)
 > **Canonical Article:** https://midwestaec.com/articles/does-house-need-to-breathe.html
-> **Building Code Reference:** ASHRAE Standard 62.2 / IRC Section M1505 / ASTM E779
-> **Summary:** Does a house need to breathe? The building science truth behind controlled mechanical ventilation (ERV/HRV) vs uncontrolled wall rot under ASHRAE 62.2.
+> **Building Code Reference:** BSC BSD-109 / BSC BSD-163 / ASHRAE 62.2
+> **Summary:** Does a house need to breathe? Why air leaking through walls and ceilings causes moisture damage and drafts in Midwest homes, and how sealing plus planned ventilation gives better air.
 
 
-# Does an Old House Need to Breathe? The Building Science of Stack Pressure, Infiltration Rot & ERVs
+# Does an Old House Need to Breathe? Air Leaks, Fresh Air and Why "Build Tight, Ventilate Right" Wins
 
-> **Quick Summary:** Among Midwestern homeowners, remodelers, and traditional trades, no misconception is more deeply entrenched than the belief that a house "needs to breathe through its walls." Homeowners are routinely warned that sealing drafts, tightening attics, or wrapping foundations will trap moisture, create stale air, and "suffocate" the structure. Building science proves the exact opposite: random envelope leakage is not fresh-air ventilation, it is an uncontrolled, destructive convective engine that rots framing, fuels attic hoarfrost, and dramatically elevates utility costs. 
+> **Quick Summary:** "A house needs to breathe" is half right. The people inside need fresh air, but the walls and ceilings don't, and air leaking through them carries moisture into places it can condense and rot. The better approach, which Building Science Corporation calls "build tight, ventilate right," is to seal the leaks and bring fresh air in through a fan you control.
 >
-> - **The Physiological Distinction:** Houses do not need to breathe; *human occupants* need to breathe. Buildings require an impermeable, airtight structural envelope paired with continuous, dedicated, filtered mechanical ventilation.
-> - **The Convective Moisture Highway:** In cold climates, air leakage carries over 100 times more moisture into wall cavities than material vapor diffusion. When indoor air "breathes" outward through unsealed framing, it deposits moisture against cold sheathing, creating mold and structural decay.
-> - **The Neutral Pressure Plane (NPP):** In winter, heated air rises, creating positive pressure at the ceiling and negative pressure at the foundation. The house acts as a 30-foot convective chimney, siphoning cold soil gases and radon into the basement while dumping expensive heat into the attic.
-> - **ASHRAE 62.2 Compliance:** Modern high-performance building codes mandate continuous mechanical ventilation using **Energy Recovery Ventilators (ERVs)** or **Heat Recovery Ventilators (HRVs)** to deliver tempered, filtered outdoor air while recovering up to 80% of sensible and latent energy.
+> - Fresh air is for people. Walls need to dry, not to leak.
+> - Most wall and attic condensation comes from air leaking out.
+> - Most older Midwest houses are nowhere near too tight.
+> - Plan the fresh air: ASHRAE 62.2 gives the amount.
 
 ---
 
-## Fluid Dynamics of the Building Envelope: Why Uncontrolled Infiltration Destroys Framing
+You've probably heard it from a contractor, a relative or a forum: don't seal up an old house, it needs to breathe. The worry behind it is real. The fix the phrase suggests, leaving the leaks alone, isn't.
 
-Air moves through a building envelope strictly according to physical laws: air requires both an **opening (hole)** and a **pressure differential (driving force)** to move.
+## Where Does the Saying Come From?
 
-Verifying whole-house envelope airtightness begins with an ASTM E779 audit using our [blower door testing checklist](blower-door-checklist.html). Proper mechanical ventilation prevents the muggy indoor air problems analyzed in our [summer humidity and AC short cycling guide](summer-humidity-ac.html), while allowing builders to right-size efficient [cold-climate heat pump systems](cold-climate-heat-pumps.html).
+After the energy crises of the 1970s, many homes were tightened quickly without adding any way to bring in fresh air or control humidity. Some of them had moisture and air quality problems, and "the house needs to breathe" became the lesson people took away. The lesson that building science took away was different: tight houses need planned ventilation.
 
+## What Happens When Walls "Breathe"?
 
-In Midwestern homes during the winter heating season (the Midwest and Great Lakes region), pressure differentials are driven by three continuous forces:
-1. **Wind Pressure:** Velocity pressure pushing against the windward facade and creating negative suction on the leeward facade.
-2. **Mechanical Pressure:** Unbalanced HVAC duct leakage, exhaust fans, and clothes dryers pulling the living space into negative or positive pressure.
-3. **Thermal Buoyancy (The Stack Effect):** The dominant winter force, driven by the density difference between warm indoor air and sub-zero outdoor air.
+Air doesn't leak through a wall the way it moves through a window. It takes a path, through gaps at outlets, top plates, rim joists and attic hatches, and through the insulation and framing on the way.
 
-### The Mathematics of Stack Pressure
-Because air expands when heated, 70°F indoor air is significantly less dense ($0.075 \text{ lb/ft}^3$) than 10°F outdoor air ($0.084 \text{ lb/ft}^3$). 
+Which way does it move?
+In winter, warm air rises and pushes out at the top of the house while cold air gets pulled in low. Building Science Corporation calls this the stack effect (*BSD-109, Pressures in Buildings*). Warm, moist air leaking out at the top reaches cold roof decks and wall sheathing.
 
-This density gradient causes warm indoor air to rise toward the highest ceilings, exerting outward positive pressure against the upper envelope. To balance this upward buoyant force, sub-zero outdoor air is drawn inward through the lower envelope.
+What does that air carry?
+Moisture. Building Science Corporation's condensation digest (Straube, BSD-163) says "most such condensation is due to air leakage, not diffusion." That's how a leaky house ends up with frost in the attic, ice dams and wet sheathing.
 
-Between these two pressure zones lies the **Neutral Pressure Plane (NPP)**, the horizontal boundary where internal building pressure precisely equals outdoor atmospheric pressure:
+What comes in with the air?
+Air leaking in comes from wherever the leak starts: the crawl space, the basement, the garage or the attic. It brings dust, soil gas and smells along with it, which is the opposite of fresh air.
 
-$$\Delta P_{\text{stack}} = \rho_{\text{air}} \cdot g \cdot h \cdot \left(\frac{T_{\text{in}} - T_{\text{out}}}{T_{\text{in}} \cdot T_{\text{out}}}\right)$$
+&rarr; [Frost in the Attic: Why Midwest Roof Sheathing Sweats and Frosts in Winter, and How to Stop It](attic-frost-roof-sweating.html)
 
-*Where $h$ is the vertical height above the neutral plane, and $T$ is temperature in Kelvin.*
+## Is My House Too Tight?
 
-```
-                 VENTED ATTIC (Cold Zone)
-  ═══════════════════════════════════════════════════════
-       ▲             ▲             ▲             ▲
-   [Can Light]   [Top Plate]   [Plumbing]    [Attic Hatch]
-       ▲             ▲             ▲             ▲
-  ───────────────────────────────────────────────────────
-   POSITIVE PRESSURE ZONE: Warm Humid Air Exfiltrating
-  ───────────────────────────────────────────────────────
-            - - - - NEUTRAL PRESSURE PLANE - - - -
-  ───────────────────────────────────────────────────────
-   NEGATIVE PRESSURE ZONE: Sub-Zero Air Infiltrating
-  ───────────────────────────────────────────────────────
-       ▼             ▼             ▼             ▼
-   [Rim Joist]   [Mud Sill]   [Door Shim]   [Basement Crack]
-       ▼             ▼             ▼             ▼
-  ═══════════════════════════════════════════════════════
-               UNSEALED BASEMENT / FOUNDATION
-```
+Probably not, if it's older. Lawrence Berkeley National Laboratory's analysis of US blower door data found that homes in weatherization programs, with a median build year of 1962, were the leakiest group, and weatherization cut their median leakage by about 35 percent (Chan and Sherman, 2011). Even after that, they were roughly twice as leaky as new construction.
 
-In an unsealed 2,500-square-foot two-story home with an 8-foot basement, this stack pressure acts continuously as a 30-foot vertical chimney. The house exchanges its entire volume of heated air with outdoor air every **60 to 90 minutes (an air infiltration rate of 0.6 to 1.2 Natural Air Changes per Hour [ACHnat])**.
+A blower door test tells you where your house stands. It measures how much air leaks out under a set pressure, and a contractor can use it to find the biggest leaks.
 
----
+&rarr; [How to Pass a Blower Door Test on a Midwest Remodel: The Leaks to Seal First](blower-door-checklist.html)
 
-## Why "Breathing" Destroys the Structural Envelope
+## How Much Fresh Air Does a House Need?
 
-When an older house "breathes" through uncontrolled cracks, the homeowner is not receiving fresh, clean air. 
+ASHRAE Standard 62.2 is the main US standard for home ventilation. It calls for 7.5 cfm per person plus 0.03 cfm per square foot of floor area, counting occupants as the number of bedrooms plus one.
 
-### 1. Infiltration Air is Contaminated
-Air entering the bottom of the home does not pass through an air filter. It enters through dusty foundation sills, unconditioned crawlspaces, and subterranean cracks. It drags with it:
-* Subterranean radon gas pulled from bedrock.
-* Soil moisture and musty mold spores from damp backfill earth.
-* Rodent dander, insect debris, and pesticides from perimeter soils.
+For a 2,000 square foot house with three bedrooms, that works out to 7.5 times 4 people, or 30 cfm, plus 0.03 times 2,000, or 60 cfm, for about 90 cfm total. That's roughly what one good bath fan moves, running all the time.
 
-By the time this "fresh air" reaches living areas, it is contaminated with particulate matter and high latent humidity.
+## What's the Best Way to Ventilate?
 
-### 2. Exfiltration Air Rots Structural Framing
-Worse is the air exiting through the top of the house. 
+Building Science Corporation's Joseph Lstiburek ranks the options in his "Build Tight, Ventilate Right" work. At the top: an airtight house with balanced ventilation and energy recovery. At the bottom: a leaky house with exhaust-only ventilation and no distribution.
 
-When warm 70°F air at 40% RH leaks through top plates and hollow balloon-framed stud cavities, it moves toward the cold exterior sheathing. As the air cools, its relative humidity climbs rapidly until it hits its dew point (44°F). 
+What is an HRV or ERV?
+A heat recovery ventilator (HRV) or energy recovery ventilator (ERV) brings fresh air in and sends stale air out at the same rate, passing them by each other so much of the heat in the outgoing air warms the incoming air. An ERV also moves some moisture, which helps keep winter air from getting too dry and summer air from getting too humid.
 
-Moisture condenses inside the wall cavity against the cold wood sheathing:
-* **Liquid water** soaks cellulose and fiberglass insulation, derating its nominal R-value by up to 70%.
-* Wood moisture content in structural studs and top plates rises above **20%**, triggering the germination threshold for wood-decay fungi (*dry rot*).
-* In sub-zero cold snaps, that moisture freezes into crystalline hoarfrost on roof sheathing, setting up destructive thaw-leaks during the first warm front.
+Is a bath fan on a timer enough?
+For many older houses, yes, as a start. Exhaust-only ventilation is simple and cheap. It works best once the biggest leaks are sealed, so the replacement air isn't pulled from the crawl space or garage.
 
-> **Building Science Axiom:** Uncontrolled air leakage is the primary mechanism of structural rot in cold-climate homes. A house that "breathes" through its envelope is a house that is slowly rotting from the inside out.
+## The Bottom Line
+
+Seal the leaks, starting with the attic and basement, and keep winter humidity around 30 to 40 percent. Then make sure fresh air comes in where you choose, through a fan or a ventilator, instead of through the walls.
 
 ---
 
-## "Why Do They Say That Then?" The Historical Origins of the Breathing House Myth
+### Sources
 
-When homeowners learn that modern building science mandates an airtight structural envelope, the instinctive question is almost universal: ***"Why do they say that then?"***
-
-If houses don't need to breathe, why do so many experienced contractors, old-school carpenters, and family members passionately insist that sealing an old home will "suffocate" the wood and trap moisture?
-
-The persistence of the "breathing house" myth stems from a half-century of real-world remodeling disasters that occurred when energy efficiency was attempted without building physics:
-
-### 1. The Energy Crisis of 1973 and the "Trap-and-Rot" Wave
-Prior to the 1970s, older homes survived without rotting despite massive rain leaks because they had **infinite drying potential**. They leaked so much heat through uninsulated stud cavities and drafty single-pane windows that wet framing was continuously baked dry by continuous, inexpensive fossil fuel heating.
-
-During the 1970s energy crisis, insulation contractors began densely blowing cellulose and loose fiberglass into uninsulated exterior wall cavities. However, they did this **without air-sealing interior electrical boxes, top plates, or floor-wall junctures, and without installing controlled mechanical ventilation**.
-
-### 2. The Unintended Result: Condensation Trapping
-In winter, warm, humid indoor air (from cooking, showers, and human respiration) leaked into the freshly insulated wall cavities. Because the insulation stopped heat from reaching the outer wood sheathing, the exterior sheathing plunged to sub-freezing temperatures.
-
-When moisture-laden indoor air hit that freezing wood, it condensed into liquid water. Wood rotted, exterior paint blistered and peeled off siding, and toxic mold bloomed inside bedroom walls.
-
-### 3. The Flawed Conclusion: "The House Can't Breathe!"
-Remodelers observed the damage and drew the obvious, but scientifically backwards, conclusion: *"Before we insulated, the house was dry. After we tightened it, the house rotted. Therefore, an old house needs to breathe!"*
-
-They blamed the airtightness rather than the absence of balanced ventilation and interior air barrier detailing.
-
-### 4. The Building Science Resolution
-The lesson of building forensics over the past 40 years is clear: **Airtightness does not rot houses; unmanaged interior moisture and convective exfiltration rot houses.**
-
-Leaving random holes in your walls so moisture can escape is like leaving holes in your boat to let water drain out. The proper engineering solution is **"Build Tight, Ventilate Right"**: seal the structural envelope to eliminate uncontrolled convective leaks, and install dedicated, balanced mechanical ventilation (an ERV or HRV) under ASHRAE 62.2 to continuously exchange indoor stale air with fresh, filtered outdoor air.
-
----
-
-## The Modern Standard: Build Tight, Ventilate Right
-
-The solution codified by the **International Energy Conservation Code (IECC)** and **ASHRAE Standard 62.2** is unequivocal:
-
-1. **Build as Airtight as Humanly Possible:** Establish a continuous, uninterrupted air barrier from the foundation slab to the attic ceiling. Use blower door testing to target an airtightness threshold below **3.0 ACH50** (Air Changes per Hour at 50 Pascals of pressure) for existing remodels, and below **1.5 ACH50** for new high-performance builds.
-2. **Ventilate Mechanically with Balanced Heat Recovery:** Because a tight house does not leak air randomly, the builder must install dedicated mechanical ventilation to supply fresh, filtered outdoor air and exhaust stale, humid indoor air.
-
-### The Technology: HRV vs. ERV across the Upper Midwest and Great Lakes
-
-Two balanced mechanical ventilation systems dominate cold-climate construction:
-
-| Engineering Parameter | Heat Recovery Ventilator (HRV) | Energy Recovery Ventilator (ERV) |
-| :--- | :--- | :--- |
-| **Primary Core Function** | Transfers **Sensible Heat Only** | Transfers **Sensible Heat + Latent Moisture** |
-| **Core Material** | Aluminum or plastic conductive plates | Permeable hygroscopic polymer membrane |
-| **Winter Operation** | Warms incoming cold air; dries indoor space | Warms incoming cold air; **retains indoor humidity** |
-| **Summer Operation** | Cools incoming hot air | Cools incoming hot air; **blocks outdoor humidity** |
-| **Midwest Climate Recommendation** | Best for high-occupancy homes with chronic winter condensation | **Optimal for most Midwest homes** (Balances summer humidity + winter dry air) |
-| **Sensible Recovery Efficiency (SRE)**| **75% to 85%** | **70% to 82%** |
-
-In the Midwest and Great Lakes region (such as Missouri, Illinois, Indiana, and Ohio), an **Energy Recovery Ventilator (ERV)** is generally the superior choice. 
-
-In winter, when indoor air tends to dry out below 30% RH, the ERV's enthalpy core transfers moisture from the outgoing exhaust air into the incoming dry air stream, maintaining comfortable 35% to 40% indoor humidity without running noisy evaporative humidifiers. 
-
-In humid Midwest summers, the process reverses: the ERV core strips moisture from incoming 80% RH outdoor air, allowing your central air conditioner to maintain a crisp 50% indoor relative humidity without over-cooling.
-
----
-
-## Myth Buster: 3 Pervasive "Breathing House" Misconceptions
-
-### Myth 1: "If I Seal My House Tighter Than 3.0 ACH50, We Will Run Out of Oxygen"
-* **The Reality:** A human being consumes roughly 0.01 CFM of oxygen. Even in a certified ultra-tight Passive House operating at 0.6 ACH50, the volume of structural air leakage alone provides enough oxygen for thousands of occupants. The real reason to ventilate is not to replenish oxygen, it is to dilute volatile organic compounds (VOCs from furniture and paint), remove excess carbon dioxide (CO₂), and control indoor relative humidity.
-
-### Myth 2: "Opening a Window Occasionally is Sufficient Ventilation"
-* **The Reality:** Window ventilation is completely unmanaged. When you open a window in winter, you dump conditioned air and create localized freezing drafts while doing nothing to ventilate distant bedrooms or basements. Worse, on calm days without wind, opening a window achieves virtually zero air exchange. An ERV operates 24 hours a day on 30 watts of power, delivering continuous, balanced air changes through dedicated ducting.
-
-### Myth 3: "Bathroom Exhaust Fans Count as Whole-House Ventilation"
-* **The Reality:** Standard bathroom fans are **exhaust-only ventilation**. When a bath fan blows 80 CFM of air outdoors, it depressurizes the house, pulling 80 CFM of unconditioned, unfiltered outdoor air in through basement cracks, rim joists, and chimney chases. Exhaust-only systems exacerbate winter stack effect drafts and bring in soil gases; balanced ERV systems supply and exhaust identical cubic footage simultaneously.
-
----
-
-## ERV vs. HRV for Midwest Climates: Sizing, Costs & Humidity Recovery
-
-The persistent myth that *"a house needs to breathe through random cracks"* has ruined thousands of homes. When an envelope "breathes" through random air leaks, humid outdoor air condenses inside wall cavities, causing structural framing rot and driving pollen, vehicle exhaust, and radon into living spaces. The building science rule is: **Build tight, ventilate right.**
-
-### 1. ERV vs. HRV: Which System Wins in the Midwest?
-Mechanical ventilation standards (ASHRAE 62.2 / IRC Section M1505) mandate balanced mechanical ventilation in tightly sealed homes (< 3.0 ACH50):
-- **HRV (Heat Recovery Ventilator):** Transfers only sensible temperature (heat). Excellent in dry, sub-zero Arctic zones, but in humid Midwest summers, an HRV pulls outdoor humidity directly into the home without recovery.
-- **ERV (Energy Recovery Ventilator):** Transfers both sensible heat *and* latent water vapor via a permeable enthalpy core.
-- **The Midwest Verdict: ERV Is Superior.** In summer, an ERV pre-dries incoming humid air by transferring its moisture to the outgoing exhaust stream. In winter, it retains indoor moisture so your home doesn't drop to a bone-dry 15% RH that causes dry skin and static shocks.
-
-### 2. Installed Cost Breakdown
-- **Dedicated Ductwork Whole-Home ERV Package:** **$2,600 to $4,500** turnkey (featuring a high-efficiency unit like the Panasonic Intelli-Balance 100 or Broan AI Series). Includes outdoor intake/exhaust hoods spaced 10 feet apart, insulated flex ductwork, and digital multi-speed wall controls.
-- **Operating Cost:** Variable-speed ECM motors draw barely 25 to 50 watts of electricity, costing roughly **$3.50 to $6.00 per month** to continuously deliver hospital-grade, MERV-13 filtered fresh air to every bedroom.
-
----
-
-## The Action Plan: Specific Services & Implementation Steps
-
-Transitioning a drafty, leaky Midwest home into a high-performance, healthy, and durable living space requires a structured three-step implementation plan:
-
-1. **Schedule a BPI-Certified Blower Door & Airflow Depressurization Test:**
-   * Before adding insulation or replacing mechanicals, hire a certified building performance professional to measure your home's baseline air leakage (ACH50) and locate invisible thermal bypasses using a calibrated blower door and smoke pencil.
-   * *Target Threshold:* Aim to reduce total envelope leakage below **3.0 ACH50** (or achieve a minimum 30% reduction from baseline).
-   * *Service Link:* Find certified diagnostic auditors via the [Building Performance Institute (BPI) Professional Registry](https://www.bpi.org) or follow our [Blower Door Testing & Air Leakage Checklist](blower-door-checklist.html).
-2. **Execute Targeted "Top and Bottom" Air Sealing:**
-   * Focus capital where stack pressure is greatest: the attic floor and the basement rim joists.
-   * Encase all recessed lights with airtight fire-rated covers, seal interior partition top plates with expanding foam, and spray-foam the basement rim joists and mud sills with two inches of closed-cell polyurethane foam.
-   * *Service Link:* [Connect with Vetted Local Air Sealing Contractors &rarr;](../browse.html?cat=air-barriers) to obtain competitive bids for comprehensive air sealing.
-3. **Install a Dedicated Cold-Climate Energy Recovery Ventilator (ERV):**
-   * If your blower door test measures below 4.0 ACH50, building code (**IRC Section M1505.4**) mandates mechanical ventilation. Install an ENERGY STAR certified ERV (such as Panasonic Intelli-Balance, Fantech HERO, or Broan AI Series) integrated into your central ductwork or installed with dedicated fresh-air supply runs.
-   * *Service Link:* [Connect with Vetted Local HVAC & Ventilation Contractors &rarr;](../browse.html?cat=hvac) to size and install an ASHRAE 62.2 compliant ERV system.
-4. **Claim Federal 25C Energy Efficiency Tax Credits:**
-   * Air-sealing services and qualifying ERV installations qualify for the **Inflation Reduction Act Section 25C tax credit**, covering 30% of project costs up to **$1,200 annually**. Utility rebate programs (such as Ameren, ComEd, DTE, Nicor, Spire) offer additional cash incentives for verified blower door air reduction.
+1. Building Science Corporation, *BSD-109: Pressures in Buildings*.
+2. J. Straube, *BSD-163: Controlling Cold-Weather Condensation Using Insulation*, Building Science Corporation, 2011.
+3. W. R. Chan and M. H. Sherman, *Preliminary Analysis of U.S. Residential Air Leakage Database v.2011*, Lawrence Berkeley National Laboratory, 2011.
+4. ASHRAE Standard 62.2, *Ventilation and Acceptable Indoor Air Quality in Residential Buildings*, as summarized in J. Lstiburek, *Build Tight, Ventilate Right*, Building Science Corporation.
+5. Minnesota Department of Commerce, *Home Energy Guide*, July 2025 (indoor humidity in the heating season).
 
 
 ---

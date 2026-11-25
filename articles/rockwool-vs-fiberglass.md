@@ -1,155 +1,80 @@
-# Does Rockwool Outperform Fiberglass? How Each Holds Up in Midwest Wall Assemblies
+# Rockwool vs. Fiberglass: How Each Holds Up in Midwest Walls
 > **Publication:** Midwest AEC (https://midwestaec.com)
 > **Jurisdiction:** Climate Zones 4 & 5 (Midwest Residential & Commercial)
 > **Canonical Article:** https://midwestaec.com/articles/rockwool-vs-fiberglass.html
-> **Building Code Reference:** ASTM C665 / ASTM C612 / ASTM C518
-> **Summary:** Rockwool vs. fiberglass insulation: Compare R-values (R-4.2 vs R-3.2), fire resistance, soundproofing, and sub-zero convective derating in Midwest walls.
+> **Building Code Reference:** BSC BSD-163 / Efficiency Vermont / manufacturer data
+> **Summary:** Mineral wool (Rockwool) vs. fiberglass batts in Midwest walls: R-value, fit, fire, sound, moisture and embodied carbon, and why air sealing matters more than which batt you choose.
 
 
-# Does Rockwool Outperform Fiberglass? How Each Holds Up in Midwest Wall Assemblies
+# Rockwool vs. Fiberglass: How Each Holds Up in Midwest Walls
 
-> **Quick Summary:** Walk into any lumberyard or home center across the Midwest, and the insulation aisle presents an immediate pricing split: standard pink or yellow fiberglass batts cost roughly 40% less on the shelf than dense stone mineral wool. However, building science laboratory testing reveals that low-density fiberglass functions like an open air filter that derates under extreme winter temperature splits, while hydrophobic stone wool maintains dimensional rigidity, repels water, and resists fire to 2,150°F.
+> **Quick Summary:** Mineral wool, often sold under the Rockwool brand, and fiberglass batts both insulate a 2x4 wall to about R-13 to R-15. Mineral wool is denser, holds its shape in the cavity, handles fire better and quiets sound better. Fiberglass is cheaper and has lower embodied carbon. Neither stops air, so how well the wall is sealed and the batts are fit matters more than which one you pick.
 >
-> - **Convective Airflow Derating:** High-density stone wool (2.0–2.5 lbs/cu.ft) mechanically blocks internal air currents, whereas low-density fiberglass (0.7 lbs/cu.ft) allows convective loops that can slash effective R-value by up to 35% at -10°F.
-> - **Hydrophobic Water Shedding:** Mineral fibers absorb less than 1% moisture by volume and dry rapidly, whereas loosely woven glass batts sponge bulk water, matting down into soggy, permanently compromised clumps.
-> - **Friction-Fit Springback:** Semi-rigid stone wool boards hold continuous friction tension against wood studs without mechanical staples, completely eliminating top-plate sag voids and compression gaps around wiring.
-> - **Basalt Fire Endurance:** Spun from volcanic rock, stone wool withstands temperatures exceeding 2,150°F without melting, igniting, or releasing toxic off-gases, providing passive two-hour fire containment in wood framing.
+> - Similar R-value per cavity when both are installed well.
+> - Mineral wool friction-fits and cuts cleanly, which helps a careful install.
+> - Mineral wool wins on fire and sound. Fiberglass wins on cost and embodied carbon.
+> - Seal the air leaks first. Batts are not air barriers.
 
 ---
 
-## Jobsite Reality vs. Shelf Pricing: Why Cheap Fiberglass Batts Fail Sub-Zero Midwest Wall Assemblies
+You're opening up a wall in a remodel, or finishing a room, and the store has both on the shelf. Mineral wool costs more. Here's what you get for the money, item by item.
 
-On paper, standard R-15 fiberglass batts cost roughly $0.62 to $0.78 per square foot of cavity wall area, while dense stone mineral wool (Rockwool Comfortbatt) runs $1.15 to $1.35 per square foot, a 40% to 50% upfront material premium totaling $1,200 to $1,800 across an average 2,200 sq. ft. home.
+## 1. R-Value Per Cavity
 
-However, laboratory environmental chamber testing and jobsite thermal imaging demonstrate that low-density spun fiberglass (0.7 to 1.0 lb/cu.ft.) experiences dramatic thermal derating during Midwest polar cold snaps. When outdoor temperatures plunge below 0°F, extreme temperature differentials between interior drywall (70°F) and exterior OSB sheathing create internal convective air currents within low-density fiberglass batts, dropping their effective thermal resistance by up to 35%. Dense mineral wool (2.0 to 2.5 lbs/cu.ft.) physically arrests convective airflow loops, maintains dimensional spring-tension against stud cavities without stapling, and remains completely unaffected by water or fire.
+For a 2x4 wall, both come in batts rated around R-15 (mineral wool such as ROCKWOOL Comfortbatt, and high-density fiberglass), with standard fiberglass at R-13. For a 2x6 wall, mineral wool is sold at about R-23, and fiberglass at R-19 to R-21. Check the label, since R-value depends on the product, not the material name.
 
-## 1. Density & Winter Convective Air Looping
+The rated number only holds if the batt fills the cavity without gaps, voids or compression.
 
-Nominal R-values printed on insulation packaging are derived under **ASTM C518** laboratory conditions inside a hermetically sealed test box with zero air movement. Standard residential fiberglass batts have an installed density of only 0.6 to 0.8 pounds per cubic foot. In contrast, stone mineral wool (such as Rockwool Comfortbatt) is manufactured from spun volcanic basalt rock at 2.0 to 2.5 pounds per cubic foot, more than three times the density of glass fibers.
+## 2. Fit and Installation
 
-When outdoor temperatures drop to -10°F and indoor air is heated to 70°F across a 5.5-inch wall cavity, that 80-degree thermal gradient creates a buoyant convective loop inside low-density insulation. Warm interior air rises along the warm face of the drywall, migrates over the top of the batt, cools against the freezing exterior OSB sheathing, and drops down to the bottom plate. Research by **Oak Ridge National Laboratory (ORNL)** confirms that internal convective looping can derate low-density fiberglass batts by 20% to 35% during extreme cold spells.
+Mineral wool batts are stiffer and denser, so they friction-fit between studs and stay put, and they cut cleanly with a serrated knife around boxes and pipes. Fiberglass batts are softer and easier to compress, sag or leave gaps around wiring if they're installed carelessly.
 
-Stone wool's dense, tightly packed mineral fiber matrix mechanically halts internal air currents before convective loops can establish. Even under severe sub-zero thermal pressure, stagnant air pockets remain locked in place, ensuring the wall assembly delivers its full laboratory-tested thermal resistance when your furnace or heat pump is working hardest.
+That's the biggest practical difference. A well-installed fiberglass batt beats a sloppy mineral wool one, but mineral wool makes a good install easier.
 
-To completely eliminate thermal bridging through studs, cavity insulation should be paired with [exterior continuous insulation over sheathing](continuous-insulation.html). In variable Midwest climates, stone wool assemblies perform best when protected with a [smart vapor retarder membrane](smart-vapor-retarders.html) rather than polyethylene, while delivering the low environmental impact explored in our [embodied carbon materials teardown](embodied-carbon-materials.html).
+## 3. Air Sealing Still Comes First
 
+Both are air-permeable, so neither stops air moving through the wall. Building Science Corporation's condensation digest (Straube, BSD-163) explains that most winter condensation in walls comes from air leakage, and that walls insulated with permeable cavity fill like fiberglass or rockwool rely on a good air barrier and, in colder zones, a Class II vapor retarder.
 
-- **Jobsite Rule:** On exterior walls facing prevailing north and west winter winds, specify high-density stone wool (or dense-packed cellulose) over low-density batts to eliminate convective thermal derating.
+Seal top plates, outlets, and gaps around windows before the batts go in.
 
----
+&rarr; [Vapor Barriers and Smart Vapor Retarders: What Midwest Walls Actually Need](smart-vapor-retarders.html)
 
-## 2. Hydrophobic Water Shedding vs. Saturated Clumping
+## 4. Fire
 
-Water management is where physical chemistry starkly separates glass from basalt rock. Stone wool fibers are treated with a proprietary water-repellent mineral binder during the manufacturing process, making the finished batt completely hydrophobic under **ASTM C1104**. Water droplets contacting the surface cannot enter the tight capillary structure; liquid beads up and drains downward harmlessly.
+Mineral wool is made from stone and slag and is rated by its manufacturer to well over 2,000°F, which is why it's used for fire blocking and around chimneys. Fiberglass is also noncombustible, but it softens at a lower temperature. If you're fireblocking balloon framing or insulating near a heat source, mineral wool is the better choice.
 
-Standard fiberglass batts are hydrophilic in practical jobsite conditions. Glass fibers themselves do not absorb liquid, but the loosely woven fiber matrix readily holds water through capillary attraction like a giant sponge. When minor roof leaks, seasonal ice dams, or window casing bypasses introduce bulk water into a framed cavity, fiberglass mats down into a sodden clump, permanently losing its loft and thermal resistance.
+&rarr; [How to Firestop and Air-Seal Balloon Framing Without Tearing Out Plaster](balloon-framing-retrofit-steps.html)
 
-Once fiberglass collapses from water exposure, it rarely recovers its original thickness, leaving uninsulated air pockets inside the wall that harbor mold growth against adjacent wood studs. Stone wool does not absorb water, does not lose its dimensional loft when wet, and dries out completely by natural vapor diffusion without degrading its structural shape or rated R-value.
+## 5. Sound
 
-- **Jobsite Rule:** For exterior kitchen, bathroom, and basement walkout walls where plumbing runs or condensation risks exist, hydrophobic stone wool prevents structural moisture damage and insulation clumping.
+Mineral wool's extra density makes it better at damping sound through interior walls and floors, which is why it's sold in "sound" versions for bedrooms, bathrooms and home offices. For exterior walls, the difference matters less than air sealing.
 
----
+## 6. Moisture
 
-## 3. Friction-Fit Tension vs. Gravitational Sagging
+Neither material soaks much water into its fibers, and both dry out once the source is fixed. But either kind, when wet, holds water between the fibers and loses insulating value until it dries. Keeping water out of the wall is what protects them both.
 
-Standard fiberglass batts lack inherent structural stiffness and must be physically stapled through paper kraft facing to the edges of wood framing. Over decades of seasonal humidity swings, thermal expansion, and normal structural vibration, paper tabs pull loose from framing staples. Gravity pulls the flexible fiberglass downward, creating a 2- to 4-inch uninsulated void at the top plate, precisely where buoyant indoor heat exerts the highest escape pressure.
+In basements, neither belongs directly against concrete. Building Science Corporation's basement guide (BSD-103) recommends rigid foam or closed-cell spray foam against the concrete, with any batts in a stud wall inside that.
 
-Stone wool batts are manufactured as semi-rigid, self-supporting boards engineered with dimensional springback. When cut 1/2-inch wider than the stud bay and pushed into place, the batt expands outward against the wood studs with continuous friction tension. It requires zero mechanical staples, never slumps down over time, and holds its flush orientation against top and bottom plates for the life of the building.
+&rarr; [Why Water Comes Into Your Basement After Heavy Rain, and What Actually Fixes It](basement-waterproofing.html)
 
-Equally critical is how each material handles penetrations. Cutting fiberglass around electrical boxes, Romex wiring, and plumbing pipes typically results in torn, bunched batts and uninsulated hidden voids. Stone wool cuts cleanly with a serrated insulation knife like dense bread, allowing trades to notch precise channels around junction boxes and conduit so the cavity remains completely filled without thermal bypasses.
+## 7. Embodied Carbon
 
-- **Jobsite Rule:** Cut stone wool batts 1/2-inch oversize using a serrated bread knife or dedicated insulation saw; never compress excess batt material into a cavity, which lowers thermal efficiency.
+Efficiency Vermont's comparison of insulation materials ranks cellulose and wood fiber lowest for embodied greenhouse gas emissions, fiberglass in its "low" group, and mineral wool in its "medium" group. If low embodied carbon is your priority, dense-pack cellulose beats both.
 
----
+&rarr; [Insulation and Embodied Carbon: Comparing Spray Foam, Cellulose, Fiberglass and Mineral Wool](embodied-carbon-materials.html)
 
-## 4. Basalt Non-Combustibility vs. Melting Silica Glass
+## Which Should I Choose?
 
-The raw materials behind each insulation type dictate their structural performance during a residential fire event. Fiberglass is manufactured by spinning molten silica sand and recycled container glass, which reaches its softening and melting point at roughly 1,050°F to 1,100°F. In a typical house fire, flashover temperatures exceed 1,200°F within minutes, causing glass fibers to melt away and exposing wood framing to direct flame impingement.
-
-Stone wool is formed by melting volcanic basalt rock and recycled blast-furnace slag at temperatures exceeding 2,900°F. The resulting mineral fibers are classified as non-combustible under **ASTM E136** and withstand temperatures beyond 2,150°F without melting, igniting, or releasing toxic off-gasses. Placed inside interior or exterior wall cavities, stone wool acts as a natural fire barrier that delays structural failure and slows flame spread between floors.
-
-Additionally, kraft paper facing on standard fiberglass carries a significant flame-spread index under **ASTM E84** and must be covered immediately by 1/2-inch gypsum drywall to meet building code (*IRC Section R302.9*). Unfaced stone wool can remain exposed in utility rooms, unfinished basement perimeter framing, and mechanical spaces without violating residential fire safety codes.
-
-- **Jobsite Rule:** Install stone wool in furnace closets, water heater rooms, garage-to-house separation walls, and multi-family party walls to provide passive two-hour fire containment.
+Choose mineral wool for interior sound walls, fireblocking, and walls where you want an easier, tighter fit. Choose fiberglass when cost matters most and the installer is careful. Either way, put the effort into air sealing first.
 
 ---
 
-### The Fiberizing Section for Rock Wool: High-Speed Centrifugal Spinning Physics
+### Sources
 
-Understanding why stone wool resists fire and convective airflow requires examining the **fiberizing section for rock wool** during manufacturing:
-
-1. **Cupola Smelting:** Natural volcanic basalt rock, diabase, and recycled steel-furnace slag are blended with metallurgical coke and melted inside an industrial cupola furnace at temperatures exceeding 2,700°F to 2,900°F (1,500°C).
-2. **The Multi-Wheel Centrifugal Fiberizer:** The liquid basalt stream pours vertically into the **fiberizing section for rock wool**, consisting of a cascade of three or four rapidly spinning centrifugal rotor wheels turning at 3,000 to 7,000 RPM. As the liquid mineral stream hits the spinning wheels, centrifugal acceleration flings microscopic droplets outward, attenuating them into ultra-fine mineral fibers (3 to 5 microns in diameter).
-3. **Binder and Hydrophobic Injection:** Inside the spinning chamber of the fiberizing section, high-pressure air nozzles inject an atomized thermoset binder and a proprietary hydrophobic oil onto the individual mineral filaments.
-4. **Pendulum Mat Collection:** A cross-lapping pendulum arm layers the newly spun rock wool fibers into a multidirectional wool fleece. Passing through a curing oven at 400°F cross-links the binder, permanently locking the dense, spring-back fiber matrix that gives stone wool its 2.0 to 2.5 lb/cu.ft structural rigidity.
-
----
-
-## 5. Acoustic Mass & Low-Frequency Vibration Damping
-
-Sound isolation through interior partitions is governed by mass, cavity absorption, and mechanical decoupling. Low-frequency acoustic energy, such as street traffic, heavy diesel trucks, home theater bass, and HVAC duct rumble, travels effortlessly through lightweight, low-density materials. Standard fiberglass batts absorb high-pitched flutter echoes, but lack the physical mass required to block low-frequency vibration.
-
-Because stone wool packs roughly three times more mass per cubic foot into the wall cavity, it dampens airborne sound waves and structural resonance far more aggressively. In standardized sound transmission testing, a typical interior 2x4 wall framed with 1/2-inch drywall on both sides achieves an STC rating of 34 with fiberglass batts. Replacing the fiberglass with dense stone wool pushes that same partition to an STC of 42 to 45, cutting perceptible noise transmission in half.
-
-For Midwest homeowners working from home or living near busy suburban thoroughfares, using dense stone wool in bedroom partitions, home offices, and second-floor laundry rooms provides acoustic isolation that lightweight fiberglass cannot match.
-
-- **Jobsite Rule:** Pair stone wool batts with resilient sound isolation clips and 5/8-inch Type X gypsum board on shared home office or mechanical walls to achieve an STC rating above 50.
-
----
-
-## Head-to-Head Specification Benchmark
-
-The following table summarizes laboratory and field engineering benchmarks between low-density fiberglass batts and dense stone mineral wool:
-
-| Performance Metric | Standard Low-Density Fiberglass Batt | High-Density Stone Wool (Rockwool Comfortbatt) | Engineering & Code Standard |
-| :--- | :--- | :--- | :--- |
-| **Installed Density** | 0.6 to 0.8 lbs / cu. ft. | **2.0 to 2.5 lbs / cu. ft. (3x Denser)** | ASTM C167 / ASTM C612 |
-| **Nominal R-Value (2x6 Cavity)** | R-19 to R-21 (at 75°F mean) | **R-23 (at 75°F mean)** | ASTM C518 / ASTM C177 |
-| **Real-World R-Value at -10°F** | **R-13 to R-15 (Derates via Convective Loops)** | **R-23+ (Maintains Full Resistance)** | ORNL Field Convection Testing |
-| **Moisture Absorption (by Volume)** | > 5% (Hydrophilic capillary retention) | **< 1% (Hydrophobic water-shedding)** | ASTM C1104 / ASTM C1511 |
-| **Reaction to Water Exposure** | Mats down, sags, permanent loss of loft | **Dries completely, zero loss of thickness** | Jobsite Immersion Standards |
-| **Melting Point** | ~1,050°F to 1,100°F (Melts in early fire) | **> 2,150°F (Non-combustible basalt)** | ASTM E136 / CAN/ULC-S114 |
-| **Flame Spread / Smoke Index** | 25 / 50 (Unfaced) / High (Kraft paper) | **0 / 0 (Zero flame spread, zero smoke)** | ASTM E84 / UL 723 |
-| **Acoustic Rating (2x4 Wall)** | STC 34 to 36 | **STC 42 to 45 (Noticeable noise reduction)** | ASTM E90 / ASTM E413 |
-| **Installation Retention** | Must be stapled; prone to top-edge slump | **Friction-fit springback; zero sagging** | Jobsite Gravitational Rigidity |
-
----
-
-## Strategic Capital Allocation: Where to Spend Your Insulation Dollars
-
-Upgrading an entire home from standard fiberglass to stone mineral wool represents a measurable cost delta on an invoice. Understanding where that extra investment delivers the highest thermodynamic return prevents homeowners from overspending on non-critical zones:
-
-| Application Zone | Material Cost: Fiberglass (sq. ft.) | Material Cost: Stone Wool (sq. ft.) | Building Science Priority | Recommended Material Choice |
-| :--- | :--- | :--- | :--- | :--- |
-| **Basement Rim Joists & Mud Sills** | $0.65 – $0.85 | $1.25 – $1.50 | **Critical (Moisture & Air Entry)** | **Stone Wool (or Closed-Cell Foam)** |
-| **North & West Exterior Walls** | $0.70 – $0.90 | $1.30 – $1.65 | **High (Extreme Winter Wind Gradients)**| **Stone Wool (Comfortbatt R-23)** |
-| **Bathroom & Laundry Plumbing Walls**| $0.55 – $0.75 | $1.15 – $1.40 | **High (Pipe Freezing & Moisture Risk)** | **Stone Wool (Safe'n'Sound / R-15)** |
-| **Mechanical Room & Furnace Chases** | $0.55 – $0.75 | $1.15 – $1.40 | **High (Fire Containment & Noise Damping)**| **Stone Wool (Safe'n'Sound)** |
-| **Standard Interior Bedroom Partitions**| $0.45 – $0.65 | $1.00 – $1.25 | Moderate (Sound Isolation Only) | Homeowner Preference / Budget |
-| **Protected East & South Exterior Walls**| $0.70 – $0.90 | $1.30 – $1.65 | Moderate (Lower Thermal Delta) | High-Density Fiberglass or Stone Wool |
-
----
-
-### Verifiable Standards & Technical Sources
-
-1. **Oak Ridge National Laboratory (ORNL):** *Convective Heat Transfer in Low-Density Roof and Wall Insulation Under Extreme Temperature Differentials*, Building Technologies Research Center.
-2. **National Research Council Canada (NRC-CNRC):** *Hygrothermal Performance of Mineral Wool vs. Glass Fiber in Wood-Framed Wall Assemblies*.
-3. **ASTM International:**
-   - *ASTM C518:* Standard Test Method for Steady-State Thermal Transmission Properties by Means of the Heat Flow Meter Apparatus.
-   - *ASTM C612:* Standard Specification for Mineral Fiber Block and Board Thermal Insulation.
-   - *ASTM C665:* Standard Specification for Mineral-Fiber Blanket Thermal Insulation for Light Frame Construction.
-   - *ASTM C1104:* Standard Test Method for Determining the Water Vapor Sorption of Unfaced Mineral Fiber Insulation.
-   - *ASTM E136:* Standard Test Method for Assessing Combustibility of Materials Using a Vertical Tube Furnace at 750°C.
-   - *ASTM E84:* Standard Test Method for Surface Burning Characteristics of Building Materials.
-4. **International Code Council (ICC):** *2021/2024 International Residential Code (IRC)*, Section R302 (Fire-Resistant Construction) and Chapter 11 (Energy Efficiency).
-
----
-
-### Related Building Science Guides
-- **Exterior Thermal Break Engineering:** &rarr; **[Read: Continuous Exterior Insulation: Why R-5 Outboard Beats R-20 Cavity in Freeze-Thaw Climates](continuous-insulation.html)**
-- **Winter Utility Tariffs & Thermal Chimneys:** &rarr; **[Read: Winter Tariff Hikes: Why $20k on Windows Doesn't Hold Up](energy-hikes.html)**
-- **Cold-Climate Heat Pump Mechanics:** &rarr; **[Read: Can a Heat Pump Actually Handle -15°F? Cold-Climate Inverters During Midwest Winters](cold-climate-heat-pumps.html)**
-- **Summer Latent Humidity Dynamics:** &rarr; **[Read: The Corn Belt Summer Sweat: Why Your AC Blows Cold but Your House Stays Clammy](summer-humidity-ac.html)**
+1. J. Straube, *BSD-163: Controlling Cold-Weather Condensation Using Insulation*, Building Science Corporation, 2011.
+2. J. Lstiburek, *BSD-103: Understanding Basements*, Building Science Corporation, 2006.
+3. Efficiency Vermont, *Home Insulation and Greenhouse Gas Emissions* (one-page comparison).
+4. Manufacturer product data for ROCKWOOL Comfortbatt and fiberglass batt insulation.
 
 
 ---

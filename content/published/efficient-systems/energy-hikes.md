@@ -1,5 +1,5 @@
 ---
-title: "Winter Tariff Hikes: Why $20k on Windows Doesn't Hold Up"
+title: "Heating Bills Going Up? Where Midwest Homeowners Get the Most for Their Money"
 slug: "energy-hikes"
 format: "Feature"
 leadType: "Descriptive"
@@ -7,107 +7,93 @@ category: "Efficient Systems"
 catSlug: "efficient-systems"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
-subtitle: "An investigative teardown of Midwest seasonal rate spikes, the stack-effect chimney, and why $20,000 window replacements fail the math."
-summary: "Winter utility rate hikes: How air-sealing attic bypasses and setting heat pump balance points protects homeowners against 20–40% Midwest rate surges."
-codeTag: "IECC R-60 / ASTM E779"
+subtitle: "Whether you heat with gas, electricity, propane or wood, the cheapest heat is the heat you keep. Here is what this winter is expected to cost, and the order of upgrades that pays back first."
+summary: "What Midwest households are expected to pay for heat this winter by fuel, why air leaks drive the bill, and the order of upgrades that pays back first, from air sealing to windows."
+codeTag: "EIA Winter Fuels Outlook 2026 / NPS Preservation Brief 3 / MN Home Energy Guide"
 author: "Midwest AEC Building Science"
-date: "October 2026"
-readTime: "7 min read"
+date: "November 2026"
+readTime: "6 min read"
 referralHook: "Attic Insulation & Air Sealing Quote Match"
+faq: [{"q": "How much will it cost to heat a Midwest home this winter?", "a": "The U.S. Energy Information Administration's October 2026 outlook forecasts average Midwest winter heating costs of about $613 for homes heated with natural gas, $1,380 for electricity and $1,305 for propane, for November through March. Your bill depends on your house, rates and weather."}, {"q": "What is the best way to lower my heating bill?", "a": "Start with air sealing and attic insulation. The National Park Service calls reducing air leakage the first priority of an energy retrofit, followed by attic and basement work. These usually cost less and save more than new windows or equipment."}, {"q": "Do new windows lower heating bills enough to pay for themselves?", "a": "Rarely on their own. The National Park Service's Preservation Brief 3 notes that replacing windows alone rarely pays for itself in energy savings. Low-E storm windows over existing windows cut heating load by about 21 percent in a Chicago field study, at a fraction of the cost."}, {"q": "Which Midwest homes are hit hardest by rising heating costs?", "a": "Homes heated with electricity or propane. EIA forecasts both at more than twice the Midwest average cost for natural gas heat this winter. About a quarter of Midwest homes heat mainly with electricity and nearly 8 percent with propane."}]
 ---
 
-# Winter Tariff Hikes: Why $20k on Windows Doesn't Hold Up
+# Heating Bills Going Up? Where Midwest Homeowners Get the Most for Their Money
 
-> **Quick Summary:** Every winter gas and electric bills increase across the Midwest, but they are rarely caused by failing furnaces. The cost is driven by approved tariff hikes colliding with the *stack effect*: an instance of hot air rising through unsealed ceilings which pulls cold air into lower portions of a building. Investigation reveals window replacements yield an agonizing 25-year payback! While attic air sealing and cellulose have less than a 3-year payback.
+> **Quick Summary:** Most Midwest homes heat with natural gas, but a quarter heat with electricity and many rural homes use propane, and those cost the most to run. Whatever the fuel, a big share of the bill is heat leaking out through the attic, the basement and the walls. The upgrades that pay back first are the unglamorous ones: air sealing and attic insulation. New windows come last.
 >
-> - **The Tariff Reality:** Public service commission rate cases across Ameren, Spire, Nicor, MidAmerican, and DTE have permanently elevated baseline volumetric and delivery charges.
-> - **The Window Trap:** Replacing sound windows yields barely 7% to 12% in actual heating load reduction, taking 25 to 35 years to break even on a $20,000 quote.
-> - **Surface Area Math:** Windows account for only 8% to 12% of your home's exterior envelope; drafts originate behind shrunk trim and rough openings, not through the glass.
-> - **The Stack Effect:** Ceiling plane air leaks dump warm air into the attic while pulling freezing outdoor air across basement rim joists.
+> - EIA expects Midwest electric and propane heat to cost more than twice as much as gas heat this winter.
+> - Air leaks are a big share of heat loss in older houses.
+> - Seal the attic and basement first, then insulate.
+> - Storm windows beat replacement windows on payback.
 
 ---
 
-## The Capital Allocation Hierarchy: Why $20,000 on Windows Fails the Payback Test
+If your heating bill keeps climbing, you're not imagining it. And if you heat with electricity or propane, as many homes in the lower Midwest and rural areas do, it climbs faster. Before you spend $20,000 on windows or a new furnace, it's worth knowing where the heat is actually going.
 
-When winter natural gas tariffs and electric heating rates spike across the Midwest, homeowners look for ways to cut utility costs. Window replacement companies aggressively pitch $20,000 to $30,000 contracts, claiming new windows will slash energy bills in half. Building science thermodynamics proves this is one of the worst capital investments a homeowner can make:
+## What Will This Winter Cost?
 
-Homeowners can counter escalating utility rates by replacing outdated heating equipment with high-COP [cold-climate heat pumps](cold-climate-heat-pumps.html). Before investing in high-cost windows, evaluate true energy payback curves in our [window replacement financial guide](when-to-replace-windows.html), or capture fast returns with [low-cost attic air sealing](attic-air-sealing-baffles.html).
+The U.S. Energy Information Administration's *Winter Fuels Outlook*, published October 6, 2026, forecasts average Midwest household heating costs for November through March:
 
+| Main heating fuel | Midwest forecast | Change from last winter | Share of Midwest homes |
+| :--- | :--- | :--- | :--- |
+| Natural gas | $613 | down 10% | about 64% |
+| Electricity | $1,380 | up 3% | about 25% |
+| Propane | $1,305 | down 4% | about 8% |
+| Wood | not forecast | | about 1% |
 
-### 1. The Capital Payback Reality Check
-- **$25,000 Window Investment:** Delivers an annual heating energy savings of roughly **$250 to $450 per year**. The simple payback period spans **40 to 60 years**, well past the 20-year lifespan of insulated glass seals.
-- **$2,500 Air-Sealing & Attic Insulation Alternative:** Sealing attic bypasses and basement rim joists with expanding foam and blowing R-60 cellulose cuts winter heating bills by **$350 to $650 per year**. The simple payback period is **2 to 4 years**!
-- **Capital Allocation Rule:** Before spending $25,000 on windows, invest $3,000 to $5,000 in comprehensive envelope air-sealing and mechanical duct sealing. You achieve double the energy savings at one-fifth the capital expenditure.
+EIA cautions that these averages shouldn't be used to estimate savings from switching fuels, since homes that heat with each fuel differ. But they show who feels rising costs most: the quarter of Midwest homes on electric heat and the rural homes on propane.
 
----
-## Increasing Costs Are More than Mechanical
+## Where Does the Heat Go?
 
-Recent utility hikes across the Midwest and Great Lakes region are not temporary blips in the billing cycle. Public service commission dockets confirm a structural baseline shift in how energy delivery is priced across the region:
-
-- **Ameren Missouri & Ameren Illinois (MPSC ER-2022-0337 / ICC 23-0067):** Multi-year grid modernization plans and volumetric delivery rate hikes impacting over 2.4 million customers across Missouri and central/southern Illinois.
-- **Spire Missouri (MPSC GR-2022-0179 / GR-2024-0100):** Escalating Infrastructure System Replacement Surcharges (ISRS) and wholesale therm index true-ups affecting 1.2 million gas meters in St. Louis and Kansas City.
-- **Nicor Gas & Peoples Gas (ICC 23-0068 / 23-0069):** Approved infrastructure riders and capital rate adjustments permanently raising winter therm delivery costs for Chicago and northern Illinois.
-- **MidAmerican Energy (Iowa IUB RPU-2023-0001):** Capital expenditure and renewable grid true-ups restructuring seasonal energy and base charges across Iowa and the Quad Cities.
-- **DTE Energy & Consumers Energy (Michigan PSC U-21297 / U-21308):** Successive base rate hikes and distribution infrastructure riders compounding peak winter heating costs for Michigan's lower peninsula.
-
-In an uninsulated 1974 split-level home in northern Missouri, this pricing shift transforms an invisible flaw into an urgent cash drain. When natural gas cost $0.60 per therm, convective attic leakage was an affordable mystery. At modern volumetric rates, heating the outdoor atmosphere through an open ceiling plane is a recurring household problem.
-
----
-
-## The Stack Effect
-
-I'm not talking about the increased heating costs of $100 for five months equaling $500 compared to last year. Heat loss in winter is governed by thermodynamics and physics: hot air rises, cold air sinks, and escaping air from above pulls air from below.
-
-How the air escapes is equally straightforward: every recessed light fixture, gap in your framing top plates, wire penetration drilled for Romex, plumbing vent stack, and unsealed drywall joint is another open escape route for pressurized hot air to push through into your cold attic.
+Warm air rises. In winter it pushes out through the top of the house and pulls cold air in low, through the basement and the lower walls. Building Science Corporation calls this the stack effect (*BSD-109, Pressures in Buildings*), and it's strongest on the coldest days, when heat is most expensive.
 
 :::carousel
-### Two-Story Home
-![Technical Cross-Section: Stack-Effect Air Dynamics and Neutral Pressure Plane in a Two-Story Midwest Home](images/stack-effect-diagram.jpg)
-Figure 1.1: Two-Story Home, The extended vertical stack height doubles buoyant convective pressure, pulling freezing air across basement rim joists.
+### Two-Story House
+![Cross-section of the stack effect in a two-story Midwest house, with warm air leaving at the top and cold air entering low](images/stack-effect-diagram.jpg)
+Figure 1.1: In a two-story house, warm air escapes through the attic and upper floor while cold air comes in at the basement and first floor.
 
-### Single-Story Ranch
-![Technical Cross-Section: Stack-Effect Air Dynamics in a Single-Story Midwest Ranch Home](images/stack-effect-ranch.jpg)
-Figure 1.2: Single-Story Ranch, Ceiling-plane drywall cuts and recessed lighting fixtures act as the primary convective bypass into the cold vented attic.
+### Ranch House
+![Cross-section of the stack effect in a single-story Midwest ranch house](images/stack-effect-ranch.jpg)
+Figure 1.2: A ranch house has less height, so the pressure is smaller, but the attic and basement are still the main leaks.
 :::
 
-The hot air out equals cold air in, by volume. If you lose 100 cubic feet of warm air out of the ceiling, a 100 cubic feet of freezing air comes rushing into the bottom! 
+The Minnesota Department of Commerce's *Home Energy Guide* (July 2025) starts its air sealing order in the attic, then walls, windows and doors, then the basement. Older houses leak the most: in Lawrence Berkeley National Laboratory's data, weatherization programs cut the median home's air leakage by about 35 percent (Chan and Sherman, 2011).
 
-If your main-level floor is freezing cold, it's the cold outdoor air being drawn in through mud sills, rim joist transitions, and floor-to-wall joints, an issue your carpet was never cut out to handle.
+## What Should I Do First?
+
+The National Park Service's guidance on historic buildings, which applies well to any older house, lays out the order (*Preservation Brief 3*, Hensley and Aguilar, 2011). It calls reducing air leakage "the first priority," then attic insulation, then basements and crawl spaces, then walls, with windows last.
+
+Seal the attic and basement?
+This is usually the best return. Seal the big holes in the attic floor and the rim joist in the basement, then add insulation to the attic.
+
+&rarr; [Attic Air Sealing and Baffles: A Step-by-Step Guide](attic-air-sealing-baffles.html)
+
+Add storm windows?
+In a Chicago field study of single-pane homes, low-E storm windows cut the heating load by 21 percent, with a simple payback of about 4.5 years (PNNL and DOE Building America webinar, 2014).
+
+&rarr; [Window Replacement Alternatives: How Low-E Storms and Air Sealing Compare](window-alternatives.html)
+
+Replace the windows?
+*Preservation Brief 3* notes that replacing windows alone rarely pays for itself in energy savings. Replace them when they're failing, not to cut the bill.
+
+&rarr; [When Replacing Windows Actually Makes Sense, and What to Ask For](when-to-replace-windows.html)
+
+What about the heating system?
+Once the house leaks less, a smaller system can heat it. If you heat with propane or electric resistance, a cold-climate heat pump is often the biggest single saving.
+
+&rarr; [Can a Heat Pump Handle a Midwest Winter? What Minnesota Field Data Shows](cold-climate-heat-pumps.html)
+
+## A Note on Rebates
+
+The federal Section 25C tax credit for insulation, air sealing, windows and heat pumps ended for work placed in service after December 31, 2025. Many Midwest utilities still offer rebates, so check yours and your state energy office before you start.
 
 ---
 
-## Why $20k on Windows Doesn't Hold Up
+### Sources
 
-During mid-winter, window contractors blanket Midwest mailboxes with glossy flyers promising heating bill cuts of 30% to 50%. Homeowners are routinely quoted $16,000 to $25,000 for replacing double-hung vinyl glazing assemblies.
-
-The empirical data compiled by the **U.S. Department of Energy (DOE)** and **Lawrence Berkeley National Laboratory (LBNL)** illustrates this clearly:
-
-| Retrofit Measure | Typical Installed Cost | Real Heating Load Reduction | Simple Payback Period |
-| :--- | :--- | :--- | :--- |
-| **Attic Air Sealing + Blown Cellulose to R-60** | $1,800 – $3,200 | **22% – 34%** | **1.8 to 3.2 Years** |
-| **Low-E Exterior/Interior Storm Windows (Whole House)** | $1,500 – $2,600 | **12% – 18%** | **4.2 to 5.8 Years** |
-| **Basement Rim Joist 2" Closed-Cell Spray Foam** | $1,200 – $1,900 | **10% – 16%** | **2.5 to 4.2 Years** |
-| **Furnace Upgrade: 80% AFUE to 96% Variable-Speed** | $4,500 – $7,200 | 12% – 16% | 7.5 to 11 Years |
-| **Full Window Replacement (18–22 Openings)** | $16,000 – $25,000 | 7% – 12% | **26 to 35 Years** |
-
-*Sources: DOE Building Technologies Office (BTO) Residential Field Data; LBNL Home Energy Saver Benchmarks.*
-
-The shortcoming of window replacement is simple: windows only make up for 8% to 12% of your home's exterior surface area. Upgrading your windows increases thermal resistance on only about 10% of your home's exterior envelope.
-
-Moreso, most of the draft isn't through the glass, it's through shrunk wood jambs and unsealed rough openings. Replacing the glazing doesn't help gaps around the window assembly and the wall cavity.
-
----
-
-### Verifiable Standards & Technical Sources
-
-1. **ASHRAE:** *Handbook of Fundamentals*, Chapter 16 ("Airflow Around Buildings and Natural Infiltration / Stack Dynamics").
-2. **Oak Ridge National Laboratory (ORNL):** *Assessment of Attic Insulation Thermal Performance Under Extreme Winter Gradients*, Building Technologies Research Center.
-3. **Lawrence Berkeley National Laboratory (LBNL):** *Home Energy Saver Infiltration Benchmarks & Heating Load Breakdown*, Environmental Energy Technologies Division.
-4. **ASTM International:**
-   - *ASTM E779:* Standard Test Method for Determining Air Leakage Rate by Fan Depressurization.
-   - *ASTM C739:* Standard Specification for Cellulosic Fiber Loose-Fill Thermal Insulation.
-5. **State Regulatory Filings:**
-   - Missouri Public Service Commission: *Ameren Missouri Electric Base Rate Case, Docket No. ER-2022-0337*; *Spire Missouri Gas Docket No. GR-2022-0179*.
-   - Illinois Commerce Commission: *Commonwealth Edison Multi-Year Rate Plan, Docket No. 23-0069*; *Nicor Gas Docket No. 23-0068*.
-   - Iowa Utilities Board: *MidAmerican Energy Rate Review, Docket No. RPU-2023-0001*.
-   - Michigan Public Service Commission: *DTE Energy Base Rate Case, Case No. U-21297*.
+1. U.S. Energy Information Administration, *Winter Fuels Outlook 2026-27*, Short-Term Energy Outlook supplement, October 6, 2026.
+2. J. E. Hensley and A. Aguilar, *Preservation Brief 3: Improving Energy Efficiency in Historic Buildings*, National Park Service, December 2011.
+3. Minnesota Department of Commerce, *Home Energy Guide*, July 2025.
+4. W. R. Chan and M. H. Sherman, *Preliminary Analysis of U.S. Residential Air Leakage Database v.2011*, Lawrence Berkeley National Laboratory, 2011.
+5. P. Cole, T. Culp and S. Widder, *Low-E Storms: The Next "Big Thing" in Window Retrofits*, DOE Building America webinar, September 9, 2014.
+6. Building Science Corporation, *BSD-109: Pressures in Buildings*.

@@ -1,0 +1,142 @@
+week_of,article,cluster,kind,evidence,publish_by,season_peak,status,note
+2026-11-09,How to Bleed Radiators (and When It Will Not Help),Winter heating,new,Trends,2026-09-14,2026-11-30,late,
+2026-11-09,Window Condensation in Winter: What Your Glass Is Telling You,Winter moisture,new,Trends,2026-09-21,2026-11-30,late,
+2026-11-09,Bathroom Fan Condensation and Dripping,Winter moisture,new,Trends,2026-10-05,2026-11-30,late,
+2026-11-16,Why Your Furnace Short Cycles in Cold Snaps,Winter heating,new,Trends,2026-11-09,2027-01-18,late,
+2026-11-16,Furnace Pressure Switch Errors: What They Mean,Winter heating,new,Trends,2026-11-09,2027-01-18,late,
+2026-11-16,In-Floor Radiant Heat Not Keeping Up,Winter heating,new,Trends,2026-11-09,2027-01-18,late,
+2026-11-16,Refresh: /articles/heat-pump-aux-heat-lockout-balance-point.html,Winter heating,refresh,,2026-11-16,,,Trends: heat pump aux heat peaks Jan 18
+2026-11-16,Refresh: /articles/furnace-vent-pipe-freeze-lockout.html,Winter heating,refresh,,2026-11-16,,,Links to furnace pressure switch / not heating
+2026-11-23,Furnace Not Heating? A Midwest Troubleshooting Order,Winter heating,new,Trends,2026-11-16,2027-01-18,late,
+2026-11-23,Rim Joist Insulation Done Right,Winter moisture,new,Trends,2026-11-16,2027-01-18,late,
+2026-11-23,Mini Split Freezing Up Below Zero,Winter heating,new,Trends,2026-11-23,2027-01-18,on time,
+2026-11-23,Refresh: /articles/cold-climate-heat-pumps.html,Winter heating,refresh,,2026-11-23,,,Supports heating cluster
+2026-11-23,Refresh: /articles/cold-climate-septic-well-freeze-solutions.html,Freeze protection,refresh,,2026-11-23,,,Trends: frozen well pump peaks Jan 18
+2026-11-23,Refresh: /articles/attic-frost-roof-sweating.html,Winter moisture,refresh,,2026-11-23,,,Trends: attic condensation peaks Jan 25
+2026-11-30,Dirty Furnace Flame Sensor: Signs and Cleaning,Winter heating,new,"inferred, verify",2026-11-23,2027-01-18,late,
+2026-11-30,"Frozen Pipes: Thaw, Prevent, and Where They Freeze First",Freeze protection,new,Trends,2026-11-23,2027-01-18,late,
+2026-11-30,Tankless Water Heater Freezing: Causes and Fixes,Freeze protection,new,Trends,2026-11-23,2027-01-18,late,
+2026-11-30,Refresh: /articles/attic-air-sealing-baffles.html,Winter moisture,refresh,,2026-11-30,,,Supports attic/ice dam
+2026-12-01,Refresh: /articles/embodied-carbon-materials.html,Year-round,refresh,,2026-12-01,,,"GSC: low carbon insulation 78 impressions, pos ~88"
+2026-12-07,Metal Roof Condensation Under the Panels,Winter moisture,new,Trends,2026-11-23,2027-01-18,late,
+2026-12-07,Heat Pump Defrost Mode: Normal or a Problem?,Winter heating,new,"inferred, verify",2026-11-30,2027-01-18,late,
+2026-12-07,Low Boiler Pressure in Winter,Winter heating,new,"inferred, verify",2026-12-07,2027-01-18,on time,
+2026-12-14,What Temperature to Keep a House When Away in Winter,Freeze protection,new,"inferred, verify",2026-12-07,2027-01-18,late,
+2026-12-14,Ideal Indoor Humidity When It Is Below Zero,Winter moisture,new,"inferred, verify",2026-12-07,2027-01-25,late,
+2026-12-14,Frozen Outdoor Faucet: Thaw and Replace with Frost-Free,Freeze protection,new,"inferred, verify",2026-12-14,2027-01-18,on time,
+2026-12-21,ERV vs HRV for Cold Climates,Winter moisture,new,Trends,2026-12-14,2027-02-08,late,
+2026-12-21,Roof Leak After Snow Melt: Ice Dam or Flashing?,Spring water & foundation,new,"inferred, verify",2027-01-11,2027-03-08,on time,
+2026-12-21,Refresh: /articles/ice-dams-roofs.html,Winter moisture,refresh,,2026-12-21,,,Trends: ice dam peaks Feb 15
+2026-12-28,"Frost Heave on Steps, Slabs, and Walks",Spring water & foundation,new,"inferred, verify",2027-01-11,2027-03-08,on time,
+2026-12-28,Wet Basement After Snow Melt,Spring water & foundation,new,"inferred, verify",2027-01-18,2027-03-15,on time,
+2027-01-04,Retaining Wall Drainage That Survives Freeze-Thaw,Spring water & foundation,new,Trends,2027-01-18,2027-05-03,on time,
+2027-01-04,Foundation Cracks: Which Ones Matter,Spring water & foundation,new,Trends,2027-01-18,2027-06-14,on time,
+2027-01-04,Refresh: /articles/false-spring-envelope-thaw.html,Spring water & foundation,refresh,,2027-01-04,,,Not indexed yet; spring thaw topic
+2027-01-11,Sump Pump Battery Backup: Sizing and Types,Spring water & foundation,new,"inferred, verify",2027-02-01,2027-04-05,on time,
+2027-01-11,Spring Home Checklist for Midwest Houses,Spring water & foundation,new,"inferred, verify",2027-02-01,2027-04-05,on time,
+2027-01-11,Refresh: /articles/basement-waterproofing.html,Spring water & foundation,refresh,,2027-01-11,,,Trends: basement leak peaks Apr 5
+2027-01-18,French Drain vs Interior Drain Tile,Spring water & foundation,new,"inferred, verify",2027-02-01,2027-04-19,on time,
+2027-01-18,Downspouts and Grading: The Cheapest Basement Fix,Spring water & foundation,new,"inferred, verify",2027-02-08,2027-04-05,on time,
+2027-01-18,Refresh: /articles/icf-basements-walls.html,Spring water & foundation,refresh,,2027-01-18,,,"GSC: icf basement(s) 77 impressions, pos ~40"
+2027-01-18,Refresh: /articles/how-to-know-if-you-need-icf-basement.html,Spring water & foundation,refresh,,2027-01-18,,,Pairs with ICF page
+2027-01-25,Sump Pump Runs Constantly: Causes,Spring water & foundation,new,"inferred, verify",2027-02-08,2027-04-05,on time,
+2027-01-25,Basement Floor Crack Leaking Water,Spring water & foundation,new,"inferred, verify",2027-02-08,2027-04-05,on time,
+2027-02-01,Tuckpointing Brick: When and How,Spring water & foundation,new,Trends,2027-02-15,2027-04-12,on time,
+2027-02-01,White Powder on Basement Walls (Efflorescence),Spring water & foundation,new,"inferred, verify",2027-02-15,2027-04-12,on time,
+2027-02-01,Refresh: /articles/sump-pump-failure-spring-thaw-backups.html,Spring water & foundation,refresh,,2027-02-01,,,Trends: sump pump not working peaks Apr 5
+2027-02-08,Sump Pump Check Valve: Noise and Failure,Spring water & foundation,new,"inferred, verify",2027-02-15,2027-04-12,on time,
+2027-02-08,Crawl Space Flooding in Spring,Spring water & foundation,new,"inferred, verify",2027-02-15,2027-04-19,on time,
+2027-02-15,Window Well Flooding and Drainage,Spring water & foundation,new,"inferred, verify",2027-02-22,2027-04-19,on time,
+2027-02-15,Spring Roof Inspection Checklist,Spring water & foundation,new,"inferred, verify",2027-02-22,2027-04-19,on time,
+2027-02-15,Hydrostatic Pressure on Basement Walls,Spring water & foundation,new,"inferred, verify",2027-02-22,2027-04-26,on time,
+2027-02-15,Refresh: /articles/historic-brick-retrofit-steps.html,Spring water & foundation,refresh,,2027-02-15,,,Pairs with tuckpointing
+2027-02-15,Refresh: /articles/insulating-brick.html,Spring water & foundation,refresh,,2027-02-15,,,GSC: insulation brick queries
+2027-02-22,Exterior Basement Waterproofing: Cost and Process,Spring water & foundation,new,"inferred, verify",2027-02-22,2027-05-03,on time,
+2027-02-22,"Bowed Basement Wall: Anchors, Braces, or Rebuild",Spring water & foundation,new,Trends,2027-03-15,2027-05-10,on time,
+2027-03-01,Hail Damage on a Roof: What to Check,Spring water & foundation,new,"inferred, verify",2027-03-15,2027-05-17,on time,
+2027-03-01,Wind Damage to Siding After Storms,Spring water & foundation,new,"inferred, verify",2027-03-22,2027-05-24,on time,
+2027-03-01,Refresh: /articles/basement-egress-window-cutting.html,Year-round,refresh,,2027-03-01,,,Trends: egress window steady all year
+2027-03-08,Best Dehumidifier Setup for a Basement,Summer moisture,new,Trends,2027-03-29,2027-06-21,on time,
+2027-03-08,Deck Ledger Flashing and Rot,Summer moisture,new,"inferred, verify",2027-04-05,2027-06-14,on time,
+2027-03-15,Carpenter Ants: Where Moisture Lets Them In,Summer moisture,new,"inferred, verify",2027-04-12,2027-06-07,on time,
+2027-03-15,Window AC vs Mini Split,Summer moisture,new,"inferred, verify",2027-04-12,2027-06-21,on time,
+2027-03-22,Whole House Dehumidifier: Worth It?,Summer moisture,new,Trends,2027-04-12,2027-06-28,on time,
+2027-03-22,Attic Fan vs Ridge Vent,Summer moisture,new,"inferred, verify",2027-04-12,2027-06-28,on time,
+2027-03-29,"Spray Foam in the Attic: Pros, Cons, Code",Summer moisture,new,Trends,2027-04-12,2027-07-26,on time,
+2027-03-29,Musty Basement Smell: Finding the Source,Summer moisture,new,"inferred, verify",2027-04-19,2027-06-21,on time,
+2027-04-05,Peeling Exterior Paint and Wall Moisture,Summer moisture,new,"inferred, verify",2027-04-19,2027-06-21,on time,
+2027-04-05,AC Not Cooling Upstairs,Summer moisture,new,"inferred, verify",2027-04-19,2027-07-05,on time,
+2027-04-12,Radiant Barrier in a Midwest Attic,Summer moisture,new,"inferred, verify",2027-04-19,2027-07-05,on time,
+2027-04-12,Sump Pump Options During Power Outages,Summer moisture,new,"inferred, verify",2027-04-26,2027-06-28,on time,
+2027-04-12,Refresh: /articles/summer-humidity-ac.html,Summer moisture,refresh,,2027-04-12,,,Pairs with dehumidifier articles
+2027-04-19,Whole House Surge Protection for Storm Season,Summer moisture,new,"inferred, verify",2027-04-26,2027-07-05,on time,
+2027-04-19,Frozen AC Coil in July,Summer moisture,new,"inferred, verify",2027-04-26,2027-07-12,on time,
+2027-04-26,Clogged AC Condensate Line,Summer moisture,new,"inferred, verify",2027-05-03,2027-07-12,on time,
+2027-04-26,Sweating Cold Water Pipes,Summer moisture,new,"inferred, verify",2027-05-03,2027-07-12,on time,
+2027-04-26,Sewer Backup in Heavy Rain,Summer moisture,new,Trends,2027-05-03,2027-08-16,on time,
+2027-05-03,Backwater Valve: Do You Need One?,Summer moisture,new,"inferred, verify",2027-05-03,2027-08-16,on time,
+2027-05-03,Standby Generator Sizing for a Midwest Home,Summer moisture,new,Trends,2027-05-10,2027-07-05,on time,
+2027-05-03,Basement Window Condensation in Summer,Summer moisture,new,"inferred, verify",2027-05-10,2027-07-19,on time,
+2027-05-03,Refresh: /articles/bug-prevention.html,Summer moisture,refresh,,2027-05-03,,,Pairs with termite sill plate
+2027-05-10,Mold on Basement Walls,Summer moisture,new,"inferred, verify",2027-05-10,2027-07-26,on time,
+2027-05-10,Tree Roots in the Sewer Line,Summer moisture,new,"inferred, verify",2027-05-17,2027-08-02,on time,
+2027-05-17,Water in Basement After Rain,Summer moisture,new,Trends,2027-06-14,2027-08-16,on time,
+2027-05-17,Termite Damage at the Sill Plate,Summer moisture,new,Trends,2027-06-28,2027-08-23,on time,
+2027-05-24,"Crawl Space Mold: Clean, Dry, Then Seal",Summer moisture,new,Trends,2027-07-05,2027-08-30,on time,
+2027-05-24,Polyjacking vs Mudjacking Sunken Concrete,Late summer exterior,new,Trends,2027-07-12,2027-09-06,on time,
+2027-05-31,Flat Roof Ponding: How Much Is Too Much,Late summer exterior,new,Trends,2027-07-26,2027-09-20,on time,
+2027-05-31,"Chimney Leaks: Cap, Crown, or Flashing",Late summer exterior,new,"inferred, verify",2027-07-26,2027-10-04,on time,
+2027-06-07,Gutter Guards for Midwest Trees and Ice,Late summer exterior,new,"inferred, verify",2027-08-02,2027-10-11,on time,
+2027-06-07,Garage Ceiling Insulation Under a Bonus Room,Fall insulation & prep,new,Trends,2027-08-02,2027-11-29,on time,
+2027-06-14,Pole Barn Insulation Options Compared,Fall insulation & prep,new,Trends,2027-08-09,2027-10-11,on time,
+2027-06-14,Pole Barn Condensation Dripping from the Roof,Fall insulation & prep,new,"inferred, verify",2027-08-09,2027-10-11,on time,
+2027-06-21,Heat Pump vs Furnace in the Midwest,Fall insulation & prep,new,"inferred, verify",2027-08-09,2027-10-18,on time,
+2027-06-21,Furnace Tune-Up Checklist Before Winter,Fall insulation & prep,new,"inferred, verify",2027-08-16,2027-10-18,on time,
+2027-06-28,Attic Insulation R-Value for Midwest Zones,Fall insulation & prep,new,"inferred, verify",2027-08-16,2027-10-25,on time,
+2027-06-28,Air Sealing Before Winter,Fall insulation & prep,new,"inferred, verify",2027-08-23,2027-10-25,on time,
+2027-07-05,Blown-In Insulation Over Existing,Fall insulation & prep,new,"inferred, verify",2027-08-23,2027-11-01,on time,
+2027-07-05,Insulating Basement Walls (R402 / R406),Fall insulation & prep,new,"inferred, verify",2027-08-23,2027-11-01,on time,
+2027-07-05,Refresh: /articles/crawlspace-encapsulation.html,Summer moisture,refresh,,2027-07-05,,,Trends: crawl space mold peaks Aug 30
+2027-07-05,Refresh: /articles/crawlspace-encapsulation-steps.html,Summer moisture,refresh,,2027-07-05,,,GSC: encapsulation how-to queries
+2027-07-12,Winterize Outdoor Faucets and Irrigation,Fall insulation & prep,new,"inferred, verify",2027-08-30,2027-10-25,on time,
+2027-07-12,Door Weatherstripping That Lasts,Fall insulation & prep,new,"inferred, verify",2027-08-30,2027-11-08,on time,
+2027-07-19,Carbon Monoxide Detector Placement (NFPA 72),Fall insulation & prep,new,"inferred, verify",2027-09-06,2027-11-08,on time,
+2027-07-19,Furnace Replacement Cost in the Midwest,Fall insulation & prep,new,"inferred, verify",2027-09-06,2027-11-15,on time,
+2027-07-26,Fireplace Drafts and Damper Fixes,Fall insulation & prep,new,"inferred, verify",2027-09-06,2027-11-15,on time,
+2027-07-26,Drafty House: Finding the Leaks,Fall insulation & prep,new,"inferred, verify",2027-09-06,2027-11-22,on time,
+2027-08-02,Gas Fireplace Will Not Light,Fall insulation & prep,new,"inferred, verify",2027-09-13,2027-11-22,on time,
+2027-08-02,Window Insulation Film: Does It Work?,Fall insulation & prep,new,"inferred, verify",2027-09-13,2027-11-29,on time,
+2027-08-09,Furnace Humidifier: Bypass vs Steam,Fall insulation & prep,new,"inferred, verify",2027-09-13,2027-12-06,on time,
+2027-08-09,Garage Heater Sizing,Fall insulation & prep,new,"inferred, verify",2027-09-13,2027-12-06,on time,
+2027-08-09,Refresh: /articles/barndominium-post-frame.html,Fall insulation & prep,refresh,,2027-08-09,,,Pairs with pole barn insulation
+2027-08-16,Frozen Sump Pump Discharge Line,Freeze protection,new,Trends,2027-09-20,2027-11-15,on time,missed this year; next season
+2027-08-16,Thermostat Setback in Winter: Savings vs Comfort,Fall insulation & prep,new,"inferred, verify",2027-09-20,2027-12-06,on time,
+2027-08-16,Refresh: /articles/rockwool-vs-fiberglass.html,Fall insulation & prep,refresh,,2027-08-16,,,Pairs with attic R-value
+2027-08-23,Cold Rooms and Uneven Heating,Fall insulation & prep,new,"inferred, verify",2027-09-20,2027-12-13,on time,
+2027-08-23,Furnace Carbon Monoxide Warning Signs,Fall insulation & prep,new,"inferred, verify",2027-09-20,2027-12-13,on time,
+2027-08-23,Refresh: /articles/continuous-insulation.html,Fall insulation & prep,refresh,,2027-08-23,,,Pairs with basement wall insulation
+2027-08-23,Refresh: /articles/blower-door-checklist.html,Fall insulation & prep,refresh,,2027-08-23,,,Pairs with air sealing
+2027-08-30,Heated Garage Floor Options,Fall insulation & prep,new,"inferred, verify",2027-09-20,2027-12-13,on time,
+2027-08-30,Ice on the Inside of Windows,Fall insulation & prep,new,"inferred, verify",2027-09-27,2028-01-03,on time,
+2027-08-30,Refresh: /articles/when-to-replace-windows.html,Fall insulation & prep,refresh,,2027-08-30,,,Pairs with window film / ice inside windows
+2027-08-30,Refresh: /articles/window-alternatives.html,Fall insulation & prep,refresh,,2027-08-30,,,Pairs with window film
+2027-09-06,Roof Rake vs Heat Cable for Ice,Fall insulation & prep,new,"inferred, verify",2027-09-27,2028-01-10,on time,
+2027-09-06,Pipe Insulation and Heat Tape,Fall insulation & prep,new,"inferred, verify",2027-09-27,2028-01-10,on time,
+2027-09-06,Refresh: /articles/energy-hikes.html,Fall insulation & prep,refresh,,2027-09-06,,,Winter energy bills
+2027-09-13,Space Heater Safety and Sizing,Fall insulation & prep,new,"inferred, verify",2027-09-27,2028-01-10,on time,
+2027-09-13,Generator Backfeed vs Transfer Switch,Fall insulation & prep,new,"inferred, verify",2027-10-04,2028-01-10,on time,
+2027-09-13,Refresh: /articles/roof-insulation-over-sheathing.html,Fall insulation & prep,refresh,,2027-09-13,,,Pairs with ice dam / roof
+2027-09-20,Snow Load on Roofs: When to Worry,Fall insulation & prep,new,"inferred, verify",2027-10-04,2028-01-17,on time,
+2027-09-20,Radon Mitigation in Midwest Basements,Year-round,new,Trends,,,on time,
+2027-09-27,Open slot,,,,,,open,
+2027-09-27,Open slot,,,,,,open,
+2027-10-04,Open slot,,,,,,open,
+2027-10-04,Open slot,,,,,,open,
+2027-10-11,Open slot,,,,,,open,
+2027-10-11,Open slot,,,,,,open,
+2027-10-18,Open slot,,,,,,open,
+2027-10-18,Open slot,,,,,,open,
+2027-10-25,Open slot,,,,,,open,
+2027-10-25,Open slot,,,,,,open,
+2027-11-01,Open slot,,,,,,open,
+2027-11-01,Open slot,,,,,,open,

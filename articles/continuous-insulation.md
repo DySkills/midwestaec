@@ -1,154 +1,75 @@
-# Continuous Exterior Insulation: Why R-5 Outboard Beats R-20 Cavity in Freeze-Thaw Climates
+# Continuous Exterior Insulation: Why Foam on the Outside Keeps Midwest Walls Dry
 > **Publication:** Midwest AEC (https://midwestaec.com)
 > **Jurisdiction:** Climate Zones 4 & 5 (Midwest Residential & Commercial)
 > **Canonical Article:** https://midwestaec.com/articles/continuous-insulation.html
-> **Building Code Reference:** IRC Table R702.7.1 / ASTM C518
-> **Summary:** Continuous exterior insulation on 2x6 walls: Calculate dew point planes, prevent sheathing condensation, and eliminate thermal bridging under IRC R702.
+> **Building Code Reference:** BSC BSD-163 / BSC BSD-106
+> **Summary:** Why continuous exterior insulation outperforms cavity insulation alone in Midwest walls: thermal bridging, warm sheathing, how much to use, and why re-siding is the time to add it.
 
 
-# Continuous Exterior Insulation: Why R-5 Outboard Beats R-20 Cavity in Freeze-Thaw Climates
+# Continuous Exterior Insulation: Why Foam on the Outside Keeps Midwest Walls Dry
 
-> **Quick Summary:** A wall cavity packed with R-20 fiberglass or rockwool batts rarely performs at R-20 in the field. Solid wood framing accounts for roughly 25% of an exterior wall's surface area, acting as a massive thermal highway that conducts indoor heat directly into the sub-zero winter air. Installing just 1.5 inches of continuous outboard insulation breaks this thermal bridge, elevates the temperature of exterior OSB sheathing above the indoor dew point, and permanently prevents hidden winter wall rot.
+> **Quick Summary:** A wall insulated only between the studs loses heat through every stud, and its sheathing sits cold enough all winter to collect moisture from air leaking out of the house. A layer of rigid insulation over the outside of the sheathing covers the studs and keeps the sheathing warm. When you're replacing siding anyway, it's the cheapest time to add it.
 >
-> - **The Framing Derate:** Solid lumber framing (R-1.2 per inch) reduces the whole-wall effective performance of an R-20 cavity wall down to barely R-15.
-> - **The Condensation Plane:** In sub-zero January weather, structural OSB sheathing behind cavity-only insulation drops to 24°F, causing migrating indoor humidity to liquefy against wood fibers.
-> - **Outboard Warming:** Continuous outboard insulation keeps exterior sheathing above 45°F, satisfying IRC Table R702.7.1 condensation control mandates without risky interior poly vapor barriers.
-> - **The Re-Siding Golden Window:** Adding outboard stone wool or rigid foam during a siding replacement costs a fraction of a standalone retrofit while slashing heating demand by 18% to 24%.
+> - Studs are cold bridges. Cavity insulation can't cover them.
+> - Warm sheathing doesn't collect condensation.
+> - Put enough insulation outside, often a third or more of the total.
+> - Plan the windows, doors and siding attachment before the foam goes on.
 
 ---
 
-## The Compliance Baseline: IECC Table R402.1.3 Continuous Exterior Insulation Mandates
+When the siding comes off an older Midwest house, you usually find the same thing: thin batts in the walls, gaps, and sheathing darkened in spots where moisture has collected. Adding a layer of insulation on the outside before the new siding goes on fixes more than heat loss.
 
-Under the 2021/2024 International Energy Conservation Code (IECC Section R402.1), energy codes across the Great Lakes and Northern Plains require exterior wood-framed walls to incorporate continuous exterior insulation:
+## Why Cavity Insulation Isn't Enough
 
-When selecting exterior board materials, compare stone wool against rigid foam in our [rockwool vs fiberglass insulation teardown](rockwool-vs-fiberglass.html). Exterior continuous insulation shifts the cavity dew point outward, which directly impacts the specification of [interior smart vapor retarders](smart-vapor-retarders.html).
+Insulation between the studs only covers the spaces between the studs. The studs themselves, the plates at the top and bottom, and the extra framing around windows and doors are solid wood running straight from inside to outside. Wood insulates far less than the batts around it, so heat flows out through every piece of framing.
 
+Building Science Corporation's condensation digest (Straube, BSD-163) shows how extreme this can be with steel studs: walls with cavity batts reach only about R-5 to R-7 overall because the steel conducts so well, while exterior-only insulation gives about R-12. Wood framing bridges less than steel, but the principle is the same.
 
-### 1. Code Compliance Paths for Cold-Climate Walls
-- **Path 1 (Prescriptive Continuous Foam):** **R-20 cavity insulation + R-5 continuous exterior insulation**, or **R-13 cavity + R-10 continuous insulation**.
-- **Path 2 (U-Factor Equivalent):** Total assembly U-factor of **U-0.045 or lower** (delivering whole-wall R-22+ true performance).
-- **Why Cavity-Only Walls Are Legally Fading:** Traditional 2x6 walls with R-20 fiberglass batts alone have an effective whole-wall rating of barely **R-15.6** due to framing thermal bridging. Municipalities are increasingly rejecting cavity-only framing plans in favor of continuous outboard thermal breaks.
+![Cross-section showing heat loss through studs in a wall with cavity insulation compared with a wall with continuous exterior insulation](images/continuous-insulation-diagram.jpg)
 
----
-## The Framing Factor: Why R-20 Cavity Batts Don't Equal an R-20 Wall
+## Why Warm Sheathing Stays Dry
 
-Most building codes and contractor estimates rate exterior walls based on the insulation stuffed between the framing studs. If you install an R-20 batt inside a 2x6 wall, the assumption is that your house is protected by an R-20 thermal boundary.
+The bigger benefit is moisture. BSD-163 says "Most such condensation is due to air leakage, not diffusion." In winter, warm indoor air leaks into the wall through outlets and gaps and hits the back of the sheathing.
 
-Thermodynamic testing compiled by **Oak Ridge National Laboratory (ORNL)** proves this calculation is fundamentally flawed. In standard platform framing, solid lumber accounts for approximately **23% to 27% of a wall's total surface area** when you factor in double top plates, bottom mud sills, king studs, jack studs, cripples, and corner assemblies.
+In a wall insulated only in the cavity, that sheathing is close to outdoor temperature, so the moisture condenses or frosts on it.
 
-Softwood lumber has an insulating value of barely R-1.2 to R-1.25 per inch of thickness. That means a solid 2x6 wood stud (5.5 inches deep) provides an insulating value of only R-6.88. 
+Insulation outside the sheathing moves the cold to the outside of the foam. In one BSD-163 steel-stud example, R-10 of continuous exterior insulation kept the sheathing above 60°F on a 4°F night, which makes condensation practically impossible. The same wall with R-19 only in the cavity let the sheathing drop to about 10°F.
 
-Every 16 inches along your wall, you have a solid wood highway connecting 70°F interior drywall directly to 0°F exterior sheathing. This thermal bridging derates your entire wall assembly, dragging a nominal R-20 cavity wall down to an effective whole-wall rating of barely **R-14.8 to R-15.4**.
+How do I estimate it?
+BSD-163 gives a simple formula. The sheathing temperature is roughly the indoor temperature minus the indoor-outdoor difference times the share of R-value inside the sheathing. The more of the R-value outside, the warmer the sheathing.
 
----
+## How Much Goes Outside?
 
-## Dew Point Physics: Why Outboard Insulation Prevents Rot
+BSD-163 gives examples that work: about R-7.5 outside over R-12 batts for a total around R-20, or about R-11 outside over R-19 batts for a total around R-30. Its Toronto example came out to about 37 percent of the total R-value outside. Colder places and houses with higher winter humidity need a bigger share outside.
 
-The most dangerous consequence of cavity-only insulation in Midwest winters is not heat loss, it is structural moisture condensation.
+What if I can only add a little?
+A thin layer helps less than you'd hope. It warms the sheathing a little, but not enough to stop condensation, and if it's low-permeance foam it also slows the wall's drying to the outside. If you can't add enough, use vapor-permeable insulation outside, such as mineral wool board, and a Class II vapor retarder inside, as BSD-163 recommends for walls with permeable cavity fill.
 
-Indoor winter air at 70°F and 35% relative humidity carries a dew point of approximately 41°F. When indoor humidity naturally migrates through drywall, electrical outlets, and framing joints, it travels outward toward the cold exterior sheathing.
+&rarr; [Vapor Barriers and Smart Vapor Retarders: What Midwest Walls Actually Need](smart-vapor-retarders.html)
 
-![Technical Cross-Section: Wall Thermal Bridging vs. Continuous Exterior Insulation in Winter](images/continuous-insulation-diagram.jpg)
+## Which Insulation?
 
-In a wall with insulation only inside the stud cavity, the exterior OSB or plywood sheathing is thermally isolated from interior heat. On a 14°F January night in Des Moines, the temperature on the inside face of that exterior OSB drops to **22°F to 26°F**.
+Polyiso has the highest R-value per inch and comes foil-faced, which also makes it a vapor barrier outside. XPS and EPS are common and handle moisture well. Mineral wool board is vapor-open and noncombustible, which helps when you can only add a little or want the wall to dry outward.
 
-When 41°F dew-point moisture hits 24°F wood, it condenses immediately into liquid water and winter frost. Trapped behind building wrap, this moisture cycles through spring freeze-thaw events, rotting framing sills and feeding hidden fungal mold.
+## The Re-Siding Window
 
-Adding continuous outboard insulation (*CI*) solves this physics equation permanently. By placing R-5 to R-10 of continuous insulation on the *outside* of the structural sheathing, the OSB is warmed by interior heat and maintained at **48°F to 54°F**. 
+The cheapest time to add exterior insulation is when the old siding is already off. The extra layer moves the face of the wall out, so plan these before the foam goes on:
 
-Because the wood sheathing never drops below the 41°F dew point, moisture vapor cannot condense. It passes harmlessly through the assembly as a gas, protecting your structure under **IRC Section R702.7.1**.
+Windows and doors?
+They need extended jambs or boxes, and the flashing has to tie into the water-resistive layer at the right plane.
 
----
+Siding attachment?
+Most siding over foam goes on furring strips screwed through the foam into the studs. The strips also create a small rainscreen gap that lets the siding dry.
 
-## Continuous Exterior Insulation Material Teardown: Mineral Wool, EPS, XPS & Polyiso
-
-Selecting continuous exterior insulation requires balancing thermal resistance, vapor permeability, and freeze-thaw moisture durability.
-
-| Insulation Material | Rated R-Value per Inch | Vapor Permeance | Freeze-Thaw Behavior | Best Use Case |
-| :--- | :--- | :--- | :--- | :--- |
-| **Mineral Wool (Rockwool Comfortboard 80)** | **R-4.2** | **> 30 Perms (Vapor Open)** | Hydrophobic; drains bulk water; zero freeze degradation | **Top Choice:** Drying to exterior; fireproof; insect resistant |
-| **Expanded Polystyrene (EPS - Type II)** | R-4.0 | 2.0 – 4.0 Perms (Semi-Open) | Breathable matrix; moderate water absorption | **Budget Choice:** Breathable, affordable under vinyl siding |
-| **Extruded Polystyrene (XPS)** | R-5.0 | 0.8 – 1.1 Perms (Semi-Closed) | Low water absorption; retains moisture if vapor trapped | Acceptable under cladding; avoid double vapor barriers |
-| **Foil-Faced Polyisocyanurate (Polyiso)** | R-6.0 | < 0.05 Perms (Vapor Impermeable) | Superior summer performance; **derates below 25°F** | Excellent for maximum R-value in slim wall profiles |
-
-*Sources: Building Science Corporation Research Reports; ASTM C518 Thermal Transmission Testing.*
-
-Mineral wool board (such as Rockwool Comfortboard 80) is the premier specification for the Midwest and Great Lakes region. Because stone wool is completely vapor-permeable (> 30 perms), it allows damp wall assemblies to dry outward rapidly while providing a continuous thermal break. 
-
-Foil-faced polyisocyanurate provides the highest R-value per inch (R-6.0), but property owners should note its cold-temperature behavior. Research from the **Building Science Corporation** proved that standard polyiso blowing agents condense at sub-freezing temperatures, derating its real-world performance to roughly R-4.5 per inch when exterior temperatures drop below 15°F.
+Trim and roof edges?
+Thicker walls change how the soffits, corners and roof edge meet the wall. Plan the trim and any extension of the overhangs in the bid.
 
 ---
 
-## Continuous Exterior Insulation: Rainscreens, Furring & Window Detailing
+### Sources
 
-Successfully installing **continuous exterior insulation** on a Midwest home requires detailing the cladding attachment and window transitions to prevent water intrusion and fastener sagging:
-
-1. **Vertical Rainscreen Furring Strips:** Fastening siding directly over compressible exterior insulation can cause wavy cladding lines and fastener fatigue. Install 1x3 or 1x4 pressure-treated furring strips vertically over the continuous exterior insulation, aligned directly with the underlying 2x6 wall studs. Use corrosion-resistant structural screws sized to penetrate at least 1.25 inches into the structural framing.
-2. **Thermal & Capillary Window Bucks:** When adding 1.5 to 2 inches of continuous exterior insulation, windows must either be recessed ("innie") or pushed out flush with the exterior insulation plane ("outie"). Pushing windows out using 2x extension bucks wrapped with vapor-permeable flashing tape ensures the window flange integrates seamlessly into the continuous drainage plane.
-3. **Bug Screens and Bottom Ventilation:** Install perforated stainless steel insect screens along the bottom of the rainscreen cavity to allow air convection and gravity drainage while preventing wasps and rodents from nesting behind the exterior cladding.
-
----
-
-## The Re-Siding Golden Window
-
-Attempting to add continuous exterior insulation to an existing home as a standalone project is rarely cost-effective because of siding removal and re-installation costs.
-
-The ideal time to install outboard insulation is during a planned siding replacement. Once old aluminum, vinyl, or wood siding is stripped down to bare sheathing, the incremental cost of adding continuous insulation is limited strictly to materials, longer fasteners, and window extension jambs.
-
-For an average 2,200-square-foot exterior wall area, adding 1.5 inches of rigid stone wool or high-density EPS adds approximately **$1.80 to $2.60 per square foot** in installed cost. 
-
-When factored into a $14,000 to $22,000 re-siding project, an additional $4,500 investment in continuous insulation reduces whole-building heating and cooling loads by **18% to 25% permanently**. Unlike replacement windows, which carry a 30-year payback, outboard insulation installed during re-siding typically recoups its cost in **6 to 8 winters**.
-
----
-
-## Mechanical Fastening & Rainscreen Specification
-
-Installing cladding over 1.5 to 2 inches of exterior insulation requires strict adherence to structural fastening details compliant with **IRC Section R703.15**.
-
-> **The Outboard Wall Layer Sequence (Inside to Outside):**
-> 1. **Interior Framing:** 2x4 or 2x6 studs with friction-fit cavity batts.
-> 2. **Structural Substrate:** 1/2-inch OSB or plywood sheathing.
-> 3. **Taped WRB:** Vapor-permeable weather-resistive barrier (ASTM E2556).
-> 4. **Continuous Insulation:** 1.5-inch rigid stone wool or polyiso board (R-6 to R-10).
-> 5. **3/4-Inch Ventilated Rainscreen Gap:** 1x4 vertical treated furring strips aligned with studs.
-> 6. **Exterior Cladding:** Fiber cement, engineered wood, or vinyl siding.
-
-1. **Self-Adhered Weather-Resistive Barrier (WRB):** Install a vapor-permeable, self-adhered or mechanically fastened water barrier (*ASTM E2556*) directly over the exterior OSB *before* installing the insulation layer. This preserves the sheathing as your primary air and water drainage plane.
-2. **Vertical Furring Strips (Rainscreen Gap):** Never nail siding directly through rigid insulation into the studs. Fasten 1x4 wood furring strips (or treated plywood battens) vertically over the insulation, aligned directly with the underlying wall studs at 16 inches on center.
-3. **Engineered Screw Schedule:** Fasten the 1x4 furring strips through the insulation into the structural framing studs using epoxy-coated, heavy-duty cabinet screws. Fasteners must achieve a minimum **1.5-inch penetration into solid wood framing** to resist gravity shear loads and wind suction (*ASTM F1667*).
-4. **Window and Door Bucks:** Extend window rough openings outward using 2x lumber bucks lined with self-adhering sill pan flashing. This provides a rigid nailing surface for window flanges and aligns the window frame flush with the new exterior cladding plane.
-
----
-
-## How to Keep Siding Contractors Honest
-
-Most traditional siding crews have never installed cladding over continuous exterior insulation and will attempt to cut critical corners:
-
-First, reject any proposal to nail vinyl siding directly through 2 inches of foam without vertical furring strips. Direct nailing crushes the insulation, creates wavy, buckled siding lines, and eliminates the essential 3/4-inch rainscreen drying gap.
-
-Second, require written contract verification that window and door openings will receive structural extension bucks and sloped pan flashing compliant with **ASTM E2112**. If a crew simply runs foam up to old window frames without extending the casing and flashing, water runoff will enter the rough framing.
-
-Third, confirm that the contractor leaves a 3/8-inch screened ventilation gap at the bottom and top of all furring runs. This chimney gap allows bulk water to drain and convective airflow to dry the back of your siding year-round.
-
----
-
-### Verifiable Standards & Technical Sources
-
-1. **International Residential Code (IRC):** *Table R702.7.1: Class III Vapor Retarders and Minimum Outboard Insulation R-Values*; *Section R703.15: Cladding Attachment Over Foam Sheathing to Wood Framing*.
-2. **Oak Ridge National Laboratory (ORNL):** *Whole-Wall Thermal Performance Calculator and Framing Derating Metrics*, Building Technologies Research Center.
-3. **Building Science Corporation (BSC):** *Research Report RR-1005: Thermal Performance of Polyisocyanurate Insulation in Cold Climates*; *RR-0903: Venting and Drying of Wall Assemblies*.
-4. **ASTM International:**
-   - *ASTM C518:* Standard Test Method for Steady-State Thermal Transmission Properties by Means of the Heat Flow Meter Apparatus.
-   - *ASTM E96:* Standard Test Methods for Gravimetric Water Vapor Transmission of Materials.
-   - *ASTM E2112:* Standard Practice for Installation of Exterior Windows, Doors and Skylights.
-   - *ASTM E2556:* Standard Specification for Vapor Permeable Flexible Sheet Water-Resistive Barriers.
-
----
-
-### Related Building Science Guides
-- **Winter Utility Tariffs & Thermal Chimneys:** &rarr; **[Read: Winter Tariff Hikes: Why $20k on Windows Doesn't Hold Up](articles/energy-hikes.html)**
-- **Wall Cavity Insulation Comparison:** &rarr; **[Read: Rockwool vs. Fiberglass in Midwest Walls: The 5 Physical Differences That Matter](articles/rockwool-vs-fiberglass.html)**
-- **Interior Vapor Control in Cold Climates:** &rarr; **[Read: Smart Vapor Retarders: How Variable-Permeance Membranes Function across the Upper Midwest and Great Lakes](articles/smart-vapor-retarders.html)**
+1. J. Straube, *BSD-163: Controlling Cold-Weather Condensation Using Insulation*, Building Science Corporation, 2011.
+2. J. Lstiburek, *BSD-106: Understanding Vapor Barriers*, Building Science Corporation, revised 2011.
 
 
 ---

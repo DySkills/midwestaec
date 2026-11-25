@@ -1,5 +1,5 @@
 ---
-title: "The Midwest Summer Humidity Trap: Why High-Efficiency AC Leaves Your Basement Cold & Clammy"
+title: "Cold and Clammy: Why Your AC Leaves a Midwest House Humid, and How to Fix It"
 slug: "summer-humidity-ac"
 format: "Feature"
 leadType: "Performance-First"
@@ -7,210 +7,71 @@ category: "HVAC"
 catSlug: "hvac"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
-subtitle: "How oversized single-stage compressors short-cycle before wringing out latent moisture, why basements freeze and sweat, and the engineering fix using inverters and dedicated dehumidifiers."
-summary: "Oversized AC and basement humidity: Why short-cycling high-efficiency air conditioners leave rooms cold and clammy, and how to fix SHR under ACCA Manual S."
-codeTag: "ACCA Manual J & S / AHRI 920 / ASHRAE Standard 55"
+subtitle: "An air conditioner that cools the house fast but leaves it sticky is usually too big for the house. Here is how humidity removal works, why oversizing breaks it, and what fixes a clammy house and basement."
+summary: "Why Midwest homes feel cold but clammy in summer, how oversized air conditioners fail to remove humidity, what humidity to aim for, and how to fix it with sizing, fan settings and dehumidifiers."
+codeTag: "DOE Building America / EPA Mold Guidance / BSC BSD-103"
 author: "Midwest AEC Building Science"
-date: "October 2026"
-readTime: "9 min read"
+date: "November 2026"
+readTime: "6 min read"
 referralHook: "High-Efficiency HVAC & Dehumidification Quote Match"
+faq: [{"q": "Why is my house cold but humid with the AC on?", "a": "The air conditioner is likely oversized. It reaches the thermostat setting quickly and shuts off before it has run long enough to pull much moisture out. A DOE Building America guide notes that a short-cycling system doesn't run long enough for condensate to drain off the coil."}, {"q": "What humidity should my house be in summer?", "a": "The EPA recommends keeping indoor humidity between 30 and 60 percent to limit mold growth. Many people feel comfortable in the 40 to 50 percent range, and drier air lets you set the thermostat higher."}, {"q": "Should I run my AC fan on 'on' instead of 'auto'?", "a": "Usually not in humid weather. With the fan running after the compressor stops, water still on the cold coil can evaporate back into the air. 'Auto' lets the coil drain between cycles."}, {"q": "Do I need a dehumidifier in my basement if I have AC?", "a": "Often, yes. Basements stay cool, so they need less cooling but still get humid air, and the AC thermostat upstairs rarely calls for enough runtime to dry them. A dehumidifier controls basement humidity on its own."}]
 ---
 
-# The Midwest Summer Humidity Trap: Why High-Efficiency AC Leaves Your Basement Cold & Clammy
+# Cold and Clammy: Why Your AC Leaves a Midwest House Humid, and How to Fix It
 
-> **Quick Summary:** In the Midwest, summer weather is dominated by extreme latent moisture loads driven by atmospheric moisture and regional agricultural evapotranspiration, often called "corn sweat", which pushes outdoor dew points above 76°F. When homeowners replace aging cooling systems with expensive, high-SEER central air conditioners, they are often dismayed to find their homes feeling like damp caves: the thermostat reads 68°F, yet the air feels sticky, bedsheets feel moist, and finished basements smell of mildew. This occurs because the cooling system was oversized using crude rules of thumb. Oversized single-stage compressors satisfy the temperature setpoint in less than eight minutes and shut off before the evaporator coil ever begins draining liquid condensate, leaving indoor humidity trapped at unhealthy levels.
+> **Quick Summary:** An air conditioner does two jobs: it cools the air and pulls water out of it. Cooling happens fast. Drying takes longer runtime. An oversized unit cools the house quickly, shuts off and leaves the moisture behind, so the house feels cold and clammy. Right-sizing, the right fan setting and a dehumidifier where the AC can't reach fix it.
 >
-> - **The Sensible vs. Latent Imbalance:** Air conditioners must perform two distinct thermodynamic tasks: sensible cooling (lowering dry-bulb temperature) and latent cooling (condensing airborne water vapor into liquid water); Midwest summers often carry a 40% latent load that standard equipment cannot handle without long runtime.
-> - **The 12-Minute Coil Condensation Ramp:** An evaporator coil takes 8 to 12 minutes of continuous operation for condensed water droplets to coalesce and drain out through the condensate trap; short-cycling systems shut off and re-evaporate coil moisture straight back into the supply ducts.
-> - **The Cold Basement Dilemma:** Basements have near-zero sensible cooling demand because subterranean walls sit against 58°F to 62°F soil; because the thermostat upstairs satisfies quickly, the basement receives no airflow, letting basement relative humidity climb to 80%+.
-> - **The Three-Part Building-Science Fix:** Eliminate the humidity trap by right-sizing equipment with ACCA Manual J/S calculations, reducing air handler blower speed to 325–350 CFM/ton to drop coil surface temperatures, and installing an independent whole-home dehumidifier ducted into the central supply.
+> - An oversized AC short-cycles and removes less moisture.
+> - Aim for 30 to 60 percent indoor humidity, per the EPA.
+> - Keep the fan on "auto" in humid weather.
+> - Basements usually need their own dehumidifier.
 
 ---
 
-## Active Failure Symptoms: The "Cold & Clammy" 70°F / 72% RH Basement Trap
+It's July in Kansas City or Des Moines, 90 degrees with a dew point in the 70s. Inside, the thermostat says 72, but the air feels damp, the basement smells musty, and the sheets feel sticky at night. The AC is working, just not on the right job.
 
-During peak Midwest summers, when outdoor dew points exceed 72°F along river basins and the Great Lakes, homeowners experience a baffling mechanical failure: their air conditioner runs constantly, the air is cold, but the house feels sticky, clammy, and smells musty.
+## How Does an AC Remove Humidity?
 
-Variable-speed inverter systems provide superior continuous dehumidification compared to single-stage units, as shown in our [cold-climate heat pump analysis](cold-climate-heat-pumps.html). In homes over crawlspaces, indoor humidity is often driven by moisture rising from damp soil, requiring complete [crawlspace encapsulation](crawlspace-encapsulation.html).
+The cold coil inside your air handler cools the air blowing across it. When the air drops below its dew point, water condenses on the coil and drips into the drain pan. That's how an air conditioner dries the house.
 
+Cooling the air and drying it don't happen at the same pace. The coil has to get cold and stay cold for a while before much water collects and drains off. Short runs do most of the cooling but little of the drying.
 
-### 1. Active Failure Symptoms
-- **"Meat Locker" Sensation:** The living room thermostat reads a chilly 68°F or 70°F, yet bedsheets feel damp, hardwood floors feel tacky under bare feet, and indoor air feels oppressively heavy.
-- **Sweating Basement Floor:** Downstairs, the finished basement hovers at 62°F with relative humidity pegged at **75% to 80%**. Liquid moisture beads on vinyl flooring, baseboards swell, and closet clothes develop musty mildew odors.
-- **Rapid AC Short-Cycling:** The outdoor central AC condenser kicks on for only 6 to 10 minutes, blasts cold air through registers, and abruptly shuts off.
+## Why Does an Oversized AC Feel Clammy?
 
-### 2. The Failed Band-Aid: Why Lowering the Thermostat Makes It Worse
-When homeowners feel clammy, their natural instinct is to drop the thermostat from 72°F down to 68°F. This creates a severe psychrometric disaster:
-- Lowering temperature without removing water vapor causes **relative humidity to skyrocket**.
-- Cold air holds dramatically less moisture than warm air; chilling an already humid room drives indoor air right to its condensing dew point.
-- The indoor space becomes colder and *more humid*, accelerating mold growth while burning massive electric kilowatt-hours.
+A DOE Building America guide on sizing, *Why Right-Size?*, explains it: an oversized system reaches the thermostat setting quickly and shuts off, and it "will not run for a significant enough time to allow the condensate to drain off of the evaporator coil." When the fan keeps running briefly after the compressor stops, some of that water re-evaporates into the air.
 
-The contractor does not understand thermodynamics. Lowering the thermostat further will only make the house colder and clammier, accelerating mold growth while driving electric bills through the roof.
+The same guide says contractors "tend to oversize," often by using rules of thumb instead of a load calculation, to avoid callbacks on the hottest days. A unit that's too big for the house runs in short bursts all summer.
 
----
+How do I tell if mine is oversized?
+Signs include short cycles of only a few minutes on hot days, a house that cools fast but stays sticky, and big swings between too cold and humid. A contractor can confirm it with a load calculation (ACCA Manual J) and compare it with your unit's capacity.
 
-## Sensible vs. Latent Heat: The Thermodynamic Conflict
+## What Humidity Should I Aim For?
 
-To diagnose why air conditioning systems fail to dehumidify in the Midwest, one must understand the two components of cooling:
+The EPA recommends keeping indoor humidity between 30 and 60 percent to limit mold growth. Below about 50 percent, most people feel comfortable at a higher thermostat setting, and the *Why Right-Size?* guide notes people accept warmer settings when the air is drier. An inexpensive hygrometer tells you where you are.
 
-$\text{SHR} = \frac{Q_{\text{sensible}}}{Q_{\text{total}}} = \frac{Q_{\text{sensible}}}{Q_{\text{sensible}} + Q_{\text{latent}}}$
+## How Do I Fix It?
 
-### Total Cooling Load Distribution (Midwest Corn-Belt Climate)
+Is the fan set to "on"?
+Switch it to "auto" in humid weather. With "on," the fan keeps blowing across the wet coil after the compressor stops, and some of that water goes back into the house.
 
-| Cooling Component | Thermodynamic Definition | Midwest Summer Share | Equipment Impact |
-| :--- | :--- | :--- | :--- |
-| **Sensible Heat ($Q_{\text{sensible}}$)** | Lowering dry-bulb air temperature (thermostat reading) | **55% to 65%** | Satisfied rapidly by oversized compressor in 6–8 minutes |
-| **Latent Heat ($Q_{\text{latent}}$)** | Condensing invisible airborne moisture into liquid water | **35% to 45%** | Requires 12–15+ minutes of continuous run time to drain |
+Can I lengthen the cycles?
+Many newer thermostats have a dehumidify mode that slows the blower so the coil gets colder and pulls more water. Ask your technician whether yours supports it and is set up for it.
 
-Standard residential split-system air conditioners are engineered in factory test chambers for a **Sensible Heat Ratio of 0.75 to 0.80**. That means 75% to 80% of the unit's cooling capacity is dedicated to dropping air temperature, while only 20% to 25% is dedicated to extracting moisture.
+Is it time to replace the AC?
+When you do, insist on a Manual J load calculation and equipment sized to it (Manual S). Variable-speed and two-stage systems run longer at low speed, which removes more moisture.
 
-In dry Western climates (like Denver or Phoenix), this works well because the latent load is virtually zero. 
+What about the basement?
+Basements stay cool from the ground, so the upstairs thermostat rarely calls for enough runtime to dry them. Building Science Corporation's basement guide (BSD-103) names the main risk: "warm moist air comes in contact with basement cold surfaces." A dehumidifier with its own humidity setting, draining to a floor drain or sump, handles that.
 
-In the Midwest, however, high-dew-point summer air and dense occupants elevate the latent moisture load to **35% to 45% of the total design demand** ($\text{SHR} = 0.55\text{ to }0.65$). 
+&rarr; [Why '100% Waterproof' Basement LVP Flooring Still Fails on Concrete](basement-lvp-flooring-moisture.html)
 
-When an air conditioner designed for an SHR of 0.80 operates in a home with an actual SHR of 0.60, it drops the temperature far faster than it can remove the moisture. The sensible demand is satisfied immediately, the compressor turns off, and the latent moisture remains trapped inside the home.
+Are moisture sources under control?
+Run bath fans during and after showers, vent the dryer outside, and use the kitchen fan when cooking. The EPA lists these as first steps for keeping humidity down.
 
 ---
 
-## The 12-Minute Coil Evaporation Trap: Why Short Cycles Fail
+### Sources
 
-When an air conditioning compressor turns on, moisture removal does **not** happen instantaneously. Latent dehumidification is a delayed physical process:
-
-### The 12-Minute Evaporator Coil Condensation Ramp
-
-| Runtime Elapsed | Evaporator Coil Thermodynamic State | Condensation & Drainage Behavior |
-| :--- | :--- | :--- |
-| **Minute 0 to 4 (Sensible Phase)** | Compressor starts; coil chills from 72°F to 48°F | Air cools, but fins are just reaching dew point; zero water drains |
-| **Minute 4 to 8 (Adhesion Phase)** | Coil reaches dew point (45°F–48°F) | Microscopic droplets condense; surface tension holds drops on fins |
-| **Minute 8 to 12 (Coalescence Phase)** | Droplets coalesce into liquid streams | First water reaches drain pan and begins trickling down condensate line |
-| **Minute 14+ (Steady-State Extraction)** | Sustained continuous latent removal | True whole-house dehumidification occurs (~3 to 4 pints per hour) |
-| **Short-Cycle Shutdown (< 8 min)** | Oversized compressor satisfies thermostat | Blower runs over wet coil; **100% of moisture re-evaporates back into house!** |
-
-Now consider what happens in a home with an **oversized single-stage compressor**:
-1. An HVAC contractor sizes a 2,400 sq.ft home with a 4.5-ton or 5-ton system using the obsolete rule of thumb: "1 ton per 500 square feet."
-2. The true Manual J cooling load of the house is only 2.5 tons (30,000 BTU/hr).
-3. On a 90°F day, the oversized 5-ton system turns on and blasts 2,000 CFM of icy air.
-4. It satisfies the thermostat in **6 to 8 minutes** and shuts down.
-5. Because the run was under 8 minutes, the condensation on the coil fins **never had time to drain into the pan**. 
-6. When the compressor shuts off, the air handler fan continues running for 60 to 90 seconds (standard time-delay relay). The fan blows warm indoor air across the soaked 48°F coil, **re-evaporating all the trapped water droplets straight back into the ductwork and living space!**
-
-The air conditioner consumed hundreds of kilowatt-hours of electricity, but removed net-zero moisture from the home.
-
----
-
-## Summer Basement Condensation: Why Finished Basements Sweat Under Air Conditioning
-
-In the Midwest, finished basements suffer the most severe moisture problems during summer heatwaves.
-
-The physics of this failure is rooted in subterranean temperatures:
-- The soil surrounding a basement foundation 4 to 8 feet below grade maintains a near-constant temperature of **55°F to 62°F** throughout the summer.
-- Because of this natural earth cooling, a basement has almost **zero sensible cooling load**. Even when it is 98°F outside, an unconditioned basement naturally stays at 64°F to 68°F.
-- The central air conditioning thermostat is located on the first floor. It runs based on the first floor's heat gain through windows, walls, and roofs.
-- Downstairs in the basement, the temperature never rises high enough to trigger a call for cooling. Therefore, the central air handler never circulates or treats basement air.
-
-### Basement Psychrometric Condensation Dynamics
-
-| Environmental Metric | Upstairs Living Room | Finished Basement |
-| :--- | :--- | :--- |
-| **Dry-Bulb Temperature** | 68°F (AC thermostat setpoint) | 63°F – 66°F (Surrounded by subterranean soil) |
-| **Sensible Cooling Demand** | High (Solar gain through roof/windows) | Near-Zero (Earth maintains 58°F–62°F walls) |
-| **Airflow Circulation** | Regular AC supply and return flow | Stagnant; registers remain closed during short cooling cycles |
-| **Relative Humidity** | 58% – 64% (Clammy) | **78% – 85% (Active Mildew & Mold Danger Zone)** |
-
-When warm, humid air infiltrates into the basement through open doors or leaky rim joists, it encounters a cold 65°F room. At 65°F, air can hold very little moisture. The relative humidity immediately climbs to **75% to 85%**.
-
-At relative humidity levels above 70%, dust mites breed exponentially and mold spores (*Aspergillus* and *Penicillium*) germinate on carpet backing, drywall paper, and furniture within 48 hours.
-
----
-
-## The Engineering Solution: Sizing, Airflow Tuning & Dehumidification
-
-Solving the Midwest summer humidity trap requires an integrated building-science strategy rather than simply swapping equipment:
-
-### The Three-Part Building-Science Engineering Solution
-
-| Engineering Pillar | System Specification | Hygrothermal Mechanism |
-| :--- | :--- | :--- |
-| **[1] Right-Sizing & Inverter Modulation** | Strict ACCA Manual J/S sizing + Variable-speed inverter | Operates at 25%–40% capacity for 45–90 min runs, sustaining deep latent extraction |
-| **[2] Airflow CFM/Ton Tuning** | Reduce blower speed from 450 to 325–350 CFM/ton | Drops evaporator coil temperature to 42°F, increasing condensation rate by 30% |
-| **[3] Dedicated Whole-Home Dehumidifier** | Ultra-efficient 100–120 pint/day unit (AprilAire/Santa Fe) | Decouples latent moisture control from thermostat temperature calls year-round |
-
-### Step-by-Step Airflow and Mechanical Retrofit Specifications
-
-1. **ACCA Manual J & S Load Calculation:**
-   - Ban all square-footage "rules of thumb." Require a room-by-room Manual J calculation incorporating actual insulation R-values, window SHGC ratings, and verified blower door infiltration rates.
-   - Size the system to match the 99% summer design temperature (typically 90°F to 94°F in the Midwest). Never add "safety margin" tonnage.
-
-2. **Air Handler CFM Tuning:**
-   - Most factory furnaces and air handlers ship with blower fans set to 400 to 450 CFM per ton. Adjust the blower motor dip switches or digital settings down to 325 to 350 CFM per ton.
-   - Moving 325 CFM per ton across the evaporator lowers the coil evaporating temperature from 48°F down to 42°F. The colder coil condenses dramatically more water vapor while extending cycle runtimes.
-
-3. **Variable-Speed Inverter Compressors:**
-   - Install a variable-capacity inverter heat pump or AC system (such as the Bosch IDS 2.0 or Mitsubishi Hyper-Heat).
-   - Inverter compressors ramp down to 25% or 30% capacity on mild humid days, running continuously for 45 to 90 minutes. Long, low-capacity runtimes keep the coil permanently wet and continuously draining liquid water out of the home.
-
-4. **Dedicated Whole-Home Dehumidifier:**
-   - Install a commercial-grade, whole-home dedicated dehumidifier (AprilAire E100, Santa Fe Ultra120, or Ultra Aire).
-   - Duct the dehumidifier with its own return from the basement or living area, discharging directly into the central supply ductwork.
-   - Controlled by a digital humidistat, it activates only when indoor relative humidity exceeds 50%, removing 100 to 120 pints of water per day for a fraction of the operating cost of an oversized air conditioner.
-
----
-
-## Whole-House Dehumidifiers vs. Oversized AC: Cost Breakdown & Sizing Rules
-
-During July and August across the Corn Belt and Great Lakes, outdoor dew points routinely surge past 74°F. Homeowners frequently complain: *"My thermostat is set to 70°F, the air feels cold, but my home feels sticky, clammy, and my basement baseboards smell musty."*
-
-### 1. The Physics of the "Cold & Clammy" Trap
-When an air conditioner is oversized (e.g., a 4-ton unit installed where Manual J calculated a 2.5-ton load):
-- The massive compressor satisfies the sensible temperature setpoint in just **6 to 10 minutes** and shuts off.
-- To remove latent moisture from the air, the indoor evaporator coil must remain below the dew point (45°F to 50°F) for at least **15 to 20 minutes of continuous runtime**.
-- In an oversized system, moisture condensed on the coil fins doesn't have time to drain; when the compressor short-cycles off and the fan keeps running, that moisture evaporates straight back into the supply ductwork.
-- **Relative Humidity Spike:** Relative humidity is temperature-dependent. When you lower indoor air temperature from 76°F to 70°F without removing water vapor, **relative humidity increases by 12% to 18%**. The result is a cold, clammy 70°F room with 72% RH, creating prime conditions for dust mites and mildew.
-
-### 2. Dedicated Central Dehumidifiers: Installed Price Breakdown
-Rather than replacing your existing air conditioner, the building science solution is adding a dedicated whole-home dehumidifier integrated into your central ductwork:
-- **Turnkey Installed Cost:** **$2,400 to $3,800** (featuring an Energy Star AHRI 920 certified unit such as the Aprilaire e100 / Santa Fe Ultra120).
-- **Independent Humidity Control:** Operates completely independently of cooling calls. It samples return air and removes up to 100 to 120 pints of water per day, using 40% less electricity than running a short-cycling central AC compressor.
-- **Thermostat Setpoint Lift:** Maintaining 45% to 50% relative humidity allows homeowners to comfortably set their summer AC thermostat to **75°F instead of 70°F**, cutting summer cooling bills by **15% to 25%** while eliminating clamminess.
-
----
-
-## Equipment Performance Benchmark: Humidity Control
-
-The table below contrasts standard cooling equipment configurations against variable-speed and dedicated dehumidification systems in the Midwest and Great Lakes region:
-
-| System Architecture | Standard Single-Stage (14 SEER) | Two-Stage Compressor (16 SEER2) | Inverter Variable-Speed (18+ SEER2) | Inverter AC + Dedicated Whole-Home Dehumidifier |
-| :--- | :--- | :--- | :--- | :--- |
-| **Capacity Modulation Range** | 100% Only (On / Off) | 65% Low / 100% High | **25% to 110% Modulating** | Modulates cooling; independent moisture control |
-| **Typical Summer Cycle Length** | 6 to 9 minutes | 14 to 22 minutes | **45 to 90 minutes** | Continuous RH management |
-| **Moisture Extraction Rate** | Poor (Frequent re-evaporation) | Moderate | Very Good during high sensible heat | **OPTIMAL (Removes moisture even at 70°F outdoors)** |
-| **Indoor Relative Humidity** | **62% to 72% (Clammy & sticky)** | 55% to 62% | 50% to 55% (Crisp comfort) | **45% to 50% Flat Year-Round** |
-| **Basement Mold Prevention** | **Fails (RH stays > 75%)** | Poor (Requires basement fans) | Moderate | **COMPLETE (Dedicated basement zone pull)** |
-| **Sensible Heat Ratio (SHR)** | 0.78 (Rigid) | 0.74 | 0.68 | **Dynamic (Decouples temperature from moisture)** |
-
----
-
-### Verifiable Standards & Technical Sources
-
-1. **Air Conditioning Contractors of America (ACCA):**
-   - *ACCA Manual J (8th Edition):* Residential Load Calculation (Sensible and Latent Heat Gain Methodologies).
-   - *ACCA Manual S:* Residential Equipment Selection (Sensible Heat Ratio Verification).
-2. **ASHRAE (American Society of Heating, Refrigerating and Air-Conditioning Engineers):**
-   - *ASHRAE Standard 55-2023:* Thermal Environmental Conditions for Human Occupancy (Humidity and Operative Temperature Comfort Zones).
-   - *ASHRAE Handbook of HVAC Systems and Equipment:* Chapter 24 ("Air Cleaners for Particulate Contaminants and Dehumidifiers").
-3. **Air-Conditioning, Heating, and Refrigeration Institute (AHRI):**
-   - *AHRI Standard 920:* Performance Rating of Dedicated Outdoor Air Systems and Dehumidifiers.
-   - *AHRI Standard 210/240:* Performance Rating of Unitary Air-Conditioning and Air-Source Heat Pump Equipment.
-4. **Building Science Corporation (BSC):**
-   - *Research Report RR-0203:* "Air Conditioning and Humidity Control in Humid Climates" (Dr. Joseph Lstiburek).
-   - *Building Science Digest BSD-013:* Bulk Water Control and Basement Humidity Dynamics.
-5. **National Renewable Energy Laboratory (NREL):** *Evaluation of Dehumidification Strategies for Low-Load Homes in Mixed-Humid Climates*.
-
----
-
-### Related Building Science Guides
-- **Cold-Climate Heat Pump Inverters:** &rarr; **[Read: Can a Heat Pump Actually Handle -15°F? Cold-Climate Inverters During Midwest Winters](cold-climate-heat-pumps.html)**
-- **Crawlspace Moisture Encapsulation:** &rarr; **[Read: Crawlspace Encapsulation in the Great Lakes and Plains: Why Vented Crawlspaces Rot Floors](crawlspace-encapsulation.html)**
-- **Basement Waterproofing & Vapor:** &rarr; **[Read: Why Water Enters Midwest Basements After Heavy Rain: Hydrostatic Head and Under-Slab Vapor Barriers](basement-waterproofing.html)**
-- **Blower Door Air Sealing Checklist:** &rarr; **[Read: How to Pass the Blower Door Test (< 3.0 ACH50) on a Midwest Remodel](blower-door-checklist.html)**
-- **Smart Vapor Retarders vs. Poly:** &rarr; **[Read: Smart Vapor Retarders vs. 6-Mil Plastic: Why Polyethylene Traps Mold in Midwest Summers](smart-vapor-retarders.html)**
+1. Consortium for Advanced Residential Buildings (Steven Winter Associates) for U.S. DOE Building America, *Why Right-Size? Science versus Practicality*, 2009.
+2. U.S. EPA, *Ten Things You Should Know About Mold*.
+3. J. Lstiburek, *BSD-103: Understanding Basements*, Building Science Corporation, 2006.

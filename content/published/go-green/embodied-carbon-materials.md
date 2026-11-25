@@ -1,5 +1,5 @@
 ---
-title: "Spray Foam vs. Cellulose & Wood Fiber: Why Plastic Foam Traps Moisture, Rots Studs & Fails the 25-Year Payback"
+title: "Insulation and Embodied Carbon: Comparing Spray Foam, Cellulose, Fiberglass and Mineral Wool"
 slug: "embodied-carbon-materials"
 format: "Report"
 leadType: "Fact-First"
@@ -7,134 +7,80 @@ category: "Go Green"
 catSlug: "go-green"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Indianapolis", "Milwaukee", "Minneapolis", "Omaha", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "OH", "WI"]
-subtitle: "Petrochemical spray foam and XPS promise high R-values, but their impermeable vapor profile creates hidden wall cavity rot while blowing agents take 26 years to offset. Here is why vapor-open cellulose, wood fiber, and stone wool dominate cold-climate envelopes."
-summary: "Spray foam vs cellulose insulation: Closed-cell foam creates non-breathable vapor dams that rot wood studs across the Upper Midwest and Great Lakes, while dense-pack cellulose and wood fiber provide vapor-open moisture buffering and net-negative carbon footprints."
-codeTag: "ASTM C739 / ASTM C518 / IRC Section R702.7"
+subtitle: "Insulation saves energy for decades, but making it releases greenhouse gases up front, and some foams release far more than others. Here is how the common insulations compare, and where each one belongs."
+summary: "How common insulation types compare on embodied greenhouse gas emissions, why HFC-blown foams rank worst, where foam is still the right tool, and how to pick lower-carbon options in Midwest homes."
+codeTag: "Efficiency Vermont / BSC BSD-103 / BSC BSI-043"
 author: "Midwest AEC Building Science"
-date: "October 2026"
-readTime: "9 min read"
+date: "November 2026"
+readTime: "5 min read"
 referralHook: "Attic & Wall Insulation Dense-Packing, Air Sealing & Contractor Match"
+faq: [{"q": "Which insulation has the lowest embodied carbon?", "a": "Cellulose and wood fiber. Efficiency Vermont's comparison ranks them lowest, because they are made from recycled paper or wood and store carbon. Fiberglass, EPS, polyiso and open-cell spray foam rank low, mineral wool and HFO-blown closed-cell foam medium, and HFC-blown closed-cell spray foam and XPS highest."}, {"q": "Why is some spray foam so high in embodied carbon?", "a": "Because of the blowing agent. Older closed-cell spray foam and XPS used HFC blowing agents with very high global warming potential. Newer HFO-blown products are much lower, which is why Efficiency Vermont ranks HFO closed-cell foam in its medium group."}, {"q": "Does spray foam rot wood framing?", "a": "Not when it's used correctly. Building Science Corporation research supports closed-cell spray foam for basement walls, rim joists, roof decks and the inside of old brick walls. Problems come from installation errors, roof or plumbing leaks, or foam used where an assembly needs to dry in a direction the foam blocks."}, {"q": "Is dense-pack cellulose a good wall insulation?", "a": "Yes, for wood-framed walls. Building Science Corporation tested walls dense-packed to about 3.5 pounds per cubic foot and measured air leakage through them dropping about tenfold. It works best in closed cavities with the rain leaks fixed first."}]
 ---
 
-# Spray Foam vs. Cellulose & Wood Fiber: Why Plastic Foam Traps Moisture, Rots Studs & Fails the 25-Year Payback
+# Insulation and Embodied Carbon: Comparing Spray Foam, Cellulose, Fiberglass and Mineral Wool
 
-> **Quick Summary:** Residential builders across the Midwest frequently promote closed-cell spray polyurethane foam and extruded polystyrene (XPS) as the ultimate thermal barrier. However, field forensic autopsies reveal that petroleum-derived plastic foams create non-breathable vapor dams with permeance ratings under 1.0 perm, trapping incidental water leaks and interior winter condensation directly against wood framing until studs rot. Additionally, the chemical synthesis and fluorochemical blowing agents in spray foam emit massive greenhouse gases, creating an upfront carbon debt that requires 20 to 26 years of winter furnace energy savings just to break even. In contrast, vapor-open assemblies using dense-pack cellulose (>35 perms), continuous wood-fiber board (>25 perms), and non-combustible basalt stone wool safely buffer moisture, deaden sound, and lock away atmospheric carbon permanently on day one.
-
-Dense stone mineral wool also delivers non-combustible fire protection and density stability as analyzed in our [rockwool vs fiberglass field test](rockwool-vs-fiberglass.html). Combining vapor-permeable cellulose with wood fiber creates an effective [continuous exterior insulation assembly](continuous-insulation.html).
-
+> **Quick Summary:** Every insulation saves energy once it's installed, but making it releases greenhouse gases first, which is called embodied carbon. Cellulose and wood fiber are lowest. Closed-cell spray foam and XPS blown with older HFC blowing agents are highest. Foam is still the right tool in a few places, like basement walls and rim joists. Using it only there, and lower-carbon insulation everywhere else, gets you the same comfort with a smaller footprint.
 >
-> - **The Impermeable Moisture Trap:** Closed-cell spray foam forms a vapor barrier against exterior sheathing and framing timbers. When water penetrates cladding or air leaks carry indoor humidity into the wall, the foam prevents drying, leading to hidden structural decay and black mold.
-> - **The 26-Year Carbon Payback Trap:** Producing rigid petrochemical foams and closed-cell spray polyurethane consumes massive energy and releases high-GWP blowing agents. It takes up to 26 years of operational heating savings simply to offset the manufacturing emissions of the plastic insulation.
-> - **Hygroscopic Moisture Buffering:** Dense-pack cellulose and wood-fiber boards possess open capillary structures that absorb and safely redistribute up to 15% of their dry weight in ambient water vapor. As seasonal humidity shifts, they release moisture harmlessly without liquid condensation or mold risk.
-> - **Class A Fire Safety & Acoustics:** Basalt stone wool delivers complete non-combustibility up to 2,150°F with zero petrochemical blowing agents, while cellulose achieves an NRC 0.90 acoustic rating compared to the hollow 0.20 NRC profile of rigid plastic foam.
+> - Cellulose and wood fiber have the lowest embodied carbon.
+> - HFC-blown closed-cell spray foam and XPS have the highest.
+> - Newer HFO-blown foams are much better than HFC ones.
+> - Use foam where it's needed, and cellulose or fiber where it works.
 
 ---
 
-## Closed-Cell Foam vs. Dense-Pack Cellulose: Vapor Permeance, Cavity Rot & 25-Year Payback Reality
+If you care about your home's climate impact, the insulation choice matters more than most people think. Some foams emit so much during manufacture that it takes years of energy savings to make up for it.
 
-Subcontractor bids across the Great Lakes and Upper Midwest frequently push closed-cell spray polyurethane foam (ccSPF) at $2.20 to $2.80 per board foot as the premium standard for exterior wall cavities. At R-6.5 per inch, spray foam promises maximum R-value in a standard 2x6 stud bay while creating an airtight seal in a single trade pass.
+## How Do the Materials Compare?
 
-However, forensic building science evaluations reveal two critical liabilities in cold-climate envelopes:
-1. **The Inward Vapor Trap:** Closed-cell spray foam cures into a Class II/Class I vapor retarder (0.8 to 1.2 perms at 2 inches). When driving winter rain or spring humidity bypasses the exterior cladding and penetrates OSB sheathing, the impermeable foam layer prevents inward drying. Trapped moisture against wood framing elevates wood moisture content (MC) above 20%, initiating fungal rot and joist decay behind drywall.
-2. **Embodied Carbon & GWP Payback:** Hydrofluoroolefin (HFO) and traditional HFC blowing agents carry substantial upfront global warming potential. When factored against dense-pack borate-treated cellulose ($0.95–$1.25/sq.ft.) or rigid wood fiber boards, spray foam requires 22 to 26 years of operational heating savings just to offset the greenhouse gas emissions generated during its chemical manufacture.
+Efficiency Vermont, the state's efficiency utility, ranks common insulations by embodied greenhouse gas emissions, measured per unit of insulating value:
 
-## The Petrochemical Foam Trap: Why Closed-Cell Spray Foam Rots Wood Framing
+| Group | Materials |
+| :--- | :--- |
+| Lowest | Cellulose, wood fiber |
+| Low | Fiberglass, polyiso, EPS, open-cell spray foam, phenolic foam, cellular glass |
+| Medium | Mineral wool, closed-cell spray foam with HFO blowing agent |
+| Medium to high | Next-generation XPS with HFO/HFC blend |
+| Highest | Closed-cell spray foam with HFC blowing agent, XPS |
 
-Closed-cell spray polyurethane foam (ccSPF) is marketed aggressively for its high R-value of R-6.5 to R-7.0 per inch. However, its physical density creates a rigid, non-breathable barrier that fundamentally alters the drying dynamics of residential wood framing.
+The same page estimates that a two-story, 2,000 square foot house choosing the lower-carbon options avoids about 55,000 kg of CO2-equivalent, with no meaningful difference in energy use if the R-value and air sealing are the same.
 
-Because closed-cell foam possesses a vapor permeance below 0.8 perms, municipal building codes under IRC Section R702.7 classify it as a Class II vapor retarder. When sprayed directly against exterior OSB or plywood sheathing, it acts as a vapor barrier on the interior face of the structural deck.
+## Why Are Some Foams So High?
 
-If wind-driven rain penetrates the siding cladding, or if warm indoor humidity leaks past electrical junction boxes, that moisture becomes permanently trapped between the sheathing and the rigid foam. The timber cannot dry toward the conditioned interior because the foam blocks vapor diffusion, nor can it dry outward through wet exterior claddings.
+Cellulose is made from recycled paper and stores carbon, and fiberglass and EPS take relatively little energy to make. The high end of the list comes down to the blowing agent.
 
-Within three to five freeze-thaw cycles, trapped moisture elevates the moisture content of the wood studs above the critical 20% fiber saturation threshold. Fungal decay, wood-rotting basidiomycetes, and structural framing failure quietly progress behind the pristine surface of the foam.
+Closed-cell spray foam and XPS were long made with HFC blowing agents, gases with very high global warming potential that slowly escape over the life of the foam. Newer products use HFO blowing agents with far lower impact, which is why HFO-blown closed-cell foam ranks in the medium group.
 
----
+When you get a quote for closed-cell foam, ask which blowing agent it uses.
 
-## Dense-Pack Cellulose & Wood Fiber: Vapor-Open Hygroscopic Moisture Buffering
+## Is Spray Foam Bad for Houses?
 
-Unlike petroleum-derived plastics that repel liquid water while creating non-breathable vapor dams, bio-based insulations are **hygroscopic and vapor-open**. They work in natural thermodynamic harmony with Midwest wood framing.
+You'll find claims online that spray foam traps moisture and rots framing. The research doesn't support that as a general rule. Building Science Corporation recommends closed-cell spray foam against basement concrete and at rim joists (BSD-103), under roof decks in cold climates (BSD-149), and on the inside of solid brick walls (BSD-114).
 
-Dense-pack cellulose and continuous wood-fiber boards possess vapor permeance ratings exceeding 25 to 35 perms. When incidental moisture enters a wall cavity through normal air infiltration or building settling, these bio-based fibers absorb ambient moisture vapor directly into their cell walls without liquid surface wetting.
+Where foam causes problems is when it's installed badly, when a roof or plumbing leak goes unnoticed behind it, or when it's used in an assembly that needs to dry in the direction the foam blocks. Those are design and installation problems, not a property of the material.
 
-The insulation matrix can safely buffer up to 15% of its dry weight in water vapor without degrading its thermal resistance or fostering mold growth. When seasonal weather changes and surrounding air warms, the fibers release the stored vapor harmlessly through bidirectional drying cycles.
+&rarr; [Should You Insulate an Old Brick House? Freeze-Thaw Damage, Joist Rot and What Research Recommends](insulating-brick.html)
 
-Additionally, dense-pack cellulose hammer-milled from 85% recycled newsprint is treated with liquid sodium polyborate. This mineral borate treatment acts as a permanent Class A flame retardant while creating an inhospitable barrier against wood-boring insects, carpenter ants, and mice.
+## Where Does Each One Belong?
 
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│               HYGROTHERMAL VAPOR PERMEANCE & ROT RISK                  │
-├────────────────────────────────────────────────────────────────────────┤
-│ • Closed-Cell Spray Foam:     < 0.8 Perms (Vapor Dam / Severe Rot Risk) │
-│ • Extruded Polystyrene (XPS): 0.8 – 1.1 Perms (Non-Breathable Dam)     │
-│ • Continuous Wood Fiber:      > 25.0 Perms (Vapor-Open / Safe Outward) │
-│ • Dense-Pack Cellulose:       > 35.0 Perms (Vapor-Open / Full Buffer)  │
-│ • Basalt Stone Wool:          > 30.0 Perms (Vapor-Open / Non-Wicking)  │
-└────────────────────────────────────────────────────────────────────────┘
-```
+Where is foam the right call?
+Basement walls, rim joists and under-slab insulation, where the material sits against concrete or soil and must not absorb water. There, rigid foam such as EPS or polyiso often has lower embodied carbon than XPS or HFC spray foam.
 
----
+&rarr; [Insulating Under a Basement Slab and the Rim Joist: What to Use and Why It Matters](sub-slab-insulation-specs.html)
 
-## Low Carbon Insulation & Upfront Embodied Energy
+What about walls?
+Dense-pack cellulose fills closed wood-framed cavities well. Building Science Corporation measured air leakage through test walls dropping about tenfold after dense-packing to about 3.5 pounds per cubic foot (Lstiburek, BSI-043). Fix rain leaks first, since an insulated wall dries more slowly.
 
-Evaluating low carbon footprint insulation requires measuring cradle-to-gate Global Warming Potential (GWP) across modules A1 through A3 in verified Environmental Product Declarations (EPDs). While synthetic plastic foams generate heavy positive carbon emissions during catalytic cracking and chemical distillation, bio-based cavity insulations achieve a verified net-negative carbon balance.
+What about attics?
+Blown cellulose over a sealed attic floor is the low-carbon standard. Seal the air leaks first, then blow it in.
 
-The cellulose insulation carbon footprint stands out in life-cycle assessments because 85% of its weight consists of diverted post-consumer paper products. Trees capture atmospheric carbon through natural photosynthesis; converting that clean paper waste into non-convective cavity insulation permanently locks that biogenic carbon into Midwest walls rather than letting it decompose into methane in landfills.
-
-When paired with continuous exterior wood-fiber board, low carbon insulation assemblies offset the embodied footprint of concrete footings and structural lumber before the heating season begins.
+&rarr; [Attic Air Sealing and Baffles: A Step-by-Step Guide](attic-air-sealing-baffles.html)
 
 ---
 
-## Performance Benchmark: Spray Foam vs. Cellulose vs. Wood Fiber vs. Stone Wool
+### Sources
 
-The engineering matrix below contrasts standard residential envelope insulations across thermal resistance, vapor permeance, carbon intensity, fire safety, and sound deadening:
-
-| Material Specification | Dense-Pack Cellulose | Rigid Wood-Fiber Board | Basalt Stone Mineral Wool | Closed-Cell Spray Foam (ccSPF) | Extruded Polystyrene (XPS) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Primary Raw Feedstock** | 85% Recycled Newsprint | Softwood Chips & Lignin | Volcanic Basalt Rock | Petrochemical Isocyanate | Polymerized Styrene / Oil |
-| **Thermal Resistance** | R-3.7 / inch | R-3.8 – R-4.0 / inch | R-4.0 – R-4.2 / inch | **R-6.5 – R-7.0 / inch** | R-5.0 / inch |
-| **Vapor Permeance** | **> 35 Perms (Vapor-Open)** | **> 25 Perms (Vapor-Open)** | **> 30 Perms (Vapor-Open)** | **< 0.8 Perms (Vapor Dam)** | **0.8 – 1.1 Perms (Vapor Dam)** |
-| **Moisture Rot Risk** | **Zero (Hygroscopic Buffer)**| **Zero (Bidirectional Dry)**| **Zero (Hydrophobic Drain)**| **High (Traps Bulk Water)** | **High (Non-Breathable)** |
-| **Carbon Intensity** | **Net Negative (-1.2 kg)** | **Net Negative (-2.5 kg)** | +5.5 kg CO₂e/m² (Moderate) | **+45.0 kg CO₂e/m² (Severe)** | **+65.0 kg CO₂e/m² (Extreme)**|
-| **Blowing Agent GWP** | **0 (None / Mechanical)** | **0 (None / Steam Bound)** | **0 (None / Air-Spun)** | 1 to 1,030 (Fluorochemicals)| 1 to 1,430 (Fluorocarbons) |
-| **Fire Safety Rating** | Class A (Borate-Treated) | Class B (Self-Charring) | **Non-Combustible (2,150°F)**| Combustible (Melts at 200°F) | Combustible (Melts at 200°F) |
-| **Sound Absorption (NRC)** | **0.90 (Excellent)** | **0.85 (Excellent)** | **0.95 (Exceptional)** | 0.20 (Poor / Transmits Noise)| 0.20 (Poor / Hollow Echo) |
-
----
-
-## Frequently Asked Questions
-
-### Does closed-cell spray foam cause wood framing rot in cold climates?
-Yes, when moisture penetrates the envelope or enters through interior air leakage. Because closed-cell spray polyurethane foam has a vapor permeance rating below 0.8 perms, it acts as an impermeable Class II vapor retarder that prevents wood studs and sheathing from drying inward or outward. If water enters the wall cavity, the timber remains above 20% moisture content indefinitely, fostering wood-rotting fungal decay behind the foam.
-
-### Which is better for Midwest homes: spray foam or dense-pack cellulose?
-Dense-pack cellulose installed at 3.5 lbs/cu.ft is superior for Midwest residential walls and attics. While closed-cell spray foam delivers a higher initial R-value per inch, dense-pack cellulose halts convective airflow loops while remaining vapor-open (>35 perms), allowing seasonal bidirectional drying that protects framing. Cellulose also delivers superior acoustic soundproofing (NRC 0.90 vs 0.20) and costs 40% to 60% less per square foot installed.
-
-### Why does continuous wood fiber board outperform rigid XPS foam?
-Continuous exterior wood-fiber board (such as TimberHP or Gutex) provides continuous thermal break protection (R-3.8 to R-4.0 per inch) while maintaining high vapor permeability (>25 perms). Unlike extruded polystyrene (XPS), which creates a non-breathable exterior vapor barrier that traps wall moisture, wood-fiber board allows wall assemblies to dry freely to the exterior during cold winter months while providing superior sound deadening and net-negative embodied carbon.
-
-### What is the carbon payback difference between spray foam and cellulose insulation?
-Producing petrochemical closed-cell spray foam and extruded polystyrene releases massive greenhouse gas emissions during chemical synthesis and fluorochemical blowing agent off-gassing. In the Upper Midwest and Great Lakes, it takes an estimated 20 to 26 years of winter heating energy savings simply to offset the upfront manufacturing carbon of the foam. In contrast, dense-pack cellulose and wood-fiber boards sequester atmospheric carbon captured by trees, making the thermal envelope an immediate carbon sink on day one.
-
----
-
-### Verifiable Standards & Technical Sources
-
-1. **ASTM International:**
-   - *ASTM C739:* Standard Specification for Cellulosic Fiber Loose-Fill Thermal Insulation.
-   - *ASTM C518:* Standard Test Method for Steady-State Thermal Transmission Properties by Means of the Heat Flow Meter Apparatus.
-   - *ASTM E84:* Standard Test Method for Surface Burning Characteristics of Building Materials.
-2. **International Code Council (ICC):**
-   - *IRC Section R702.7:* Vapor Retarders, Permeance Classifications, and Hygrothermal Wall Assembly Compliance.
-3. **ASHRAE (American Society of Heating, Refrigerating and Air-Conditioning Engineers):**
-   - *ASHRAE Standard 240P:* Standard for Evaluating and Expressing Greenhouse Gas Emissions Associated with Building Materials.
-4. **International Organization for Standardization (ISO):**
-   - *ISO 21930:* Sustainability in Buildings and Civil Engineering Works, Core Rules for Environmental Product Declarations (EPDs).
-
----
-
-### Related Building Science Guides
-- **Stone Wool vs. Fiberglass Physics:** &rarr; [Read: Does Rockwool Outperform Fiberglass? How Each Holds Up in Midwest Wall Assemblies](rockwool-vs-fiberglass.html)
-- **Continuous Exterior Insulation Rainscreens:** &rarr; [Read: Continuous Exterior Insulation: Why R-5 Outboard Beats R-20 Cavity in Freeze-Thaw Climates](continuous-insulation.html)
-- **Historic Masonry Vapor Permeability:** &rarr; [Read: Insulating 100-Year-Old Brick Homes: Freeze-Thaw Spalling and Interior Vapor Retarders](insulating-brick.html)
-- **Cold-Climate Heat Pump Inverters:** &rarr; [Read: Can a Heat Pump Actually Handle -15°F? Cold-Climate Inverters During Midwest Winters](cold-climate-heat-pumps.html)
-- **Smart Vapor Retarders vs. Poly:** &rarr; [Read: Smart Vapor Retarders vs. 6-Mil Plastic: Why Polyethylene Traps Mold in Midwest Summers](smart-vapor-retarders.html)
+1. Efficiency Vermont, *Home Insulation and Greenhouse Gas Emissions* (one-page comparison of insulation types).
+2. J. Lstiburek, *BSD-103: Understanding Basements*, Building Science Corporation, 2006.
+3. C. Schumacher, *BSD-149: Unvented Roof Assemblies for All Climates*, Building Science Corporation, 2007.
+4. J. Straube, *BSD-114: Interior Insulation Retrofits of Load-Bearing Masonry Walls in Cold Climates*, Building Science Corporation, 2007.
+5. J. Lstiburek, *BSI-043: Don't Be Dense, Cellulose and Dense-Pack Insulation*, Building Science Corporation, 2010.

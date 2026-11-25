@@ -1,5 +1,5 @@
 ---
-title: "How to Firestop & Air-Seal Historic Balloon Framing: The Step-by-Step Retrofit"
+title: "How to Firestop and Air-Seal Balloon Framing Without Tearing Out Plaster"
 slug: "balloon-framing-retrofit-steps"
 format: "Tutorial"
 leadType: "Process"
@@ -7,124 +7,102 @@ category: "Urban Development"
 catSlug: "urban-development"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
-subtitle: "A practical jobsite manual for sealing open stud bays, halting the two-story convective chimney, and meeting IRC R302.11 firestop code without tearing down plaster."
-summary: "How to firestop balloon framing: Step-by-step retrofit guide to installing mineral wool blocks and intumescent mastic to stop chimney drafts under IRC R302."
-codeTag: "IRC Section R302.11 / ASTM E136 / ASTM E814"
+subtitle: "In a balloon-framed house the wall cavities run from the basement to the attic. Blocking the bottom and the top stops the drafts and slows a fire, and you can reach both ends without opening a wall."
+summary: "How to firestop and air-seal balloon framing in an older Midwest home: block the stud bays at the basement sill and the attic, seal the edges, then dense-pack the walls."
+codeTag: "NIOSH F2002-49 / BSC BSI-043 / BSD-109"
 author: "Midwest AEC Building Science"
-date: "October 2026"
-readTime: "10 min read"
+date: "November 2026"
+readTime: "7 min read"
 referralHook: "Historic Weatherization & Air Sealing Contractor Quote Match"
+faq: [{"q": "How do I know if my house has balloon framing?", "a": "Look up from the basement along the outside walls. If you can see straight up into the space between the studs, with no wood plate stopping it at the first floor, the house is balloon framed. Most were built before about 1940."}, {"q": "Do I have to open the walls to firestop balloon framing?", "a": "No. The cavities are only open at two ends, the basement sill and the top of the wall in the attic or behind a knee wall. Blocking and sealing both ends from those spaces stops the chimney effect without touching the plaster."}, {"q": "Can I use spray foam as a fireblock?", "a": "Not by itself. Foam is a plastic and it burns. Use mineral wool or solid wood blocking to fill the bay, and use fire-rated sealant or fireblock foam only to seal the edges around it."}, {"q": "Should I insulate the walls after firestopping?", "a": "Usually yes, once both ends are blocked. Dense-packed cellulose fills the cavity and cuts air flow through the wall. Building Science Corporation measured about a tenfold drop in air leakage through test walls after dense-packing. Check for knob-and-tube wiring first."}]
 ---
 
-# How to Firestop & Air-Seal Historic Balloon Framing: The Step-by-Step Retrofit
+# How to Firestop and Air-Seal Balloon Framing Without Tearing Out Plaster
 
-> **Quick Summary:** Halting the severe stack-effect drafts and fire hazards inherent to pre-1940s balloon framing does not require tearing down interior plaster. By mechanically firestopping and air-sealing the two accessible terminal ends (the basement mud sill and attic eaves), you permanently break the two-story convective chimney.
-
-Before cutting firestops, examine the structural cavity flues detailed in our [historic balloon framing engineering overview](balloon-framing.html). Verifying draft elimination after air sealing requires depressurization testing via our [blower door testing checklist](blower-door-checklist.html).
-
+> **Quick Summary:** In a balloon-framed house, the space between the studs in the outside walls runs from the basement all the way to the attic. Warm air rides up it all winter, cold air gets pulled in at the bottom, and in a fire, flames can climb it two or three floors out of sight. You don't need to open the walls to fix it. Block and seal the two open ends, at the basement sill and the top of the wall, then insulate.
 >
-> - **Execution Difficulty & Time:** Intermediate DIY or Professional Trade; 8 to 12 labor hours for an average 1,500 sq. ft. two-story home.
-> - **Primary Code & Safety Mandate:** IRC Section R302.11 / ASTM E136 non-combustible mechanical fireblocking; ASTM E814 intumescent perimeter air seal.
-> - **Critical Materials:** Dense 3.5-inch mineral wool blocks (Rockwool 2,150°F), firestop intumescent acrylic caulk, serrated insulation knife, and HEPA shop vac.
-> - **Jobsite Verification:** Pre/post blower door testing (expect 35%–45% CFM50 reduction), thermal camera inspection at baseboards, and draft smoke pencil check.
+> - Check for knob-and-tube wiring before you touch anything.
+> - Fill each bay with mineral wool or wood blocking, then seal the edges.
+> - Block both ends. One end alone leaves the chimney open.
+> - Dense-pack the walls after both ends are sealed.
 
 ---
 
-## Scope & Structural Safety Pre-Flight: Fireblocking IRC R302.11 Protocols
+If the second floor of your older house has cold floors along the outside walls and the basement feels drafty near the sill, you may be living with a two-story chimney you can't see. Balloon framing was common in the Midwest until about 1940. The studs run in one piece from the foundation to the roof, and the floors hang off the side of them, so nothing closes the wall cavity at each floor.
 
-The objective of this retrofit is to convert open, continuous stud cavities into sealed, compartmentalized assemblies. Eliminating the vertical chimney stops sub-zero basement air infiltration, ends second-floor floor drafts, and increases occupant fire evacuation windows from three minutes to over forty-five minutes.
+That open cavity does two things. In winter, heated air rises up it and escapes into the attic, and cold basement air gets pulled in to replace it (Building Science Corporation, BSD-109, *Pressures in Buildings*).
 
-Historic balloon-framed homes present specific vintage jobsite hazards:
+In a fire, it lets flames and smoke travel up inside the walls. A NIOSH firefighter fatality report (F2002-49) describes the balloon-frame void as letting hidden fire "spread vertically for two or three floors."
 
-- **Knob-and-Tube Wiring:** Historic homes built between 1880 and 1935 frequently contain active knob-and-tube electrical conductors inside wall bays. Inspect open stud cavities with a non-contact voltage tester before touching framing. Never pack insulation around live knob-and-tube wiring; call a licensed electrician to de-energize and decommission old circuits first.
-- **Historic Lead Dust & Particulates:** Vacuuming out open joist bays disturbs decades of settled coal dust, plaster crumbs, and potentially lead-based paint residues. Wear an OSHA-rated N95 or P100 half-face respirator, eye protection, and disposable nitrile work gloves.
-- **Combustible Foam Warning:** Never use standard orange canned polyurethane "firefoam" as a standalone fireblock. Polyurethane is combustible plastic that melts at 240°F and fails ASTM E136 vertical tube furnace testing. Always use dense non-combustible mineral wool as the physical barrier, using firestop caulk strictly for perimeter edge sealing.
+&rarr; [Balloon Framing: Why Older Midwest Two-Stories Are Drafty and How to Tell If Yours Is One](balloon-framing.html)
 
----
+## Before You Start
 
-## Mineral Wool Firestop & Intumescent Materials Schedule
+Is there knob-and-tube wiring?
+Houses from this era often have it running through the wall bays. Test any wires you see with a non-contact voltage tester, and don't pack insulation around knob-and-tube that is still live. Have an electrician check or replace those circuits first.
 
-Assemble the following tools and code-approved materials on site:
+Is there lead dust?
+The bays are full of old plaster, coal dust and possibly lead paint dust in any house built before 1978. Wear a P100 respirator, eye protection and gloves, and use a HEPA vacuum. If you hire a contractor, they must follow EPA's lead-safe work rules in pre-1978 homes.
 
-| Category | Specification | Application |
-| :--- | :--- | :--- |
-| **Non-Combustible Fireblock** | 3.5" Dense mineral wool batt (Rockwool Comfortbatt or Safe'n'Sound, ASTM E136) | Friction-fit compression blocks in open stud bays |
-| **Intumescent Firestop Sealant** | ASTM E814 / UL 1479 certified intumescent acrylic mastic (e.g., 3M Fire Barrier CP 25WB+) | Perimeter air seal around mineral wool blocks |
-| **Cutting Equipment** | 10" Serrated insulation knife or bread knife | Precision dimensioning of dense mineral wool |
-| **Surface Preparation** | HEPA-filtered shop vacuum with crevice wand | Clearing mortar crumbs and dust from sill pockets |
-| **Attic Eave Flashing** | 1/2" Type X gypsum board or 26-gauge galvanized sheet metal | Capping wide open stud tops beneath roof eaves |
-| **Fasteners & Applicator** | Heavy-duty caulking gun; 1-1/2" drywall screws for timber cleats | Dispensing firestop sealant; securing backing cleats |
+Why not just foam it?
+Expanding foam is a plastic, and it burns. Orange "fireblock" foam is made for sealing small gaps, not for filling a 3.5 by 14.5 inch bay. Fill the bay with something that doesn't burn, and use foam or fire-rated caulk only around the edges.
 
----
+## What You Need
 
-## Phase-by-Phase Chimney-Break Execution Protocol
+| Item | What it's for |
+| :--- | :--- |
+| Mineral wool batts, 3.5 inch | The block that fills each stud bay |
+| 2x4 scraps | Solid blocking where mineral wool won't stay put |
+| Fire-rated sealant or fireblock foam | Sealing the edges around each block |
+| Serrated insulation knife or bread knife | Cutting mineral wool cleanly |
+| HEPA shop vacuum with crevice tool | Cleaning out the bays first |
+| Work light and mirror | Seeing up into the bays from the basement |
 
-Follow these five sequential steps to execute a code-compliant two-end balloon frame retrofit:
+## Step 1: Find and Clean the Bays in the Basement
 
-### Step 1: Basement Perimeter Mud Sill Inspection & Debris Clearing
-Work systematically around the basement perimeter where floor joists rest on the foundation mud sill:
-- Shine a high-lumen work light directly upward between floor joists to locate the open 3.5" x 14.5" pockets extending up into the exterior wall framing.
-- Using a crevice wand on a HEPA shop vacuum, thoroughly vacuum loose plaster keys, dried mortar dust, and cobwebs from the mud sill plate and stud surfaces.
-- Measure the exact width and depth of each stud bay, noting any bay obstructed by cast-iron plumbing stacks or gas supply lines.
+Stand in the basement along an outside wall and shine a light straight up between the floor joists. In a balloon-framed house you'll see open pockets running up into the wall, one between each pair of studs. Vacuum out the plaster crumbs, mortar dust and debris from each one.
 
-### Step 2: Mineral Wool Fireblock Sizing & Friction-Fit Compression
-Cut and install dense non-combustible mineral wool blocks into every individual stud bay:
-- Using a serrated knife, cut pieces of 3.5-inch dense mineral wool approximately 1/2-inch wider and taller than the open stud pocket (typically 4" x 15").
-- Press the dense mineral wool block firmly into the open stud pocket above the sill plate, pushing it upward until it sits flush with the bottom face of the second-floor joist ribbon.
-- Confirm that the springback tension of the dense basalt fibers holds the block tightly against all three wood sides without sagging or shifting.
+Measure each bay and note any that have plumbing stacks, gas lines or wiring running through them. Those need extra care around the pipe or wire.
 
-### Step 3: Intumescent Firestop Perimeter Mastic Air Seal
-Mineral wool arrests fire spread, but air sealing requires elastomeric firestop mastic:
-- Load an ASTM E814-rated intumescent acrylic sealant cartridge into a heavy-duty caulk gun.
-- Apply a continuous, heavy 3/8-inch bead of sealant along all four perimeter interfaces where the mineral wool block contacts the wood studs, joists, and sill.
-- Tool the sealant with a gloved finger to ensure an airtight, pinhole-free bond between the mineral fibers and the wood substrate.
+## Step 2: Fill Each Bay with a Mineral Wool Block
 
-### Step 4: Attic Eave Cavity Blocking & Air Seal
-Transition to the unfinished attic or perimeter knee-wall spaces to cap the top exhaust:
-- Pull back existing loose insulation along the roof eaves to expose the open tops of the 24-foot exterior wall studs.
-- Cut and friction-fit 3.5-inch mineral wool blocks into the top of every stud bay beneath the roof rafters, or screw 2x4 lumber blocks directly between stud ends.
-- Run a continuous bead of intumescent firestop mastic along all perimeter seams to permanently eliminate positive-pressure convective exfiltration into the attic.
+Cut a piece of mineral wool about half an inch wider and taller than the opening, so it holds itself in place by friction. Push it up into the bay until it sits snug against the bottom of the floor framing. If it sags or slips, add a 2x4 block screwed between the studs underneath it.
 
-### Step 5: Dense-Pack Cellulose Cavity Infill Preparation
-With the two open ends permanently blocked and firestopped, prepare the hollow cavities for insulation:
-- Because the top and bottom of each stud bay are now sealed, cellulose blowing crews can drill small 2-inch exterior access holes beneath siding courses.
-- Dense-pack loose-fill borate-treated cellulose at **3.5 lbs/cu.ft** from bottom to top, permanently eliminating convective looping and boosting cavity thermal resistance from R-1 to R-13.
-- Plug and seal the exterior access holes with cedar or foam plugs, caulking perimeters to maintain weather resistance.
+Mineral wool is made from stone, and manufacturers rate it to well over 2,000°F, which is why it is the usual choice here. A block of solid wood works too.
 
----
+## Step 3: Seal the Edges
 
-## Balloon Framing Firestop Materials & Contractor Scope Checklist
+The block slows fire, but air still slips past the edges. Run a continuous bead of fire-rated sealant or fireblock foam around all four sides where the block meets the wood, and press it into the gaps. When you're done, you shouldn't be able to see daylight or feel air moving around the block.
 
-Retrofitting fireblocking into existing balloon-framed cavities requires strict adherence to fire safety codes (IRC Section R302.11 / ASTM E136):
+## Step 4: Block the Top in the Attic
 
-### 1. Approved Material Specifications
-- **Fireblocking Insulation:** Mineral wool batts (Rockwool Safe'n'Silent or Thermafiber) with a minimum density of 2.5 lbs/cu.ft. Never use fiberglass batts for fireblocking. Fiberglass melts at 1,100°F within minutes during a chimney fire, whereas mineral wool withstands temperatures above 2,150°F.
-- **Intumescent Fire Caulk:** ASTM E814 / UL 1479 certified intumescent acrylic caulk (red/gray) that expands up to 3x when exposed to intense heat, sealing microscopic gaps against flame passage.
-- **Solid Wood Blocking:** Minimum 2-inch nominal dimensional lumber (2x4 or 2x6) or structural wood-structural panels (minimum 23/32" plywood/OSB) fastened securely into studs.
+Now cap the other end. In the attic, or behind the knee walls on a story-and-a-half, pull the insulation back along the eaves until you can see the tops of the outside wall studs. Fill each open top with mineral wool or a wood block and seal the edges the same way.
 
-### 2. High-Risk Contractor Omissions
-1. **Using Standard Expanding Polyurethane Foam:** Standard yellow foam is combustible plastic that burns rapidly and emits toxic fumes during a structural fire. Only fireblock-rated expanding foam (orange) tested per ASTM E814 is permitted.
-2. **Missing the Center Balloon Partitions:** Many pre-1920s homes also feature interior balloon-framed load-bearing walls running through the center hallway. These open interior flues must be fireblocked just like the exterior perimeter walls.
+This step matters as much as the basement. Blocking only one end still leaves a cavity that leaks, and the stack effect pushes hardest at the top.
+
+&rarr; [Attic Air Sealing and Baffles: A Step-by-Step Guide](attic-air-sealing-baffles.html)
+
+## Step 5: Dense-Pack the Walls
+
+With both ends closed, the walls are ready for insulation. Installers drill small holes from outside, under the siding, and blow cellulose into each bay until it is packed tight, usually around 3.5 pounds per cubic foot. Building Science Corporation tested walls packed to that density and measured air leakage through them dropping about tenfold (Lstiburek, BSI-043).
+
+Fix any roof or siding leaks before the walls are insulated. An insulated wall stays colder on the outside and dries more slowly, so water that got in before has a harder time getting out.
+
+## How to Tell It Worked
+
+On a cold, still day, hold a stick of incense near the basement sill pockets and along the second-floor baseboards. If the smoke drifts sideways or gets pulled into the wall, there is still a leak.
+
+A blower door test before and after the work puts a number on it. Ask your contractor for both results, so you can see how much the leakage dropped instead of taking it on faith.
+
+&rarr; [How to Pass a Blower Door Test on a Midwest Remodel: The Leaks to Seal First](blower-door-checklist.html)
+
+Don't forget the inside walls. Many older houses also have balloon-framed interior bearing walls down the center hallway, and those open up from the basement to the attic too.
 
 ---
 
-## Quality Commissioning: Blower Door Stack-Effect Verification
+### Sources
 
-Confirm the thermal and structural airtightness of the assembly before completing the project:
-
-### 1. Draft Smoke Pencil Check
-Under winter conditions, activate a chemical smoke pencil or incense stick at basement perimeter sill pockets and along second-floor baseboard trim. The smoke trail should remain perfectly vertical, verifying zero convective suction through the wall cavities.
-
-### 2. Infrared Thermal Imaging (Cold Gradient)
-Inspect exterior walls and floor-to-wall interfaces using a handheld thermal camera on a sub-20°F morning. Second-floor baseboard temperatures, which typically register a frigid 54°F–58°F in unsealed balloon homes, should rise to within 2°F of the ambient conditioned room temperature (66°F–68°F).
-
-### 3. Blower Door Depressurization Test (ASTM E779)
-Conduct a calibrated blower door depressurization test at 50 Pascals (ACH50). Firestopping and air-sealing the basement mud sill and attic ends of balloon framing routinely reduces whole-house air leakage by **35% to 45%**, taking older Midwest homes from 14+ ACH50 down to a controlled 7.5 to 8.5 ACH50.
-
----
-
-### Related Building Science Guides
-- **Historic Balloon Framing Physics:** &rarr; **[Read: Balloon Framing in Midwest Two-Stories: The Hidden Fire and Thermal Flaw](balloon-framing.html)**
-- **Historic Brick Masonry Retrofit:** &rarr; **[Read: Insulating 100-Year-Old Brick Homes: Freeze-Thaw Spalling and Interior Vapor Retarders](insulating-brick.html)**
-- **Cavity Insulation Density & Looping:** &rarr; **[Read: Does Rockwool Outperform Fiberglass? How Each Holds Up in Midwest Wall Assemblies](rockwool-vs-fiberglass.html)**
-- **Blower Door Leak Zones:** &rarr; **[Read: 10 Critical Blower Door Test Leak Zones Contractors Miss](blower-door-checklist.html)**
+1. NIOSH Fire Fighter Fatality Investigation F2002-49, *Volunteer Lieutenant Dies Following Structure Collapse at Residential House Fire, Pennsylvania*, released November 21, 2003.
+2. J. Lstiburek, *BSI-043: Don't Be Dense, Cellulose and Dense-Pack Insulation*, Building Science Corporation, 2010.
+3. Building Science Corporation, *BSD-109: Pressures in Buildings*.
+4. U.S. EPA, Renovation, Repair and Painting (RRP) Rule for pre-1978 homes.

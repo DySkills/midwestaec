@@ -7,157 +7,92 @@ category: "Water Barriers"
 catSlug: "water-barriers"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
-subtitle: "A practical jobsite manual for sealing foundation vents, detailing 20-mil vapor barriers, insulating stem walls, and installing commercial dehumidification under IRC R408.3."
-summary: "How to do crawl space encapsulation under IRC R408.3: Step-by-step contractor manual for 20-mil Class A liners, exterior vent sealing, and commercial dehumidification."
-codeTag: "IRC Section R408.3 / ASTM E1745 / ASHRAE 62.2"
+subtitle: "Close the vents, cover the ground, insulate the walls and give the space a way to dry. Here is the order, with the details DOE's Building America guide recommends."
+summary: "How to encapsulate a crawl space step by step: fix water, seal vents, lay and seal a ground vapor retarder, insulate walls with foam, seal the rim, dry the space and plan for radon."
+codeTag: "DOE Building America Solution Center / EPA Radon Guide"
 author: "Midwest AEC Building Science"
-date: "October 2026"
-readTime: "10 min read"
+date: "November 2026"
+readTime: "7 min read"
 referralHook: "Crawlspace Encapsulation & Dehumidifier Specification Match"
+faq: [{"q": "How far should the crawl space vapor barrier go up the wall?", "a": "The DOE Building America Solution Center recommends running it up the walls to within 4 inches of the top of the foundation and securing it with strapping and masonry fasteners, with seams overlapped 12 inches and sealed with adhesive and tape."}, {"q": "Does a sealed crawl space need a dehumidifier?", "a": "It needs some way to dry. DOE guidance describes a continuously running exhaust fan or a supply of conditioned air, at least 1 cfm per 50 square feet of floor area or 50 cfm, whichever is greater. A dehumidifier is another common option, especially where summers are humid."}, {"q": "Should I insulate the floor or the walls of a sealed crawl space?", "a": "The walls. Once the crawl space is sealed, it becomes part of the house, so the insulation moves to the foundation walls. DOE guidance uses rigid foam such as polyiso or XPS on the walls, continued down below grade."}, {"q": "Can I encapsulate a crawl space with a gas furnace in it?", "a": "Not with an old furnace that pulls combustion air from the crawl space. DOE guidance says not to use low-efficiency heating that draws combustion air from the space, and to use a sealed-combustion furnace or a heat pump instead."}]
 ---
 
-# How to Encapsulate a Crawlspace: The Step-by-Step Conversion Guide
+# How to Encapsulate a Crawl Space: The Step-by-Step Conversion Guide
 
-> **Quick Summary:** Converting a damp, open-vented crawlspace into an airtight, conditioned envelope permanently halts summer mold incubation, stops winter freeze drafts, and protects indoor air quality. Under International Residential Code (IRC) Section R408.3, encapsulation requires eliminating exterior vents, covering the earth with an unpunctured Class A vapor barrier, insulating foundation stem walls, and providing dedicated mechanical dehumidification.
+> **Quick Summary:** Encapsulating a crawl space turns it from a damp, cold outdoor space into a dry part of the house. The work goes in a set order: stop water coming in, seal the vents, cover and seal the ground, insulate the walls, seal the rim joist, then give the space a way to dry. Test for radon before you start, and check any combustion equipment down there.
 >
-> - **Execution Difficulty & Time:** Intermediate DIY to Advanced Trade; 3 to 4 days for a standard 1,200 sq. ft. crawlspace.
-> - **Primary Code & Standards Mandates:** IRC Section R408.3 (unvented crawlspaces), ASTM E1745 (Class A underslab/ground vapor retarders), and IRC Section R318.4 (termite inspection strip).
-> - **Critical Materials:** 12-mil to 20-mil reinforced virgin polyolefin liner, double-sided butyl mastic tape, 2" polyisocyanurate or XPS rigid foam board, expanding closed-cell foam, and commercial low-temperature dehumidifier.
-> - **Jobsite Verification:** Digital hygrometer tracking (maintain 45%–55% RH), joist wood moisture pin testing (< 14%), and negative-pressure smoke pencil checks.
+> - Fix water problems first. Plastic over a wet crawl space traps the water.
+> - Overlap vapor retarder seams 12 inches and run it up the walls.
+> - Insulate the walls, not the floor above.
+> - Plan the drying and the radon pipe before you seal it up.
 
 ---
 
-> ### Quick Protocol: How to Do Crawl Space Encapsulation Step-by-Step
->
-> 1. **Divert Bulk Groundwater:** Excavate an interior perimeter French drain connected to a sealed sump pit with dual battery backup.
-> 2. **Seal All Exterior Vents & Rim Joists:** Friction-fit 2" XPS foam plugs into vent blockouts, seal with polyurethane caulk, and apply 2" closed-cell spray foam (R-13) across the rim joist.
-> 3. **Lay 20-Mil ASTM E1745 Class A Vapor Barrier:** Roll puncture-proof virgin polyolefin across the earth, lap seams 12 inches with butyl mastic, and anchor 12" up stem walls using aluminum termination bars.
-> 4. **Insulate Foundation Stem Walls:** Fasten 2" foil-faced polyiso or XPS board to concrete walls, maintaining a 3-inch bare termite inspection strip below the mud sill.
-> 5. **Install Commercial Dehumidification:** Hard-pipe a dedicated low-temperature dehumidifier to drain, regulating subterranean relative humidity at 45%–50% RH.
+This is the how-to. If you're still deciding whether to seal your crawl space at all, start with the comparison.
+
+&rarr; [Crawl Space Encapsulation vs. a Vented Crawl Space: Which Is Right for a Midwest Home](crawlspace-encapsulation.html)
+
+## Before You Start
+
+Is there radon?
+Test the house before you begin. The EPA says to fix a home with radon confirmed at 4 picocuries per liter or higher, and the best fix in a crawl space home, submembrane depressurization, goes in under the same plastic you're about to lay down.
+
+What's burning down there?
+DOE's Building America Solution Center says not to keep a low-efficiency furnace or water heater that pulls combustion air from the crawl space once it's sealed. Replace it with sealed-combustion equipment or a heat pump first, and never store flammable materials in the crawl space.
+
+Is it safe to work in?
+Crawl spaces have tight spaces, sharp debris, old insulation and sometimes animals. Wear a respirator, gloves and knee pads, and have someone outside who knows you're down there.
+
+## Step 1: Stop the Water
+
+Any water coming in has to be dealt with before the space is sealed, or the plastic will just hold it in. Check the grading and downspouts outside: the DOE Building America Solution Center recommends the ground fall at least 6 inches in the first 10 feet. If the crawl space floor is below the outside grade, the foundation walls should be damp-proofed or waterproofed on the outside, and you may need a drain and sump.
+
+&rarr; [Why Water Comes Into Your Basement After Heavy Rain, and What Actually Fixes It](basement-waterproofing.html)
+
+## Step 2: Clean Out and Seal the Vents
+
+Pull out the old fiberglass batts hanging between the floor joists, along with debris and anything wet or moldy. Then close the foundation vents. DOE guidance suggests filling each vent with cut rigid foam, doubled if the vent is recessed, and sealing it in place with spray foam or caulk.
+
+## Step 3: Cover and Seal the Ground
+
+Lay a ground vapor retarder over the whole floor. The DOE guide uses 6-mil polyethylene as the minimum, and many contractors use thicker reinforced sheeting because it holds up better to crawling over it.
+
+How much should seams overlap?
+DOE recommends overlapping seams 12 inches, twice what the code minimum asks, and sealing them with adhesive and tape.
+
+How far up the walls?
+Run the sheet up the walls to within 4 inches of the top of the foundation, and hold it in place with strapping and masonry fasteners. Wrap and tape it around piers.
+
+Where does the radon pipe go?
+If you're installing a radon system, the collection pipe goes under the sheet before it's sealed, with the vent pipe running up and outside.
+
+## Step 4: Insulate the Walls
+
+Once the crawl space is sealed, it's part of the house, so the insulation belongs on the foundation walls. DOE guidance uses rigid foam, either polyiso or XPS, fastened with masonry fasteners and large cap washers. It carries the insulation down to grade and then at least 24 more inches.
+
+Most codes require a fire barrier over foam, typically half-inch drywall, and in termite country you may need to leave a 3-inch bare inspection strip at the top of the wall. Check with your local building department, since requirements vary by city.
+
+## Step 5: Seal the Rim Joist
+
+The rim joist, where the floor framing sits on the foundation, is one of the leakiest spots in the house. DOE guidance suggests cutting rigid foam to fit each bay and sealing the edges with spray foam or caulk, or using spray foam alone. Check the wood for moisture first, and if it's wet or stays wet, find out why before you cover it.
+
+## Step 6: Give the Space a Way to Dry
+
+A sealed crawl space still needs moisture control. DOE guidance describes two options: a continuously running exhaust fan, or a supply of conditioned air from the house's HVAC system, at least 1 cfm per 50 square feet of crawl space floor or 50 cfm, whichever is more. A dehumidifier sized for the space is another common choice, especially in humid summers.
+
+Weather-strip and insulate the access door or hatch, and use a latch that pulls it tight.
+
+## How to Tell It Worked
+
+Put an inexpensive humidity monitor in the crawl space.
+
+The EPA's mold guidance recommends keeping indoor humidity below 60 percent, ideally 30 to 50 percent, and a sealed crawl space should stay in that range through the first summer. The musty smell upstairs should fade too. Retest for radon after any radon system is running.
 
 ---
 
-## Scope & Hydrology Pre-Flight: IRC R408.3 Soil Gas & Vapor Protocols
+### Sources
 
-Before rolling out heavy poly, review the thermodynamic physics behind [summer vented crawlspace joist rot](crawlspace-encapsulation.html). Sealing foundation perimeter penetrations also stops subterranean pests as outlined in our [pest prevention and envelope weatherization guide](bug-prevention.html).
-
-
-The objective of crawlspace encapsulation is to decouple the sub-floor structure from subterranean moisture and humid outdoor air. Transforming the crawlspace into a conditioned zone stops wood rot, prevents indoor stack-effect contamination, and cuts annual space heating and cooling bills by up to 20%.
-
-Working in confined subterranean spaces requires strict adherence to personal and structural safety protocols:
-
-- **Respiratory & Biological Hazard Protection:** Crawlspaces frequently harbor elevated concentrations of airborne mold spores, rodent droppings, dried bat guano, and soil dust. Technicians must wear NIOSH-approved P100 half-face respirators, sealed protective safety goggles, and full-body disposable Tyvek suits.
-- **Bulk Water Remediation Requirement:** Never encapsulate a crawlspace over standing liquid water. If seasonal high water tables or hydrostatic pressure push liquid water across the soil floor, you must trench an interior perimeter drain tile and install an automatic sump pump before laying vapor barrier membranes.
-- **Termite Inspection Strip Mandate:** In regions where subterranean termites are active (IRC Section R318.4), building codes require leaving a continuous 3-inch bare concrete inspection gap between the top edge of perimeter wall insulation and the wood mud sill. Never cover this inspection strip with foam.
-
----
-
-## 20-Mil Class I Vapor Barrier & Perimeter Fastening Schedule
-
-Assemble the following tools and commercial-grade materials prior to entering the crawlspace:
-
-| Category | Specification | Application |
-| :--- | :--- | :--- |
-| **Ground Vapor Barrier** | 20-mil multi-layer scrim-reinforced virgin polyolefin (ASTM E1745 Class A) | Continuous ground cover and stem wall liner |
-| **Sealing Tapes** | 4" heavy-duty acrylic vapor tape and 1.5" double-sided butyl mastic tape | Sealing liner overlaps, pier wraps, and wall joints |
-| **Perimeter Wall Insulation** | 2" Foil-faced polyisocyanurate (R-13) or 2" XPS rigid foam board | Continuous thermal boundary on concrete stem walls |
-| **Mechanical Fasteners** | 1" Aluminum termination bars and masonry powder-actuated/Tapcon anchors | Securing vapor barrier to concrete stem walls |
-| **Air-Sealing Sealants** | 2-part closed-cell spray foam kit (e.g., Froth-Pak) and polyurethane caulk | Sealing rim joist perimeters and vent blockouts |
-| **Mechanical Conditioning** | Dedicated commercial crawlspace dehumidifier (e.g., Santa Fe Compact70) | Active relative humidity control (45%–55% RH) |
-
----
-
-## Phase-by-Phase Encapsulation & Radon Isolation Protocol
-
-Follow these six sequential steps to execute a code-compliant crawlspace encapsulation:
-
-### Step 1: Site Clearance, Grading & Bulk Drainage
-Prepare the subterranean soil floor to receive a permanent vapor barrier:
-- Remove all discarded construction lumber, cardboard, sharp rocks, and organic debris that could puncture plastic or harbor mold.
-- Rake and grade the soil toward an interior low point. If the crawlspace experiences standing water or seasonal seepage, excavate an interior perimeter trench, install 4-inch perforated drain tile wrapped in filter fabric, and set a sealed sump basin equipped with a cast-iron pump and battery backup.
-- In rough, gravelly terrain, lay a 4-ounce non-woven geotextile cushion fleece across the dirt to prevent sharp aggregate from puncturing the primary vapor barrier.
-
-### Step 2: Foundation Vent Sealing & Rim Joist Air Isolation
-Permanently sever connection to exterior outdoor air:
-- Unscrew or knock out existing stamped-metal exterior vent grilles.
-- Cut plugs from 2-inch closed-cell XPS foam board to friction-fit tightly inside each foundation vent blockout.
-- Seal the perimeter of each foam plug from the inside using expanding closed-cell polyurethane foam and high-grade exterior sealant, ensuring a completely airtight, weather-proof barrier.
-- Spray 2 inches of closed-cell foam along the entire rim joist and mud sill perimeter to seal the critical floor-to-foundation juncture.
-
-### Step 3: Class A Reinforced Ground Vapor Barrier Installation
-Lay a puncture-proof subterranean moisture shield across the soil floor:
-- Roll out rolls of 20-mil scrim-reinforced polyolefin liner across the ground, overlapping adjacent sheets by a minimum of **12 inches**.
-- Apply double-sided butyl mastic tape between overlapping sheets, compress firmly, and seal the top seam with 4-inch heavy-duty acrylic vapor tape.
-- Run the liner up the interior face of all exterior concrete stem walls to a height of **12 inches above grade**, but stop at least 3 inches below the wood mud sill to preserve the termite inspection gap.
-- Secure the top edge of the liner to the concrete using aluminum termination bars fastened with masonry screws, backed by a continuous ribbon of polyurethane mastic.
-
-### Step 4: Wrapping Structural Support Columns & Plumbing Chases
-Detail all vertical penetrations through the ground plane:
-- Cut tailor-fit boots from vapor barrier material around all masonry support piers, steel jack posts, and subterranean plumbing stacks.
-- Run the membrane 12 inches up each pier, securing the top edge with termination tape and zip ties.
-- Caulk around electrical conduits, radon suction points, and gas pipes with non-curing polyurethane acoustic sealant.
-
-### Step 5: Stem Wall Continuous Thermal Insulation
-Insulate the perimeter foundation walls to bring the crawlspace inside the home's thermal boundary:
-- Fasten 2-inch continuous foil-faced polyisocyanurate board (R-13) or 2-inch XPS foam directly against the concrete stem walls using masonry fasteners.
-- Ensure the insulation overlaps the top edge of the ground vapor barrier, anchoring it firmly in place.
-- Strictly maintain a continuous **3-inch bare concrete gap** between the top of the foam board and the wood mud sill for visible termite mud tube detection.
-- Seal all foam board vertical and horizontal butt joints with foil-faced insulation tape.
-
-### Step 6: Commercial Dehumidifier Installation & Drainage Detailing
-Provide active mechanical humidity control per IRC Section R408.3:
-- Place a low-temperature commercial crawlspace dehumidifier (rated for 70 to 90 pints per day at 60°F) on a level hanging bracket or elevated vibration-absorbing rubber pad.
-- Hard-pipe the condensate drain port using 3/4-inch rigid PVC pipe directly into the sump pit or gravity-fed to an exterior daylight drain (never use flexible vinyl tubing that can kink).
-- Wire the unit to a dedicated 15-amp GFCI electrical receptacle and set the digital humidistat between **45% and 50% relative humidity**.
-
----
-
-## How to Do Crawl Space Encapsulation: Summary Protocol & Critical Trade Milestones
-
-Homeowners and contractors asking **how to encapsulate crawl space** foundations successfully in the Midwest and Great Lakes region must execute the conversion in strict building science sequence. Skipping steps, such as laying vapor barrier over unmitigated groundwater or failing to air-seal the rim joist, leads to catastrophic moisture trapping.
-
-### The 4 Non-Negotiable Milestones:
-1. **Bulk Water Diverted First:** Never lay plastic over active mud or seasonal ponding water. Trench French drain perimeter tile to a sealed interior sump pit with battery backup before barrier installation.
-2. **Monolithic Air Boundary (Vents & Joists):** Every exterior foundation vent must be plugged with 2-inch closed-cell foam and sealed with polyurethane caulk. The rim joist and sill plate must receive 2 inches of closed-cell spray foam.
-3. **Class A Continuous Membrane (20-Mil):** Crawl space encapsulation requires a puncture-resistant, virgin polyolefin membrane sealed with double-sided butyl tape and mechanical termination bars along stem walls.
-4. **Mechanical RH Control (Dehumidification):** An encapsulated crawl space is a conditioned envelope. It requires a dedicated commercial low-temperature dehumidifier maintaining 45% to 55% relative humidity year-round.
-
----
-
-## Crawl Space Encapsulation Materials Shopping List & Contractor Bid Scrutiny
-
-Executing a durable crawl space encapsulation requires professional-grade materials that resist hydrostatic water pressure, puncture, and soil off-gassing:
-
-### 1. Essential Materials Specification Schedule
-- **Vapor Barrier:** Never use standard 6-mil clear construction poly (it tears easily and degrades within 3 to 5 years). Demand **minimum 12-mil to 20-mil multi-layer virgin polyolefin reinforced with polyester cord grid** (e.g., Stego Wrap 20-mil or CleanSpace).
-- **Seam Tape & Mastic:** High-tack butyl rubber tape (minimum 4-inch width) for overlapping seams and sealing around interior piers. Standard duct tape or silver foil tape fails within 60 days in subterranean humidity.
-- **Mechanical Fasteners:** Heavy-duty aluminum termination bars fastened into concrete masonry with 1/4" concrete drive anchors spaced every 12 inches on center.
-- **Dedicated Dehumidifier:** Residential portable dehumidifiers cannot operate below 65°F without freezing up. Install an Energy Star certified low-temperature crawl space unit (AHRI 920 rated, minimum 70 pints/day at 60°F).
-
-### 2. Red Flags on Contractor Quotes
-1. **Leaving Dirt Walls Unsealed:** Contractors who only lay plastic on the floor while leaving dirt ledges or masonry walls bare leave an open highway for humidity and water intrusion.
-2. **No Dedicated Condensate Drainage:** Dehumidifier lines must drain either to an active sump basin or gravity-drain to the home exterior. Draining condensate directly back onto the vapor barrier creates an indoor swimming pool.
-3. **Covering Combustion Air Openings:** If your furnace or water heater is located in the crawl space, ensure proper makeup combustion air is hard-piped from outside before sealing all foundation vents (per NFPA 54 / IRC Section G2407).
-
----
-
-## Quality Commissioning: Hygrometer Calibration & Sub-Slab Depressurization Check
-
-Confirm the hygrothermal performance and environmental safety of the encapsulated assembly:
-
-### 1. Continuous Relative Humidity & Temperature Monitoring
-Mount a wireless digital thermo-hygrometer inside the center of the crawlspace with a remote indoor display. Over a 30-day summer operating window, confirm that relative humidity remains strictly between **45% and 55% RH**, verifying that outdoor moisture air is completely sealed out.
-
-### 2. Wood Framing Moisture Content (ASTM D4442)
-Test multiple floor joists and subfloor sections using a calibrated electrical pin moisture meter. Wood moisture content, which routinely exceeds 22% in vented crawlspaces, must drop to and stabilize between **10% and 14%**, permanently suppressing wood-decay fungi.
-
-### 3. Smoke Pencil Air-Leakage Verification
-Use a chemical smoke pencil along sealed foundation vent plugs, access hatch weatherstripping, and rim joist spray-foam perimeters during windy weather. Zero smoke displacement verifies a monolithic airtight seal.
-
----
-
-### Related Building Science Guides
-- **Vented Crawlspace Thermodynamics & Mold:** &rarr; **[Read: Crawlspace Encapsulation vs. Open Venting in the Midwest: Mold, Odors & Heating Costs](crawlspace-encapsulation.html)**
-- **Under-Slab Waterproofing & Hydrostatic Pressure:** &rarr; **[Read: Why Water Enters Midwest Basements After Heavy Rain: Hydrostatic Head and Under-Slab Vapor Barriers](basement-waterproofing.html)**
-- **Sub-Slab & Rim Joist Foam Specs:** &rarr; **[Read: Below-Slab and Rim Joist Foam Spec: Stopping Frost-Heave and Basement Heat Loss](sub-slab-insulation-specs.html)**
-- **Blower Door Checklist:** &rarr; **[Read: 10 Critical Blower Door Test Leak Zones Contractors Miss](blower-door-checklist.html)**
+1. U.S. Department of Energy, Building America Solution Center (PNNL), *Unvented, insulated crawlspaces*.
+2. U.S. Department of Energy, Building America Solution Center (PNNL), *Patio slabs, porch slabs, walks and driveways slope away from house*.
+3. U.S. EPA, *Consumer's Guide to Radon Reduction*, 2016.
+4. U.S. EPA, *A Brief Guide to Mold, Moisture and Your Home*.

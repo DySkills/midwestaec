@@ -1,131 +1,93 @@
-# Attic Air Sealing & Eave Baffling: The Step-by-Step Cold Roof Retrofit
+# Attic Air Sealing and Baffles: A Step-by-Step Guide
 > **Publication:** Midwest AEC (https://midwestaec.com)
 > **Jurisdiction:** Climate Zones 4 & 5 (Midwest Residential & Commercial)
 > **Canonical Article:** https://midwestaec.com/articles/attic-air-sealing-baffles.html
-> **Building Code Reference:** IRC Section R806.2 / IECC R402.4 / ASTM E779
-> **Summary:** Attic air sealing and eave baffles stop winter ice dams permanently. Step-by-step guide to sealing top plate bypasses and installing R-60 under IECC R402.
+> **Building Code Reference:** UMN Extension / BSC BSD-102 / BSC BSD-135
+> **Summary:** How to air seal an attic step by step: pull back insulation, seal top plates, chases and lights, install eave baffles, seal the hatch, then add insulation, in the order UMN and BSC recommend.
 
 
-# Attic Air Sealing & Eave Baffling: The Step-by-Step Cold Roof Retrofit
+# Attic Air Sealing and Baffles: A Step-by-Step Guide
 
-> **Quick Summary:** Eliminating ice dams and cutting winter ceiling heat loss requires converting your attic into a true balanced cold roof assembly. By mechanically sealing ceiling bypasses and installing rigid rafter baffles before blowing insulation, you prevent warm indoor air from warming the roof sheathing above 32°F.
-
-Stopping convective ceiling bypasses is the single most effective permanent defense against [destructive winter ice dams](ice-dams-roofs.html). Unsealed attic air leaks also channel warm, humid indoor air into freezing rafters, causing [winter attic frost and roof sheathing sweating](attic-frost-roof-sweating.html). On low-slope or cathedral ceilings where rafter baffles cannot fit, builders utilize [continuous roof insulation over sheathing](roof-insulation-over-sheathing.html).
-
+> **Quick Summary:** Most of the heat and moisture that cause attic frost and ice dams leave the house through holes in the attic floor. Seal those holes first, keep air moving at the eaves with baffles, seal the hatch, and only then add insulation on top. Doing it in this order is what both University of Minnesota Extension and Building Science Corporation recommend.
 >
-> - **Execution Difficulty & Time:** Advanced DIY or Professional Trade; 12 to 16 labor hours for an average 1,200 sq. ft. attic footprint.
-> - **Primary Thermal Target:** Whole-house envelope airtightness under 3.0 ACH50, zero convective bypasses into attic, and continuous R-60 thermal boundary.
-> - **Critical Materials:** One-component polyurethane foam, rigid extruded baffles with integral wind-wash dams, 26-gauge sheet metal, and loose-fill cellulose.
-> - **Jobsite Verification:** Visual depth gauges (18–20 inches), infrared camera audit during sub-freezing weather, and ASTM E779 blower door depressurization.
+> - Pull insulation back before you seal. You can't seal what you can't see.
+> - Big holes first: chases, soffits, hatch.
+> - Metal and fire-rated sealant around flues, never foam.
+> - Baffles at every eave bay before blowing new insulation.
 
 ---
 
-## Scope & Thermal Boundary Pre-Flight: R-60 Air-Barrier Protocols
+This is the how-to. If you're not sure your attic is the problem, start with what the frost and ice are telling you.
 
-The objective of this retrofit is to mechanically separate conditioned living space from the unconditioned attic. Halting warm air leakage stops snowmelt on the upper roof deck, while rigid eave baffles ensure cold outdoor air circulates freely from soffit to ridge vent.
+&rarr; [Frost in the Attic: Why Midwest Roof Sheathing Sweats and Frosts in Winter, and How to Stop It](attic-frost-roof-sweating.html)
 
-Working in unfinished attics presents significant physical and environmental hazards:
+## Before You Start
 
-1. **Fall Protection & Joist Walking:** Never step on ceiling drywall or plaster; ceiling finishes cannot support human body weight. Lay two 2x10 wood walking planks across ceiling joists to create secure staging paths, and maintain three points of contact at all times.
-2. **Respiratory & Personal Protection:** Disturbing decades-old attic insulation releases airborne mineral particulates, mouse allergens, and historic dust. Wear an OSHA-rated N95 or P100 half-face respirator, protective disposable coveralls (Tyvek), safety goggles, and heavy work gloves.
-3. **Electrical & Combustion Hazards:** Ensure all power circuits feeding attic junction boxes and ceiling fixtures are identified before spraying expanding foam. Maintain mandatory 3-inch fire clearances around metal chimney flues and non-IC-rated recessed fixtures using non-combustible sheet metal shields.
+Is the wiring safe?
+Look for old knob-and-tube wiring. It shouldn't be buried in insulation while it's live, so have an electrician check it first.
 
----
+Is there vermiculite?
+Loose, pebbly gray-brown insulation may be vermiculite, which can contain asbestos. Don't disturb it. The EPA recommends leaving it alone and hiring a trained professional if it must be removed.
 
-## Mechanical Fasteners & Firestop Materials Schedule
+What do I need?
+A respirator, gloves, a headlamp, boards to walk on so you stay on the joists, one-part spray foam, caulk, rigid foam board, sheet metal, fire-rated sealant and baffles. Work on a cool day. Attics get dangerously hot in summer.
 
-Assemble all materials and tools on site before entering the attic hatch to minimize trips across unfinished joists:
+## Step 1: Pull Back the Insulation
 
-| Category | Specification | Application |
-| :--- | :--- | :--- |
-| **Air Sealing Foam** | Pro-grade gun applicator with one-component low-expansion polyurethane foam (can foam) | Framing top plates, wire holes, and plumbing penetrations |
-| **Chasm Flashing** | 26-gauge galvanized sheet metal and 1/2" foil-faced polyiso rigid board | Dropped soffits, furnace chases, and whole-house fan covers |
-| **Firestop Sealant** | ASTM E136 non-combustible firestop caulk | Chimney flues and high-temperature B-vent penetrations |
-| **Ventilation Baffles** | Rigid PVC or extruded foam baffles with integrated wind-wash dams (e.g., AccuVent or Durovent) | Every rafter bay from exterior top plate past insulation depth |
-| **Fasteners** | Heavy-duty 1/2" T50 staples or roofing nails with plastic washers | Securing baffles to roof deck and top plates |
-| **Thermal Insulation** | Borate-treated loose-fill cellulose (ASTM C739) or virgin loose-fill mineral wool | Blown uniformly across ceiling to 18–20 inch depth (R-60) |
-| **Mechanical Equipment** | Electric insulation blowing hopper with 100-foot hose; thermal imaging camera | Insulation application and post-install quality audit |
+Rake or vacuum the insulation away from the spots you're going to seal. Start with the areas most likely to leak: over bathrooms and the kitchen, along interior walls, around the hatch and near the chimney.
 
----
+## Step 2: Seal the Big Holes First
 
-## Phase-by-Phase Cold Roof Execution Protocol
+Large openings leak the most, so they come first. Building Science Corporation's ice dam digest (Straube, BSD-135) names plumbing stacks, recessed lights, chimneys and attic hatches as common paths.
 
-Follow these six sequential steps to execute an airtight, balanced cold roof assembly:
+What about dropped soffits?
+Soffits over kitchen cabinets and bathtubs are often open boxes into the attic. Cover them with rigid foam or drywall cut to fit, and seal the edges with foam or caulk.
 
-### Step 1: Attic Prep & Insulation Rake-Back
-Clear work zones across the attic floor to expose bare drywall and framing plates:
-- Using an attic rake or flat shovel, push existing loose fiberglass or rockwool away from exterior wall perimeters and central partition walls.
-- Vacuum loose dirt and debris from framing joints with a HEPA shop vacuum to ensure expanding foam bonds tenaciously to wood and drywall substrates.
-- Staple calibrated cardboard insulation depth markers (ruler flags) every 300 square feet across the attic floor to gauge blown depth accurately.
+What about plumbing and wiring chases?
+Cover open chases the same way. Seal pipes and wires where they pass through with one-part foam.
 
-### Step 2: Seal Framing Top Plates and Wiring Penetrations
-Mechanical air sealing must follow a systematic perimeter-to-core path:
-- Walk the perimeter and interior partition walls, applying a continuous 3/8-inch bead of polyurethane expanding foam along the seam between the drywall and the 2x4 or 2x6 wood top plates.
-- Fill all drilled holes where electrical Romex cables pass through top plates, sealing both the wire opening and the perimeter wood gap.
-- Seal around ceiling electrical junction boxes, bathroom exhaust fan housings, and ceiling register boots using expanding foam or acoustic sealant.
+What about the chimney or flue?
+Never foam a gap around a chimney or flue. Cut sheet metal to fit, seal it to the framing with fire-rated or high-temperature sealant, and keep insulation the required clearance away. Check the flue or chimney manufacturer's instructions for the distance.
 
-### Step 3: Bridge Large Chases, Flues, and Recessed Lights
-Large architectural openings require structural flashing before sealing:
-- **Plumbing Stacks & Duct Chases:** Cut galvanized sheet metal or rigid polyiso board to fit around pipes and open chases. Fasten the sheet to surrounding framing and seal all perimeter edges with expanding foam.
-- **Metal Chimneys & B-Vents:** Install a two-piece sheet metal firestop collar around the metal flue, maintaining the code-mandated 2-inch clearance. Seal the seam with ASTM E136 firestop sealant; never use flammable foam near chimneys.
-- **Recessed Can Lights:** Replace older leaking fixtures with airtight, IC-rated LED retrofits, or construct five-sided boxes from 1/2-inch foil-faced polyiso board, dropping them over the fixtures from the attic and sealing seams to drywall.
+## Step 3: Seal the Small Holes
 
-### Step 4: Install Continuous Ventilation Baffles at Every Eave Bay
-Cold air from soffit vents must reach the attic without blowing loose insulation away:
-- Slide a rigid ventilation baffle into every rafter bay along the exterior wall plates until the intake flange rests tight against the exterior wall top plate.
-- Fasten the baffle flanges directly to the underside of the roof deck using 1/2-inch heavy-duty staples or ring-shank roofing nails every 8 inches.
-- Confirm that the lower wind-wash dam of the baffle blocks wind from scouring the edge of the insulation while maintaining a clear 2-inch ventilation channel against the roof deck.
+Then go along the tops of the interior walls. Where the wall top plates meet the drywall below, and wherever wires pass through them, seal with caulk or one-part foam. BSD-135 recommends caulk for small gaps and expanding foam for openings larger than about 1 inch.
 
-### Step 5: Weatherstrip and Insulate the Attic Access Hatch
-The attic hatch is frequently the largest unsealed thermal hole in the entire home:
-- Install heavy-duty neoprene or EPDM bulb weatherstripping along the supporting wooden stops of the attic hatch opening.
-- Adhere a minimum of four inches of foil-faced polyiso rigid foam board (R-26) to the back of the removable hatch panel using foam-compatible adhesive.
-- Fasten a perimeter wood dam (using 1x10 or 1/2-inch OSB) around the attic opening to prevent blown insulation from spilling into the living space when opening the hatch.
+Recessed lights that aren't rated airtight are a common leak. Replace them with airtight-rated fixtures, or cover them with a fire-rated box made for that purpose.
 
-### Step 6: Dense-Blow R-60 Loose-Fill Cellulose
-With all air bypasses sealed and baffles secured, apply the thermal blanket:
-- Set up the loose-fill blowing machine outside and route the flexible 3-inch hose through a window or the attic hatch.
-- Starting at the farthest eaves, blow loose-fill cellulose uniformly across the attic floor, keeping the hose parallel to the joists to prevent wind-scour.
-- Fill the floor until the depth reaches **18 to 20 inches across the entire field**, completely burying ceiling joists and matching the code-mandated R-60 performance benchmark.
+## Step 4: Install Baffles at Every Eave
+
+At each rafter bay along the eaves, staple a baffle to the underside of the roof deck so it runs from above the soffit vent up past where the insulation will end. That keeps a channel open for air to flow from the soffit up under the deck, and keeps blown insulation from spilling into the vents.
+
+Building Science Corporation's Joseph Lstiburek recommends at least 2 inches of clear air space under the deck where ground snow loads are high (BSI-097), more than the 1 inch many codes ask for. While you're at the eaves, block the ends of the bays above the wall top plates so wind doesn't blow through the insulation.
+
+## Step 5: Seal and Insulate the Hatch
+
+The attic hatch or pull-down stairs is one big hole. Weather-strip the edges, add rigid foam to the top of the hatch, and use a latch that pulls it tight against the weatherstrip. For pull-down stairs, an insulated cover box over them works well.
+
+## Step 6: Add Insulation
+
+Now the insulation goes on top. Blown cellulose or fiberglass fills around joists and wires better than batts. BSD-135 gives R-30 as a minimum below ventilated attics and recommends more in very cold climates, zone 6 and up.
+
+Most of the Midwest is in zones 5 to 7, so ask your state energy office or utility what level their programs recommend.
+
+Keep the insulation clear of the flue, and level it over the whole attic so the edges near the eaves are as deep as you can get them without blocking the baffles.
+
+## How to Tell It Worked
+
+A blower door test before and after is the clearest proof, so if you hire this out, ask for both numbers. The next winter, check the attic on a cold day for frost, and watch the eaves for icicles. Both should be much reduced.
+
+&rarr; [How to Pass a Blower Door Test on a Midwest Remodel: The Leaks to Seal First](blower-door-checklist.html)
 
 ---
 
-## Attic Air Sealing Cost Breakdown & Contractor Bid Checklist
+### Sources
 
-Homeowners evaluating whether to hire a weatherization contractor or tackle attic air sealing as a DIY weekend project need realistic regional price benchmarks.
-
-### 1. Typical Midwest Installed Costs (1,200 to 1,800 Sq. Ft. Attic)
-- **Turnkey Professional Air-Sealing & Baffle Package:** **$1,600 to $2,800** ($1.30 to $1.75 per sq. ft.). This scope covers clearing insulation back from exterior top plates, sealing all top plate drywall junctions, wire drops, and plumbing chases with two-part expanding foam, installing rigid cardboard or PVC rafter baffles with wind-wash blockers, and building an insulated, weatherstripped attic hatch box.
-- **Full Air-Seal + R-60 Blown Cellulose Package:** **$3,200 to $4,800** ($2.20 to $2.90 per sq. ft.). Covers air sealing plus blowing 16 to 18 inches of stabilized borate-treated cellulose over existing settled insulation.
-- **DIY Material Cost:** **$450 to $750** for professional-grade DIY kit: one 200 board-foot two-part spray foam kit (Touch 'n Foam / Froth-Pak), 30 rigid PVC rafter baffles, acoustic caulk, foil tape, and sheet metal for chimney clearances.
-
-### 2. High-Risk Contractor Shortcuts to Watch For
-1. **Blowing Cellulose Without Baffles:** Cheap contractors will blow insulation directly against the roof sheathing at the eaves, completely choking off soffit ventilation. Within one winter, the roof sheathing will rot from trapped condensation.
-2. **Missing Chimney Fireblocking:** Code (IRC Section R1003.18) strictly prohibits spraying expanding foam directly against a masonry or metal B-vent chimney flue. The gap must be sealed with 26-gauge galvanized sheet metal and fire-rated non-combustible silicone.
-3. **Leaving Can Lights Unsealed:** Standard non-IC rated recessed incandescent can lights act as roaring thermal chimneys. Ensure they are replaced with IC-rated airtight LED wafer fixtures or enclosed in sealed fire-rated covers (Tenmat boxes) prior to insulation.
-
----
-
-## Quality Commissioning: Depressurization & Thermal Boundary Verification
-
-Confirm the physical performance of the retrofit before closing the project:
-
-### 1. Depth & Density Verification
-Inspect depth markers across all quadrants of the attic. The loose-fill cellulose must measure a minimum of 18.5 inches deep to account for standard 5% post-install settling, ensuring long-term R-60 thermal resistance. Verify that all rafter baffles remain completely clear of insulation debris.
-
-### 2. Infrared Thermal Inspection (Sub-Freezing Gradient)
-Perform a thermal imaging survey on a cold morning (outdoor temperature below 25°F) while the heating system runs indoors. From the living space, inspect ceiling perimeters, partition top plates, and can lights. The ceiling drywall should display a uniform surface temperature within 2°F of the conditioned room air, confirming zero convective leakage.
-
-### 3. Blower Door Depressurization (ASTM E779)
-Conduct a calibrated blower door depressurization test at 50 Pascals (ACH50). A properly executed ceiling air-sealing retrofit typically reduces whole-house air leakage by 25% to 40%, dropping drafty older Midwest homes down toward the 2.5 to 3.0 ACH50 threshold.
-
----
-
-### Related Building Science Guides
-- **Roof Ice Dam Mechanics:** &rarr; **[Read: The Physics of Midwest Ice Dams: The Real Fix (And Why Heat Cables Don't Work)](ice-dams-roofs.html)**
-- **Cathedral Ceiling Continuous Over-Sheathing:** &rarr; **[Read: Adding Continuous Insulation When Replacing Your Roof: Over-Sheathing Cathedral Ceilings](roof-insulation-over-sheathing.html)**
-- **Winter Utility Tariffs & Stack Dynamics:** &rarr; **[Read: Winter Tariff Hikes: Why $20k on Windows Doesn't Hold Up](energy-hikes.html)**
-- **Blower Door Leak Zones:** &rarr; **[Read: 10 Critical Blower Door Test Leak Zones Contractors Miss](blower-door-checklist.html)**
+1. University of Minnesota Extension, *Dealing with and preventing ice dams*, reviewed 2022.
+2. Minnesota Department of Commerce, *Home Energy Guide*, July 2025.
+3. J. Straube, *BSD-135: Ice Dams*, Building Science Corporation, 2006.
+4. J. Lstiburek, *BSD-102: Understanding Attic Ventilation* (revised 2013) and *BSI-097: De-Icing Ice Dams* (2018), Building Science Corporation.
+5. U.S. EPA, guidance on vermiculite attic insulation.
 
 
 ---

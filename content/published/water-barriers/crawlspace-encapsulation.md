@@ -1,5 +1,5 @@
 ---
-title: "Crawl Space Encapsulation vs Vented: Stop Mold & High Heating Bills"
+title: "Crawl Space Encapsulation vs. a Vented Crawl Space: Which Is Right for a Midwest Home"
 slug: "crawlspace-encapsulation"
 format: "Report"
 leadType: "Contrast"
@@ -7,151 +7,73 @@ category: "Water Barriers"
 catSlug: "water-barriers"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
-subtitle: "Why code-mandated foundation vents act as moisture incubators during humid Midwest summers, and the building-science blueprint for sealed, conditioned encapsulation."
-summary: "Crawl space encapsulation vs vented dirt floors: Why 20-mil sealed liners and commercial dehumidifiers cut floor rot and mold risk under IRC Section R408."
-codeTag: "IRC Section R408.3 / ASTM E1745 / ASHRAE 62.2"
+subtitle: "Vents were supposed to dry out crawl spaces. In a Midwest summer they let in humid air, and in winter they freeze the floor. Here is what research found when crawl spaces were sealed instead."
+summary: "Sealed, insulated crawl spaces versus vented ones: why vents fail in Midwest summers and winters, what DOE research found on humidity and energy, and what encapsulation involves."
+codeTag: "DOE Building America / EPA Radon Guide / BSC BSD-109"
 author: "Midwest AEC Building Science"
-date: "October 2026"
-readTime: "11 min read"
+date: "November 2026"
+readTime: "6 min read"
 referralHook: "Crawlspace Encapsulation & Dehumidifier Specification Match"
+faq: [{"q": "Is it better to seal or vent a crawl space?", "a": "DOE Building America research found that unvented, conditioned crawl spaces reduced humidity by more than 20 percent and saved 15 to 18 percent on heating and cooling compared with vented ones. An Oak Ridge National Laboratory comparison also concluded the sealed, insulated design was better than the traditional vented crawl space."}, {"q": "Why do vented crawl spaces get moldy in summer?", "a": "In summer, outdoor air is often more humid than the air in the crawl space. When that warm, humid air comes in through the vents and meets the cool floor framing and ground, moisture condenses or the wood stays damp, which feeds mold."}, {"q": "Does crawl space air get into my house?", "a": "Yes. In winter, warm air rises out of the top of the house and pulls air in low, including from the crawl space through gaps around pipes, wires and floor seams. Whatever is in the crawl space air, including moisture, mold spores and radon, can end up in the rooms above."}, {"q": "Does encapsulation fix radon?", "a": "Not by itself. The EPA says sealing has not been shown to lower radon significantly or consistently. The most effective fix in crawl space homes is submembrane depressurization: a plastic sheet over the ground with a fan venting the radon outdoors."}]
 ---
 
-# Crawlspace Encapsulation vs. Open Venting in the Midwest: Mold, Odors & Heating Costs
+# Crawl Space Encapsulation vs. a Vented Crawl Space: Which Is Right for a Midwest Home
 
-> **Quick Summary:** For more than half a century, traditional building codes mandated open foundation vents under the unscientific premise that outdoor cross-breezes would sweep away subterranean moisture. In the humid Midwest, this practice produces the exact opposite result. When warm, humid summer air (88°F, 80% RH, dew point 76°F) enters an open-vented crawlspace chilled by deep earth temperatures (60°F to 64°F), its relative humidity spikes past 100%, causing water to condense onto floor joists, rot structural framing, and breed toxic mold colonies that migrate into living spaces via the stack effect. In winter, those same vents pull sub-zero drafts under living-room floors and freeze uninsulated plumbing. Encapsulating the crawlspace as a closed, conditioned zone under IRC Section R408.3 permanently eliminates moisture rot, improves indoor air quality, and lowers annual heating costs by up to 25%.
+> **Quick Summary:** Building codes once required crawl spaces to be vented to the outside so they could dry out. In much of the Midwest that backfires: summer air coming in is often wetter than the crawl space, and winter air coming in freezes the floor and pipes. Research for the Department of Energy found sealed, insulated crawl spaces were drier and cheaper to heat and cool. Encapsulation means closing the vents, covering the ground, insulating the walls and giving the space a way to dry.
 >
-> - **The Psychrometric Condensation Trap:** Relative humidity is temperature-dependent; cooling humid 88°F outdoor air down to a 62°F crawlspace temperature doubles its relative humidity, causing condensation to rain off cold ducts and floor joists.
-> - **The Stack Effect Inhalation:** Up to 50% of the air breathed on the first and second floors of a home originates from the crawlspace, carrying fungal spores, dust mites, subterranean radon, and damp microbial odors straight into the living space.
-> - **The Winter Freeze Penalty:** Open vents allow sub-zero air to circulate directly under first-floor hardwood and tile, chilling living areas, sagging unsealed fiberglass floor batts, and dumping 25% of HVAC duct heat into the outdoors.
-> - **IRC Section R408.3 Engineering Standard:** Transforming a vented crawlspace into a conditioned envelope requires permanently sealing exterior vents, installing a taped 12-mil to 20-mil reinforced Class A vapor barrier up stem walls, insulating perimeter walls to R-10/R-15, and installing dedicated commercial dehumidification.
+> - DOE research found sealed crawl spaces cut humidity by more than 20 percent.
+> - The same research found 15 to 18 percent heating and cooling savings.
+> - Crawl space air rises into your living space.
+> - Test for radon, and treat it with a fan, not sealing alone.
 
 ---
 
-## Sub-Floor Condensation Mechanics: Why Vented Crawlspaces Rot Joists Across the Midwest
+If your floors are cold in January, there's a musty smell in summer, and the insulation under the floor is hanging down in strips, your crawl space may be working against you. Those are the classic signs of a vented crawl space in a climate with humid summers and cold winters, which describes most of the Midwest.
 
-For decades, municipal residential building codes mandated open foundation vents under the flawed assumption that outdoor cross-ventilation would dry out crawlspaces. Across the Midwest (from the humid river valleys of the Ohio and Missouri Rivers to the lake-effect belts), this practice has produced catastrophic moisture failures in hundreds of thousands of residential subfloors.
+## Why Don't the Vents Work?
 
-When outdoor air at 88°F and 75% relative humidity (dew point: 79°F) enters foundation vents and contacts earth-cooled floor joists and subfloors sitting at 62°F to 65°F, psychrometric physics forces immediate bulk condensation. Fiberglass batt insulation installed between floor joists absorbs this moisture like a sponge, pulling away from subfloors, fostering toxic mold colonies, and driving subfloor moisture content above 25%, the critical rot threshold for structural wood framing.
+The idea behind vents was that outside air would carry crawl space moisture away. That works only when the outdoor air is drier than the crawl space air. DOE's Building America program points out that in humid weather the outdoor air is often wetter, and bringing it in causes structural, mold and pest problems.
 
-Converting a vented foundation into a clean, conditioned space requires executing our [step-by-step crawlspace encapsulation protocol](crawlspace-encapsulation-steps.html). Soil moisture barriers should coordinate with [sub-slab rigid foam insulation specifications](sub-slab-insulation-specs.html), permanently denying pests the damp timber detailed in our [building envelope bug prevention guide](bug-prevention.html).
+A Midwest July is a good example. Warm, humid air flows in through the vents and meets floor joists and soil that are much cooler. The air cools, its humidity rises, and the wood soaks up moisture or water condenses on cold surfaces like ductwork and pipes.
 
+Winter brings the opposite problem. Subzero air pours in through the vents, chills the floor above, and can freeze water lines in the crawl space. The fiberglass batts between the joists don't stop that air, so the floor stays cold.
 
-## Summer Crawlspace Condensation: How Humid Outdoor Air Rots Cool Subfloors
+## Crawl Space Air Becomes Your Air
 
-The physics of crawlspace moisture failure is governed by **psychrometrics** (the relationship between air temperature, absolute moisture content, and relative humidity).
+In winter, warm air rises out of the top of the house and pulls air in low to replace it. Building Science Corporation calls this the stack effect (*BSD-109, Pressures in Buildings*). In a house over a crawl space, a lot of that replacement air comes up from the crawl space, through gaps around pipes, wires, ducts and the seams in the subfloor.
 
-> ### Summer Condensation Dynamics in Open Vented Crawlspaces
->
-> | Metric / Environmental Parameter | Outdoor Summer Ambient | Unconditioned Crawlspace Interior |
-> | :--- | :--- | :--- |
-> | **Dry-Bulb Temperature** | 88°F (Stagnant river-basin heat) | 60°F – 64°F (Chilled by subterranean earth) |
-> | **Relative Humidity** | 84% RH | **> 100% RH (Severe Supersaturation)** |
-> | **Dew Point Temperature** | 82°F Dew Point | Moisture condenses on 55°F air conditioning ducts |
-> | **Wood Moisture Content (Joists)** | 12% – 14% (Stable equilibrium) | **> 22% – 28% (Active wood-destroying rot fungi)** |
+So whatever is in the crawl space air ends up in the rooms above it: damp air, mold spores, musty smells and soil gases such as radon.
 
-Cold air holds substantially less water vapor than warm air. When warm, moisture-laden outdoor air enters a shaded crawlspace through foundation vents, it is cooled by contact with the deep earth (which stays between 55°F and 65°F year-round) and by contact with air-conditioned floor cavities.
+&rarr; [Does an Old House Need to Breathe? Air Leaks, Fresh Air and Why 'Build Tight, Ventilate Right' Wins](does-house-need-to-breathe.html)
 
-For every **20°F drop in dry-bulb temperature**, the relative humidity of the air approximately **doubles**.
+## What Did the Research Find?
 
-If outdoor air at 88°F and 84% RH enters a crawlspace and cools to 62°F, it crosses its **76°F dew point**. The air reaches 100% saturation, and the excess water vapor condenses out of the air onto every cold surface.
+DOE's Building America program studied unvented, conditioned crawl spaces and found they reduced humidity by more than 20 percent and saved 15 to 18 percent on heating and cooling. That research helped change the International Residential Code to allow unvented crawl spaces starting in 2009.
 
-An open-vented crawlspace in the Midwest functions like an industrial dehumidifier running in reverse, continuously pulling moisture from humid outdoor air and depositing gallons of water onto structural wood framing.
+Oak Ridge National Laboratory compared a pair of houses, one with a vented crawl space and one with a sealed crawl space with foam-insulated walls, and concluded that "the sealed and insulated crawlspace design is better than the traditional vented crawlspace" (ORNL/TM-2011/438). Both studies were in mixed-humid climates, like the lower Midwest. The physics behind them, humid summer air and cold winter air both coming in through vents, applies across the region.
 
----
+## What Does Encapsulation Involve?
 
-## The Stack Effect: Why Crawlspace Air Becomes Upstairs Air
+The DOE Building America Solution Center lays out the basic steps: close and seal the vents, cover the floor with a ground vapor retarder taped at the seams and run up the walls, insulate the walls with rigid foam, seal the rim joist, and give the space a way to dry, such as a small supply of conditioned air or a dehumidifier. Fix any water coming in first.
 
-Many homeowners believe that whatever happens in the crawlspace stays in the crawlspace. Building science demonstrates the complete opposite.
+&rarr; [How to Encapsulate a Crawl Space: The Step-by-Step Conversion Guide](crawlspace-encapsulation-steps.html)
 
-Because of the **stack effect**, warm indoor air naturally rises through second-floor ceilings and attic bypasses, creating negative air pressure at the bottom of the building.
+## What About Radon?
 
-> ### The Stack Effect Air Transport Dynamics
->
-> | Air Stream Pathway | Physical Mechanism | Indoor Air Quality Impact |
-> | :--- | :--- | :--- |
-> | **Exfiltration at Ceiling** | Warm indoor air rises and escapes into vented attic | Creates negative pressure zone in lower level of home |
-> | **Crawlspace Infiltration** | Sub-floor drafts pull air upward through floor penetrations | **40% to 50% of first-floor air originates directly in crawlspace** |
-> | **Contaminant Transport** | Mold spores, radon gas, and soil odors pulled into living space | Triggers respiratory allergies, asthma, and chronic cellar odors |
+Crawl spaces sit right on the soil, so radon is a real concern in much of the Midwest. The EPA says to fix your home if radon is confirmed at 4 picocuries per liter or higher. Sealing alone isn't the fix: the EPA says it "has not been shown to lower radon levels significantly or consistently."
 
-Diagnostic blower door testing and tracer gas studies show that **40% to 50% of the air breathed on the first floor** of a home with a crawlspace is drawn directly from that crawlspace through subfloor seams, plumbing chases, and partition wall framing.
+What works, according to the EPA, is submembrane depressurization: the same plastic sheet that covers the ground, with a pipe under it and a fan venting the radon outdoors. If you're encapsulating anyway, test first and plan for the radon pipe at the same time.
 
-When a crawlspace is filled with mold, airborne fungal spores and toxic mycotoxins are steadily siphoned into the bedrooms and living rooms above, triggering asthma, allergies, and chronic sinus inflammation.
+## Is It Worth It?
+
+If your crawl space is damp in summer, your floors are cold in winter, or you've had frozen pipes down there, sealing it is likely to help with all three. If the crawl space is bone-dry, the floors are comfortable and radon tests low, the urgency is lower. Either way, ask any contractor what they'll do about water coming in, how the space will be dried, and whether they'll install a radon system or leave a way to add one.
 
 ---
 
-## The Winter Disaster: Freezing Floors and Sagging Batts
+### Sources
 
-In winter, the open-vent theory fails just as catastrophically.
-
-When outdoor temperatures in Chicago, Des Moines, or Minneapolis plunge to -10°F, open foundation vents pull sub-zero arctic air directly beneath the living room, kitchen, and bathroom floors:
-
-1. **Freezing Floors:** First-floor hardwood and tile surfaces drop to 50°F to 54°F, causing extreme discomfort. Homeowners crank thermostats to 74°F to compensate.
-2. **Duct Heat Loss:** Heating supply ducts routed through an unconditioned crawlspace shed up to 25% to 30% of their thermal energy to the outdoors before hot air ever reaches floor registers.
-3. **Plumbing Freeze Risk:** Domestic water supply pipes and drain lines routed through the crawlspace are exposed to freezing drafts, causing burst pipes during polar vortex events.
-4. **Fiberglass Batt Failure:** Traditional fiberglass batts stuffed between floor joists fail completely. Fiberglass does not stop airflow. Sub-zero drafts blow straight through the porous glass fibers (wind-washing), while moisture evaporating from the damp dirt floor is absorbed by the batts, causing them to sag and pull away from the subfloor.
-
----
-
-## The Engineered Solution: IRC Section R408.3 Encapsulation
-
-Under the International Residential Code (IRC Section R408.3), builders are legally permitted to eliminate exterior foundation vents entirely and encapsulate the crawlspace as a **sealed, conditioned building space**:
-
-> ### The Four Pillars of Crawlspace Encapsulation (IRC R408.3)
->
-> | System Component | Technical Specification | Building Science Function |
-> | :--- | :--- | :--- |
-> | **[1] Vent Air Sealing** | 2" rigid foam plugs + closed-cell spray foam | Permanently isolates crawlspace from outdoor summer humidity and winter freeze |
-> | **[2] Stem Wall Insulation** | 2" Foil-faced polyiso or closed-cell foam (R-10 to R-15) | Keeps crawlspace envelope warm; leaves 3" termite inspection stripe below sill |
-> | **[3] Heavy Ground Vapor Barrier** | 12-mil to 20-mil multi-layer virgin polyolefin | Stops 100% of subterranean moisture evaporation; seams lapped 12" and sealed |
-> | **[4] Dedicated Conditioning** | Commercial dehumidifier (e.g., Santa Fe Compact70) | Maintains crawlspace relative humidity strictly between 45% and 55% year-round |
-
-Converting a crawlspace under IRC Section R408.3 fundamentally changes its thermodynamic relationship to the rest of the building. Rather than attempting to ventilate away ground moisture with humid summer outdoor air, encapsulation creates a sealed, conditioned enclosure that isolates the foundation framing from both outdoor weather extremes and subterranean earth dampness.
-
-By closing the foundation vents, installing a monolithic 20-mil Class A vapor barrier across the dirt floor and up the stem walls, and insulating the foundation perimeter, the sub-floor space is brought inside the home's thermal and pressure boundary. Conditioning the space with a dedicated commercial low-temperature dehumidifier permanently maintains relative humidity between 45% and 55%, ensuring structural joists remain dry, stable, and immune to fungal decay.
-
-&rarr; **[Step-by-Step Tutorial: How to Encapsulate a Crawlspace](crawlspace-encapsulation-steps.html)**
-
----
-
-## Specification Benchmark: Open Vented vs. Conditioned Encapsulation
-
-The table below contrasts traditional open-vented crawlspaces against fully sealed, conditioned crawlspaces across the Great Lakes, the Corn Belt, and the Northern Plains:
-
-| Environmental & Performance Metric | Traditional Open Vented Crawlspace | Sealed Conditioned Encapsulation (IRC R408.3) |
-| :--- | :--- | :--- |
-| **Summer Relative Humidity** | **75% to 95% (Extreme mold risk)** | **45% to 55% (Maintained by dehumidifier)** |
-| **Wood Joist Moisture Content (Summer)** | **20% to 26% (Active rot decay)** | **10% to 14% (Dry and structurally sound)** |
-| **First-Floor Winter Floor Temp** | **52°F to 58°F (Cold, drafty)** | **66°F to 69°F (Warm and comfortable)** |
-| **HVAC Duct Heat Loss in Winter** | **20% to 30% thermal energy lost** | **< 3% loss (Ducts are inside conditioned envelope)** |
-| **Indoor Air Quality (First Floor)** | High mold spore count & MVOC odors | **Clean, allergen-free air** |
-| **Radon Infiltration Risk** | High (Drawn in by stack effect) | **Mitigated (Class A liner acts as radon retarder)** |
-| **Plumbing Freeze Vulnerability** | High (Requires heat tape in polar vortex) | **Virtually Zero (Crawlspace stays at 60°F+)** |
-| **Annual Heating & Cooling Costs** | Baseline | **15% to 22% Reduction in utility bills** |
-
----
-
-### Verifiable Standards & Technical Sources
-
-1. **International Code Council (ICC):**
-   - *2024 International Residential Code (IRC):* Section R408.3 ("Unvented Crawl Space") and Section R408.2 ("Openings for Under-Floor Ventilation").
-   - *2024 International Energy Conservation Code (IECC):* Section R402.2.11 ("Crawlspace Walls").
-2. **Advanced Energy Corporation & U.S. Department of Energy (DOE):**
-   - *Field Performance of Closed Crawl Spaces in Mixed-Humid Climates (Multi-Year Energy and Moisture Study)*.
-   - *Building America Case Study: Closed Crawlspaces for Energy Savings and Moisture Control*.
-3. **ASTM International:**
-   - *ASTM E1745:* Standard Specification for Plastic Water Vapor Retarders Used in Contact with Soil or Granular Fill.
-   - *ASTM E96:* Standard Test Methods for Water Vapor Transmission of Materials.
-   - *ASTM D1709:* Standard Test Methods for Impact Resistance of Plastic Film by the Free-Falling Dart Method.
-4. **ASHRAE (American Society of Heating, Refrigerating and Air-Conditioning Engineers):**
-   - *ASHRAE Standard 62.2:* Ventilation and Acceptable Indoor Air Quality in Residential Buildings.
-   - *ASHRAE Handbook of Fundamentals:* Chapter 25 ("Heat, Air, and Moisture Control in Building Assemblies").
-5. **Building Science Corporation (BSC):** *Building Science Digest BSD-115: Crawlspace Insulation and Hygrothermal Performance* (Dr. Joseph Lstiburek).
-
----
-
-### Related Building Science Guides
-- **Under-Slab Waterproofing & Drainage:** &rarr; **[Read: Why Water Enters Midwest Basements After Heavy Rain: Hydrostatic Head and Under-Slab Vapor Barriers](basement-waterproofing.html)**
-- **Sub-Slab & Rim Joist Thermal Breaks:** &rarr; **[Read: Below-Slab and Rim Joist Foam Spec: Stopping Frost-Heave and Basement Heat Loss](sub-slab-insulation-specs.html)**
-- **Passing the Blower Door Test:** &rarr; **[Read: How to Pass the Blower Door Test (< 3.0 ACH50) on a Midwest Remodel](blower-door-checklist.html)**
-- **Air Conditioning Humidity Control:** &rarr; **[Read: Why Midwest ACs Struggle with Summer Humidity: Short-Cycling and Inverter Dehumidification](summer-humidity-ac.html)**
-- **Smart Vapor Retarders vs. Poly:** &rarr; **[Read: Smart Vapor Retarders vs. 6-Mil Plastic: Why Polyethylene Traps Mold in Midwest Summers](smart-vapor-retarders.html)**
+1. U.S. Department of Energy, *Unvented, Conditioned Crawlspaces: Building America Top Innovation*.
+2. Oak Ridge National Laboratory, *Comparative Study of Vented vs. Unvented Crawlspaces*, ORNL/TM-2011/438.
+3. U.S. Department of Energy, Building America Solution Center (PNNL), *Unvented, insulated crawlspaces*.
+4. U.S. EPA, *Consumer's Guide to Radon Reduction*, 2016.
+5. Building Science Corporation, *BSD-109: Pressures in Buildings*.

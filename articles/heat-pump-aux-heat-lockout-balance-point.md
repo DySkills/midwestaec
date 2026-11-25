@@ -1,163 +1,72 @@
-# Electric Auxiliary Heat Lockout: Setting the Thermostat Balance Point on Heat Pumps
+# Heat Pump Backup Heat Settings: Setting the Switchover Temperature So You Don't Pay for Strip Heat
 > **Publication:** Midwest AEC (https://midwestaec.com)
 > **Jurisdiction:** Climate Zones 4 & 5 (Midwest Residential & Commercial)
 > **Canonical Article:** https://midwestaec.com/articles/heat-pump-aux-heat-lockout-balance-point.html
-> **Building Code Reference:** AHRI 210/240 / ASHRAE 90.1 / ACCA Manual S
-> **Summary:** During the first Midwest freeze in November, thousands of homeowners see their utility bills triple because their smart thermostats engage electric resistance heat strips whenever indoor temperatures lag by 2 degrees. Modern cold-climate heat pumps maintain efficient thermodynamic lift down to 5°F or lower; locking out auxiliary strips until true thermal balance prevents unnecessary grid demand and cuts hundreds of dollars in unnecessary heating costs.
+> **Building Code Reference:** MN CEE Field Assessment / NEEP ccASHP Specification
+> **Summary:** Why heat pump bills spike when backup or auxiliary heat runs, what the switchover or lockout temperature does, and how to set it using Minnesota field data and your heat pump's specs.
 
 
-# Electric Auxiliary Heat Lockout: Setting the Thermostat Balance Point on Heat Pumps
+# Heat Pump Backup Heat Settings: Setting the Switchover Temperature So You Don't Pay for Strip Heat
 
-> **Quick Summary:** In the Great Lakes, Upper Midwest, and Northern Plains, the primary driver of winter electric utility bill shock is not heat pump compressor failure, but premature staging of auxiliary resistance heat strips. Factory default thermostat programming engages 10 kW to 20 kW electric toaster-coils whenever an indoor setpoint lags by more than 1.5°F or when outdoor temperatures dip below 35°F. Modern inverter-driven cold-climate systems operate at a Coefficient of Performance (COP) above 2.0 down to 5°F; programming a mechanical auxiliary lockout stops emergency heat from firing during standard morning recovery cycles.
+> **Quick Summary:** Every Midwest heat pump has backup heat for the coldest days, either electric strips or a furnace. The thermostat or control decides when to switch. Set the switchover too high and the backup runs on days the heat pump could handle, which is where surprise winter bills come from. Field data from Minnesota shows installers often set it too high.
 >
-> - **The 10 kW Resistance Multiplier:** A 10 kW electric auxiliary strip draws 41.6 amps at 240V, consuming 10 kilowatt-hours of power per run-hour at a flat COP of 1.0 ($1.60/hr at $0.16/kWh), compared to an inverter compressor drawing just 2.2 kW at a COP of 2.4.
-> - **Thermostat Aggressive Staging:** Smart thermostats shipped in factory defaults rely on time-and-temperature algorithms that misinterpret slow, steady heat pump warming as mechanical distress, triggering emergency strips when the house is only 2 degrees below setpoint.
-> - **Compressor vs. Aux Lockout Settings:** Independent dual-lockout controls establish two thresholds: an Auxiliary Heat Lockout (above which strips are physically forbidden from firing) and a Compressor Lockout (below which the heat pump shuts down to protect bearings).
-> - **Morning Setback Penalties:** Traditional 8-degree nighttime thermostat setbacks force heat pumps into emergency auxiliary mode at 6:00 AM; maintaining steady setpoints or programming 2-degree ramps preserves pure compressor heating.
+> - Electric strip heat costs much more to run than a heat pump.
+> - Lockouts set at 25 to 35°F were common in the Minnesota study, and too high.
+> - Use your model's low-temperature capacity to pick the switchover.
+> - Avoid big thermostat setbacks, which call for backup heat in the morning.
 
 ---
 
-## The 41-Amp November Morning Power Surge
+The first cold week of the year, the electric bill doubles, and the thermostat keeps showing "Aux Heat." The heat pump itself may be fine. What changed is that it handed more of the job to the backup heat.
 
-It is the second Tuesday of November across central Iowa. The season's first hard freeze has pulled overnight temperatures down to 24°F, and frost glazes the turf.
+## What Is Backup Heat?
 
-Inside a modern 2,200-square-foot home, the programmable thermostat wakes from its overnight 62°F setback to target 68°F at 6:30 AM. Sensing a 6-degree deficit and calculating that the outdoor temperature is below 35°F, the thermostat controller instantly energizes both stages of the indoor air handler's 15 kW electric resistance element.
+Backup heat, also called auxiliary or emergency heat, is a second heat source. In an all-electric home, it's usually resistance strips inside the air handler. In a dual-fuel system, it's a gas or propane furnace.
 
-Outside, the high-efficiency inverter heat pump hums quietly at partial load, capable of extracting 32,000 BTUs at an efficiency of 240%. But inside the electrical panel, 62.5 amps of raw current course through two 60-amp double-pole breakers.
+Why does it cost more?
+Electric strips have a COP of 1.0: one unit of heat for one unit of electricity. A cold-climate heat pump on a mild winter day can run at a COP of 3 or more, and even near 10°F the Minnesota field study measured heat-pump-only COPs around 1.3 (Schoenbauer and others, Center for Energy and Environment, 2017). Every hour the strips run instead of the heat pump costs extra.
 
-Within four hours of morning recovery, the home consumes 60 kilowatt-hours of electricity, more energy than an entire day of mild autumn operation. The homeowner assumes the heat pump is inadequate for Midwest winters, unaware that a single unconfigured menu in the thermostat bypassed the refrigeration system entirely.
+## When Does Backup Heat Run?
 
----
+When the heat pump can't keep up?
+As it gets colder, the heat pump puts out less heat while the house needs more. The temperature where they cross is the balance point. Below it, something has to make up the difference.
 
-## Thermodynamic Physics: Heat Pump COP vs. Resistance Strips
+When it's locked out?
+Many systems have a lockout setting: below a set outdoor temperature, the heat pump shuts off entirely and the backup takes over. In a dual-fuel system this is the switchover point.
 
-Understanding why electric auxiliary heat must be locked out requires analyzing the thermodynamic efficiency divergence between mechanical vapor compression and direct electrical resistance:
+During defrost?
+In cold, damp weather the outdoor coil frosts up, and the heat pump periodically reverses to melt it. The backup usually runs during defrost so cold air doesn't blow into the house. The Minnesota study found eliminating defrost would cut annual backup energy by about 8.3 percent, which shows how much it adds.
 
-> ### Heating Efficiency and Hourly Operating Cost Comparison at 20°F
->
-> | Heating Technology | Energy Conversion Mechanism | Thermodynamic COP | Electric Draw (3-Ton Load) | Hourly Cost at $0.16/kWh |
-> | :--- | :--- | :--- | :--- | :--- |
-> | **Inverter Cold-Climate Heat Pump** | Vapor-compression ambient extraction | **2.25 to 2.60** | 3.8 kW (15.8 Amps) | **$0.61 / hour** |
-> | **Dual-Stage Electric Strip (10 kW)** | Nichrome wire resistive heating ($I^2R$) | **1.00 (Fixed)** | 10.0 kW (41.6 Amps) | **$1.60 / hour** |
-> | **Full Auxiliary Resistance (15 kW)** | Full-bank resistive staging ($I^2R$) | **1.00 (Fixed)** | 15.0 kW (62.5 Amps) | **$2.40 / hour** |
-> | **96% AFUE Condensing Gas Furnace** | Natural gas methane combustion | **0.96 equivalent** | 0.4 kW (Blower only) | **$0.68 / hour** ($1.15/therm) |
+After a setback?
+If the thermostat drops the temperature at night and raises it several degrees in the morning, many controls bring on backup heat to catch up fast. With a heat pump, small or no setbacks usually cost less.
 
-Electric resistance heat functions through Joule heating ($Q = I^2Rt$), where passing current through high-resistance nichrome coils generates thermal energy. By the laws of thermodynamics, direct resistance conversion cannot exceed 100% efficiency (COP = 1.0).
+## What Did the Minnesota Study Find About Settings?
 
-In contrast, a cold-climate heat pump does not create heat from electricity. It uses electrical energy strictly to pump a high-capacity refrigerant cycle, extracting free thermal energy from outdoor air down past -15°F.
+The Center for Energy and Environment found that installers in Minnesota typically set lockouts at 25 to 35°F. That shuts the heat pump off at temperatures where it still runs well, and hands more of the winter to propane or strip heat. The report recommended "improved controls to prioritize ccASHP high capacity operation over backup heating."
 
-At 20°F outdoor ambient, an inverter heat pump delivers 2.4 units of heat energy for every 1 unit of electricity consumed. Engaging resistance strips while the compressor can satisfy the load forces the homeowner to pay 240% more for identical indoor warmth.
+The study's own ducted systems were locked out at 10°F. Even with that lockout, the report estimates the heat pump could cover about 81 percent of the yearly heating load in Minneapolis and 71 percent in Duluth.
 
----
+## How Do I Pick My Setting?
 
-## The Two Distinct Lockout Thresholds
+What can my model actually do?
+Look up the exact outdoor and indoor model pair on the NEEP cold-climate heat pump list. It shows heat output at 47°F, 17°F, 5°F and, for many models, lower. Compare that output to your house's heating load at each temperature to find where it stops keeping up.
 
-Modern communicating thermostats (such as Ecobee, Honeywell Home Pro, and manufacturer-native controls like Mitsubishi kumo cloud) provide separate, independent outdoor temperature thresholds:
+What does backup cost compared with the heat pump?
+If your backup is propane or gas, compare the cost of a unit of heat from each fuel at your rates with the heat pump's COP at that temperature. If it's electric strips, the heat pump almost always wins while it can still keep up, so the lockout can go as low as the heat pump's capacity allows.
 
-> ### Thermostat Balance Point Calibration Matrix
->
-> 1. **Auxiliary Heat Lockout Temperature (High Lockout):**
->    - **Function:** The outdoor ambient temperature above which electric heat strips are physically locked out and prevented from turning on, regardless of indoor temperature lag.
->    - **Midwest Recommended Setting:** **15°F to 25°F** (depending on envelope airtightness and ACCA Manual J load).
->    - **Default Factory Setting:** Disabled or 35°F–40°F (causes premature auxiliary engagement).
-> 
-> 2. **Compressor Lockout Temperature (Low Lockout):**
->    - **Function:** The outdoor temperature below which the outdoor compressor is shut down to prevent mechanical strain, shifting 100% of the load to backup heat.
->    - **Midwest Recommended Setting for ccASHPs:** **-10°F to -15°F** (or manufacturer minimum operating limit).
->    - **Default Factory Setting:** 0°F to 10°F (shuts off high-efficiency inverter prematurely).
+Is the backup staged?
+Many air handlers have strips in stages. Setting them to come on one stage at a time, and only after the heat pump has run a while, keeps them from all firing at once.
 
-When configured properly, the zone between the Auxiliary Lockout (20°F) and Compressor Lockout (-15°F) represents the true hybrid blending band. 
+Ask your HVAC technician to walk you through the thermostat's installer settings. Write down what they were before any change.
 
-Above 20°F, the heat pump carries the entire home independently. Between 20°F and -15°F, the compressor continues running at peak capacity while the resistance strips cycle only as needed to supply supplementary BTUs during extreme overnight wind chill.
+&rarr; [Can a Heat Pump Handle a Midwest Winter? What Minnesota Field Data Shows](cold-climate-heat-pumps.html)
 
 ---
 
-## Sizing the Thermal Balance Point via Manual J
+### Sources
 
-Establishing the exact Auxiliary Heat Lockout temperature requires calculating the home's **Thermal Balance Point**, which is the outdoor temperature where building heat loss equals heat pump output:
-
-```
-                          HEATING CAPACITY VS. BUILDING HEAT LOSS
-     BTU/hr
-    50,000 │                                            / Building Heat Loss
-           │                                           /  (Manual J Curve)
-    40,000 │                                          /
-           │                     THERMAL BALANCE     /
-    30,000 │─────────────────────────★──────────────/
-           │                        / \            /
-    20,000 │                       /   \          /  Heat Pump Max Capacity
-           │                      /     \        /   (Inverter ccASHP)
-    10,000 │                     /       \      /
-           │                    /         \    /
-         0 └───────────┬───────────────┬────────────────────┬───────────
-                     -10°F            18°F                 45°F
-                                Outdoor Temperature
-```
-
-In a well-insulated Climate the Upper Midwest and Great Lakes home with an airtight envelope (sub-2.5 ACH50), a 3-ton cold-climate inverter typically meets 100% of the heating load down to **15°F to 18°F**. 
-
-Setting the Auxiliary Lockout at 18°F guarantees that resistance strips will never fire during 92% of typical Midwest winter hours.
-
-If a homeowner leaves the lockout disabled, standard thermostat differential logic fires the 10 kW strips even on a 38°F afternoon if someone temporarily raises the thermostat by 3 degrees.
-
----
-
-## Step-by-Step Calibration on Popular Thermostat Platforms
-
-Programming these thresholds requires accessing advanced installer setup menus, which are typically hidden from homeowners by default:
-
-### Ecobee (SmartThermostat with Voice / Premium)
-- Navigate to **Main Menu &rarr; Settings &rarr; Installation Settings &rarr; Thresholds**.
-- Change **Configure Staging** from *Automatically* to *Manually*.
-- Set **Compressor Min Outdoor Temperature** to **-10°F** (for NEEP ccASHPs) or **0°F** (for standard units).
-- Set **Aux Heat Max Outdoor Temperature** to **20°F**.
-- Set **Compressor to Aux Temp Delta** to **3°F to 4°F** (prevents strips from engaging during minor setbacks).
-
-### Honeywell Home (T6 Pro / T10 Pro / VisionPRO)
-- Enter Installer Setup by holding the center menu button for 5 seconds.
-- Access ISU **3000 (Outdoor Temperature Sensor)**: Verify outdoor sensor or internet weather is active.
-- Access ISU **3120 (Compressor Lockout)**: Set to **-10°F** or lowest rated threshold.
-- Access ISU **3130 (Auxiliary Lockout)**: Set to **20°F** or **25°F**.
-
----
-
-## Frequently Asked Questions
-
-### What temperature should auxiliary heat be locked out on a heat pump in the Upper Midwest and Great Lakes?
-For modern cold-climate inverter heat pumps (NEEP-listed units like Mitsubishi H2i, Daikin Aurora, or Carrier Infinity), set the **Auxiliary Heat Lockout (Aux Heat Max Outdoor Temp) between 15°F and 25°F**. Standard installer defaults leave this lockout disabled or set to 35°F–40°F, which triggers 10 to 15 kW electric resistance heat strips whenever outdoor temps drop into the 30s. High-performance inverters maintain a Coefficient of Performance (COP) above 1.8 down to 5°F, delivering heat at nearly half the operating cost of electric resistance strips.
-
-### Why did my electric bill double after installing a new heat pump?
-If your winter electric bill surged unexpectedly after switching to a heat pump, the culprit is almost always unconfigured thermostat staging. When a smart thermostat (Ecobee, Nest, Honeywell) is left on factory auto-staging, raising the thermostat by just 2 degrees triggers the auxiliary 40-amp electric resistance strip heaters. A 15 kW strip heater consumes 15 kilowatt-hours of electricity every hour it runs, costing $2.40 per hour ($17 to $25 per day) in pure resistance electrical penalty.
-
-### What is the difference between a thermal balance point and an economic balance point?
-The **thermal balance point** is the outdoor ambient temperature where the home’s heat loss rate exactly equals the maximum heating capacity of the heat pump compressor (typically 15°F to 25°F). Below this temperature, supplemental heat is physically required to maintain indoor temperature. The **economic balance point** applies to dual-fuel systems (heat pump paired with a natural gas furnace): it is the exact temperature where the cost per delivered BTU from the gas furnace becomes cheaper than the cost per BTU from the heat pump, calculated by comparing regional electricity rates ($/kWh) against natural gas rates ($/therm).
-
-### Can running auxiliary electric heat strips trip my circuit breaker?
-Yes. Auxiliary heat strips draw tremendous electrical current, a 15 kW heater draws 62.5 amps at 240 volts, requiring multiple dedicated 30A and 60A double-pole circuit breakers. If an older 100-amp or 150-amp residential service panel is nearing capacity while an electric dryer, electric range, or EV charger is operating simultaneously, the massive surge from auxiliary heat strips can trip the main service breaker during sub-zero cold snaps.
-
----
-
-### Verifiable Standards & Technical Sources
-
-1. **Air Conditioning Contractors of America (ACCA):**
-   - *Manual J (8th Edition):* Residential Load Calculation.
-   - *Manual S (2nd Edition):* Residential Equipment Selection (Heat Pump Sizing in Cold Climates).
-2. **Northeast Energy Efficiency Partnerships (NEEP):**
-   - *Cold-Climate Air-Source Heat Pump Specification (v4.0):* Minimum COP and capacity retention thresholds down to -15°F.
-3. **American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE):**
-   - *ASHRAE Standard 90.1-2022:* Energy Standard for Buildings Except Low-Rise Residential.
-   - *ASHRAE Handbook of Fundamentals (Chapter 16):* Infiltration and Heating Load Profiles.
-4. **Air-Conditioning, Heating, and Refrigeration Institute (AHRI):**
-   - *AHRI Standard 210/240:* Performance Rating of Unitary Air-Conditioning and Air-Source Heat Pump Equipment.
-5. **Iowa Energy Center & Electric Power Research Institute (EPRI):** *Field Monitoring of Cold-Climate Heat Pumps and Auxiliary Resistance Strip Inefficiencies in the Upper Midwest and Great Lakes*.
-
----
-
-### Related Building Science Guides
-- **Inverter Heat Pump Mechanics:** &rarr; **[Read: Can a Heat Pump Actually Handle -15°F? Cold-Climate Inverters During Midwest Winters](cold-climate-heat-pumps.html)**
-- **Peak Winter Utility Rate Hikes:** &rarr; **[Read: Why Your Midwest Electric & Gas Bill Doubled (And the 2 Fixes That Actually Cut It)](energy-hikes.html)**
-- **Attic Heat Retention:** &rarr; **[Read: Attic Air Sealing & Baffles: The Low-Cost Fix for Frozen Ceilings and Ice Dams](attic-air-sealing-baffles.html)**
-- **Continuous Wall R-Value:** &rarr; **[Read: Continuous Exterior Insulation: Why R-5 Outboard Beats R-20 Cavity in Freeze-Thaw Climates](continuous-insulation.html)**
+1. B. Schoenbauer, N. Kessler, A. Haynor, D. Bohac (Center for Energy and Environment) and M. Kushler (ACEEE), *Cold Climate Air Source Heat Pump*, CARD Final Report for the Minnesota Department of Commerce, November 1, 2017.
+2. Northeast Energy Efficiency Partnerships (NEEP), *Cold Climate Air Source Heat Pump Specification* and product list.
 
 
 ---

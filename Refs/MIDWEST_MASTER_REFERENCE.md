@@ -45,7 +45,7 @@ C:\Users\Dylen\Desktop\AEC\Midwest\
 │   │   ├── rural-development/  # Barndominiums, pest exclusion, off-grid power, civil grading
 │   │   ├── urban-development/  # Historic brick masonry, balloon framing retrofits
 │   │   └── water-barriers/     # Basements, waterproofing, ICF, sump pumps, crawlspaces
-│   └── backlog/                # 6 staged seasonal backlog articles awaiting rollout
+│   └── backlog/                # staged articles awaiting audit and rollout (56 files as of Nov 8, 2026)
 ├── articles/                   # 39 compiled HTML articles + 39 AEO Markdown twins
 ├── scripts/                    # SEO telemetry, GSC fetchers, audit engines, and tuning tools
 ├── article-template.html       # Master production semantic HTML5 article layout
@@ -156,7 +156,9 @@ Every guide must cite real, enforceable residential codes with specific numerica
 
 ---
 
-## 5. Staged Backlog Pipeline (17 Production-Ready Articles)
+## 5. Staged Backlog Pipeline
+
+> **Update, Nov 8, 2026:** `content/backlog/` now holds 56 files, more than the 17 described here. The list below is the original set. The newer files have not been audited yet.
 
 These 17 articles are 100% authored, fully formatted, audited for 0 em-dashes and 0 bullet prefixes, and staged in `content/backlog/` for scheduled deployment:
 
@@ -534,7 +536,11 @@ When the user finishes editing an article in Google Docs and says *"sync [slug]"
 * **Bot Account:** `midwest-aec-bot@gen-lang-client-0789736011.iam.gserviceaccount.com` (Verified Owner)
 * **Credentials:** `gsc-credentials.json` (Protected by `.gitignore`, verified 100% untracked by Git).
 
-### Daily Dispatcher (`C:\Users\Dylen\Desktop\AEC\automations\network-dispatcher.js`)
+### Daily Dispatcher (RETIRED)
+
+> **Retired Nov 8, 2026.** The scheduled automations did not work well and were turned off. The text below is kept as history only. Do not rely on it, and do not recreate the dispatcher or conversation-ID routing. Pull Search Console data by hand (exports or `scripts/`).
+
+#### Historical notes
 * Configured in `network-registry.json` to dispatch telemetry briefings directly to the active Antigravity chat session.
 * Current Registered Conversation ID: `63fbd059-e331-49d5-b57d-727590d12336`.
 * **Important:** If switching to a new permanent chat conversation, update `target_conversation_id` in `C:\Users\Dylen\Desktop\AEC\automations\network-registry.json` so morning reports deliver to the active window.
@@ -563,6 +569,6 @@ When the user finishes editing an article in Google Docs and says *"sync [slug]"
 If opening a new chat window, simply paste:
 
 ```text
-Please read the master reference documentation at C:\Users\Dylen\Desktop\AEC\Midwest\Refs\MIDWEST_MASTER_REFERENCE.md and continue from previous conversation ID: 63fbd059-e331-49d5-b57d-727590d12336.
+Please read C:\Users\Dylen\Desktop\AEC\Midwest\AGENT_BRIEFING.md, then C:\Users\Dylen\Desktop\AEC\Midwest\Refs\MIDWEST_MASTER_REFERENCE.md, and continue from there.
 The active workspace is C:\Users\Dylen\Desktop\AEC\Midwest.
 ```

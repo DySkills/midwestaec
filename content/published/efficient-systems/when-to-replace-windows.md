@@ -1,5 +1,5 @@
 ---
-title: "When Replacing Windows Actually Makes Sense (And What Specifications to Demand)"
+title: "When Replacing Windows Actually Makes Sense, and What to Ask For"
 slug: "when-to-replace-windows"
 format: "Report"
 leadType: "Fact-First"
@@ -7,166 +7,84 @@ category: "Efficient Systems"
 catSlug: "efficient-systems"
 cities: ["Chicago", "Cincinnati", "Cleveland", "Columbus", "Des Moines", "Detroit", "Fargo", "Indianapolis", "Kansas City", "Milwaukee", "Minneapolis", "Omaha", "Rapid City", "Sioux Falls", "St. Louis"]
 states: ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]
-subtitle: "An objective building science buyer's guide detailing the 4 conditions that warrant full replacement, and the strict NFRC and installation standards to demand."
-summary: "When to replace windows: 4 structural failure triggers that justify the 30-year payback. How to diagnose blown IGU seals and fix drafty frames for 1/4 the cost."
-codeTag: "Energy Star v7.0 / ASTM E2112 / NFRC"
+subtitle: "New windows rarely pay for themselves in energy savings, but sometimes replacement is the right call. Here is how to tell, which ratings matter in a Midwest climate, and the installation details that decide whether new windows leak."
+summary: "When window replacement makes sense in a Midwest home, which ENERGY STAR and NFRC ratings to look for by climate zone, and the installation and flashing details to require in the contract."
+codeTag: "NPS Preservation Brief 3 / ENERGY STAR v7 / ASTM E2112"
 author: "Midwest AEC Building Science"
-date: "October 2026"
-readTime: "11 min read"
+date: "November 2026"
+readTime: "6 min read"
 referralHook: "Vetted Window & Glazing Specialists"
+faq: [{"q": "Do new windows pay for themselves?", "a": "Usually not through energy savings alone. The National Park Service's Preservation Brief 3 notes that replacing windows alone rarely pays for itself. Replace windows when they are failing, then choose efficient ones; for sound windows, storms and air sealing cost far less."}, {"q": "What window ratings matter in the Midwest?", "a": "Look at the NFRC label. U-factor measures heat loss, so lower is better in a cold climate. ENERGY STAR version 7, effective October 23, 2023, sets limits for the North-Central zone (climate zone 4) and the Northern zone (zones 5 to 8). ENERGY STAR Most Efficient windows for cold climates are triple-glazed with a U-factor of 0.20 or less."}, {"q": "Full-frame or insert replacement windows?", "a": "An insert fits a new window inside the old frame, which is faster and keeps the interior trim, but makes the glass area smaller and leaves the old frame and rough opening as they are. Full-frame replacement removes everything to the rough opening, which lets the installer seal and flash the opening properly."}, {"q": "What installation details should be in a window contract?", "a": "Ask for installation to the manufacturer's instructions and ASTM E2112, a sloped sill pan or sill flashing that drains out, flashing lapped shingle-style with the weather barrier, and air sealing between the frame and the rough opening with low-expansion foam or backer rod and sealant."}]
 ---
 
-# When Replacing Windows Actually Makes Sense (And What Specifications to Demand)
+# When Replacing Windows Actually Makes Sense, and What to Ask For
 
-> **Quick Summary:** While full window replacement will never pay for itself on energy savings alone, there are four specific scenarios where installing new units is structurally and medically necessary. When replacement is warranted, homeowners must ignore high-pressure sales theater and demand verifiable NFRC performance ratings, pultruded fiberglass frames, and ASTM-compliant sloped pan flashing.
+> **Quick Summary:** Most window replacements are sold on energy savings, and that's the weakest reason to do it. The National Park Service notes that replacing windows alone rarely pays for itself. Replace windows when they're rotted, broken, won't operate or need to become an egress window. When you do, buy for your climate zone, and make sure the contract spells out how the opening gets flashed and sealed, because that's where new windows leak.
 >
-> - **The 4 Valid Triggers:** Structural sill/jamb rot, pre-1978 friction-surface lead paint hazards, permanently fogged IGU seal failures, and deep continuous-insulation recladding.
-> - **the Upper Midwest and Great Lakes Metric:** Demand a maximum U-factor of 0.25 and an air infiltration rating below 0.10 cfm/ft² (Energy Star Version 7.0 Northern criteria).
-> - **Frame Material:** Pultruded fiberglass expands and contracts at the exact same thermal rate as silica glass, virtually eliminating thermal stress seal failure common in vinyl.
-> - **Jobsite Installation:** Over 80% of window water leaks are caused by faulty rough opening flashing; contracts must explicitly mandate ASTM E2112 sloped sill pan flashing and low-expansion foam air sealing.
+> - Replace for condition, not just for the energy bill.
+> - In a cold climate, U-factor is the number that matters most.
+> - Full-frame replacement lets the opening be flashed and sealed.
+> - Put sill pans, flashing and air sealing in writing.
 
 ---
 
-## The Capital Dilemma: $25,000 Window Quotes vs. Envelope Realities
+A window salesperson tells you new windows will cut your heating bill in half. In most Midwest houses, they won't. Heat loss through windows is real, but the attic, basement and air leaks around the house usually cost more, and storm windows fix much of the window loss for far less.
 
-Homeowners across the Midwest are aggressively targeted by window replacement contractors promising that new double- or triple-pane windows will slash winter heating bills in half. Before committing $20,000 to $40,000 to a window replacement contract, building science economics reveals the mathematical truth:
+&rarr; [Window Replacement Alternatives: How Low-E Storms and Air Sealing Compare](window-alternatives.html)
 
-### 1. The Physics Gap: R-3 Windows vs. R-20 Walls
-- Even a brand-new, top-tier Energy Star double-pane window (U-0.27) provides an insulating value of barely **R-3.7**, compared to an R-20 exterior wall or an R-60 attic.
-- Windows account for only **15% to 22%** of a typical home's total heat loss.
-- Slashing your heating bills by 50% through windows alone is a thermodynamic impossibility. On an annual heating bill of $2,000, replacing all windows typically saves **$250 to $450 per year**.
-- On a $25,000 window replacement contract, the simple financial payback spans **45 to 65 years**, far exceeding the 20- to 25-year service life of insulated glass seals.
+That said, there are good reasons to replace windows.
 
-### 2. When Capital Investment Makes Sense vs. When to Pass
-- **INVEST:** If original wood jambs have structural wet rot, balances are physically broken, glass is shattered, or during a full siding tear-off where full-frame flashing can be seamlessly integrated.
-- **PASS (Target the Alternatives):** If frames are structurally sound and the primary complaint is drafts and high heating bills. Installing Low-E storm windows and air-sealing weight pockets delivers 80% of the thermal performance at one-tenth the capital cost.
+## When Is Replacement the Right Call?
 
----
-## The 4 Scenarios That Warrant Full Replacement
+Is the frame or sill rotted through?
+Soft wood at the sill or the bottom of the frame, especially if it goes into the wall framing, means water has been getting in for a while. Repair is sometimes possible, but past a point a new window, properly flashed, is the better fix.
 
-Before allocating $15,000 to $25,000 to new windows, verify that your home meets at least one of these four objective criteria:
+Are the double-pane seals failing?
+Fog or haze between the panes of an insulated window means the seal has failed. You can sometimes replace just the glass unit, but if many windows are failing and the frames are worn, replacement may make sense.
 
-### Scenario 1: Structural Wood Rot & Water Damage
-If an awl or screwdriver easily sinks into the exterior sill, blind stop, or bottom rail of the sash, structural decay has taken hold. When wood rot penetrates beyond the surface into the window buck or structural rough framing, air sealing cannot solve the problem. Water intrusion into the wall cavity promotes fungal rot and destroys framing lumber.
+Do the windows work?
+Windows that won't open, won't stay open or won't lock are a safety problem, especially in bedrooms.
 
-### Scenario 2: Friction-Surface Lead Paint Hazards
-In homes built prior to 1978, original double-hung wood windows were frequently painted with high-concentration lead coatings. Every time the lower sash slides up and down against the wood jamb, friction grinds old paint layers into microscopic lead dust that contaminates sills, floors, and household air. For families with young children, full-frame window replacement is the most permanent, medically sound lead abatement solution available.
+Do you need an egress window?
+Building codes generally require a bedroom, including a basement bedroom, to have an emergency escape opening big enough to climb through. Requirements vary by city, so check with your building department.
 
-### Scenario 3: Failed Insulated Glass Unit (IGU) Seals
-If existing double-pane windows develop internal fogging, condensation streaks, or a white calcium haze between the two panes, the hermetic perimeter seal has failed (*ASTM E2190*). Saturated desiccant cannot absorb additional moisture, and insulating argon gas has completely escaped into the atmosphere. While specialized glass companies can occasionally replace only the glass sash unit, severely warped vinyl or wood frames require complete unit replacement.
+&rarr; [Basement Egress Windows: What It Takes to Cut One Into a Midwest Foundation](basement-egress-window-cutting.html)
 
-### Scenario 4: Deep Energy Envelope Retrofits (Continuous Insulation)
-When a home undergoing a major renovation is being wrapped in 2 to 4 inches of continuous outboard exterior insulation (such as rigid polyisocyanurate or mineral wool), existing windows sit recessed deep inside the old wall plane. Replacing windows allows builders to install extended structural bucks and integrate new window flanges directly into the continuous exterior water-resistive barrier (WRB) and drainage plane.
+Is there lead paint?
+Old windows are a major source of lead dust in pre-1978 homes, because the sash rubs against the frame. Replacement or careful repair by a lead-safe certified contractor is worth it where children live.
 
----
+## What Ratings Should I Look For?
 
-## Technical Specifications to Demand in Climate Zones 4 & 5
+Every new window should carry an NFRC label with its U-factor, which measures heat loss (lower is better), and its solar heat gain coefficient (SHGC), which measures how much sun heat comes through.
 
-If your home genuinely requires new windows, do not buy based on marketing brands. Buy based on third-party certification labels verified by the **National Fenestration Rating Council (NFRC)** and **Energy Star Version 7.0**:
+ENERGY STAR version 7, effective October 23, 2023, sets limits by zone. DOE's Building America Solution Center maps the North-Central zone to climate zone 4 (southern Missouri, Kansas, Illinois, Indiana and Ohio) and the Northern zone to zones 5 through 8 (most of the rest of the Midwest). For the coldest climates it points to ENERGY STAR Most Efficient windows, which are triple-glazed with a U-factor of 0.20 or lower.
 
-| Performance Metric | Minimum Code (IECC 2021) | High-Performance Target (Midwest AEC Spec) | Building Science Significance |
-| :--- | :--- | :--- | :--- |
-| **U-Factor (Thermal Conduction)** | $\le 0.30$ | **$\le 0.22 – 0.25$** | Measures total heat transfer rate. Lower numbers retain heat during sub-zero freezes. |
-| **Solar Heat Gain (SHGC)** | $\ge 0.35$ (Zone 5) | **0.28 – 0.38** | Measures solar radiation admitted. In cold climates, moderate SHGC provides free winter heat. |
-| **Air Infiltration (ASTM E283)** | $\le 0.30 \text{ cfm/ft}²$ | **$\le 0.08 – 0.10 \text{ cfm/ft}²$** | Standard code allows drafty units. High-performance units must meet strict AAMA Gold limits. |
-| **Visible Transmittance (VT)** | No standard | **$\ge 0.45 – 0.55$** | Ensures the Low-E coating does not tint living spaces into an artificial green or gray cave. |
+## Full-Frame or Insert?
 
-*Sources: NFRC Certified Products Directory; EPA Energy Star Version 7.0 Residential Windows Specification.*
+An insert window slides into the old frame. It's quicker and keeps the interior trim, but it makes the glass smaller, and it leaves the old frame and the gap around it as they are.
 
-### The Frame Material Hierarchy
+A full-frame replacement takes the old window out down to the rough opening. It costs more, but it's the only way to see and fix any rot, add a sill pan, flash the opening properly and seal the gap between the frame and the wall.
 
-The material comprising the window frame dictates longevity and seal durability:
-1. **Pultruded Fiberglass (Top Tier):** Fiberglass is composed of extruded glass fibers embedded in resin. It possesses the exact same coefficient of thermal expansion as the silica glass panes. During extreme Midwest temperature swings (-15°F winter to 95°F summer), the frame and glass expand and contract in perfect unison, preventing perimeter seal failure.
-2. **Wood with Exterior Aluminum Cladding (Historic & Premium):** Excellent structural rigidity and natural thermal break properties. Aluminum cladding shields exterior wood from UV radiation and rain, while interior pine or oak preserves architectural character.
-3. **Multi-Chamber Vinyl (Budget Baseline):** Affordable and rot-proof, but has a high coefficient of thermal expansion. In wide window openings, seasonal expansion can stress corner welds and compromise perimeter air seals over 15 to 20 years.
+## The Installation Details That Decide Whether It Leaks
 
----
+DOE's Building America Solution Center stresses following the manufacturer's instructions, since some warranties depend on it, and fully flashing and air sealing the opening. Put these in the contract:
 
-## Midwest Window Replacement Costs: Full Frame vs. Pocket Inserts vs. Storms
+How is the opening flashed?
+Ask for installation to the manufacturer's instructions and ASTM E2112, the standard practice for window installation. That means a sill pan or sill flashing that slopes out and drains, side and head flashing lapped shingle-style with the house's weather barrier, and a drip cap over the head.
 
-Window replacement salesmen frequently promise that new triple-pane windows will cut your winter heating bills in half. Building science thermodynamic calculations reveal this is impossible: windows account for only 15% to 25% of a home's total envelope heat loss. Understanding true installed costs and payback dynamics is essential before signing a five-figure contract:
+How is the gap sealed?
+The space between the window frame and the rough opening should be sealed with low-expansion window foam or backer rod and sealant, not stuffed with fiberglass.
 
-### 1. Installed Price Breakdown per Window (Midwest Regional Index)
-- **Pocket / Insert Replacement (Vinyl, Double-Pane Low-E, Argon):** **$650 to $1,100 per window installed**. Fits inside the existing wooden jamb and trim without disturbing interior casings or exterior siding. Suitable only if the existing wooden frame is square, plumb, and free of structural rot.
-- **Full-Frame Tearout (Fiberglass or Clad-Wood, Double/Triple-Pane):** **$1,350 to $2,200 per window installed**. Completely removes the entire existing window down to the rough stud opening, installs new flashing tape, sill pan, insulation, and new interior trim. Mandatory if old frames have water damage, structural rot, or out-of-square racking.
-- **Historic Architectural Wood Replacement:** **$2,200 to $3,500+ per opening**. Custom historical profiles required for landmark districts.
-- **Exterior Low-E Storm Windows (AERC Rated):** **$180 to $350 per window installed**. Fits over existing single-pane windows, delivering U-factors comparable to standard double-pane replacements at a fraction of the cost.
+What happens to rot they find?
+Ask how hidden rot in the rough opening will be handled and priced before work starts, so it isn't a surprise.
 
-### 2. The 35-Year Energy Payback Reality
-Replacing 20 single-pane windows with high-efficiency double-pane units typically saves **$250 to $450 per year** in heating and cooling energy. On a $20,000 to $28,000 window replacement project, the simple financial payback spans **35 to 55 years**, exceeding the 20- to 25-year service lifespan of the window's insulated glass unit (IGU) seals!
-
-Before signing high-cost replacement bids, compare your payback against [historic window alternatives and Low-E storm retrofits](window-alternatives.html). Verifying whether drafts leak through glass or around rough openings requires a [blower door air leakage test](blower-door-checklist.html), especially when fighting [spiking winter energy costs](energy-hikes.html).
-
-- **When Replacement Makes Sense:** Rotted wood sills, broken balances that slam shut, shattered glass, or when remodeling exterior siding.
-- **When Replacement Is a Financial Trap:** Spending $25,000 purely for "energy efficiency" when drafty attic bypasses and uninsulated basement rim joists are losing five times more heat for one-tenth the cost.
+A note on incentives: the federal Section 25C credit for windows ended for work placed in service after December 31, 2025. Check your utility for any current rebate.
 
 ---
 
-## The Installation Details Contractors Cut
+### Sources
 
-The best window in the world will leak air and water if installed incorrectly. Over 80% of window warranty claims are caused by improper rough opening flashing. 
-
-When reviewing contractor proposals, ensure the contract explicitly mandates three non-negotiable details compliant with **ASTM E2112**:
-
-> **The ASTM E2112 Installation Protocol:**
-> 1. **Sloped Sill Pan Flashing:** Self-adhered membrane or rigid sill pan with 1/4"/ft positive outward slope and 2-inch back dam to direct incidental leaks outward.
-> 2. **Low-Expansion Polyurethane Foam:** Continuous AAMA 812 certified closed-cell foam bead around the interior perimeter, eliminating drafts without bowing jambs.
-> 3. **Integrated Weather-Resistive Barrier:** Shingle-lapped exterior flashing tape (top flap over head flashing, side jambs over sill pan) preventing water from breaching the rough opening.
-
-1. **Mandatory Sloped Sill Pan Flashing:** The contractor must install a pre-formed rigid plastic sill pan or self-adhered flexible flashing membrane with a positive slope to the exterior before the window is set. If water ever breaches the window frame, the sill pan directs it safely out to the drainage plane rather than into structural floor joists.
-2. **Low-Expansion Polyurethane Foam (Never Fiberglass Batts):** Contractors frequently stuff scrap fiberglass insulation into the rough opening gap. Fiberglass is an air filter, not an air barrier. The perimeter gap must be sealed continuously with single-component low-expansion polyurethane foam (*AAMA 812 certified*).
-3. **Proper Shingle-Lap Flashing:** Flashing tape must be integrated in shingle order: sill flashing first, jamb flashing overlapping the sill, and head flashing overlapping the jambs, tucked beneath the weather-resistive barrier.
-
----
-
-## How to Keep Window Estimators Honest
-
-Protect your household budget by establishing clear bidding rules:
-
-1. **Reject "Today-Only" Discounts:** If a sales estimator states their price drops by $5,000 if you sign before they leave the kitchen table, dismiss them. True professional building science contractors provide written, detailed estimates with 30-day price locks.
-2. **Demand NFRC Window Stickers on Site:** When windows arrive on the delivery truck, inspect the temporary NFRC stickers on the glass before crews remove your old windows. Confirm that the U-factor and SHGC match your contract specifications exactly.
-3. **Refuse Full Replacement if Frames Are Sound:** If your sills and jambs are solid, explore [Low-E storm windows and weight pocket air sealing](articles/window-alternatives.html) to save thousands of dollars while capturing the same seasonal comfort.
-
----
-
-## Myth Buster: 3 Pervasive Window Replacement Fallacies
-
-### Myth 1: "Replacement Windows Cut Heating & Cooling Bills by 40%"
-* **The Reality:** Windows typically account for only 10% to 15% of a home's total thermal envelope conduction and infiltration loss. Even upgrading single-pane wood windows to Energy Star double-pane units typically reduces total home energy consumption by only **7% to 12%**. Far greater energy savings are achieved for a fraction of the cost through attic air sealing and rim joist insulation.
-
-### Myth 2: "Vinyl Window Frames Last Forever Without Maintenance"
-* **The Reality:** Polyvinyl chloride (PVC) vinyl has a high coefficient of thermal expansion, expanding and contracting at more than double the rate of glass. In Midwest climates with 100°F annual temperature swings, this differential movement stresses corner welds and causes perimeter seal failure within 12 to 18 years. **Pultruded fiberglass** expands at virtually the same rate as glass, offering superior structural longevity.
-
-### Myth 3: "New Windows Automatically Fix Room Drafts"
-* **The Reality:** Over 80% of perceived window drafts do not come through the glass. They leak around the unsealed rough opening behind the interior trim casing. If an installer fails to remove the trim and inject low-expansion polyurethane foam around the weight pockets and frame shims, cold outdoor air will continue to draft into the living space regardless of how expensive the window is.
-
----
-
-## The Action Plan: Specific Services & Implementation Steps
-
-If your fenestration assemblies meet the criteria for full replacement, enforce these strict procurement and installation specifications:
-
-1. **Mandate the Upper Midwest and Great Lakes NFRC Performance Ratings:**
-   * Demand windows certified under **Energy Star Version 7.0 Northern Climate criteria**: maximum **U-factor &le; 0.22 to 0.25**, a Solar Heat Gain Coefficient (SHGC) &ge; 0.35 (to allow beneficial passive solar winter gain), and an air leakage rating &le; 0.10 cfm/ft².
-   * *Service Link:* Verify product ratings independently on the [National Fenestration Rating Council (NFRC) Certified Product Directory](https://www.nfrc.org).
-2. **Connect with Vetted Window & Envelope Installation Contractors:**
-   * Avoid high-pressure direct-sales franchises. Seek out independent, building-science trained window installers who warrant rough opening flashing and exterior water integration.
-   * *Service Link:* [Connect with Vetted Local Window Specialists &rarr;](../browse.html?cat=efficient-systems) to compare competitive replacement bids.
-3. **Require ASTM E2112 Compliant Rough Opening Flashing in Contract:**
-   * Require your contractor to install a **sloped sill pan with back-dam**, self-adhered flashing membrane lapped shingle-style beneath the weather-resistive barrier (WRB), and non-expanding closed-cell foam around the perimeter.
-   * *Service Link:* Review our companion guide on [Historic Window Alternatives & Storm Retrofits](window-alternatives.html) for cost-effective alternatives before signing window contracts.
-4. **Leverage Federal 25C Energy Efficiency Tax Credits:**
-   * Energy Star Most Efficient windows qualify for the **Section 25C federal tax credit**, covering 30% of product costs up to **$600 per year**. Require the manufacturer's certification statement for tax filing.
-
----
-
-### Verifiable Standards & Technical Sources
-
-1. **National Fenestration Rating Council (NFRC):** *NFRC 100: Procedure for Determining Fenestration Product U-Factors*; *NFRC 400: Procedure for Determining Fenestration Product Air Leakage*.
-2. **U.S. Environmental Protection Agency (EPA):** *Energy Star Version 7.0 Specification for Residential Windows, Doors, and Skylights*.
-3. **ASTM International:**
-   - *ASTM E2112:* Standard Practice for Installation of Exterior Windows, Doors and Skylights.
-   - *ASTM E283:* Standard Test Method for Determining Rate of Air Leakage Through Exterior Windows, Curtain Walls, and Doors.
-   - *ASTM E2190:* Standard Specification for Insulating Glass Unit Performance and Evaluation.
-   - *AAMA 812:* Voluntary Practice for Assessment of Single Component Aerosol Expanding Polyurethane Foams.
-4. **U.S. Department of Housing and Urban Development (HUD):** *Guidelines for the Evaluation and Control of Lead-Based Paint Hazards in Housing*.
+1. J. E. Hensley and A. Aguilar, *Preservation Brief 3: Improving Energy Efficiency in Historic Buildings*, National Park Service, December 2011.
+2. U.S. Department of Energy, Building America Solution Center (PNNL), *ENERGY STAR windows*.
+3. ENERGY STAR, *Residential Windows, Doors and Skylights Version 7.0*, effective October 23, 2023.
+4. ASTM E2112, *Standard Practice for Installation of Exterior Windows, Doors and Skylights*.

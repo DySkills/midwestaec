@@ -1,157 +1,71 @@
-# Barndominium & Post-Frame Envelopes: Stopping Winter Roof Sweating in the Midwest
+# Barndominiums and Post-Frame Homes: How to Stop a Metal Roof From Sweating
 > **Publication:** Midwest AEC (https://midwestaec.com)
 > **Jurisdiction:** Climate Zones 4 & 5 (Midwest Residential & Commercial)
 > **Canonical Article:** https://midwestaec.com/articles/barndominium-post-frame.html
-> **Building Code Reference:** IBC Section 1404.2 / IRC Table R702.7.1 / NFBA Standards
-> **Summary:** Barndominium insulation and condensation control: How to detail continuous outboard foam and ventilated rainscreens to prevent rotting posts under IBC 1404.
+> **Building Code Reference:** Illinois Extension / BSC BSD-163 / DOE Building America
+> **Summary:** Why barndominium and post-frame metal roofs and walls sweat and drip in Midwest winters, and how to insulate, air seal and control moisture so a metal building works as a home.
 
 
-# Barndominium & Post-Frame Thermal Envelopes: Zone 5 Condensation Control
+# Barndominiums and Post-Frame Homes: How to Stop a Metal Roof From Sweating
 
-> **Quick Summary:** Post-frame construction ("barndominiums") has surged across rural acreages for rapid erection, lower framing costs, and soaring clear-span interiors. However, residential living generates massive daily moisture loads that agricultural machinery sheds never experience. When corrugated steel siding is fastened directly over wood girts without an outboard thermal break and ventilated rainscreen, sub-zero winter weather turns the metal skin into an active condensing plane, rotting structural posts and breeding black mold inside wall cavities within seven to ten years.
+> **Quick Summary:** Post-frame buildings were designed for machinery and livestock, not for people cooking, showering and breathing inside all winter. In a barndominium, warm, moist house air reaches the cold steel roof and walls and condenses, sometimes enough to rain on the floor. The fix is the same as in any house, done more carefully: keep moist air away from the metal with airtight insulation and vapor control, and keep indoor humidity in check.
 >
-> - **The Residential Moisture Multiplier:** A typical family generates 2.5 to 3.5 gallons of liquid water vapor daily from cooking, showers, and breathing; in winter, that vapor easily penetrates interior drywall toward freezing exterior metal.
-> - **The Direct-Steel Thermal Bridge:** Corrugated 26-gauge steel possesses virtually zero thermal resistance (R-0.0003); screwing it directly to horizontal wood girts creates severe thermal bypasses that chill internal cavities below the 45°F indoor dew point.
-> - **The Ventilated Rainscreen Solution:** Mounting exterior steel over 1x4 vertical furring creates a continuous 3/4-inch drainage cavity outboard of taped R-7.5 to R-10 continuous insulation, permanently keeping framing above the dew point.
-> - **The Concrete Perma-Column Standard:** Eliminating direct in-ground post burial with 10,000 PSI precast concrete columns elevates structural timber 12 inches above grade, protecting structural integrity against prairie clay moisture and rot.
+> - Houses make far more indoor moisture than barns.
+> - Metal roofs can get colder than the outdoor air on clear nights.
+> - Closed-cell foam or sealed rigid insulation against the metal works best.
+> - Ventilate and run bath and kitchen fans to the outside.
 
 ---
 
-## The Capital Dilemma: The $60/Sq. Ft. Shell Myth vs. Turnkey Midwest Living Costs
+The pole barn kit was quick to put up, and the price per square foot looked great. Then the first January comes, and water drips from the ceiling of the shop side, or a dark line shows up along the top of the living room wall. That's condensation, and it's the most common complaint about converted and new barndominiums in the Midwest.
 
-Post-frame construction ("barndominiums") is marketed across rural Midwest acreages as a revolutionary way to build a custom home for "$60 to $80 per square foot." While that price accurately covers an agricultural storage shell, turning a steel pole barn into a safe, code-compliant, and durable residential home requires a much different capital budget:
+## Why Do Metal Buildings Sweat?
 
-### 1. The Bare Shell vs. Turnkey Reality
-- **$55 to $75/Sq. Ft. Structural Shell:** Covers laminated structural posts, clear-span steel roof trusses, 29-gauge metal siding and roofing, basic vinyl windows, and concrete pier footings. (This leaves an unconditioned, dirt-floor agricultural barn).
-- **$145 to $195/Sq. Ft. Finished Living Quarters:** Turning that shell into a home requires [sub-slab continuous rigid insulation](sub-slab-insulation-specs.html), frost-depth perimeter thermal breaks, interior stud framing, electrical, plumbing, [cold-climate heat pump systems](cold-climate-heat-pumps.html), and [continuous exterior insulation](continuous-insulation.html) to prevent condensation. Prospective builders should also compare turnkey post-frame costs against [structural insulated panels (SIPs)](sips-vs-traditional-framing.html).
-- **Real Cost:** A 2,400 sq. ft. finished barndominium costs **$340,000 to $460,000 turnkey**, delivering roughly 15% to 25% savings over conventional stick-built custom homes, rather than the fictional 60% discounts promised online.
+Steel conducts heat almost instantly, so a metal roof sits at roughly outdoor temperature. Warm indoor air holds a lot of water vapor, and when it touches a surface colder than its dew point, the vapor condenses.
 
-### 2. The #1 Structural Risk: Building an Agricultural Envelope for Residential Moisture
-Agricultural barns house tractors and hay; they generate zero interior moisture. Residential homes house families who generate **25 to 40 pounds of water vapor daily** through cooking, bathing, and respiration. If a post-frame builder applies agricultural construction details to a residential barndominium, interior humidity contacts sub-zero exterior metal sheeting, causing catastrophic ceiling rain and structural framing rot.
+Metal roofs have one more trick. On clear winter nights, the roof radiates heat to the cold sky and can drop several degrees below the outdoor air temperature. Even a roof that stays dry on a cloudy night can drip on a clear one.
 
----
-## The Residential Moisture Multiplier: Barns vs. Living Spaces
+## Why Is It Worse in a House Than a Barn?
 
-Post-frame construction was originally developed for agricultural pole barns: unheated machinery sheds, livestock run-ins, and grain storage. In those applications, the structure performs admirably for decades. 
+A barn full of equipment puts little moisture into the air. A household puts in a lot: showers, cooking, laundry, breathing and plants. Illinois Extension's guidance on metal-walled buildings, written for livestock buildings with heavy moisture loads, makes the same point: condensation forms whenever the inside metal surface is colder than the dew point of the inside air (Gates).
 
-Why do agricultural pole barns survive without rot, while residential barndominiums fail?
+## How Do You Keep Moisture Off the Metal?
 
-> **Operational Moisture Dynamics:**
-> - **Agricultural Pole Barn:** Unconditioned space &rarr; high natural air exchange &rarr; winter relative humidity 15% to 20% &rarr; zero internal condensation risk.
-> - **Residential Barndominium:** Conditioned living space (70°F) &rarr; showers, cooking, breathing &rarr; winter relative humidity 35% to 45% &rarr; severe interstitial condensation trap.
+Is the insulation airtight against the metal?
+Illinois Extension notes that insulation on the inside of the metal can leave condensation within the insulation or between it and the metal unless it's paired with a vapor barrier or closed-cell insulation. Closed-cell spray foam applied directly to the steel, or rigid foam with sealed joints, keeps moist air from reaching the metal at all.
 
-1. **Moisture Generation:** A family of four releases **2.5 to 3.5 gallons of liquid water vapor** into the indoor atmosphere every 24 hours through breathing, perspiration, hot showers, cooking, and laundry.
-2. **Vapor Drive Pressure:** Warm indoor air expands and exerts continuous outward vapor pressure against the exterior building envelope. In January, indoor air at 70°F and 40% relative humidity has a dew point of **45.6°F**.
-3. **The Cold Condensing Surface:** Any surface inside the wall cavity that drops below 45.6°F will cause air moisture to instantly liquefy. While standard residential wood sheathing (OSB or plywood) buffers and breathes moisture, exterior steel is completely vapor-impermeable (0.0 perms). Liquid water cannot escape to the outside. It remains trapped inside the wall cavity.
+Is the vapor retarder continuous?
+If you use fiberglass or another air-permeable insulation, the vapor retarder on the warm side has to be continuous and sealed. Illinois Extension warns that penetrations and poor installation make condensation worse, and recommends protecting the retarder with interior sheathing.
 
----
+Is there a way for water to drain?
+Illinois Extension recommends providing a drainage path for any condensate, whatever system you use, so small amounts don't pool at the base of the wall where it meets the concrete.
 
-## The Direct-Steel Thermal Bridge & The Condensation Waterfall
+Does the warm side stay warm enough?
+Building Science Corporation's condensation digest (Straube, BSD-163) explains the same principle for any wall: keep the surface where condensation could form above the indoor dew point. In a metal building, that means enough airtight insulation between the living space and the steel.
 
-In standard builder-grade pole barn construction, horizontal 2x4 or 2x6 wood girts are fastened to the exterior face of 6x6 solid posts at 24-inch vertical intervals. The exterior 26-gauge corrugated steel siding is then screwed directly to these wood girts using painted hex-head screws with neoprene washers.
+&rarr; [Continuous Exterior Insulation: Why Foam on the Outside Keeps Midwest Walls Dry](continuous-insulation.html)
 
-When converted into a residential home, builders often place R-19 low-density fiberglass batts or single-bubble reflective foil ("bubble wrap") directly against the steel panels. 
+## Control the Moisture Inside
 
-This creates three critical building science failures:
+Ventilation comes first in the Illinois Extension guidance. In a house, that means bath and kitchen fans that vent outdoors, a dryer vented outside, and a planned fresh air system if the building is tight. Keep winter humidity around 30 to 40 percent, the range the Minnesota Department of Commerce recommends for the heating season.
 
-- **Thermal Bridging Across Metal Skin:** Corrugated steel siding has virtually zero thermal resistance (R-0.0003). At -8°F outdoor ambient, the metal skin instantly conducts freezing temperatures deep into the wall framing.
-- **Sponge Effect:** As liquid condensation runs down the corrugated ribs on the back of the steel, fiberglass batts soak up the water like a giant sponge. Once saturated, wet fiberglass permanently loses its loft and thermal resistance, derating an R-19 wall to less than R-5.
-- **Horizontal Shelf Rot:** Horizontal wood girts act as catchment shelves for cascading water. Trapped moisture sits directly against untreated lumber and steel fasteners, inducing rust, fungal rot, and framing degradation hidden entirely behind interior drywall.
+&rarr; [Does an Old House Need to Breathe? Air Leaks, Fresh Air and Why 'Build Tight, Ventilate Right' Wins](does-house-need-to-breathe.html)
 
----
+## What About the Posts?
 
-## The Engineered Solution: Outboard Insulation & Ventilated Rainscreen
+Post-frame buildings rest on wood posts set in the ground or on piers. In a living space, ask your builder how the posts are protected from rot: pressure-treated posts rated for ground contact, or posts that sit on concrete piers or brackets above grade. Grade the site so water drains away from the building.
 
-To build a residential post-frame home that lasts 50 to 100 years across the Great Lakes, the Corn Belt, and the Northern Plains, the building envelope must be engineered under residential commercial standards (*IBC Section 1404.2* and *IRC Section R702.7*).
+## Planning the Budget
 
-The assembly must decouple the cold metal siding from the warm structural timber:
-
-1. **Exterior Protective Cladding:** 26-gauge corrugated steel siding fastened with coated structural screws.
-2. **Ventilated Rainscreen Gap:** 3/4-inch vertical 1x4 treated furring strips allowing upward convection to purge moisture and thermal heat.
-3. **Continuous Outboard Insulation:** 1.5 to 2 inches of continuous foil-faced polyiso or rigid stone wool (R-7.5 to R-10) maintaining framing above 50°F.
-4. **Vapor-Permeable Air Barrier:** Commercial-grade weather-resistive barrier (WRB) with taped seams.
-5. **Structural Framework:** Heavy glue-laminated columns and horizontal 2x6 framing girts fully protected on the warm, dry side of the envelope.
-6. **Cavity Thermal Core:** Friction-fit stone mineral wool batts (R-23) completely filling the wall cavities.
-7. **Smart Variable-Permeance Membrane:** Class II vapor retarder (0.8 perms winter / >10 perms summer) enabling bidirectional drying.
-8. **Interior Architectural Finish:** 5/8-inch gypsum drywall or tongue-and-groove wood shiplap.
-
-By placing **R-7.5 to R-10 continuous rigid insulation** outboard of the wood girts, the condensing plane is physically moved away from the structural framing. The temperature of the structural wood girts remains above 50°F even when it is -10°F outside. Because the framing stays above the indoor dew point, condensation physically cannot form inside the wall cavity.
-
-Additionally, the vertical 1x4 furring strips create a **3/4-inch ventilated rainscreen drainage cavity**. Any wind-driven rain that bypasses the metal screw grommets simply drains downward along the face of the rigid insulation and exits harmlessly through stainless-steel insect-screened weep flashing at the base of the wall.
+The shell price is only part of the cost. Insulation, air sealing, heating and cooling, plumbing, electrical and interior finishes cost about the same in a barndominium as in any house. Ask builders to price the finished living space, not just the shell.
 
 ---
 
-## Foundation Engineering: Eliminating In-Ground Column Rot
+### Sources
 
-The second major vulnerability of rural post-frame homes is the ground interface. Traditional pole barn construction involves digging four-foot holes into the earth, pouring an unreinforced concrete punch pad at the bottom, and setting pressure-treated 6x6 posts directly into the dirt.
-
-While chemical treatments (such as CCA or ACQ) delay wood decay, they do not prevent it indefinitely:
-
-- **Prairie Clay Chemistry:** Midwest soils feature dense, moisture-retentive clay that traps moisture around the wood fiber.
-- **Groundline Oxygen Zone:** Wood rot does not occur six feet deep where oxygen is scarce; it accelerates in the top 12 to 18 inches of soil, where moisture, warmth, and oxygen foster wood-decaying fungi. After 15 to 20 years, even treated posts exhibit soft-rot decay and reduced bending strength.
-- **Settlement & Frost Heave:** Structural point loads from residential barndominiums are three to four times heavier than agricultural sheds due to drywall, cabinetry, granite countertops, and tile. Setting posts on loose soil or unreinforced pads risks differential foundation settlement.
-
-### The Modern Standard: Precast Concrete Perma-Columns
-Engineered residential post-frame structures replace direct ground burial with **precast concrete Perma-Columns** or poured-in-place concrete grade beams:
-
-1. **10,000 PSI Concrete Base:** The foundation pier is manufactured from self-consolidating, freeze-thaw-resistant concrete reinforced with structural rebar and microsilica.
-2. **Elevated Steel Boot:** A heavy-gauge, powder-coated steel U-bracket extends from the top of the concrete pier, positioned a minimum of **8 to 12 inches above final exterior grade**.
-3. **Glue-Laminated Timber Columns:** Structural multi-ply glued-laminated columns (glue-lams) are bolted directly into the elevated steel bracket using structural thru-bolts. Structural wood never touches soil, gravel, or surface runoff.
-
----
-
-## Midwest Barndominium Construction Costs: Shell vs. Turnkey Living Space
-
-Post-frame residential construction ("barndominiums") has surged in popularity across rural Illinois, Indiana, Iowa, Ohio, Wisconsin, and Missouri. However, marketing claims promising a finished custom home for "$60 per square foot" are dangerously misleading:
-
-### 1. Realistic Price Benchmarks (2,400 Sq. Ft. Living Area + 1,200 Sq. Ft. Shop)
-- **Bare Structural Shell Only:** **$45 to $75 per sq. ft.** ($160,000 to $270,000 total). Covers concrete perimeter piers or thickened slab, laminated wood posts, roof trusses, 29-gauge steel siding and metal roof, basic windows, and garage doors. (This leaves an unfinished, uninsulated barn with a dirt or flat concrete slab).
-- **Turnkey Finished Living Space:** **$140 to $195 per sq. ft.** ($336,000 to $468,000 for the living quarters). Covers full interior framing, sub-slab continuous R-10 insulation, electrical rough-in, plumbing, septic, HVAC cold-climate heat pump, drywall, kitchen/bath finishes, and code-compliant continuous envelope insulation.
-
-### 2. The "Sweating Metal Roof" Disaster in Sub-Zero Weather
-When agricultural pole barns are converted into heated living spaces, occupants generate 25 to 40 pounds of water vapor daily (cooking, breathing, showers):
-- If the steel roof is insulated merely with thin foil bubble wrap or cheap fiberglass blankets pressed against the metal, indoor humidity touches the freezing exterior steel sheeting (often -10°F).
-- Water condensates rapidly, creating an indoor rainstorm that saturates drywall and shorts out electrical fixtures.
-- **Engineered Fix:** Install a minimum of **2 inches of continuous polyiso or closed-cell spray foam** directly against the steel sheathing to move the condensing dew point completely outside the structural frame, or build a flat ceiling joist plane to create an unconditioned, ventilated cold attic above the living space.
-
----
-
-## Specification Comparison: Agricultural Barn vs. Residential Barndominium
-
-The following table contrasts standard pole barn practices against the mandatory building science specifications for residential occupancy across the Great Lakes, the Corn Belt, and the Northern Plains:
-
-| Building Component | Standard Pole Barn (Agricultural) | Engineered Residential Barndominium | Code / Science Standard |
-| :--- | :--- | :--- | :--- |
-| **Exterior Siding Mounting** | Screwed directly to wood girts | **Mounted over 1x4 vertical furring (3/4" rainscreen)** | IBC Section 1404.2 / ASTM E2273 |
-| **Continuous Outboard Layer** | None or single-bubble foil | **R-7.5 to R-10 Rigid Polyiso or Mineral Board** | 2024 IECC the Upper Midwest and Great Lakes |
-| **Air & Weather Barrier** | None (siding serves as sole barrier) | **Commercial Taped Housewrap / Outboard WRB** | ASTM E2178 / ASTM E2357 |
-| **Structural Frame Posts** | Solid sawn 6x6 pressure-treated | **Glue-Laminated Columns on Concrete Perma-Columns** | NFBA Post-Frame Design Guide |
-| **Cavity Wall Insulation** | R-19 low-density fiberglass batts | **R-23 Dense Stone Wool or High-Density Cellulose** | ASTM C518 / ASTM C665 |
-| **Interior Vapor Retarder** | 6-mil polyethylene sheet | **Smart Variable-Permeance Membrane (MemBrain)** | ASTM E96 (Desiccant Method) |
-| **Concrete Slab Thermal Break** | Uninsulated slab poured against post | **R-10 Continuous EPS Sub-Slab with 15-Mil Poly** | 2024 IRC Section R402.2.10 |
-
----
-
-### Verifiable Standards & Technical Sources
-
-1. **National Frame Building Association (NFBA):** *Post-Frame Building Design Manual (2nd Edition)*; *Standard for Calculating Heat Transfer in Post-Frame Wall Assemblies*.
-2. **International Code Council (ICC):**
-   - *2024 International Residential Code (IRC):* Table R702.7.1 (Class I, II, and III Vapor Retarders) and Chapter 11 (Energy Efficiency).
-   - *2024 International Building Code (IBC):* Section 1404.2 (Weather-Resistive Barriers and Exterior Drainage Planes).
-3. **Building Science Corporation (BSC):** *Research Report 0903: Moisture Control for New Residential Buildings in Cold Climates*, Dr. Joseph Lstiburek.
-4. **American Wood Council (AWC):** *National Design Specification (NDS) for Wood Construction*, Timber Post-Frame Connections and Groundline Preservative Specifications.
-5. **ASTM International:**
-   - *ASTM E2273:* Standard Test Method for Determining the Drainage Efficiency of Exterior Insulation and Finish Systems (EIFS) and Rainscreen Assemblies.
-   - *ASTM E96:* Standard Test Methods for Water Vapor Transmission of Materials.
-
----
-
-### Related Building Science Guides
-- **Rural Off-Grid Infrastructure:** &rarr; **[Read: Rural Off-Grid Systems in the Great Lakes and Plains: Propane, Battery Backup & Freeze-Proof Wells](off-grid-systems.html)**
-- **Exterior Thermal Break Engineering:** &rarr; **[Read: Continuous Exterior Insulation: Why R-5 Outboard Beats R-20 Cavity in Freeze-Thaw Climates](continuous-insulation.html)**
-- **Cavity Insulation Density & Looping:** &rarr; **[Read: Does Rockwool Outperform Fiberglass? How Each Holds Up in Midwest Wall Assemblies](rockwool-vs-fiberglass.html)**
-- **Roof Ice Dam Mechanics:** &rarr; **[Read: The Physics of Midwest Ice Dams: The Real Fix (And Why Heat Cables Don't Work)](ice-dams-roofs.html)**
-- **Summer Latent Humidity Control:** &rarr; **[Read: The Corn Belt Summer Sweat: Why Your AC Blows Cold but Your House Stays Clammy](summer-humidity-ac.html)**
+1. R. S. Gates, *Metal-Walled Building Condensation*, University of Illinois Extension.
+2. J. Straube, *BSD-163: Controlling Cold-Weather Condensation Using Insulation*, Building Science Corporation, 2011.
+3. Minnesota Department of Commerce, *Home Energy Guide*, July 2025.
 
 
 ---

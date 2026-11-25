@@ -3,7 +3,6 @@
 > **Midwest Architecture, Engineering & Construction (MidwestAEC™)**  
 > *Target Region: Climate Zones 4 & 5 (IL, IN, IA, KS, MI, MN, MO, ND, NE, OH, SD, WI)*  
 > *Domain: `https://midwestaec.com` | Remote: `https://github.com/DySkills/midwestaec.git`*  
-> *Affiliation: Founding Publication of the AEC Media Network*
 
 ---
 
@@ -48,28 +47,15 @@ Midwest AEC monetizes through Pay-Per-Lead (PPL) partnerships (Networx primary; 
 
 ---
 
-## 4. Launch & Published Specification Inventory (32 Live Specifications)
+## 4. Published Inventory
 
-- **Envelope & Insulation:** `continuous-insulation.md`, `rockwool-vs-fiberglass.md`, `smart-vapor-retarders.md`, `sub-slab-insulation-specs.md`, `attic-air-sealing-baffles.md`, `roof-insulation-over-sheathing.md`.
-- **Structural Systems:** `balloon-framing.md`, `balloon-framing-retrofit-steps.md`, `barndominium-post-frame.md`, `sips-vs-traditional-framing.md`, `icf-basements-walls.md`, `insulating-brick.md`, `historic-brick-retrofit-steps.md`, `rammed-earth-midwest-flooring.md`.
-- **Basement & Moisture Control:** `basement-waterproofing.md`, `crawlspace-encapsulation.md`, `crawlspace-encapsulation-steps.md`, `basement-lvp-flooring-moisture.md`, `false-spring-envelope-thaw.md`, `attic-frost-roof-sweating.md`, `ice-dams-roofs.md`.
-- **Mechanical, HVAC & Fenestration:** `cold-climate-heat-pumps.md`, `energy-hikes.md`, `summer-humidity-ac.md`, `blower-door-checklist.md`, `does-house-need-to-breathe.md`, `when-to-replace-windows.md`, `window-alternatives.md`.
-- **10-Article Staged Backlog:**
-  1. `basement-egress-window-cutting.md` (IRC R310 concrete sawing)
-  2. `load-bearing-wall-removal-lvl.md` (Drop vs flush beam engineering)
-  3. `siding-comparison-hardie-lpsmartside-vinyl.md` (Rainscreen claddings)
-  4. `furnace-vent-pipe-freeze-lockout.md` (Cat IV PVC intake ice blockage)
-  5. `emergency-window-repair-seal-failure.md` (Sub-zero IGU seal failure)
-  6. `bowed-basement-wall-repair.md` (Carbon fiber vs steel I-beam shoring)
-  7. `septic-well-freezing-prevention.md` (Bare-ground frost penetration)
-  8. `sump-pump-failure-spring-thaw-backups.md` (Dual-inverter sump pumps)
-  9. `heat-pump-aux-heat-lockout-balance-point.md` (Thermostat balance points)
-  10. `roof-heat-tape-deicing-cables.md` (NEC Art. 426 de-icing electrical cables)
+The live inventory changes often. For the current list, see Section 4 of `Refs/MIDWEST_MASTER_REFERENCE.md` or the files in `content/published/` (39 articles as of Nov 8, 2026, in 9 category folders). Staged articles are in `content/backlog/` (56 files as of Nov 8, 2026).
 
 ---
 
-## 5. Network Syndicate Continuity Guidelines
+## 5. Site Rules
 
-- **Trademark Protection:** Common-law trademark styling `MidwestAEC™` applied across masthead, logo, and legal disclosures.
-- **Top Network Navigation:** Integrated network bar linking sister properties (`MidwestAEC™` [Active] • `NorthwestAEC™` • `SouthwestAEC™` • `SoutheastAEC™` • `NortheastAEC™` • `TropicalAEC™`).
-- **Telemetry Integration:** Monitored via Google Search Console (`sc-domain:midwestaec.com`) with automated 7:00 AM dispatching to dedicated chat thread (`63fbd059-e331-49d5-b57d-727590d12336`).
+- **Trademark:** `MidwestAEC™` on the masthead, logo, and legal pages.
+- **Standalone site:** There is no network bar and no sister properties. Never add links to Northwest, Southwest, Southeast, Northeast, or Tropical sites.
+- **Monitoring:** Search Console (`sc-domain:midwestaec.com`) is checked by hand using exports or the scripts in `scripts/`. The scheduled dispatcher and its chat thread are retired.
+- **Rules and workflow:** see `AGENT_BRIEFING.md`.

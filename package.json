@@ -4,7 +4,9 @@
   "description": "Midwest Architecture, Engineering & Construction Building Science Hub",
   "main": "build.js",
   "scripts": {
-    "build": "node build.js"
+    "build": "node build.js",
+    "pull": "node scripts/pull-seo-data.js",
+    "trends": "node scripts/pull-trends.js"
   },
   "keywords": [
     "building-science",
